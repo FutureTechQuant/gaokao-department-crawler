@@ -1,0 +1,118 @@
+{
+  "update_time": "2026-04-27 16:31:11",
+  "school_id": "1226",
+  "school_name": "联勤保障部队工程大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1226.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:46",
+  "md5": "f8bdb63b57ff6f72a9d3df6af40a22f6",
+  "department_count": 6,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "军需勤务分队指挥",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "管理科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "油料勤务分队指挥",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "军事能源工程",
+          "level": "本科",
+          "school_special_id": "1466747"
+        },
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "1378958"
+        },
+        {
+          "special_name": "特种能源技术与工程",
+          "level": "本科",
+          "school_special_id": "1466704"
+        }
+      ]
+    },
+    {
+      "department_name": "军事设施勤务",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "国防工程及其智能化",
+          "level": "本科",
+          "school_special_id": "1615839"
+        },
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "51009"
+        }
+      ]
+    },
+    {
+      "department_name": "军事物流管理",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "物流管理与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "1378957"
+        },
+        {
+          "special_name": "管理科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "军事物资采购管理",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "物流管理与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "管理科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "后勤综合勤务",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "物流管理与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "1378957"
+        },
+        {
+          "special_name": "管理科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

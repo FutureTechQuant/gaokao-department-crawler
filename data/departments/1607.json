@@ -1,0 +1,157 @@
+{
+  "update_time": "2026-04-27 16:34:14",
+  "school_id": "1607",
+  "school_name": "长春医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1607.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "7d9995ae4704c82c052b76a530619056",
+  "department_count": 5,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "临床医学部",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1742582"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "1790266"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "58673"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1742583"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "58682"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学部",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "58671"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1738719"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药品食品学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "58665"
+        },
+        {
+          "special_name": "药品生物技术",
+          "level": "专科",
+          "school_special_id": "58667"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "58666"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "1746424"
+        },
+        {
+          "special_name": "食品营养与检测",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学部",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "58685"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "58683"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "58675"
+        },
+        {
+          "special_name": "卫生检验与检疫技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "58676"
+        }
+      ]
+    },
+    {
+      "department_name": "健康学部",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "58680"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "58684"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "58681"
+        }
+      ]
+    }
+  ]
+}

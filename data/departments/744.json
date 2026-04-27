@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:26:25",
+  "school_id": "744",
+  "school_name": "唐山科技职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/744.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "28c323de0f13a9a185c5324602ab7535",
+  "department_count": 5,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "材料工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "智能轧钢技术",
+          "level": "专科",
+          "school_special_id": "1679733"
+        },
+        {
+          "special_name": "环境监测技术",
+          "level": "专科",
+          "school_special_id": "1679219"
+        },
+        {
+          "special_name": "钢铁智能冶金技术",
+          "level": "专科",
+          "school_special_id": "1679500"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "供用电技术",
+          "level": "专科",
+          "school_special_id": "36314"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1680412"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "1680130"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "36321"
+        }
+      ]
+    },
+    {
+      "department_name": "信息多媒体系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1680829"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1793030"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "36325"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "36323"
+        }
+      ]
+    },
+    {
+      "department_name": "铁道经管系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1793029"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "36329"
+        },
+        {
+          "special_name": "铁路物流管理",
+          "level": "专科",
+          "school_special_id": "122501"
+        },
+        {
+          "special_name": "铁道交通运营管理(铁道运营服务方向)",
+          "level": "专科",
+          "school_special_id": "2152902"
+        }
+      ]
+    },
+    {
+      "department_name": "轨道交通系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1793024"
+        },
+        {
+          "special_name": "铁道供电技术",
+          "level": "专科",
+          "school_special_id": "122500"
+        },
+        {
+          "special_name": "铁道信号自动控制",
+          "level": "专科",
+          "school_special_id": "122509"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

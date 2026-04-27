@@ -1,0 +1,232 @@
+{
+  "update_time": "2026-04-27 16:48:34",
+  "school_id": "3204",
+  "school_name": "成都工业职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3204.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "6641849b412f60b2b87cbf4ef8e648a2",
+  "department_count": 5,
+  "special_count": 38,
+  "data": [
+    {
+      "department_name": "智能制造与汽车学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "88036"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能焊接技术",
+          "level": "专科",
+          "school_special_id": "1798985"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "1472142"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1782334"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1782550"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "轨道交通学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "88030"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "88033"
+        },
+        {
+          "special_name": "铁道信号自动控制",
+          "level": "专科",
+          "school_special_id": "88032"
+        },
+        {
+          "special_name": "铁道工程技术",
+          "level": "专科",
+          "school_special_id": "88031"
+        },
+        {
+          "special_name": "铁道机车",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道车辆",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "2159353"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "88043"
+        },
+        {
+          "special_name": "建筑智能化工程技术",
+          "level": "专科",
+          "school_special_id": "88042"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "88041"
+        },
+        {
+          "special_name": "建筑设备工程技术",
+          "level": "专科",
+          "school_special_id": "2014896"
+        },
+        {
+          "special_name": "电梯工程技术",
+          "level": "专科",
+          "school_special_id": "1782336"
+        },
+        {
+          "special_name": "装配式工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "财经商贸学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "会计信息管理",
+          "level": "专科",
+          "school_special_id": "88049"
+        },
+        {
+          "special_name": "供应链运营",
+          "level": "专科",
+          "school_special_id": "1845381"
+        },
+        {
+          "special_name": "关务与外贸服务",
+          "level": "专科",
+          "school_special_id": "1782340"
+        },
+        {
+          "special_name": "冷链物流技术与管理",
+          "level": "专科",
+          "school_special_id": "201943"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1782341"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1782339"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "201944"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1458141"
+        },
+        {
+          "special_name": "金融科技应用",
+          "level": "专科",
+          "school_special_id": "1782343"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院(新华三芯云产业学院)",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2008764"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1782337"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1845387"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "1845389"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "88044"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "88046"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1845386"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "update_time": "2026-04-27 16:52:42",
+  "school_id": "3629",
+  "school_name": "周口理工职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3629.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "7c7f95e8d92edeeb93a75ed1310255cf",
+  "department_count": 4,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "机械工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "2152366"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "2152369"
+        },
+        {
+          "special_name": "计算机应用技术(新媒体技术方向)",
+          "level": "专科",
+          "school_special_id": "2152369"
+        },
+        {
+          "special_name": "计算机应用技术(软件开发技术管理方向)",
+          "level": "专科",
+          "school_special_id": "2152369"
+        }
+      ]
+    },
+    {
+      "department_name": "电气工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业机器人",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "无人机",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "模具制造",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "交通工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2155204"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2152368"
+        }
+      ]
+    }
+  ]
+}

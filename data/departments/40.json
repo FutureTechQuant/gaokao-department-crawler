@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 16:18:38",
+  "school_id": "40",
+  "school_name": "中央音乐学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/40.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:46",
+  "md5": "e5e4e792a1f76143c3edb90d5fb93205",
+  "department_count": 9,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "作曲系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "作曲",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "视唱练耳",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "350064"
+        },
+        {
+          "special_name": "音乐艺术管理",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "指挥系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(指挥方向)",
+          "level": "本科",
+          "school_special_id": "1032498"
+        }
+      ]
+    },
+    {
+      "department_name": "钢琴系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演( 钢琴、手风琴、电子管风琴、古钢琴)",
+          "level": "本科",
+          "school_special_id": "1032498"
+        }
+      ]
+    },
+    {
+      "department_name": "管弦系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(小提琴、中提琴、大提琴、低音提琴；长笛、双簧管、单簧管、巴松、萨克斯管、圆号、小号、长号、大号、打击乐、竖琴、吉他、钢琴)",
+          "level": "本科",
+          "school_special_id": "1032498"
+        }
+      ]
+    },
+    {
+      "department_name": "民乐系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(二胡、板胡、琵琶、阮、柳琴、三弦、筝、扬琴、古琴、箜篌、竹笛、唢呐、笙、管子、民族打击乐)",
+          "level": "本科",
+          "school_special_id": "1032498"
+        }
+      ]
+    },
+    {
+      "department_name": "声乐歌剧系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(声乐与歌剧演唱(女高音、女中音、男高音、男中音))",
+          "level": "本科",
+          "school_special_id": "1032498"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐学(音乐教育)",
+          "level": "本科",
+          "school_special_id": "350064"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐人工智能与音乐信息科技系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐与舞蹈学类(音乐人工智能与音乐信息科技、电子音乐制作、电子音乐作曲、电子音乐技术理论、音乐录音、音响艺术指导、音乐治疗、艺术嗓音及嗓音医学)",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

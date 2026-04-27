@@ -1,0 +1,100 @@
+{
+  "update_time": "2026-04-27 16:46:27",
+  "school_id": "2847",
+  "school_name": "华北理工大学冀唐学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2847.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "1cec55cbbe6a4d35b1878633d14c29ad",
+  "department_count": 8,
+  "special_count": 8,
+  "data": [
+    {
+      "department_name": "临床医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学影像系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "85285"
+        }
+      ]
+    },
+    {
+      "department_name": "中医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "英语系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "85290"
+        }
+      ]
+    },
+    {
+      "department_name": "法语系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "85291"
+        }
+      ]
+    }
+  ]
+}

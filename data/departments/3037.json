@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 16:47:35",
+  "school_id": "3037",
+  "school_name": "长沙卫生职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3037.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "c7b1f6b477a25410d68ab469d53e8bb3",
+  "department_count": 4,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1730579"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "86424"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1739988"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1032327"
+        }
+      ]
+    },
+    {
+      "department_name": "临床学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "2150332"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1739977"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "86419"
+        },
+        {
+          "special_name": "言语康复技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1359516"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "86421"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1039134"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "1692475"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1739984"
+        }
+      ]
+    },
+    {
+      "department_name": "眼视光口腔学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1739985"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "86417"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1692487"
+        },
+        {
+          "special_name": "视觉训练与康复",
+          "level": "专科",
+          "school_special_id": "1472490"
+        }
+      ]
+    }
+  ]
+}

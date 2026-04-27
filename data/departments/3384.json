@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 16:50:24",
+  "school_id": "3384",
+  "school_name": "湘南幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3384.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "3018436b1a215e6fdd4a3777021012c5",
+  "department_count": 3,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1926870"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1697098"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "124768"
+        }
+      ]
+    },
+    {
+      "department_name": "小学教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "1697099"
+        },
+        {
+          "special_name": "小学科学教育",
+          "level": "专科",
+          "school_special_id": "1699097"
+        },
+        {
+          "special_name": "现代教育技术",
+          "level": "专科",
+          "school_special_id": "124769"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2096867"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "350738"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "350739"
+        },
+        {
+          "special_name": "融媒体技术与运营",
+          "level": "专科",
+          "school_special_id": "2072923"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "350737"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "350740"
+        }
+      ]
+    }
+  ]
+}

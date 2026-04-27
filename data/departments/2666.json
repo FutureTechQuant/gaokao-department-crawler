@@ -1,0 +1,152 @@
+{
+  "update_time": "2026-04-27 16:45:48",
+  "school_id": "2666",
+  "school_name": "黄山职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2666.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "860139ac0c60245f4f6db7640ca27111",
+  "department_count": 5,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "国际护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "83660"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "83662"
+        }
+      ]
+    },
+    {
+      "department_name": "医学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "2154838"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1712719"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "83659"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "137960"
+        }
+      ]
+    },
+    {
+      "department_name": "工业与财贸系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "137957"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "83658"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "793294"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "137956"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游与建筑园林系",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "83654"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "137963"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "83655"
+        },
+        {
+          "special_name": "烹饪工艺与营养",
+          "level": "专科",
+          "school_special_id": "1712730"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "1712734"
+        },
+        {
+          "special_name": "茶叶生产与加工技术",
+          "level": "专科",
+          "school_special_id": "1712711"
+        },
+        {
+          "special_name": "茶艺与茶文化",
+          "level": "专科",
+          "school_special_id": "1712729"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1712728"
+        },
+        {
+          "special_name": "雕刻艺术设计",
+          "level": "专科",
+          "school_special_id": "83652"
+        }
+      ]
+    },
+    {
+      "department_name": "教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "137962"
+        }
+      ]
+    }
+  ]
+}

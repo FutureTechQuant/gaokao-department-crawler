@@ -1,0 +1,126 @@
+{
+  "update_time": "2026-04-27 16:48:13",
+  "school_id": "3122",
+  "school_name": "大连理工大学（盘锦校区）",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3122.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "2c2329814f6a24eca6cb342a5104d89b",
+  "department_count": 4,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "大连理工大学莱斯特国际学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "应用化学(对应莱特斯大学化学专业)",
+          "level": "本科",
+          "school_special_id": "168168"
+        },
+        {
+          "special_name": "数理基础科学(对应莱特斯大学数学专业)",
+          "level": "本科",
+          "school_special_id": "1037582"
+        },
+        {
+          "special_name": "过程装备与控制工程(对应莱特斯大学机械工程专业)",
+          "level": "本科",
+          "school_special_id": "1037581"
+        }
+      ]
+    },
+    {
+      "department_name": "化工海洋与生命学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "化学工程与工业生物工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "168168"
+        },
+        {
+          "special_name": "海洋技术",
+          "level": "本科",
+          "school_special_id": "135575"
+        },
+        {
+          "special_name": "环境生态工程",
+          "level": "本科",
+          "school_special_id": "135577"
+        },
+        {
+          "special_name": "生物信息学",
+          "level": "本科",
+          "school_special_id": "168174"
+        },
+        {
+          "special_name": "生物科学",
+          "level": "本科",
+          "school_special_id": "168175"
+        },
+        {
+          "special_name": "能源化学工程",
+          "level": "本科",
+          "school_special_id": "135576"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "135579"
+        },
+        {
+          "special_name": "资源循环科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "食品科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "135581"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "135571"
+        }
+      ]
+    },
+    {
+      "department_name": "公共基础学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "135574"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "135573"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "update_time": "2026-04-27 16:31:00",
+  "school_id": "1204",
+  "school_name": "山东警察学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1204.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "0bf52343955b85f9dd1787c849bde96d",
+  "department_count": 6,
+  "special_count": 7,
+  "data": [
+    {
+      "department_name": "侦查系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "侦查学",
+          "level": "本科",
+          "school_special_id": "50674"
+        }
+      ]
+    },
+    {
+      "department_name": "治安系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "治安学",
+          "level": "本科",
+          "school_special_id": "50676"
+        }
+      ]
+    },
+    {
+      "department_name": "刑事科学技术系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "刑事科学技术",
+          "level": "本科",
+          "school_special_id": "50675"
+        }
+      ]
+    },
+    {
+      "department_name": "经济犯罪侦查系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "经济犯罪侦查",
+          "level": "本科",
+          "school_special_id": "1022841"
+        }
+      ]
+    },
+    {
+      "department_name": "交通管理工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "交通管理工程",
+          "level": "本科",
+          "school_special_id": "890968"
+        }
+      ]
+    },
+    {
+      "department_name": "警务信息系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "公安情报学",
+          "level": "本科",
+          "school_special_id": "890966"
+        },
+        {
+          "special_name": "网络安全与执法",
+          "level": "本科",
+          "school_special_id": "890970"
+        }
+      ]
+    }
+  ]
+}

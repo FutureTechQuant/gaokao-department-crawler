@@ -1,0 +1,257 @@
+{
+  "update_time": "2026-04-27 16:43:03",
+  "school_id": "2383",
+  "school_name": "宁波大学科学技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2383.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "ee1e756bfb1f5d945f8fe495c988db6a",
+  "department_count": 10,
+  "special_count": 37,
+  "data": [
+    {
+      "department_name": "人文学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "118137"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "703544"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "118125"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "77550"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "118132"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "1677350"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1130195"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "118143"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "118139"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "118140"
+        }
+      ]
+    },
+    {
+      "department_name": "经法学院/电子商务学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "118123"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "77549"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "118128"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "118121"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计学(包括财务会计、审计、税务会计、智能会计、CMA特色班等方向)",
+          "level": "本科",
+          "school_special_id": "118122"
+        },
+        {
+          "special_name": "工商管理(包括人力资源管理、大数据应用管理等方向)",
+          "level": "本科",
+          "school_special_id": "118126"
+        },
+        {
+          "special_name": "旅游管理(包括酒店与会展管理、旅行社与景区管理、研学旅行校企合作订单班、中西合作特色班等方向)",
+          "level": "本科",
+          "school_special_id": "118124"
+        },
+        {
+          "special_name": "物流管理(包括企业物流管理、电子商务物流、港航物流等方向)",
+          "level": "本科",
+          "school_special_id": "118127"
+        }
+      ]
+    },
+    {
+      "department_name": "设计艺术学院/文化创意学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "703568"
+        },
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "703569"
+        },
+        {
+          "special_name": "工艺美术",
+          "level": "本科",
+          "school_special_id": "1130196"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "2162688"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "703567"
+        }
+      ]
+    },
+    {
+      "department_name": "生命科学与材料化学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "162074"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "77547"
+        },
+        {
+          "special_name": "环境工程",
+          "level": "本科",
+          "school_special_id": "118144"
+        },
+        {
+          "special_name": "生物技术",
+          "level": "本科",
+          "school_special_id": "118142"
+        }
+      ]
+    },
+    {
+      "department_name": "机械工程与自动化学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "智能制造工程",
+          "level": "本科",
+          "school_special_id": "2012349"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "1582945"
+        },
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "169594"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "77545"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "118138"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "77548"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "118145"
+        },
+        {
+          "special_name": "建筑学",
+          "level": "本科",
+          "school_special_id": "118141"
+        }
+      ]
+    },
+    {
+      "department_name": "基础学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "1026155"
+        }
+      ]
+    },
+    {
+      "department_name": "中航未来民航产业学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语(空中乘务方向)",
+          "level": "本科",
+          "school_special_id": "1677350"
+        }
+      ]
+    }
+  ]
+}

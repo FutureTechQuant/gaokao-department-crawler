@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-04-27 16:51:22",
+  "school_id": "3493",
+  "school_name": "钦州幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3493.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "b885c6867660957ba58a2434f6fc11ac",
+  "department_count": 4,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1363300"
+        }
+      ]
+    },
+    {
+      "department_name": "儿童早期发展学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1894042"
+        }
+      ]
+    },
+    {
+      "department_name": "体育与艺术学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1460624"
+        },
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "2008622"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "1460623"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "2008620"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "2162886"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1460622"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2162887"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "2008621"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "1794235"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1894043"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "专科",
+          "school_special_id": "1794236"
+        }
+      ]
+    }
+  ]
+}

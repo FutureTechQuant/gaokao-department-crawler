@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:34:18",
+  "school_id": "1612",
+  "school_name": "吉林司法警官职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1612.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "f19b2694e6d557827f7bd2d1c16b76df",
+  "department_count": 4,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "监狱警察学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "刑事侦查技术",
+          "level": "专科",
+          "school_special_id": "58798"
+        },
+        {
+          "special_name": "刑事执行",
+          "level": "专科",
+          "school_special_id": "58803"
+        },
+        {
+          "special_name": "司法警务",
+          "level": "专科",
+          "school_special_id": "58811"
+        },
+        {
+          "special_name": "行政执行",
+          "level": "专科",
+          "school_special_id": "58799"
+        }
+      ]
+    },
+    {
+      "department_name": "应用法律学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "58804"
+        },
+        {
+          "special_name": "法律文秘",
+          "level": "专科",
+          "school_special_id": "58797"
+        }
+      ]
+    },
+    {
+      "department_name": "司法技术学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "司法信息安全",
+          "level": "专科",
+          "school_special_id": "1026927"
+        },
+        {
+          "special_name": "司法信息技术",
+          "level": "专科",
+          "school_special_id": "58807"
+        },
+        {
+          "special_name": "司法鉴定技术",
+          "level": "专科",
+          "school_special_id": "58805"
+        },
+        {
+          "special_name": "安全防范技术",
+          "level": "专科",
+          "school_special_id": "58806"
+        },
+        {
+          "special_name": "建筑消防技术",
+          "level": "专科",
+          "school_special_id": "1532388"
+        },
+        {
+          "special_name": "戒毒矫治技术",
+          "level": "专科",
+          "school_special_id": "1026925"
+        },
+        {
+          "special_name": "罪犯心理测量与矫正技术",
+          "level": "专科",
+          "school_special_id": "1026926"
+        }
+      ]
+    },
+    {
+      "department_name": "社会工作学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "2162977"
+        },
+        {
+          "special_name": "党务工作",
+          "level": "专科",
+          "school_special_id": "2024833"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "专科",
+          "school_special_id": "129404"
+        }
+      ]
+    }
+  ]
+}

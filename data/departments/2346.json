@@ -1,0 +1,182 @@
+{
+  "update_time": "2026-04-27 16:42:38",
+  "school_id": "2346",
+  "school_name": "辽宁何氏医学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2346.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "206fcd691e6169d3f95acc8bf0ec3510",
+  "department_count": 10,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "临床学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "76718"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "76719"
+        }
+      ]
+    },
+    {
+      "department_name": "视觉科学学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "眼视光医学",
+          "level": "本科",
+          "school_special_id": "141100"
+        },
+        {
+          "special_name": "眼视光学",
+          "level": "本科",
+          "school_special_id": "76720"
+        }
+      ]
+    },
+    {
+      "department_name": "智能影像学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学影像学",
+          "level": "本科",
+          "school_special_id": "76721"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "141102"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "药事管理",
+          "level": "本科",
+          "school_special_id": "141091"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "76724"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能与大数据学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学信息工程",
+          "level": "本科",
+          "school_special_id": "141098"
+        },
+        {
+          "special_name": "智能医学工程",
+          "level": "本科",
+          "school_special_id": "1129976"
+        },
+        {
+          "special_name": "生物医学工程",
+          "level": "本科",
+          "school_special_id": "76727"
+        }
+      ]
+    },
+    {
+      "department_name": "基础医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "2011525"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "2012487"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "1580886"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "1024049"
+        },
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "1024050"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "1024048"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "1024047"
+        }
+      ]
+    },
+    {
+      "department_name": "卫生职业学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1740898"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1740901"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1740899"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "update_time": "2026-04-27 16:44:27",
+  "school_id": "2503",
+  "school_name": "西南交通大学希望学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2503.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "015ffcdd8c1ed5335a1b8b8d4e154ee0",
+  "department_count": 5,
+  "special_count": 42,
+  "data": [
+    {
+      "department_name": "轨道交通学院",
+      "special_num": 15,
+      "special": [
+        {
+          "special_name": "交通运输",
+          "level": "本科",
+          "school_special_id": "80902"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "80913"
+        },
+        {
+          "special_name": "物流工程",
+          "level": "本科",
+          "school_special_id": "80899"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "80910"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "80915"
+        },
+        {
+          "special_name": "车辆工程",
+          "level": "本科",
+          "school_special_id": "80914"
+        },
+        {
+          "special_name": "轨道交通信号与控制",
+          "level": "本科",
+          "school_special_id": "170476"
+        },
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1782266"
+        },
+        {
+          "special_name": "城市轨道交通车辆技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "80923"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1782263"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1881316"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "80924"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "1881315"
+        }
+      ]
+    },
+    {
+      "department_name": "土木工程学院",
+      "special_num": 12,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "80900"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "80906"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "80911"
+        },
+        {
+          "special_name": "建筑学",
+          "level": "本科",
+          "school_special_id": "80901"
+        },
+        {
+          "special_name": "建筑电气与智能化",
+          "level": "本科",
+          "school_special_id": "80912"
+        },
+        {
+          "special_name": "铁道工程",
+          "level": "本科",
+          "school_special_id": "1499906"
+        },
+        {
+          "special_name": "城市轨道交通工程技术",
+          "level": "专科",
+          "school_special_id": "80921"
+        },
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "171818"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "80919"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "171819"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "80920"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "1782262"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "80909"
+        },
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "80904"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "80908"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "80907"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1959315"
+        },
+        {
+          "special_name": "大数据与审计",
+          "level": "专科",
+          "school_special_id": "1957505"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1782264"
+        },
+        {
+          "special_name": "财税大数据应用",
+          "level": "专科",
+          "school_special_id": "1957873"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "1499905"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "80917"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "1458147"
+        }
+      ]
+    },
+    {
+      "department_name": "基础部",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "80916"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "1499904"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "2012277"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "615855"
+        }
+      ]
+    }
+  ]
+}

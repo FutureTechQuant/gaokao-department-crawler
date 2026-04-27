@@ -1,0 +1,297 @@
+{
+  "update_time": "2026-04-27 16:20:35",
+  "school_id": "216",
+  "school_name": "大连外国语大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/216.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:46",
+  "md5": "715ccabd81a72f1265dee2af7f6b7d33",
+  "department_count": 15,
+  "special_count": 39,
+  "data": [
+    {
+      "department_name": "日本语学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "11005"
+        }
+      ]
+    },
+    {
+      "department_name": "英语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "143928"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "11021"
+        }
+      ]
+    },
+    {
+      "department_name": "俄语学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "143920"
+        }
+      ]
+    },
+    {
+      "department_name": "韩国语学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "143924"
+        }
+      ]
+    },
+    {
+      "department_name": "高级翻译学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "143927"
+        }
+      ]
+    },
+    {
+      "department_name": "欧洲语言学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "意大利语",
+          "level": "本科",
+          "school_special_id": "11020"
+        },
+        {
+          "special_name": "捷克语",
+          "level": "本科",
+          "school_special_id": "169323"
+        },
+        {
+          "special_name": "波兰语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "葡萄牙语",
+          "level": "本科",
+          "school_special_id": "11019"
+        },
+        {
+          "special_name": "西班牙语",
+          "level": "本科",
+          "school_special_id": "11018"
+        },
+        {
+          "special_name": "西班牙语（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "11018"
+        }
+      ]
+    },
+    {
+      "department_name": "亚非语言学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "印尼语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "泰语",
+          "level": "本科",
+          "school_special_id": "1129942"
+        },
+        {
+          "special_name": "阿拉伯语",
+          "level": "本科",
+          "school_special_id": "11003"
+        }
+      ]
+    },
+    {
+      "department_name": "法语学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "11016"
+        }
+      ]
+    },
+    {
+      "department_name": "德语学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "德语",
+          "level": "本科",
+          "school_special_id": "11017"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "143915"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "11008"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "11026"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "11007"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "本科",
+          "school_special_id": "1800560"
+        }
+      ]
+    },
+    {
+      "department_name": "国际艺术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "1023982"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "1023984"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "1023981"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "1023983"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "11004"
+        }
+      ]
+    },
+    {
+      "department_name": "国际关系学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "国际事务与国际关系",
+          "level": "本科",
+          "school_special_id": "143916"
+        },
+        {
+          "special_name": "外交学",
+          "level": "本科",
+          "school_special_id": "1669061"
+        }
+      ]
+    },
+    {
+      "department_name": "新闻与传播学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "国际新闻与传播",
+          "level": "本科",
+          "school_special_id": "1800559"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "11009"
+        }
+      ]
+    },
+    {
+      "department_name": "汉学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "11011"
+        },
+        {
+          "special_name": "汉语言",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "11010"
+        }
+      ]
+    },
+    {
+      "department_name": "软件学院(大数据产业学院)",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "11013"
+        },
+        {
+          "special_name": "网络工程",
+          "level": "本科",
+          "school_special_id": "11015"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "11012"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "11014"
+        }
+      ]
+    }
+  ]
+}

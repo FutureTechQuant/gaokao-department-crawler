@@ -1,0 +1,60 @@
+{
+  "update_time": "2026-04-27 16:49:51",
+  "school_id": "3330",
+  "school_name": "天津体育职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3330.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "c0e667920a7e86ce7bca060c4b16fef9",
+  "department_count": 3,
+  "special_count": 6,
+  "data": [
+    {
+      "department_name": "运动训练系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "125903"
+        },
+        {
+          "special_name": "运动训练（滑冰滑雪轮滑）",
+          "level": "专科",
+          "school_special_id": "125903"
+        },
+        {
+          "special_name": "运动训练（足球）",
+          "level": "专科",
+          "school_special_id": "125903"
+        }
+      ]
+    },
+    {
+      "department_name": "体育保健与康复系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "125904"
+        },
+        {
+          "special_name": "体育保健与康复（体能训练）",
+          "level": "专科",
+          "school_special_id": "125904"
+        }
+      ]
+    },
+    {
+      "department_name": "体育经济与管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "125905"
+        }
+      ]
+    }
+  ]
+}

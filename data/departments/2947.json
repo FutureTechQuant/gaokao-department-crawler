@@ -1,0 +1,126 @@
+{
+  "update_time": "2026-04-27 16:47:11",
+  "school_id": "2947",
+  "school_name": "惠州卫生职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2947.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "36d2d9407678046c8612c040f70b147b",
+  "department_count": 4,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "86151"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1730696"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1033428"
+        }
+      ]
+    },
+    {
+      "department_name": "临床学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "86152"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1033426"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "86154"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "86156"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1795093"
+        }
+      ]
+    },
+    {
+      "department_name": "药学与检验学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "86153"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "86161"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "1794894"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1734382"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1794895"
+        }
+      ]
+    },
+    {
+      "department_name": "中医药学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "86160"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "86157"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "86155"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1033425"
+        }
+      ]
+    }
+  ]
+}

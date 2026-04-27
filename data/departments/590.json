@@ -1,0 +1,220 @@
+{
+  "update_time": "2026-04-27 16:24:53",
+  "school_id": "590",
+  "school_name": "北京印刷学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/590.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:48",
+  "md5": "550ef77f914fa956b4bd43ee713eaea3",
+  "department_count": 8,
+  "special_count": 32,
+  "data": [
+    {
+      "department_name": "出版学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "传播学(国际出版)",
+          "level": "本科",
+          "school_special_id": "31398"
+        },
+        {
+          "special_name": "数字出版",
+          "level": "本科",
+          "school_special_id": "31386"
+        },
+        {
+          "special_name": "编辑出版学",
+          "level": "本科",
+          "school_special_id": "1598644"
+        }
+      ]
+    },
+    {
+      "department_name": "新闻传播学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "31398"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "31380"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "148322"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "1677995"
+        }
+      ]
+    },
+    {
+      "department_name": "印刷与包装工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "包装工程",
+          "level": "本科",
+          "school_special_id": "31392"
+        },
+        {
+          "special_name": "印刷工程",
+          "level": "本科",
+          "school_special_id": "1598705"
+        },
+        {
+          "special_name": "高分子材料与工程",
+          "level": "本科",
+          "school_special_id": "31374"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "智能制造工程",
+          "level": "本科",
+          "school_special_id": "1800366"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "31388"
+        },
+        {
+          "special_name": "物流工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "31389"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息安全(数字版权保护)",
+          "level": "本科",
+          "school_special_id": "148343"
+        },
+        {
+          "special_name": "智能科学与技术",
+          "level": "本科",
+          "school_special_id": "169066"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "31391"
+        }
+      ]
+    },
+    {
+      "department_name": "设计艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "2161206"
+        },
+        {
+          "special_name": "绘画",
+          "level": "本科",
+          "school_special_id": "31382"
+        },
+        {
+          "special_name": "艺术与科技",
+          "level": "本科",
+          "school_special_id": "2161207"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "31399"
+        }
+      ]
+    },
+    {
+      "department_name": "新媒体学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "31384"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "1674103"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "31378"
+        },
+        {
+          "special_name": "新媒体艺术",
+          "level": "本科",
+          "school_special_id": "1800367"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "31394"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "文化产业管理",
+          "level": "本科",
+          "school_special_id": "31397"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "31377"
+        }
+      ]
+    }
+  ]
+}

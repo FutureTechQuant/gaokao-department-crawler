@@ -1,0 +1,247 @@
+{
+  "update_time": "2026-04-27 16:31:03",
+  "school_id": "1214",
+  "school_name": "集美大学诚毅学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1214.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "565475b4efedd02ee2e77ce51eb6c9dd",
+  "department_count": 10,
+  "special_count": 35,
+  "data": [
+    {
+      "department_name": "经济系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "153729"
+        },
+        {
+          "special_name": "财政学",
+          "level": "本科",
+          "school_special_id": "153727"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "153728"
+        }
+      ]
+    },
+    {
+      "department_name": "人文科学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "153731"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "153730"
+        }
+      ]
+    },
+    {
+      "department_name": "体育与艺术系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "153736"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "692368"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "692377"
+        },
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "692376"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "692369"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "692375"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造与机械工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "智能制造工程",
+          "level": "本科",
+          "school_special_id": "1130306"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "153742"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "153744"
+        },
+        {
+          "special_name": "车辆工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "153752"
+        },
+        {
+          "special_name": "网络工程",
+          "level": "本科",
+          "school_special_id": "153747"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "153745"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "153743"
+        }
+      ]
+    },
+    {
+      "department_name": "商船系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "交通运输",
+          "level": "本科",
+          "school_special_id": "153749"
+        },
+        {
+          "special_name": "供应链管理",
+          "level": "本科",
+          "school_special_id": "1130307"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "航海技术(陆上方向)",
+          "level": "本科",
+          "school_special_id": "891100"
+        }
+      ]
+    },
+    {
+      "department_name": "管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "50797"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "153733"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "153750"
+        }
+      ]
+    },
+    {
+      "department_name": "中软国际互联网学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "153748"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "153734"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "153746"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "153741"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "英语(商务英语方向)",
+          "level": "本科",
+          "school_special_id": "153732"
+        },
+        {
+          "special_name": "英语(师范类)",
+          "level": "本科",
+          "school_special_id": "153732"
+        }
+      ]
+    },
+    {
+      "department_name": "数学与数字科学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "195216"
+        },
+        {
+          "special_name": "数学与应用数学(师范类)",
+          "level": "本科",
+          "school_special_id": "692358"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "50819"
+        }
+      ]
+    }
+  ]
+}

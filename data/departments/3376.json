@@ -1,0 +1,75 @@
+{
+  "update_time": "2026-04-27 16:50:20",
+  "school_id": "3376",
+  "school_name": "武汉海事职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3376.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "db6c5e70cd3a3f2866a559ab735d9252",
+  "department_count": 3,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "航海系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "航海技术",
+          "level": "专科",
+          "school_special_id": "1675010"
+        }
+      ]
+    },
+    {
+      "department_name": "机电系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汽车运用与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "船舶电子电气技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "轮机工程技术",
+          "level": "专科",
+          "school_special_id": "1675012"
+        }
+      ]
+    },
+    {
+      "department_name": "公共管理系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "国际邮轮乘务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "港口物流",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "港口电子商务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

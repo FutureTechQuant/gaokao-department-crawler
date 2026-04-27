@@ -1,0 +1,246 @@
+{
+  "update_time": "2026-04-27 16:31:06",
+  "school_id": "1218",
+  "school_name": "东北大学秦皇岛分校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1218.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "bbbfd012c18d206ab95bee824db3c9fb",
+  "department_count": 9,
+  "special_count": 36,
+  "data": [
+    {
+      "department_name": "经济学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "50870"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "50869"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "50871"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "50885"
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "50882"
+        },
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "1036214"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "50883"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "50886"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机与通信工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "50897"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "50877"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "50879"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "50878"
+        }
+      ]
+    },
+    {
+      "department_name": "控制工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "光电信息科学与工程",
+          "level": "本科",
+          "school_special_id": "350788"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "50890"
+        },
+        {
+          "special_name": "测控技术与仪器",
+          "level": "本科",
+          "school_special_id": "50875"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "1036216"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "50876"
+        },
+        {
+          "special_name": "车辆工程",
+          "level": "本科",
+          "school_special_id": "1036215"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语言文化学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "50893"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "50873"
+        }
+      ]
+    },
+    {
+      "department_name": "数学与统计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "应用统计学",
+          "level": "本科",
+          "school_special_id": "1036217"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "50892"
+        },
+        {
+          "special_name": "数学与应用数学(中外合作办学)",
+          "level": "本科",
+          "school_special_id": "50892"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "350789"
+        }
+      ]
+    },
+    {
+      "department_name": "资源与材料学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "冶金工程",
+          "level": "本科",
+          "school_special_id": "50894"
+        },
+        {
+          "special_name": "功能材料",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "材料成型及控制工程",
+          "level": "本科",
+          "school_special_id": "50872"
+        },
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "50888"
+        },
+        {
+          "special_name": "环境工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "资源勘查工程",
+          "level": "本科",
+          "school_special_id": "50898"
+        }
+      ]
+    },
+    {
+      "department_name": "东北大学悉尼智能科技学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "应用统计学(中外合作办学)",
+          "level": "本科",
+          "school_special_id": "1036217"
+        },
+        {
+          "special_name": "计算机科学与技术(中外合作办学)",
+          "level": "本科",
+          "school_special_id": "50879"
+        },
+        {
+          "special_name": "通信工程(中外合作办学)",
+          "level": "本科",
+          "school_special_id": "50878"
+        }
+      ]
+    },
+    {
+      "department_name": "民族学学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "民族学",
+          "level": "本科",
+          "school_special_id": "1858116"
+        }
+      ]
+    }
+  ]
+}

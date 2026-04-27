@@ -1,0 +1,38 @@
+{
+  "update_time": "2026-04-27 16:54:39",
+  "school_id": "3836",
+  "school_name": "天津理工大学伯恩茅斯学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3836.json?a=www.gaokao.cn",
+  "time": "2026-02-04 15:10:41",
+  "md5": "da4b2250b39f257d8d35342d2eab6d62",
+  "department_count": 1,
+  "special_count": 4,
+  "data": [
+    {
+      "department_name": "天津理工大学伯恩茅斯学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "2170836"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "2170833"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "2170835"
+        },
+        {
+          "special_name": "环境科学",
+          "level": "本科",
+          "school_special_id": "2170834"
+        }
+      ]
+    }
+  ]
+}

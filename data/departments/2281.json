@@ -1,0 +1,147 @@
+{
+  "update_time": "2026-04-27 16:41:57",
+  "school_id": "2281",
+  "school_name": "宁夏民族职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2281.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "94ed6490de8d01490b7adbe35230e099",
+  "department_count": 5,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "农牧科技系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "动物营养与饲料",
+          "level": "专科",
+          "school_special_id": "2158155"
+        },
+        {
+          "special_name": "动物防疫与检疫",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "2059797"
+        },
+        {
+          "special_name": "绿色食品生产技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "康复与护理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1787460"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "778939"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "教育系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "129420"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1615217"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1615558"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1787450"
+        }
+      ]
+    },
+    {
+      "department_name": "幼儿教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1787465"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "129426"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "2059799"
+        }
+      ]
+    }
+  ]
+}

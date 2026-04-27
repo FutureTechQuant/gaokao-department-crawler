@@ -1,0 +1,403 @@
+{
+  "update_time": "2026-04-27 16:22:04",
+  "school_id": "345",
+  "school_name": "云南民族大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/345.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:45",
+  "md5": "c6b2ed0b650d99e89795f0ac12371531",
+  "department_count": 16,
+  "special_count": 59,
+  "data": [
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "思想政治教育",
+          "level": "本科",
+          "school_special_id": "17749"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理学院(会计学院)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "17745"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "17744"
+        },
+        {
+          "special_name": "经济统计学",
+          "level": "本科",
+          "school_special_id": "17746"
+        }
+      ]
+    },
+    {
+      "department_name": "法学院、纪检监察学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "17747"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "本科",
+          "school_special_id": "1801858"
+        }
+      ]
+    },
+    {
+      "department_name": "政治与公共管理学院(人民武装学院)",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "劳动与社会保障",
+          "level": "本科",
+          "school_special_id": "17751"
+        },
+        {
+          "special_name": "政治学与行政学",
+          "level": "本科",
+          "school_special_id": "17748"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "17750"
+        }
+      ]
+    },
+    {
+      "department_name": "社会学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人类学",
+          "level": "本科",
+          "school_special_id": "1130944"
+        },
+        {
+          "special_name": "社会学",
+          "level": "本科",
+          "school_special_id": "17752"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "17753"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "17758"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "17757"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "17756"
+        },
+        {
+          "special_name": "教育技术学",
+          "level": "本科",
+          "school_special_id": "17759"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院(中印瑜伽学院、国际太极学院)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育(足球方向)",
+          "level": "本科",
+          "school_special_id": "17760"
+        },
+        {
+          "special_name": "武术与民族传统体育",
+          "level": "本科",
+          "school_special_id": "1470811"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "17761"
+        }
+      ]
+    },
+    {
+      "department_name": "文学院（南亚东南亚国际传播学院）",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "17766"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "17764"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "17767"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语与南亚东南亚学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "17772"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "17770"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "17805"
+        },
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "17804"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "17806"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "本科",
+          "school_special_id": "17807"
+        }
+      ]
+    },
+    {
+      "department_name": "数学与计算机科学学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用统计学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "17777"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "17783"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "17780"
+        },
+        {
+          "special_name": "统计学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "17779"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "电气信息工程学院(无人自主系统研究院)",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "2154677"
+        },
+        {
+          "special_name": "物理学",
+          "level": "本科",
+          "school_special_id": "17791"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "17784"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "17787"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "17785"
+        }
+      ]
+    },
+    {
+      "department_name": "化学与环境学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "17794"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "17793"
+        },
+        {
+          "special_name": "环境科学",
+          "level": "本科",
+          "school_special_id": "175287"
+        }
+      ]
+    },
+    {
+      "department_name": "民族医药学院(农业与食品科学工程学院<筹>)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "制药工程",
+          "level": "本科",
+          "school_special_id": "17797"
+        },
+        {
+          "special_name": "生物技术",
+          "level": "本科",
+          "school_special_id": "115790"
+        },
+        {
+          "special_name": "药物分析",
+          "level": "本科",
+          "school_special_id": "17798"
+        }
+      ]
+    },
+    {
+      "department_name": "澜沧江——湄公河国际职业学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "175284"
+        },
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "17789"
+        },
+        {
+          "special_name": "工艺美术",
+          "level": "本科",
+          "school_special_id": "17817"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "175283"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "17811"
+        },
+        {
+          "special_name": "秘书学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "经济与金融",
+          "level": "本科",
+          "school_special_id": "17814"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "17809"
+        }
+      ]
+    },
+    {
+      "department_name": "云南省民族研究所(民族学与历史学学院)",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "历史学",
+          "level": "本科",
+          "school_special_id": "17754"
+        },
+        {
+          "special_name": "民族学",
+          "level": "本科",
+          "school_special_id": "17755"
+        }
+      ]
+    }
+  ]
+}

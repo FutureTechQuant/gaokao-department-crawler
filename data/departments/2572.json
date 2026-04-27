@@ -1,0 +1,147 @@
+{
+  "update_time": "2026-04-27 16:45:13",
+  "school_id": "2572",
+  "school_name": "贵州中医药大学时珍学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2572.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "1f815f92cafd51c8e4d374e29e4534d1",
+  "department_count": 5,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "思想政治教育",
+          "level": "本科",
+          "school_special_id": "2012866"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "303166"
+        }
+      ]
+    },
+    {
+      "department_name": "医药学部",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "82800"
+        },
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "82799"
+        },
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "82797"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "1130920"
+        },
+        {
+          "special_name": "康复治疗",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "生物制药",
+          "level": "本科",
+          "school_special_id": "1130919"
+        },
+        {
+          "special_name": "药物制剂",
+          "level": "本科",
+          "school_special_id": "191388"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "82796"
+        }
+      ]
+    },
+    {
+      "department_name": "健管学部",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "191389"
+        },
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "创业管理",
+          "level": "本科",
+          "school_special_id": "2011861"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "303165"
+        },
+        {
+          "special_name": "数字经济",
+          "level": "本科",
+          "school_special_id": "2011964"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "191387"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "82798"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学部",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学信息工程",
+          "level": "本科",
+          "school_special_id": "1130918"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1797315"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "1801559"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "2012278"
+        }
+      ]
+    }
+  ]
+}

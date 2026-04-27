@@ -1,0 +1,177 @@
+{
+  "update_time": "2026-04-27 16:25:06",
+  "school_id": "611",
+  "school_name": "中央司法警官学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/611.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "4dbe223a35db119c8f2be571fd4233d5",
+  "department_count": 5,
+  "special_count": 27,
+  "data": [
+    {
+      "department_name": "监狱学学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "侦查学(狱内侦查方向)",
+          "level": "本科",
+          "school_special_id": "32340"
+        },
+        {
+          "special_name": "监狱学",
+          "level": "本科",
+          "school_special_id": "32338"
+        },
+        {
+          "special_name": "监狱学(心理矫治方向)",
+          "level": "本科",
+          "school_special_id": "32338"
+        }
+      ]
+    },
+    {
+      "department_name": "法学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "司法警察学",
+          "level": "本科",
+          "school_special_id": "1668621"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "32342"
+        },
+        {
+          "special_name": "法学(司法行政方向)",
+          "level": "本科",
+          "school_special_id": "32342"
+        },
+        {
+          "special_name": "法学(律师方向)",
+          "level": "本科",
+          "school_special_id": "32342"
+        },
+        {
+          "special_name": "法学(知识产权方向)",
+          "level": "本科",
+          "school_special_id": "32342"
+        },
+        {
+          "special_name": "法学(调解方向)",
+          "level": "本科",
+          "school_special_id": "32342"
+        }
+      ]
+    },
+    {
+      "department_name": "矫正教育系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "教育学(矫正教育方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法学(戒毒工作方向)",
+          "level": "本科",
+          "school_special_id": "32342"
+        },
+        {
+          "special_name": "法学(矫正教育方向)",
+          "level": "本科",
+          "school_special_id": "32342"
+        },
+        {
+          "special_name": "法学(社区矫正方向)",
+          "level": "本科",
+          "school_special_id": "32342"
+        },
+        {
+          "special_name": "监狱学(矫正教育方向)",
+          "level": "本科",
+          "school_special_id": "32338"
+        },
+        {
+          "special_name": "社会学(司法社工方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "本科",
+          "school_special_id": "170802"
+        },
+        {
+          "special_name": "禁毒学(戒毒方向)",
+          "level": "本科",
+          "school_special_id": "1615582"
+        }
+      ]
+    },
+    {
+      "department_name": "信息管理系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "信息安全",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "信息管理与信息系统(监所信息方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数据警务技术",
+          "level": "本科",
+          "school_special_id": "1668667"
+        },
+        {
+          "special_name": "监狱学(劳动改造方向)",
+          "level": "本科",
+          "school_special_id": "32338"
+        },
+        {
+          "special_name": "管理科学(矫正管理方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "警察管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "汉语言文学(法制宣传与法制文学方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "监狱学(政治工作方向)",
+          "level": "本科",
+          "school_special_id": "32338"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "32346"
+        },
+        {
+          "special_name": "行政管理(警察管理方向)",
+          "level": "本科",
+          "school_special_id": "32346"
+        }
+      ]
+    }
+  ]
+}

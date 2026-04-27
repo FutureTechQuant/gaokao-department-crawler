@@ -1,0 +1,244 @@
+{
+  "update_time": "2026-04-27 16:48:04",
+  "school_id": "3106",
+  "school_name": "辽宁轨道交通职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3106.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "4454beb6f15580b631ca4a2f9f70d657",
+  "department_count": 7,
+  "special_count": 38,
+  "data": [
+    {
+      "department_name": "机械工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工业产品质量检测技术",
+          "level": "专科",
+          "school_special_id": "1856903"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "87233"
+        },
+        {
+          "special_name": "智能焊接技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1593214"
+        },
+        {
+          "special_name": "模具设计与制造",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "理化测试与质检技术",
+          "level": "专科",
+          "school_special_id": "87253"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "1593216"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "87237"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "87234"
+        },
+        {
+          "special_name": "电梯工程技术",
+          "level": "专科",
+          "school_special_id": "87235"
+        }
+      ]
+    },
+    {
+      "department_name": "高新技术学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1856901"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1672022"
+        },
+        {
+          "special_name": "新能源装备技术",
+          "level": "专科",
+          "school_special_id": "1740683"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1672020"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "87238"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "轨道装备学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "城市轨道交通车辆制造与维护",
+          "level": "专科",
+          "school_special_id": "1740690"
+        },
+        {
+          "special_name": "轨道交通工程机械制造与维护",
+          "level": "专科",
+          "school_special_id": "1856902"
+        },
+        {
+          "special_name": "轨道交通通信信号设备制造与维护",
+          "level": "专科",
+          "school_special_id": "1740688"
+        },
+        {
+          "special_name": "铁道养路机械应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道机车车辆制造与维护",
+          "level": "专科",
+          "school_special_id": "1740686"
+        },
+        {
+          "special_name": "高速铁路动车组制造与维护",
+          "level": "专科",
+          "school_special_id": "1740689"
+        }
+      ]
+    },
+    {
+      "department_name": "工务电务学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "铁道供电技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道信号自动控制",
+          "level": "专科",
+          "school_special_id": "87239"
+        },
+        {
+          "special_name": "铁道工程技术",
+          "level": "专科",
+          "school_special_id": "1856900"
+        },
+        {
+          "special_name": "高速铁路综合维修技术",
+          "level": "专科",
+          "school_special_id": "1740687"
+        }
+      ]
+    },
+    {
+      "department_name": "交通运输学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "87243"
+        },
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物流工程技术",
+          "level": "专科",
+          "school_special_id": "1672027"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1672004"
+        },
+        {
+          "special_name": "铁路物流管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "87244"
+        }
+      ]
+    },
+    {
+      "department_name": "机车车辆学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "动车组检修技术",
+          "level": "专科",
+          "school_special_id": "1740692"
+        },
+        {
+          "special_name": "城市轨道交通车辆应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "1740693"
+        },
+        {
+          "special_name": "铁道车辆技术",
+          "level": "专科",
+          "school_special_id": "1740695"
+        }
+      ]
+    }
+  ]
+}

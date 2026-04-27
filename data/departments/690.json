@@ -1,0 +1,163 @@
+{
+  "update_time": "2026-04-27 16:25:51",
+  "school_id": "690",
+  "school_name": "邢台医学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/690.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "2ee34d258a90ebb81ffa9cdd0dd34022",
+  "department_count": 6,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "34539"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1728856"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1860968"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1728855"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "34548"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1860967"
+        }
+      ]
+    },
+    {
+      "department_name": "中医系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "34552"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1728857"
+        },
+        {
+          "special_name": "中药",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "34544"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "34550"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "34538"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "34546"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "34547"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1714478"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1724914"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "129444"
+        }
+      ]
+    },
+    {
+      "department_name": "本科学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "养老服务管理",
+          "level": "本科",
+          "school_special_id": "2156526"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "2157006"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "2157005"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "本科",
+          "school_special_id": "2157008"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "2157007"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "1446528"
+        }
+      ]
+    }
+  ]
+}

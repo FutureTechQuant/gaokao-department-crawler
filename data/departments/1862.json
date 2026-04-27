@@ -1,0 +1,143 @@
+{
+  "update_time": "2026-04-27 16:37:07",
+  "school_id": "1862",
+  "school_name": "厦门医学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1862.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "621ab35716bbaa5e3968ac03620933b4",
+  "department_count": 6,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "临床医学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "临床医学（五年制）",
+          "level": "本科",
+          "school_special_id": "64560"
+        },
+        {
+          "special_name": "康复治疗学（五年制）",
+          "level": "本科",
+          "school_special_id": "132299"
+        },
+        {
+          "special_name": "精神医学（五年制）",
+          "level": "本科",
+          "school_special_id": "132297"
+        },
+        {
+          "special_name": "麻醉学（五年制）",
+          "level": "本科",
+          "school_special_id": "170883"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "64561"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "本科",
+          "school_special_id": "169751"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产学",
+          "level": "本科",
+          "school_special_id": "169752"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "64562"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "64564"
+        },
+        {
+          "special_name": "海洋药学",
+          "level": "本科",
+          "school_special_id": "132296"
+        },
+        {
+          "special_name": "生物制药",
+          "level": "本科",
+          "school_special_id": "64565"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "64563"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生与医学技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "2012519"
+        },
+        {
+          "special_name": "化妆品科学与技术",
+          "level": "本科",
+          "school_special_id": "1800914"
+        },
+        {
+          "special_name": "眼视光学",
+          "level": "本科",
+          "school_special_id": "2153972"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "本科",
+          "school_special_id": "170884"
+        }
+      ]
+    },
+    {
+      "department_name": "基础医学部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "132298"
+        }
+      ]
+    }
+  ]
+}

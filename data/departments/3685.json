@@ -1,0 +1,152 @@
+{
+  "update_time": "2026-04-27 16:53:21",
+  "school_id": "3685",
+  "school_name": "深圳城市职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3685.json?a=www.gaokao.cn",
+  "time": "2025-06-20 10:15:13",
+  "md5": "a06674be1883f6a9c580461b900bf566",
+  "department_count": 10,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "中德智造学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2165234"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "2165243"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与通信学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2165235"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2157575"
+        }
+      ]
+    },
+    {
+      "department_name": "商贸学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "供应链运营",
+          "level": "专科",
+          "school_special_id": "2165236"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "2157576"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2165237"
+        }
+      ]
+    },
+    {
+      "department_name": "珠宝学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "宝玉石鉴定与加工",
+          "level": "专科",
+          "school_special_id": "2165238"
+        },
+        {
+          "special_name": "首饰设计与工艺",
+          "level": "专科",
+          "school_special_id": "2160907"
+        }
+      ]
+    },
+    {
+      "department_name": "交通学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2165239"
+        }
+      ]
+    },
+    {
+      "department_name": "应用生物学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "生物产品检验检疫",
+          "level": "专科",
+          "school_special_id": "2157577"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "2165240"
+        }
+      ]
+    },
+    {
+      "department_name": "传播工程学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2165241"
+        }
+      ]
+    },
+    {
+      "department_name": "景观与生态学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "风景园林设计",
+          "level": "专科",
+          "school_special_id": "2165242"
+        }
+      ]
+    },
+    {
+      "department_name": "设计学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2165244"
+        },
+        {
+          "special_name": "艺术设计(室内设计方向)",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

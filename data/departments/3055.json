@@ -1,0 +1,163 @@
+{
+  "update_time": "2026-04-27 16:47:43",
+  "school_id": "3055",
+  "school_name": "河北中医药大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3055.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:48",
+  "md5": "c5f38d5b728a19a43578b636dca9faad",
+  "department_count": 6,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "基础医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医儿科学",
+          "level": "本科",
+          "school_special_id": "170820"
+        },
+        {
+          "special_name": "中医学(含“5+3”和全科医学)",
+          "level": "本科",
+          "school_special_id": "86515"
+        },
+        {
+          "special_name": "生物工程学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "中西医结合学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "86521"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "86511"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "86513"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "本科",
+          "school_special_id": "86512"
+        }
+      ]
+    },
+    {
+      "department_name": "针灸推拿学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医养生学",
+          "level": "本科",
+          "school_special_id": "170819"
+        },
+        {
+          "special_name": "中医康复学",
+          "level": "本科",
+          "school_special_id": "1801750"
+        },
+        {
+          "special_name": "中医骨伤科学",
+          "level": "本科",
+          "school_special_id": "1801751"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "86522"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "86523"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中草药栽培与鉴定",
+          "level": "本科",
+          "school_special_id": "92347"
+        },
+        {
+          "special_name": "中药制药",
+          "level": "本科",
+          "school_special_id": "169184"
+        },
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "86517"
+        },
+        {
+          "special_name": "中药资源与开发",
+          "level": "本科",
+          "school_special_id": "86516"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "86525"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产学",
+          "level": "本科",
+          "school_special_id": "169185"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "86514"
+        }
+      ]
+    },
+    {
+      "department_name": "人文管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "1129857"
+        },
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "86520"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "1861588"
+        }
+      ]
+    }
+  ]
+}

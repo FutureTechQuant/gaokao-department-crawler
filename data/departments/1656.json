@@ -1,0 +1,96 @@
+{
+  "update_time": "2026-04-27 16:34:47",
+  "school_id": "1656",
+  "school_name": "山西国际商务职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1656.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "dd589c9e79478e95238033f7ce120381",
+  "department_count": 4,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "财务与会计系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1786431"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "2148516"
+        }
+      ]
+    },
+    {
+      "department_name": "商务系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "商务管理(商务文秘方向)",
+          "level": "专科",
+          "school_special_id": "2158947"
+        },
+        {
+          "special_name": "国际商务",
+          "level": "专科",
+          "school_special_id": "59794"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "59791"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1777879"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "59783"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1777878"
+        },
+        {
+          "special_name": "连锁经营与管理",
+          "level": "专科",
+          "school_special_id": "1777877"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1777874"
+        },
+        {
+          "special_name": "数字媒体技术(图形图像制作方向)",
+          "level": "专科",
+          "school_special_id": "1786438"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "133508"
+        }
+      ]
+    }
+  ]
+}

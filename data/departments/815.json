@@ -1,0 +1,291 @@
+{
+  "update_time": "2026-04-27 16:27:09",
+  "school_id": "815",
+  "school_name": "武汉商学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/815.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "7ac359ada438a43a247bbdaa834543da",
+  "department_count": 9,
+  "special_count": 45,
+  "data": [
+    {
+      "department_name": "工商管理学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "38904"
+        },
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "2013072"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "111649"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "38879"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "38899"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "111650"
+        },
+        {
+          "special_name": "零售业管理",
+          "level": "本科",
+          "school_special_id": "170158"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "会展经济与管理",
+          "level": "本科",
+          "school_special_id": "38906"
+        },
+        {
+          "special_name": "旅游管理与服务教育",
+          "level": "本科",
+          "school_special_id": "38876"
+        },
+        {
+          "special_name": "航空服务艺术与管理",
+          "level": "本科",
+          "school_special_id": "2162600"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "38877"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "38905"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "食品科技学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "烹饪与营养教育",
+          "level": "本科",
+          "school_special_id": "38873"
+        },
+        {
+          "special_name": "食品科学与工程",
+          "level": "本科",
+          "school_special_id": "170156"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "本科",
+          "school_special_id": "38909"
+        },
+        {
+          "special_name": "烹调工艺与营养",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "西餐工艺",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "建筑环境与能源应用工程",
+          "level": "本科",
+          "school_special_id": "38892"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "38911"
+        },
+        {
+          "special_name": "汽车服务工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "车辆工程",
+          "level": "本科",
+          "school_special_id": "38889"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物业管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院·国际马术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "2160573"
+        },
+        {
+          "special_name": "体育经济与管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "1034952"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "本科",
+          "school_special_id": "1801822"
+        },
+        {
+          "special_name": "马业科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "742206"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "38872"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "38883"
+        },
+        {
+          "special_name": "旅游日语",
+          "level": "专科",
+          "school_special_id": "38882"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "38884"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "170159"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "38888"
+        }
+      ]
+    },
+    {
+      "department_name": "经济学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "商务经济学",
+          "level": "本科",
+          "school_special_id": "111651"
+        },
+        {
+          "special_name": "国际商务",
+          "level": "本科",
+          "school_special_id": "38878"
+        },
+        {
+          "special_name": "税收学",
+          "level": "本科",
+          "school_special_id": "1801173"
+        },
+        {
+          "special_name": "经济与金融",
+          "level": "本科",
+          "school_special_id": "38914"
+        },
+        {
+          "special_name": "经济统计学",
+          "level": "本科",
+          "school_special_id": "1130584"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "2012548"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "170157"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "38894"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "38895"
+        }
+      ]
+    }
+  ]
+}

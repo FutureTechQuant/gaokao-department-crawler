@@ -1,0 +1,114 @@
+{
+  "update_time": "2026-04-27 16:32:11",
+  "school_id": "1352",
+  "school_name": "四川警察学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1352.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "f8534b73079bd5545cb0232c3feffd05",
+  "department_count": 7,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "侦查系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "侦查学",
+          "level": "本科",
+          "school_special_id": "53566"
+        },
+        {
+          "special_name": "禁毒学",
+          "level": "本科",
+          "school_special_id": "53567"
+        }
+      ]
+    },
+    {
+      "department_name": "治安系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "安全防范工程",
+          "level": "本科",
+          "school_special_id": "1801851"
+        },
+        {
+          "special_name": "治安学",
+          "level": "本科",
+          "school_special_id": "53569"
+        }
+      ]
+    },
+    {
+      "department_name": "刑事技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "刑事科学技术",
+          "level": "本科",
+          "school_special_id": "53565"
+        },
+        {
+          "special_name": "食药环侦查技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "警犬技术",
+          "level": "专科",
+          "school_special_id": "2153232"
+        }
+      ]
+    },
+    {
+      "department_name": "道路交通管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "交通管理工程",
+          "level": "本科",
+          "school_special_id": "53563"
+        }
+      ]
+    },
+    {
+      "department_name": "警察管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "公安管理",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机科学与技术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "网络安全与执法",
+          "level": "本科",
+          "school_special_id": "53562"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "法学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "53564"
+        }
+      ]
+    }
+  ]
+}

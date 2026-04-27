@@ -1,0 +1,135 @@
+{
+  "update_time": "2026-04-27 16:36:25",
+  "school_id": "1804",
+  "school_name": "安庆医药高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1804.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "f3a4626be96fcab34fda99feeb0f6c7d",
+  "department_count": 3,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "医学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1368509"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "62801"
+        },
+        {
+          "special_name": "公共卫生管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "62805"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "62804"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1847952"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "62806"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1535402"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "62808"
+        },
+        {
+          "special_name": "生物制药技术",
+          "level": "专科",
+          "school_special_id": "1378286"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "62811"
+        },
+        {
+          "special_name": "药品质量与安全",
+          "level": "专科",
+          "school_special_id": "62810"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "62807"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "1378287"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1778063"
+        },
+        {
+          "special_name": "食品营养与健康",
+          "level": "专科",
+          "school_special_id": "2152385"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "62802"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2155042"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "62803"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1778064"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+{
+  "update_time": "2026-04-27 16:21:41",
+  "school_id": "310",
+  "school_name": "上海中医药大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/310.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:45",
+  "md5": "0e992b27ef37e14e723454acf3753295",
+  "department_count": 7,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "中医学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医学（5+3一体化）",
+          "level": "本科",
+          "school_special_id": "102446"
+        },
+        {
+          "special_name": "中医学（五年制）",
+          "level": "本科",
+          "school_special_id": "102446"
+        },
+        {
+          "special_name": "中医学（屠呦呦班）",
+          "level": "本科",
+          "school_special_id": "102446"
+        },
+        {
+          "special_name": "少数民族预科班",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "中西医结合学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中西医临床医学（五年制）",
+          "level": "本科",
+          "school_special_id": "15853"
+        }
+      ]
+    },
+    {
+      "department_name": "中药学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "15852"
+        },
+        {
+          "special_name": "药学(中英合作办学)",
+          "level": "本科",
+          "school_special_id": "719858"
+        }
+      ]
+    },
+    {
+      "department_name": "针灸推拿学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医学（5+3一体化针灸推拿英语方向）",
+          "level": "本科",
+          "school_special_id": "102446"
+        },
+        {
+          "special_name": "智能医学工程",
+          "level": "本科",
+          "school_special_id": "1130085"
+        },
+        {
+          "special_name": "生物医学工程（中医信息与工程方向",
+          "level": "本科",
+          "school_special_id": "102441"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "15851"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "15844"
+        }
+      ]
+    },
+    {
+      "department_name": "公共健康学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "公共事业管理（卫生事业管理方向）",
+          "level": "本科",
+          "school_special_id": "102442"
+        },
+        {
+          "special_name": "预防医学（五年制）",
+          "level": "本科",
+          "school_special_id": "15841"
+        },
+        {
+          "special_name": "食品卫生与营养学",
+          "level": "本科",
+          "school_special_id": "15843"
+        }
+      ]
+    },
+    {
+      "department_name": "康复医学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "听力与言语康复",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复作业治疗",
+          "level": "本科",
+          "school_special_id": "90339"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "15847"
+        },
+        {
+          "special_name": "康复物理治疗",
+          "level": "本科",
+          "school_special_id": "90340"
+        }
+      ]
+    }
+  ]
+}

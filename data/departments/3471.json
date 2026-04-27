@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 16:51:10",
+  "school_id": "3471",
+  "school_name": "攀枝花攀西职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3471.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "ba43368bdb6c95bba95b318e11c40d30",
+  "department_count": 4,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "机电工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1782551"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电梯工程技术",
+          "level": "专科",
+          "school_special_id": "1881887"
+        }
+      ]
+    },
+    {
+      "department_name": "现代农业系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "农产品加工与质量检测",
+          "level": "专科",
+          "school_special_id": "1230621"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1230629"
+        },
+        {
+          "special_name": "村镇建设与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1230623"
+        }
+      ]
+    },
+    {
+      "department_name": "基础教学与公共管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1782451"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "专科",
+          "school_special_id": "1230627"
+        }
+      ]
+    }
+  ]
+}

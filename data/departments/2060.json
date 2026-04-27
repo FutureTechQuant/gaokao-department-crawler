@@ -1,0 +1,467 @@
+{
+  "update_time": "2026-04-27 16:39:28",
+  "school_id": "2060",
+  "school_name": "广州华商学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2060.json?a=www.gaokao.cn",
+  "time": "2025-06-26 09:01:09",
+  "md5": "9d3c65317ce7e93a03739136f09b1f07",
+  "department_count": 15,
+  "special_count": 73,
+  "data": [
+    {
+      "department_name": "会计学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "154949"
+        },
+        {
+          "special_name": "会计学（智能管理会计产业班）",
+          "level": "本科",
+          "school_special_id": "154949"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "69884"
+        },
+        {
+          "special_name": "税收学",
+          "level": "本科",
+          "school_special_id": "1130712"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "69883"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "69894"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "170929"
+        },
+        {
+          "special_name": "市场营销（含产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "69889"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "69891"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "69892"
+        }
+      ]
+    },
+    {
+      "department_name": "数字经贸学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "69879"
+        },
+        {
+          "special_name": "数字经济（含产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "电子商务（创业实验班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "电子商务（含产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "经济统计学",
+          "level": "本科",
+          "school_special_id": "69876"
+        },
+        {
+          "special_name": "跨境电子商务（创业实验班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "跨境电子商务（含产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        }
+      ]
+    },
+    {
+      "department_name": "数字金融学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "经济与金融",
+          "level": "本科",
+          "school_special_id": "154943"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "69878"
+        },
+        {
+          "special_name": "金融数学",
+          "level": "本科",
+          "school_special_id": "2012404"
+        },
+        {
+          "special_name": "金融科技",
+          "level": "本科",
+          "school_special_id": "1797307"
+        },
+        {
+          "special_name": "金融科技（SHMFTPP优才班）",
+          "level": "本科",
+          "school_special_id": "1797307"
+        }
+      ]
+    },
+    {
+      "department_name": "文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "69865"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "69867"
+        },
+        {
+          "special_name": "汉语言文学(菁才班)",
+          "level": "本科",
+          "school_special_id": "69867"
+        }
+      ]
+    },
+    {
+      "department_name": "教师教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育（师范）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "小学教育（师范）",
+          "level": "本科",
+          "school_special_id": 0
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "154946"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "154945"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育教育（师范）",
+          "level": "本科",
+          "school_special_id": 0
+        }
+      ]
+    },
+    {
+      "department_name": "数字传播学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "2161269"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "69869"
+        },
+        {
+          "special_name": "影视摄影与制作",
+          "level": "本科",
+          "school_special_id": "2164357"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "1801325"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "69866"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "154947"
+        }
+      ]
+    },
+    {
+      "department_name": "创意与设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "69870"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "562386"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "69872"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "69871"
+        }
+      ]
+    },
+    {
+      "department_name": "珠宝学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "时尚传播",
+          "level": "本科",
+          "school_special_id": "2154466"
+        },
+        {
+          "special_name": "珠宝首饰设计与工艺",
+          "level": "本科",
+          "school_special_id": "2011878"
+        }
+      ]
+    },
+    {
+      "department_name": "数智文创产业学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "动画（产教融合创新班）",
+          "level": "本科",
+          "school_special_id": "2161269"
+        },
+        {
+          "special_name": "市场营销（数字文创创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "数字媒体技术（游戏开发创新班）",
+          "level": "本科",
+          "school_special_id": "2154467"
+        },
+        {
+          "special_name": "数字媒体艺术（动漫游戏产教融合创新班）",
+          "level": "本科",
+          "school_special_id": "562386"
+        },
+        {
+          "special_name": "视觉传达设计（动漫游戏产教融合创新班）",
+          "level": "本科",
+          "school_special_id": "69871"
+        }
+      ]
+    },
+    {
+      "department_name": "健康医学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中药学（含新滋院士中药学创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "170267"
+        },
+        {
+          "special_name": "化妆品科学与技术（含华南化妆品创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "医疗保险（含医疗保险创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "康复治疗学（含妇儿康复治疗创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "护理学（含手麻专科护理创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "护理学（国际护理全英班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "药学（含新滋院士药学创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "人工智能（含智能应用产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "69895"
+        },
+        {
+          "special_name": "信息管理与信息系统（机器人产教融合创新班）",
+          "level": "本科",
+          "school_special_id": "69895"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "2154467"
+        },
+        {
+          "special_name": "数据科学与大数据技术（含商业智能产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "计算机科学与技术（含游戏开发产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "计算机科学与技术（鸿蒙产教融合创新班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "154957"
+        },
+        {
+          "special_name": "软件工程（机器人产教融合创新班）",
+          "level": "本科",
+          "school_special_id": "154957"
+        }
+      ]
+    },
+    {
+      "department_name": "国际学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "会计学（中新澳联合培养国际班）",
+          "level": "本科",
+          "school_special_id": "154949"
+        },
+        {
+          "special_name": "会计学（含会计ACCA本科人才培养班、ACCA国际班、CPA国际班）",
+          "level": "本科",
+          "school_special_id": "154949"
+        },
+        {
+          "special_name": "国际经济与贸易（含国际经贸活动策划人才培养班、国际班）",
+          "level": "本科",
+          "school_special_id": "69879"
+        },
+        {
+          "special_name": "学前教育（师范，含证书班、师资人才培养班、国际班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "英语（含涉外机构人才培养班、TESOL国际班）",
+          "level": "本科",
+          "school_special_id": "154945"
+        },
+        {
+          "special_name": "计算机科学与技术（中新澳联合培养国际班）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "计算机科学与技术（中美人才培养计划121双学位项目）",
+          "level": "本科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "软件工程（中美联合培养国际班）",
+          "level": "本科",
+          "school_special_id": "154957"
+        }
+      ]
+    }
+  ]
+}

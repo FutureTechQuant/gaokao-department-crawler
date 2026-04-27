@@ -1,0 +1,367 @@
+{
+  "update_time": "2026-04-27 16:43:57",
+  "school_id": "2461",
+  "school_name": "湖北恩施学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2461.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "1297441ade701500779d0cbfedd749f0",
+  "department_count": 10,
+  "special_count": 59,
+  "data": [
+    {
+      "department_name": "医学部",
+      "special_num": 14,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "79453"
+        },
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "157381"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "79452"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "2012256"
+        },
+        {
+          "special_name": "医学检验技术(智能医学)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "2154355"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "170136"
+        },
+        {
+          "special_name": "护理学(口腔护理)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理学(艺术护理)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "157392"
+        },
+        {
+          "special_name": "医学检验技术(智能医学)",
+          "level": "专科",
+          "school_special_id": "157390"
+        },
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "2155189"
+        },
+        {
+          "special_name": "护理学(口腔护理)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理学(艺术护理)",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "财经政法学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "79441"
+        },
+        {
+          "special_name": "经济与金融",
+          "level": "本科",
+          "school_special_id": "79439"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "79438"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1469612"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1469611"
+        },
+        {
+          "special_name": "旅游管理(智慧旅游方向 )",
+          "level": "专科",
+          "school_special_id": "759561"
+        }
+      ]
+    },
+    {
+      "department_name": "文化与传媒学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "79435"
+        },
+        {
+          "special_name": "汉语言文学(英才班)",
+          "level": "本科",
+          "school_special_id": "79435"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "1801203"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "79456"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1867412"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑与艺术设计学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "79463"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "1469601"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "79436"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "79446"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "风景园林",
+          "level": "本科",
+          "school_special_id": "2011685"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1390840"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "157395"
+        },
+        {
+          "special_name": "建筑设计",
+          "level": "专科",
+          "school_special_id": "1533146"
+        }
+      ]
+    },
+    {
+      "department_name": "智能工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "2012804"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电气工程及自动化",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "900920"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "157396"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐与体育学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "79460"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "1469597"
+        },
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "79449"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "79447"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1469614"
+        }
+      ]
+    },
+    {
+      "department_name": "华为云学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "157390"
+        }
+      ]
+    },
+    {
+      "department_name": "中软国际大数据学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "计算机科学与技术(中软国际订单班)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据技术(中软国际订单班)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术(中软国际订单班)",
+          "level": "专科",
+          "school_special_id": "157396"
+        }
+      ]
+    },
+    {
+      "department_name": "达瓦未来数字学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数字媒体技术(图形图像订单班)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "视觉传达设计(数字影像订单班)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑设计(智慧城市订单班)",
+          "level": "专科",
+          "school_special_id": "1533146"
+        }
+      ]
+    },
+    {
+      "department_name": "讯方5G(ICT)学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "2012804"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "900920"
+        }
+      ]
+    }
+  ]
+}

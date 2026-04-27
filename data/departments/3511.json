@@ -1,0 +1,169 @@
+{
+  "update_time": "2026-04-27 16:51:37",
+  "school_id": "3511",
+  "school_name": "河南对外经济贸易职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3511.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "e2ead15fe2fb888e88d04b213e58730e",
+  "department_count": 7,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "电子商务学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1383878"
+        },
+        {
+          "special_name": "移动商务",
+          "level": "专科",
+          "school_special_id": "1867099"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "1867100"
+        }
+      ]
+    },
+    {
+      "department_name": "国际经贸学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际商务",
+          "level": "专科",
+          "school_special_id": "2062752"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1383877"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1867098"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2067824"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1869791"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1383875"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1792691"
+        }
+      ]
+    },
+    {
+      "department_name": "应用外语学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "1383879"
+        },
+        {
+          "special_name": "应用俄语",
+          "level": "专科",
+          "school_special_id": "2071816"
+        },
+        {
+          "special_name": "应用日语",
+          "level": "专科",
+          "school_special_id": "2067261"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "1792689"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1792686"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1792687"
+        }
+      ]
+    },
+    {
+      "department_name": "财会金融学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1792694"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "1792685"
+        }
+      ]
+    },
+    {
+      "department_name": "现代服务业学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1792693"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1792688"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "2060820"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1792683"
+        }
+      ]
+    }
+  ]
+}

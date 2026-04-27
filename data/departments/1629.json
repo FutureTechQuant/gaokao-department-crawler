@@ -1,0 +1,98 @@
+{
+  "update_time": "2026-04-27 16:34:29",
+  "school_id": "1629",
+  "school_name": "内蒙古警察学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1629.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "ee2ceaaa29322e2417263f04d6a13d92",
+  "department_count": 6,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "侦查系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "刑事侦查",
+          "level": "专科",
+          "school_special_id": "1620294"
+        },
+        {
+          "special_name": "刑事科学技术",
+          "level": "专科",
+          "school_special_id": "2152613"
+        },
+        {
+          "special_name": "警犬技术",
+          "level": "专科",
+          "school_special_id": "1620299"
+        }
+      ]
+    },
+    {
+      "department_name": "治安系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "治安管理",
+          "level": "专科",
+          "school_special_id": "1620295"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "交通管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "道路交通管理",
+          "level": "专科",
+          "school_special_id": "1787801"
+        }
+      ]
+    },
+    {
+      "department_name": "公安管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "网络安全与执法",
+          "level": "专科",
+          "school_special_id": "1787802"
+        }
+      ]
+    },
+    {
+      "department_name": "法律系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "1037881"
+        },
+        {
+          "special_name": "法律文秘",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "警体教学部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "特警",
+          "level": "专科",
+          "school_special_id": "1787800"
+        }
+      ]
+    }
+  ]
+}

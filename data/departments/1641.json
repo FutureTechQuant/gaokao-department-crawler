@@ -1,0 +1,107 @@
+{
+  "update_time": "2026-04-27 16:34:37",
+  "school_id": "1641",
+  "school_name": "运城幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1641.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "ab6e1bb64cf6560fbbadadbbdd53b9de",
+  "department_count": 5,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1675068"
+        }
+      ]
+    },
+    {
+      "department_name": "语言文学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "主持与播音",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "英语教育（师范类）",
+          "level": "专科",
+          "school_special_id": "59475"
+        },
+        {
+          "special_name": "语文教育",
+          "level": "专科",
+          "school_special_id": "59474"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1029259"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "59476"
+        },
+        {
+          "special_name": "音乐教育（舞蹈方向）",
+          "level": "专科",
+          "school_special_id": "59476"
+        }
+      ]
+    },
+    {
+      "department_name": "美术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "文化创意与策划",
+          "level": "专科",
+          "school_special_id": "1979071"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "59477"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "138232"
+        }
+      ]
+    },
+    {
+      "department_name": "早期教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1777753"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "59473"
+        },
+        {
+          "special_name": "现代家政服务与管理(家庭教育指导方向)",
+          "level": "专科",
+          "school_special_id": "1777754"
+        }
+      ]
+    }
+  ]
+}

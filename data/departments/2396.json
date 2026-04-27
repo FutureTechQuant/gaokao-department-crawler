@@ -1,0 +1,220 @@
+{
+  "update_time": "2026-04-27 16:43:12",
+  "school_id": "2396",
+  "school_name": "浙江财经大学东方学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2396.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "7ba96e94f8212ef2def0dbce8117604a",
+  "department_count": 8,
+  "special_count": 32,
+  "data": [
+    {
+      "department_name": "金融与经贸学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "保险学",
+          "level": "本科",
+          "school_special_id": "77808"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "77819"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "77818"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "本科",
+          "school_special_id": "1655289"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "77807"
+        }
+      ]
+    },
+    {
+      "department_name": "财税学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "劳动与社会保障",
+          "level": "本科",
+          "school_special_id": "77803"
+        },
+        {
+          "special_name": "税收学",
+          "level": "本科",
+          "school_special_id": "77801"
+        },
+        {
+          "special_name": "财政学",
+          "level": "本科",
+          "school_special_id": "77800"
+        }
+      ]
+    },
+    {
+      "department_name": "工商管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "77812"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "77809"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "77810"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "77811"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "77813"
+        }
+      ]
+    },
+    {
+      "department_name": "会计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "77804"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "77805"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "77806"
+        },
+        {
+          "special_name": "资产评估",
+          "level": "本科",
+          "school_special_id": "120050"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与人工智能学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "互联网金融",
+          "level": "本科",
+          "school_special_id": "169596"
+        },
+        {
+          "special_name": "信息管理与信息系统(数据挖掘与信息系统审计)",
+          "level": "本科",
+          "school_special_id": "77814"
+        },
+        {
+          "special_name": "应用统计学",
+          "level": "本科",
+          "school_special_id": "120051"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "169597"
+        },
+        {
+          "special_name": "电子商务(商务大数据分析)",
+          "level": "本科",
+          "school_special_id": "77816"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "77815"
+        }
+      ]
+    },
+    {
+      "department_name": "法律与社会工作学院、马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "77817"
+        }
+      ]
+    },
+    {
+      "department_name": "文化传播与设计学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "703773"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "77823"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "703786"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "77822"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "703787"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "703793"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "77821"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "77820"
+        }
+      ]
+    }
+  ]
+}

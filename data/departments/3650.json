@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:52:57",
+  "school_id": "3650",
+  "school_name": "衡阳科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3650.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "927cdd1e2d720872bb3c6993f3d64245",
+  "department_count": 4,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "医药卫生学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "2159201"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2159194"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2159202"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "2150505"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "2159196"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "2159200"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "农产品流通与管理",
+          "level": "专科",
+          "school_special_id": "2150501"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "2156693"
+        },
+        {
+          "special_name": "经济林培育与利用",
+          "level": "专科",
+          "school_special_id": "2150502"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2159197"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "2150504"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "2150503"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "2159198"
+        }
+      ]
+    },
+    {
+      "department_name": "人文艺术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2159203"
+        },
+        {
+          "special_name": "烹饪工艺与营养",
+          "level": "专科",
+          "school_special_id": "2159195"
+        },
+        {
+          "special_name": "美容美体艺术",
+          "level": "专科",
+          "school_special_id": "2159199"
+        }
+      ]
+    }
+  ]
+}

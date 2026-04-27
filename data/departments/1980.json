@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:38:30",
+  "school_id": "1980",
+  "school_name": "武汉科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1980.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "1e02fe8cfcc25b745e64c9ca65750e82",
+  "department_count": 3,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "轨道交通系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "城市轨道交通车辆制造与维护",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市轨道车辆应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "1702202"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "1702199"
+        }
+      ]
+    },
+    {
+      "department_name": "技术工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "132914"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1702196"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1746624"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

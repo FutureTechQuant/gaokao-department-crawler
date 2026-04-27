@@ -1,0 +1,316 @@
+{
+  "update_time": "2026-04-27 16:21:53",
+  "school_id": "329",
+  "school_name": "上海杉达学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/329.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "0005a462cd769c6b0c5ccf03751ee043",
+  "department_count": 9,
+  "special_count": 50,
+  "data": [
+    {
+      "department_name": "胜祥商学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "16649"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "16653"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "16645"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "16646"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "16648"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "16654"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "1130094"
+        },
+        {
+          "special_name": "劳动与社会保障",
+          "level": "本科",
+          "school_special_id": "16641"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "16638"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "16640"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "本科",
+          "school_special_id": "16642"
+        }
+      ]
+    },
+    {
+      "department_name": "信息科学与技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1130093"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "16631"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "90507"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "16618"
+        }
+      ]
+    },
+    {
+      "department_name": "外语学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "16621"
+        },
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "翻译(日语翻译方向)",
+          "level": "本科",
+          "school_special_id": "154641"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "16626"
+        },
+        {
+          "special_name": "西班牙语",
+          "level": "本科",
+          "school_special_id": "16624"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计与传媒学院",
+      "special_num": 11,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "16613"
+        },
+        {
+          "special_name": "数字媒体",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "16616"
+        },
+        {
+          "special_name": "新闻学(传媒经营方向)",
+          "level": "本科",
+          "school_special_id": "16616"
+        },
+        {
+          "special_name": "时尚传播",
+          "level": "本科",
+          "school_special_id": "16643"
+        },
+        {
+          "special_name": "时尚传播(双语教学)",
+          "level": "本科",
+          "school_special_id": "16643"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "16614"
+        },
+        {
+          "special_name": "服装与服饰设计(双语教学)",
+          "level": "本科",
+          "school_special_id": "16614"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "16615"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "16620"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "16612"
+        }
+      ]
+    },
+    {
+      "department_name": "国际医学技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "卫生教育",
+          "level": "本科",
+          "school_special_id": "204805"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "16658"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "90508"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "169458"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "16661"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "16660"
+        }
+      ]
+    },
+    {
+      "department_name": "工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "1800673"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "16635"
+        },
+        {
+          "special_name": "建筑电气与智能化",
+          "level": "本科",
+          "school_special_id": "16636"
+        },
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "16663"
+        },
+        {
+          "special_name": "电气工程与智能控制",
+          "level": "本科",
+          "school_special_id": "2012033"
+        },
+        {
+          "special_name": "风景园林",
+          "level": "本科",
+          "school_special_id": "1800674"
+        }
+      ]
+    },
+    {
+      "department_name": "沪东工学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "16670"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "16667"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1497350"
+        },
+        {
+          "special_name": "现代物流管理(国际多式联运)",
+          "level": "专科",
+          "school_special_id": "1497350"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "16668"
+        },
+        {
+          "special_name": "船舶工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

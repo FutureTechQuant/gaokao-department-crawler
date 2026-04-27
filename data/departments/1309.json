@@ -1,0 +1,66 @@
+{
+  "update_time": "2026-04-27 16:31:52",
+  "school_id": "1309",
+  "school_name": "陆军防化学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1309.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "bcfbdb8747e7a9c1c766a1669fcc7a87",
+  "department_count": 4,
+  "special_count": 6,
+  "data": [
+    {
+      "department_name": "指挥系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "作战指挥（烟火分队指挥）",
+          "level": "本科",
+          "school_special_id": "1378950"
+        },
+        {
+          "special_name": "作战指挥（防化分队指挥）",
+          "level": "本科",
+          "school_special_id": "1378950"
+        }
+      ]
+    },
+    {
+      "department_name": "安全系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "辐射防护与核安全（核生化防护技术）",
+          "level": "本科",
+          "school_special_id": "1378949"
+        }
+      ]
+    },
+    {
+      "department_name": "装备工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "装备保障工程（防化装备技术）",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "化工系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "化学（核生化防护技术）",
+          "level": "本科",
+          "school_special_id": "1378947"
+        },
+        {
+          "special_name": "生物技术（核生化防护技术）",
+          "level": "本科",
+          "school_special_id": "1378948"
+        }
+      ]
+    }
+  ]
+}

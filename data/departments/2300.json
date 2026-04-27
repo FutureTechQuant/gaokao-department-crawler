@@ -1,0 +1,217 @@
+{
+  "update_time": "2026-04-27 16:42:09",
+  "school_id": "2300",
+  "school_name": "北京科技大学天津学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2300.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "beafef4db2e20d9a210d7b490ce9735a",
+  "department_count": 10,
+  "special_count": 29,
+  "data": [
+    {
+      "department_name": "城市建设学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "75779"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "155534"
+        }
+      ]
+    },
+    {
+      "department_name": "材料与环境学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "75772"
+        },
+        {
+          "special_name": "环境工程",
+          "level": "本科",
+          "school_special_id": "75782"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "智能制造工程",
+          "level": "本科",
+          "school_special_id": "1800397"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "75780"
+        },
+        {
+          "special_name": "物流工程",
+          "level": "本科",
+          "school_special_id": "75778"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "75784"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "75769"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1800398"
+        },
+        {
+          "special_name": "无人驾驶航空器系统工程",
+          "level": "本科",
+          "school_special_id": "169116"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "75770"
+        }
+      ]
+    },
+    {
+      "department_name": "经济学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "75777"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "75776"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "75775"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "75783"
+        }
+      ]
+    },
+    {
+      "department_name": "大健康学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "1129786"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "155536"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "1129785"
+        },
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "1497726"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "75773"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论(计算机作曲)",
+          "level": "本科",
+          "school_special_id": "2160748"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "1023617"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "本科",
+          "school_special_id": "169115"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "75771"
+        },
+        {
+          "special_name": "音乐表演(声乐演唱)",
+          "level": "本科",
+          "school_special_id": "2160747"
+        },
+        {
+          "special_name": "音乐表演(钢琴演奏)",
+          "level": "本科",
+          "school_special_id": "2160747"
+        }
+      ]
+    },
+    {
+      "department_name": "法律系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "75774"
+        },
+        {
+          "special_name": "知识产权",
+          "level": "本科",
+          "school_special_id": "2156495"
+        }
+      ]
+    }
+  ]
+}

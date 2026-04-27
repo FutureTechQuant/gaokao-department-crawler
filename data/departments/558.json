@@ -1,0 +1,604 @@
+{
+  "update_time": "2026-04-27 16:24:34",
+  "school_id": "558",
+  "school_name": "中国传媒大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/558.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "fdae0d9593e02455605c3a1da704711f",
+  "department_count": 17,
+  "special_count": 98,
+  "data": [
+    {
+      "department_name": "新闻学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "30506"
+        },
+        {
+          "special_name": "传播学(舆情分析方向)",
+          "level": "本科",
+          "school_special_id": "30506"
+        },
+        {
+          "special_name": "传播学(计算传播方向)",
+          "level": "本科",
+          "school_special_id": "30506"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "30502"
+        },
+        {
+          "special_name": "新闻学(数据新闻方向)",
+          "level": "本科",
+          "school_special_id": "30502"
+        }
+      ]
+    },
+    {
+      "department_name": "电视学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "国际新闻与传播",
+          "level": "本科",
+          "school_special_id": "170742"
+        },
+        {
+          "special_name": "广播电视学",
+          "level": "本科",
+          "school_special_id": "30503"
+        },
+        {
+          "special_name": "广播电视编导(电视编辑方向)",
+          "level": "本科",
+          "school_special_id": "30551"
+        },
+        {
+          "special_name": "广播电视编导（全媒体摄制方向）",
+          "level": "本科",
+          "school_special_id": "30551"
+        },
+        {
+          "special_name": "数字出版",
+          "level": "本科",
+          "school_special_id": "1800225"
+        },
+        {
+          "special_name": "编辑出版学(新媒体方向)",
+          "level": "本科",
+          "school_special_id": "30505"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "30536"
+        }
+      ]
+    },
+    {
+      "department_name": "戏剧影视学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "广播电视编导(文艺编导方向)",
+          "level": "本科",
+          "school_special_id": "30551"
+        },
+        {
+          "special_name": "影视摄影与制作",
+          "level": "本科",
+          "school_special_id": "803496"
+        },
+        {
+          "special_name": "戏剧影视导演",
+          "level": "本科",
+          "school_special_id": "30538"
+        },
+        {
+          "special_name": "戏剧影视文学(影视编剧方向)",
+          "level": "本科",
+          "school_special_id": "30548"
+        },
+        {
+          "special_name": "戏剧影视文学(戏剧文学方向)",
+          "level": "本科",
+          "school_special_id": "30548"
+        },
+        {
+          "special_name": "戏剧影视美术设计",
+          "level": "本科",
+          "school_special_id": "803492"
+        },
+        {
+          "special_name": "摄影",
+          "level": "本科",
+          "school_special_id": "30549"
+        },
+        {
+          "special_name": "环境设计(光影空间艺术方向)",
+          "level": "本科",
+          "school_special_id": "2161723"
+        },
+        {
+          "special_name": "表演",
+          "level": "本科",
+          "school_special_id": "803488"
+        },
+        {
+          "special_name": "音乐剧",
+          "level": "本科",
+          "school_special_id": "2153375"
+        }
+      ]
+    },
+    {
+      "department_name": "播音主持艺术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "803494"
+        }
+      ]
+    },
+    {
+      "department_name": "动画与数字艺术学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "803495"
+        },
+        {
+          "special_name": "动画（游戏艺术方向）",
+          "level": "本科",
+          "school_special_id": "803495"
+        },
+        {
+          "special_name": "数字媒体技术（智能交互与游戏技术方向）",
+          "level": "本科",
+          "school_special_id": "30542"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "30537"
+        },
+        {
+          "special_name": "新媒体艺术",
+          "level": "本科",
+          "school_special_id": "2008792"
+        },
+        {
+          "special_name": "游戏艺术设计",
+          "level": "本科",
+          "school_special_id": "2161581"
+        },
+        {
+          "special_name": "漫画",
+          "level": "本科",
+          "school_special_id": "2008791"
+        },
+        {
+          "special_name": "艺术与科技（电子竞技方向）",
+          "level": "本科",
+          "school_special_id": "2161724"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐与录音艺术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论(电子音乐方向)",
+          "level": "本科",
+          "school_special_id": "2161725"
+        },
+        {
+          "special_name": "录音艺术(录音工程方向)",
+          "level": "本科",
+          "school_special_id": "30550"
+        },
+        {
+          "special_name": "录音艺术(音响导演方向)",
+          "level": "本科",
+          "school_special_id": "30550"
+        },
+        {
+          "special_name": "音乐学(音乐传播方向)",
+          "level": "本科",
+          "school_special_id": "803487"
+        },
+        {
+          "special_name": "音乐学(音乐编导方向)",
+          "level": "本科",
+          "school_special_id": "803487"
+        },
+        {
+          "special_name": "音乐表演(声乐演唱方向)",
+          "level": "本科",
+          "school_special_id": "803486"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与通信工程学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1129603"
+        },
+        {
+          "special_name": "广播电视工程(智能视听技术方向)",
+          "level": "本科",
+          "school_special_id": "30520"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "30542"
+        },
+        {
+          "special_name": "智能装备与系统(演艺工程与智能技术方向)",
+          "level": "本科",
+          "school_special_id": "1500073"
+        },
+        {
+          "special_name": "智能视听工程",
+          "level": "本科",
+          "school_special_id": "2161579"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "619217"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "30519"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "30518"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机与网络空间安全学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "网络空间安全",
+          "level": "本科",
+          "school_special_id": "1131058"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "30510"
+        }
+      ]
+    },
+    {
+      "department_name": "数据科学与智能媒体学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "93347"
+        },
+        {
+          "special_name": "智能影像艺术",
+          "level": "本科",
+          "school_special_id": "2161580"
+        },
+        {
+          "special_name": "智能科学与技术",
+          "level": "本科",
+          "school_special_id": "305125"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "30501"
+        },
+        {
+          "special_name": "汉语言",
+          "level": "本科",
+          "school_special_id": "30526"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "30500"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语言文化学院",
+      "special_num": 24,
+      "special": [
+        {
+          "special_name": "乌尔都语",
+          "level": "本科",
+          "school_special_id": "2157654"
+        },
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "30517"
+        },
+        {
+          "special_name": "匈牙利语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "印地语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "土耳其语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "孟加拉语",
+          "level": "本科",
+          "school_special_id": "303187"
+        },
+        {
+          "special_name": "尼泊尔语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "德语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "意大利语",
+          "level": "本科",
+          "school_special_id": "30545"
+        },
+        {
+          "special_name": "播音与主持艺术（中朝、中韩双语播音主持方向）",
+          "level": "本科",
+          "school_special_id": "803494"
+        },
+        {
+          "special_name": "播音与主持艺术（中英双语播音主持方向）",
+          "level": "本科",
+          "school_special_id": "803494"
+        },
+        {
+          "special_name": "斯瓦希里语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "普什图语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "30546"
+        },
+        {
+          "special_name": "泰米尔语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "93342"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "30507"
+        },
+        {
+          "special_name": "荷兰语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "葡萄牙语",
+          "level": "本科",
+          "school_special_id": "30535"
+        },
+        {
+          "special_name": "西班牙语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "阿拉伯语",
+          "level": "本科",
+          "school_special_id": "2153374"
+        },
+        {
+          "special_name": "马来语",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "30521"
+        },
+        {
+          "special_name": "大数据管理与应用",
+          "level": "本科",
+          "school_special_id": "1023722"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "619213"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "1797417"
+        },
+        {
+          "special_name": "数字经济",
+          "level": "本科",
+          "school_special_id": "1129602"
+        },
+        {
+          "special_name": "经济学（传媒经济方向）",
+          "level": "本科",
+          "school_special_id": "1864775"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "本科",
+          "school_special_id": "1511175"
+        }
+      ]
+    },
+    {
+      "department_name": "广告学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "公共关系学",
+          "level": "本科",
+          "school_special_id": "30529"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "30504"
+        },
+        {
+          "special_name": "广告学（计算广告双学士学位复合型人才培养项目）",
+          "level": "本科",
+          "school_special_id": "30504"
+        },
+        {
+          "special_name": "网络与新媒体(智能融媒体运营方向)",
+          "level": "本科",
+          "school_special_id": "30536"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "30530"
+        }
+      ]
+    },
+    {
+      "department_name": "文化产业管理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "文化产业管理",
+          "level": "本科",
+          "school_special_id": "30532"
+        },
+        {
+          "special_name": "艺术管理",
+          "level": "本科",
+          "school_special_id": "1129604"
+        }
+      ]
+    },
+    {
+      "department_name": "政府与公共事务学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "政治学与行政学",
+          "level": "本科",
+          "school_special_id": "1499840"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "30531"
+        }
+      ]
+    },
+    {
+      "department_name": "海南国际学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数字媒体技术（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "30542"
+        },
+        {
+          "special_name": "智能科学与技术（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "305125"
+        },
+        {
+          "special_name": "视觉传达设计（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "30530"
+        }
+      ]
+    },
+    {
+      "department_name": "国际传媒教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "传播学（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "30506"
+        },
+        {
+          "special_name": "广告学（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "30504"
+        }
+      ]
+    }
+  ]
+}

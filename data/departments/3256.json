@@ -1,0 +1,126 @@
+{
+  "update_time": "2026-04-27 16:49:05",
+  "school_id": "3256",
+  "school_name": "阜阳幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3256.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "73d2fc22ff1c89dfddf5d84887335006",
+  "department_count": 4,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1797081"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "88670"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "88673"
+        }
+      ]
+    },
+    {
+      "department_name": "小学教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "88669"
+        },
+        {
+          "special_name": "小学科学教育",
+          "level": "专科",
+          "school_special_id": "1797083"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1797082"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术和体育学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "88671"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "2163151"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "88667"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "2163150"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "2159063"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "88666"
+        }
+      ]
+    },
+    {
+      "department_name": "健康和管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2159129"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1714315"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "1028715"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2159064"
+        },
+        {
+          "special_name": "现代教育技术(师范类)",
+          "level": "专科",
+          "school_special_id": "1028716"
+        }
+      ]
+    }
+  ]
+}

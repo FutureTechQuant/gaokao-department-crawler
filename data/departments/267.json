@@ -1,0 +1,281 @@
+{
+  "update_time": "2026-04-27 16:21:10",
+  "school_id": "267",
+  "school_name": "中国民用航空飞行学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/267.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:49",
+  "md5": "8d296f07a751e190287779e1e2beee95",
+  "department_count": 14,
+  "special_count": 37,
+  "data": [
+    {
+      "department_name": "飞行技术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "146242"
+        },
+        {
+          "special_name": "飞行技术",
+          "level": "本科",
+          "school_special_id": "13485"
+        }
+      ]
+    },
+    {
+      "department_name": "航空气象学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大气科学",
+          "level": "本科",
+          "school_special_id": "1800355"
+        },
+        {
+          "special_name": "应用气象学(航空气象)",
+          "level": "本科",
+          "school_special_id": "146241"
+        }
+      ]
+    },
+    {
+      "department_name": "航空工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "航空航天工程(直升机维修工程)",
+          "level": "本科",
+          "school_special_id": "146235"
+        },
+        {
+          "special_name": "飞行器制造工程(飞机结构维修)",
+          "level": "本科",
+          "school_special_id": "1750499"
+        },
+        {
+          "special_name": "飞行器动力工程(飞机发动机维修)",
+          "level": "本科",
+          "school_special_id": "1750498"
+        },
+        {
+          "special_name": "飞行器适航技术",
+          "level": "本科",
+          "school_special_id": "13492"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "1733499"
+        }
+      ]
+    },
+    {
+      "department_name": "航空电子电气学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "无人驾驶航空器系统工程",
+          "level": "本科",
+          "school_special_id": "169054"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "1750503"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "1750504"
+        }
+      ]
+    },
+    {
+      "department_name": "空中交通管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "交通运输",
+          "level": "本科",
+          "school_special_id": "1599384"
+        },
+        {
+          "special_name": "导航工程",
+          "level": "本科",
+          "school_special_id": "146234"
+        },
+        {
+          "special_name": "智慧交通",
+          "level": "本科",
+          "school_special_id": "2011998"
+        }
+      ]
+    },
+    {
+      "department_name": "机场学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "交通工程(机场管理与工程)",
+          "level": "本科",
+          "school_special_id": "13494"
+        },
+        {
+          "special_name": "交通管理(机场运行管理)",
+          "level": "本科",
+          "school_special_id": "13493"
+        },
+        {
+          "special_name": "物流工程(航空物流)",
+          "level": "本科",
+          "school_special_id": "13497"
+        }
+      ]
+    },
+    {
+      "department_name": "空中乘务学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "航空服务艺术与管理",
+          "level": "本科",
+          "school_special_id": "1131071"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "本科",
+          "school_special_id": "2011728"
+        }
+      ]
+    },
+    {
+      "department_name": "理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "13499"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1800356"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "146225"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "13495"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "13496"
+        },
+        {
+          "special_name": "应急管理",
+          "level": "本科",
+          "school_special_id": "2012199"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "1800354"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "13500"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "2011997"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "1129730"
+        },
+        {
+          "special_name": "网络空间安全",
+          "level": "本科",
+          "school_special_id": "1801738"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "13498"
+        }
+      ]
+    },
+    {
+      "department_name": "航空安全保卫学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "治安学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民航空中安全保卫",
+          "level": "专科",
+          "school_special_id": "1671585"
+        }
+      ]
+    },
+    {
+      "department_name": "民航安全工程学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "安全工程",
+          "level": "本科",
+          "school_special_id": "1690035"
+        },
+        {
+          "special_name": "消防工程",
+          "level": "本科",
+          "school_special_id": "170804"
+        }
+      ]
+    },
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "思想政治教育",
+          "level": "本科",
+          "school_special_id": "169055"
+        }
+      ]
+    }
+  ]
+}

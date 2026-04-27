@@ -1,0 +1,353 @@
+{
+  "update_time": "2026-04-27 16:39:20",
+  "school_id": "2049",
+  "school_name": "广东食品药品职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2049.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "e02d879e59f215f346624a43117ef0d3",
+  "department_count": 11,
+  "special_count": 55,
+  "data": [
+    {
+      "department_name": "中医保健学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "69524"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "69526"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "69525"
+        },
+        {
+          "special_name": "药膳与食疗",
+          "level": "专科",
+          "school_special_id": "1472775"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1462291"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "69528"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "123231"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2152275"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "69527"
+        }
+      ]
+    },
+    {
+      "department_name": "制药工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "制药设备应用技术",
+          "level": "专科",
+          "school_special_id": "1693831"
+        },
+        {
+          "special_name": "化学制药技术",
+          "level": "专科",
+          "school_special_id": "123228"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "218216"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "1728415"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "药品质量与安全",
+          "level": "专科",
+          "school_special_id": "69494"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1733762"
+        }
+      ]
+    },
+    {
+      "department_name": "健康管理与生物技术学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "健康管理(含高本衔接班)",
+          "level": "专科",
+          "school_special_id": "69534"
+        },
+        {
+          "special_name": "健康管理（中外合作办学）",
+          "level": "专科",
+          "school_special_id": "69534"
+        },
+        {
+          "special_name": "医学生物技术",
+          "level": "专科",
+          "school_special_id": "69492"
+        },
+        {
+          "special_name": "生物制药技术",
+          "level": "专科",
+          "school_special_id": "123227"
+        },
+        {
+          "special_name": "生物制药技术（中外合作办学）",
+          "level": "专科",
+          "school_special_id": "123227"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1462293"
+        },
+        {
+          "special_name": "药品生物技术",
+          "level": "专科",
+          "school_special_id": "69490"
+        }
+      ]
+    },
+    {
+      "department_name": "中药学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药制药",
+          "level": "专科",
+          "school_special_id": "1693833"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1728414"
+        },
+        {
+          "special_name": "中药材生产与加工",
+          "level": "专科",
+          "school_special_id": "1798246"
+        }
+      ]
+    },
+    {
+      "department_name": "食品学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "保健食品质量与管理",
+          "level": "专科",
+          "school_special_id": "1798247"
+        },
+        {
+          "special_name": "烹饪工艺与营养",
+          "level": "专科",
+          "school_special_id": "2150878"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1733764"
+        },
+        {
+          "special_name": "食品营养与健康",
+          "level": "专科",
+          "school_special_id": "1866095"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "专科",
+          "school_special_id": "69508"
+        },
+        {
+          "special_name": "餐饮智能管理",
+          "level": "专科",
+          "school_special_id": "1733765"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "1725677"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "69504"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "69502"
+        },
+        {
+          "special_name": "药品经营与管理(中外合作办学)",
+          "level": "专科",
+          "school_special_id": "69502"
+        }
+      ]
+    },
+    {
+      "department_name": "医疗器械学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "医用材料与应用",
+          "level": "专科",
+          "school_special_id": "1472777"
+        },
+        {
+          "special_name": "医用电子仪器技术",
+          "level": "专科",
+          "school_special_id": "1695666"
+        },
+        {
+          "special_name": "医疗器械经营与服务",
+          "level": "专科",
+          "school_special_id": "1733766"
+        },
+        {
+          "special_name": "医疗器械维护与管理",
+          "level": "专科",
+          "school_special_id": "69513"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1695664"
+        },
+        {
+          "special_name": "智能医疗装备技术（中外合作）",
+          "level": "专科",
+          "school_special_id": "1695664"
+        }
+      ]
+    },
+    {
+      "department_name": "化妆品与艺术设计学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "69521"
+        },
+        {
+          "special_name": "化妆品技术",
+          "level": "专科",
+          "school_special_id": "69517"
+        },
+        {
+          "special_name": "化妆品经营与管理",
+          "level": "专科",
+          "school_special_id": "69518"
+        },
+        {
+          "special_name": "化妆品质量与安全",
+          "level": "专科",
+          "school_special_id": "1472776"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "69519"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1034292"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1799460"
+        },
+        {
+          "special_name": "香料香精技术与工艺",
+          "level": "专科",
+          "school_special_id": "1798258"
+        }
+      ]
+    },
+    {
+      "department_name": "软件学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1695673"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "69531"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1695674"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "69533"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "69530"
+        }
+      ]
+    }
+  ]
+}

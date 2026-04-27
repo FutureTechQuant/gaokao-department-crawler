@@ -1,0 +1,100 @@
+{
+  "update_time": "2026-04-27 16:51:21",
+  "school_id": "3492",
+  "school_name": "长沙幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3492.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "a3efef77e365dc38ff9af3c0e6d25f34",
+  "department_count": 3,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "2008731"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "2016831"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1926920"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2016830"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1790966"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计(儿童产品设计方向)",
+          "level": "职本",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "1926924"
+        },
+        {
+          "special_name": "舞蹈表演(五年制)",
+          "level": "专科",
+          "school_special_id": "1790943"
+        },
+        {
+          "special_name": "音乐表演(音乐治疗方向)",
+          "level": "专科",
+          "school_special_id": "2159261"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1693940"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1693941"
+        },
+        {
+          "special_name": "现代教育技术(师范类)",
+          "level": "专科",
+          "school_special_id": "2008732"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1926922"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1693942"
+        }
+      ]
+    }
+  ]
+}

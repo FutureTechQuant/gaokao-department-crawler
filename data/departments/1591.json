@@ -1,0 +1,260 @@
+{
+  "update_time": "2026-04-27 16:34:04",
+  "school_id": "1591",
+  "school_name": "江苏经贸职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1591.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "8494de057290601c5432126056d36d2d",
+  "department_count": 8,
+  "special_count": 40,
+  "data": [
+    {
+      "department_name": "数字商务学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "58278"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1710833"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "58275"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "58283"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1532485"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "58272"
+        },
+        {
+          "special_name": "移动商务",
+          "level": "专科",
+          "school_special_id": "58286"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1361735"
+        },
+        {
+          "special_name": "连锁经营与管理",
+          "level": "专科",
+          "school_special_id": "1789259"
+        }
+      ]
+    },
+    {
+      "department_name": "会计与审计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1512852"
+        },
+        {
+          "special_name": "大数据与审计",
+          "level": "专科",
+          "school_special_id": "1789263"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1510806"
+        },
+        {
+          "special_name": "财税大数据应用",
+          "level": "专科",
+          "school_special_id": "1789260"
+        }
+      ]
+    },
+    {
+      "department_name": "金融学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际金融",
+          "level": "专科",
+          "school_special_id": "58279"
+        },
+        {
+          "special_name": "金融服务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融科技应用",
+          "level": "专科",
+          "school_special_id": "2107744"
+        }
+      ]
+    },
+    {
+      "department_name": "文化旅游学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "商务日语",
+          "level": "专科",
+          "school_special_id": "58289"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "141582"
+        },
+        {
+          "special_name": "文化产业经营与管理",
+          "level": "专科",
+          "school_special_id": "1789275"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "141581"
+        },
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "58290"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "58293"
+        }
+      ]
+    },
+    {
+      "department_name": "健康学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "公共事业管理(“4+0”高职与本科联合培养项目)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "1789264"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "58280"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1710832"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1534299"
+        },
+        {
+          "special_name": "食品药品监督管理",
+          "level": "专科",
+          "school_special_id": "58271"
+        }
+      ]
+    },
+    {
+      "department_name": "数字媒体与艺术设计学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "1027107"
+        },
+        {
+          "special_name": "广告设计与制作",
+          "level": "专科",
+          "school_special_id": "58288"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "58287"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1027106"
+        },
+        {
+          "special_name": "首饰设计与工艺",
+          "level": "专科",
+          "school_special_id": "58274"
+        }
+      ]
+    },
+    {
+      "department_name": "物联网与智能工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1713604"
+        },
+        {
+          "special_name": "制冷与空调技术",
+          "level": "专科",
+          "school_special_id": "58270"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "58273"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "2162809"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "1789274"
+        }
+      ]
+    }
+  ]
+}

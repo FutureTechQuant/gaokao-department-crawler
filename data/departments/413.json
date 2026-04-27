@@ -1,0 +1,130 @@
+{
+  "update_time": "2026-04-27 16:22:52",
+  "school_id": "413",
+  "school_name": "吉林体育学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/413.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:49",
+  "md5": "25fb49c9f37c0fa82bc600043e220fb5",
+  "department_count": 8,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "体育教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "21463"
+        },
+        {
+          "special_name": "航空运动",
+          "level": "本科",
+          "school_special_id": "2161600"
+        }
+      ]
+    },
+    {
+      "department_name": "运动训练学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "运动训练",
+          "level": "本科",
+          "school_special_id": "21464"
+        }
+      ]
+    },
+    {
+      "department_name": "休闲与社会体育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "674716"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "21465"
+        }
+      ]
+    },
+    {
+      "department_name": "武术与民族传统体育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "武术与民族传统体育",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "运动人体科学学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "运动人体科学",
+          "level": "本科",
+          "school_special_id": "21468"
+        }
+      ]
+    },
+    {
+      "department_name": "体育艺术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "1130019"
+        },
+        {
+          "special_name": "表演",
+          "level": "本科",
+          "school_special_id": "674712"
+        }
+      ]
+    },
+    {
+      "department_name": "冰雪学院（冰雪产业学院）",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "冰雪运动",
+          "level": "本科",
+          "school_special_id": "169391"
+        }
+      ]
+    },
+    {
+      "department_name": "运动健康技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体能训练",
+          "level": "本科",
+          "school_special_id": "1130018"
+        },
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "21467"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "138552"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "138562"
+        }
+      ]
+    }
+  ]
+}

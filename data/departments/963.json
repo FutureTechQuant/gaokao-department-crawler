@@ -1,0 +1,114 @@
+{
+  "update_time": "2026-04-27 16:28:38",
+  "school_id": "963",
+  "school_name": "广东警官学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/963.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:48",
+  "md5": "8824afe61c61501e3965995ee8f8f69c",
+  "department_count": 7,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "侦查学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "侦查学",
+          "level": "本科",
+          "school_special_id": "43477"
+        },
+        {
+          "special_name": "禁毒学",
+          "level": "本科",
+          "school_special_id": "43475"
+        },
+        {
+          "special_name": "经济犯罪侦查",
+          "level": "本科",
+          "school_special_id": "43480"
+        }
+      ]
+    },
+    {
+      "department_name": "治安与交通管理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "交通管理工程",
+          "level": "本科",
+          "school_special_id": "43471"
+        },
+        {
+          "special_name": "治安学",
+          "level": "本科",
+          "school_special_id": "43478"
+        }
+      ]
+    },
+    {
+      "department_name": "刑事技术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "刑事科学技术",
+          "level": "本科",
+          "school_special_id": "43479"
+        }
+      ]
+    },
+    {
+      "department_name": "法学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "43474"
+        }
+      ]
+    },
+    {
+      "department_name": "公共管理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "43472"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "43476"
+        }
+      ]
+    },
+    {
+      "department_name": "网络安全学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "网络安全与执法",
+          "level": "本科",
+          "school_special_id": "688142"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "警务指挥战术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "警务指挥与战术",
+          "level": "本科",
+          "school_special_id": "43473"
+        }
+      ]
+    }
+  ]
+}

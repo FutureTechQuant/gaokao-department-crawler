@@ -1,0 +1,315 @@
+{
+  "update_time": "2026-04-27 16:39:40",
+  "school_id": "2080",
+  "school_name": "重庆城市管理职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2080.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "e1e78a37ab08bdfe0b7c3e69e60016d8",
+  "department_count": 8,
+  "special_count": 51,
+  "data": [
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "党务工作",
+          "level": "专科",
+          "school_special_id": "2058964"
+        }
+      ]
+    },
+    {
+      "department_name": "民政与社会治理学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "公共事务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "婚庆服务与管理",
+          "level": "专科",
+          "school_special_id": "70205"
+        },
+        {
+          "special_name": "民政服务与管理",
+          "level": "专科",
+          "school_special_id": "1469752"
+        },
+        {
+          "special_name": "物业管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代殡葬技术与管理",
+          "level": "专科",
+          "school_special_id": "70174"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "139354"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "70172"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "关务与外贸服务",
+          "level": "专科",
+          "school_special_id": "1469757"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "70186"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1469755"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "70202"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1469754"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1033473"
+        },
+        {
+          "special_name": "连锁经营与管理",
+          "level": "专科",
+          "school_special_id": "1469756"
+        }
+      ]
+    },
+    {
+      "department_name": "大数据与信息产业学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1845532"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1469759"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1469758"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "70168"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "70188"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "70176"
+        }
+      ]
+    },
+    {
+      "department_name": "智能工程学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "工业互联网应用",
+          "level": "专科",
+          "school_special_id": "1845533"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "193216"
+        },
+        {
+          "special_name": "微电子技术",
+          "level": "专科",
+          "school_special_id": "70190"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1033474"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "2027552"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "1469760"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "70169"
+        },
+        {
+          "special_name": "集成电路技术",
+          "level": "专科",
+          "school_special_id": "1469761"
+        }
+      ]
+    },
+    {
+      "department_name": "数智财经学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1469765"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1469766"
+        },
+        {
+          "special_name": "财税大数据应用",
+          "level": "专科",
+          "school_special_id": "2041769"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1469767"
+        }
+      ]
+    },
+    {
+      "department_name": "文化与旅游学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "70198"
+        },
+        {
+          "special_name": "会展策划与管理",
+          "level": "专科",
+          "school_special_id": "70200"
+        },
+        {
+          "special_name": "园林工程技术",
+          "level": "专科",
+          "school_special_id": "1845534"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "1033475"
+        },
+        {
+          "special_name": "文化产业经营与管理",
+          "level": "专科",
+          "school_special_id": "1469763"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "70192"
+        },
+        {
+          "special_name": "服装设计与工艺",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1469762"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1469764"
+        }
+      ]
+    },
+    {
+      "department_name": "智慧康养学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2154982"
+        },
+        {
+          "special_name": "康复工程技术",
+          "level": "专科",
+          "school_special_id": "70211"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "70194"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "193221"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1469768"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理(中外合作办学)",
+          "level": "专科",
+          "school_special_id": "1469768"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "1027605"
+        },
+        {
+          "special_name": "药品质量与安全",
+          "level": "专科",
+          "school_special_id": "2154981"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 16:27:40",
+  "school_id": "870",
+  "school_name": "抚州医药学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/870.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "d96ba6d114fcc745788ab7346c04612f",
+  "department_count": 3,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "医疗系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "1778504"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "130139"
+        },
+        {
+          "special_name": "中医骨伤",
+          "level": "专科",
+          "school_special_id": "40167"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "40181"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "40172"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "40174"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "40171"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药制药技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "40176"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "40166"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "40175"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "40165"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "40180"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "40179"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1778505"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "2157801"
+        }
+      ]
+    }
+  ]
+}

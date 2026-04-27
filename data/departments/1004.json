@@ -1,0 +1,228 @@
+{
+  "update_time": "2026-04-27 16:29:04",
+  "school_id": "1004",
+  "school_name": "广东行政职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1004.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "896abfd12b5d1eef4a06e135b20e12ae",
+  "department_count": 6,
+  "special_count": 36,
+  "data": [
+    {
+      "department_name": "公共管理学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "44597"
+        },
+        {
+          "special_name": "党务工作",
+          "level": "专科",
+          "school_special_id": "1866100"
+        },
+        {
+          "special_name": "政务服务",
+          "level": "专科",
+          "school_special_id": "2157531"
+        },
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "44601"
+        },
+        {
+          "special_name": "法律文秘",
+          "level": "专科",
+          "school_special_id": "44602"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "121892"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "44606"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "专科",
+          "school_special_id": "44613"
+        },
+        {
+          "special_name": "青少年工作与管理",
+          "level": "专科",
+          "school_special_id": "1866101"
+        }
+      ]
+    },
+    {
+      "department_name": "电子信息学院(人工智能学院)",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1521891"
+        },
+        {
+          "special_name": "区块链技术应用",
+          "level": "专科",
+          "school_special_id": "2157603"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1794362"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1794361"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "44610"
+        },
+        {
+          "special_name": "网络舆情监测",
+          "level": "专科",
+          "school_special_id": "2157604"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "44598"
+        },
+        {
+          "special_name": "旅游英语",
+          "level": "专科",
+          "school_special_id": "44599"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2056890"
+        }
+      ]
+    },
+    {
+      "department_name": "财经商贸学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "会展策划与管理",
+          "level": "专科",
+          "school_special_id": "1866102"
+        },
+        {
+          "special_name": "商务管理",
+          "level": "专科",
+          "school_special_id": "44596"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "44614"
+        },
+        {
+          "special_name": "国际金融",
+          "level": "专科",
+          "school_special_id": "2056889"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1794359"
+        },
+        {
+          "special_name": "大数据与审计",
+          "level": "专科",
+          "school_special_id": "2157532"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "44609"
+        },
+        {
+          "special_name": "财税大数据应用",
+          "level": "专科",
+          "school_special_id": "2157533"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "1866105"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1866106"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "44611"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1866107"
+        }
+      ]
+    },
+    {
+      "department_name": "文化艺术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "公共文化服务与管理",
+          "level": "专科",
+          "school_special_id": "1033153"
+        },
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "2162923"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2162922"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2056891"
+        },
+        {
+          "special_name": "网络新闻与传播",
+          "level": "专科",
+          "school_special_id": "2157534"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1794360"
+        }
+      ]
+    }
+  ]
+}

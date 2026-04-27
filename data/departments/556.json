@@ -1,0 +1,344 @@
+{
+  "update_time": "2026-04-27 16:24:32",
+  "school_id": "556",
+  "school_name": "北京化工大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/556.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "c2ee3dfb1c38ebb938d4515cbf07a0b8",
+  "department_count": 12,
+  "special_count": 52,
+  "data": [
+    {
+      "department_name": "化学工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "30395"
+        },
+        {
+          "special_name": "氢能科学与工程",
+          "level": "本科",
+          "school_special_id": "2011718"
+        },
+        {
+          "special_name": "环境工程",
+          "level": "本科",
+          "school_special_id": "30393"
+        },
+        {
+          "special_name": "能源化工",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "材料科学与工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "功能材料",
+          "level": "本科",
+          "school_special_id": "30407"
+        },
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "30384"
+        },
+        {
+          "special_name": "高分子材料与工程",
+          "level": "本科",
+          "school_special_id": "30383"
+        },
+        {
+          "special_name": "高分子材料与工程（精英班）",
+          "level": "本科",
+          "school_special_id": "30383"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "安全工程",
+          "level": "本科",
+          "school_special_id": "30411"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "30386"
+        },
+        {
+          "special_name": "过程装备与控制工程",
+          "level": "本科",
+          "school_special_id": "30387"
+        }
+      ]
+    },
+    {
+      "department_name": "信息科学与技术学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1129589"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1800211"
+        },
+        {
+          "special_name": "测控技术与仪器",
+          "level": "本科",
+          "school_special_id": "30392"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "30409"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "30389"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "30391"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "30418"
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "30399"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "30375"
+        },
+        {
+          "special_name": "大数据管理与应用",
+          "level": "本科",
+          "school_special_id": "2160461"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "30400"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "30415"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "307448"
+        }
+      ]
+    },
+    {
+      "department_name": "化学学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "30412"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "30380"
+        },
+        {
+          "special_name": "材料化学（停招）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "能源化学",
+          "level": "本科",
+          "school_special_id": "1797644"
+        },
+        {
+          "special_name": "资源化学",
+          "level": "本科",
+          "school_special_id": "2013123"
+        }
+      ]
+    },
+    {
+      "department_name": "数理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "30379"
+        },
+        {
+          "special_name": "应用物理学",
+          "level": "本科",
+          "school_special_id": "2011986"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "30414"
+        },
+        {
+          "special_name": "电子科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融数学",
+          "level": "本科",
+          "school_special_id": "1023653"
+        }
+      ]
+    },
+    {
+      "department_name": "文法学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "30403"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "30377"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "30374"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "30405"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "30404"
+        }
+      ]
+    },
+    {
+      "department_name": "生命科学与技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "制药工程",
+          "level": "本科",
+          "school_special_id": "30396"
+        },
+        {
+          "special_name": "生物医学工程",
+          "level": "本科",
+          "school_special_id": "939224"
+        },
+        {
+          "special_name": "生物工程",
+          "level": "本科",
+          "school_special_id": "30398"
+        }
+      ]
+    },
+    {
+      "department_name": "国际教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工业设计（中意合作办学）",
+          "level": "本科",
+          "school_special_id": "30388"
+        },
+        {
+          "special_name": "机械设计制造及其自动化（中美合作办学）",
+          "level": "本科",
+          "school_special_id": "30386"
+        },
+        {
+          "special_name": "生物工程（中美合作办学）",
+          "level": "本科",
+          "school_special_id": "30398"
+        }
+      ]
+    },
+    {
+      "department_name": "巴黎居里工程师学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "化学工程与工艺（中法）",
+          "level": "本科",
+          "school_special_id": "30395"
+        },
+        {
+          "special_name": "生物工程（中法）",
+          "level": "本科",
+          "school_special_id": "30398"
+        },
+        {
+          "special_name": "高分子材料与工程（中法）",
+          "level": "本科",
+          "school_special_id": "30383"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术与设计系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "30417"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1023651"
+        }
+      ]
+    }
+  ]
+}

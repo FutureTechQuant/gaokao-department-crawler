@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:26:20",
+  "school_id": "734",
+  "school_name": "黑龙江民族职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/734.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "2c0e14b6696337e88460be67c6b288ed",
+  "department_count": 5,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "食品工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "食品智能加工技术",
+          "level": "专科",
+          "school_special_id": "1533208"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1534729"
+        },
+        {
+          "special_name": "食品营养与健康",
+          "level": "专科",
+          "school_special_id": "1888578"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "专科",
+          "school_special_id": "36024"
+        }
+      ]
+    },
+    {
+      "department_name": "动物科技系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "139899"
+        },
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "1534728"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "796511"
+        }
+      ]
+    },
+    {
+      "department_name": "信息管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1534730"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "139901"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "35997"
+        }
+      ]
+    },
+    {
+      "department_name": "教育艺术系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2157288"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "36008"
+        },
+        {
+          "special_name": "民族传统技艺",
+          "level": "专科",
+          "school_special_id": "2157678"
+        },
+        {
+          "special_name": "民族表演艺术",
+          "level": "专科",
+          "school_special_id": "139895"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "36007"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "36018"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "202076"
+        }
+      ]
+    },
+    {
+      "department_name": "医学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "139894"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "139893"
+        },
+        {
+          "special_name": "生物制药技术",
+          "level": "专科",
+          "school_special_id": "139900"
+        }
+      ]
+    }
+  ]
+}

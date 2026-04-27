@@ -1,0 +1,81 @@
+{
+  "update_time": "2026-04-27 16:52:25",
+  "school_id": "3598",
+  "school_name": "宝鸡中北职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3598.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "d9c79c33c957406d20c2e4b2dd0ca0f9",
+  "department_count": 4,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "机电工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1601080"
+        },
+        {
+          "special_name": "智能光电制造技术",
+          "level": "专科",
+          "school_special_id": "2037520"
+        },
+        {
+          "special_name": "铁道供电技术",
+          "level": "专科",
+          "school_special_id": "1601081"
+        }
+      ]
+    },
+    {
+      "department_name": "现代交通系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1601083"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1601082"
+        }
+      ]
+    },
+    {
+      "department_name": "数字媒体与商贸系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2037521"
+        },
+        {
+          "special_name": "网络新闻与传播",
+          "level": "专科",
+          "school_special_id": "2037522"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1802052"
+        }
+      ]
+    },
+    {
+      "department_name": "学前师范系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1802053"
+        }
+      ]
+    }
+  ]
+}

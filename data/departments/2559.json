@@ -1,0 +1,248 @@
+{
+  "update_time": "2026-04-27 16:45:05",
+  "school_id": "2559",
+  "school_name": "苏州高博职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2559.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "b6a4b2536082e7eb5f76d2305ca49013",
+  "department_count": 6,
+  "special_count": 40,
+  "data": [
+    {
+      "department_name": "信息与软件学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1615785"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1600690"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "2152462"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1615814"
+        },
+        {
+          "special_name": "移动互联应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "121259"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "121247"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "121232"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "121249"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1746053"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "121248"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "2158630"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "121257"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1789912"
+        },
+        {
+          "special_name": "电梯工程技术",
+          "level": "专科",
+          "school_special_id": "121252"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术与建筑学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "公共艺术设计(传统工艺、空间造型艺术)",
+          "level": "专科",
+          "school_special_id": "2161807"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1746058"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "1746059"
+        },
+        {
+          "special_name": "影视动画(影视制作、动画制作)",
+          "level": "专科",
+          "school_special_id": "2152464"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1789914"
+        },
+        {
+          "special_name": "环境艺术设计(室内设计、景观设计)",
+          "level": "专科",
+          "school_special_id": "2152463"
+        },
+        {
+          "special_name": "视觉传达设计(包装设计、平面设计)",
+          "level": "专科",
+          "school_special_id": "1789913"
+        }
+      ]
+    },
+    {
+      "department_name": "国际商学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1592074"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "1746078"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1746066"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1746061"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1746067"
+        },
+        {
+          "special_name": "网络直播与运营",
+          "level": "专科",
+          "school_special_id": "2159984"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1789916"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1599820"
+        }
+      ]
+    },
+    {
+      "department_name": "医学与公共服务学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "1789921"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1789919"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1739912"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "1615168"
+        }
+      ]
+    },
+    {
+      "department_name": "人文社会科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "1659164"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "1746074"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "2159985"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1789924"
+        }
+      ]
+    }
+  ]
+}

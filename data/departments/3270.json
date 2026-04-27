@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 16:49:11",
+  "school_id": "3270",
+  "school_name": "哈尔滨音乐学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3270.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "d8e234c15b5af552de861c84b1b0190d",
+  "department_count": 8,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "管弦系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "2162542"
+        },
+        {
+          "special_name": "音乐表演（西洋管弦演奏）",
+          "level": "本科",
+          "school_special_id": "2161735"
+        }
+      ]
+    },
+    {
+      "department_name": "作曲系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论（作曲）",
+          "level": "本科",
+          "school_special_id": "2161737"
+        },
+        {
+          "special_name": "作曲与作曲技术理论（合唱指挥）",
+          "level": "本科",
+          "school_special_id": "2161737"
+        }
+      ]
+    },
+    {
+      "department_name": "钢琴系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演（钢琴演奏）",
+          "level": "本科",
+          "school_special_id": "2161735"
+        }
+      ]
+    },
+    {
+      "department_name": "民族声乐系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演（民族声乐演唱）",
+          "level": "本科",
+          "school_special_id": "2161735"
+        }
+      ]
+    },
+    {
+      "department_name": "民乐系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演（民族管弦演奏）",
+          "level": "本科",
+          "school_special_id": "2161735"
+        }
+      ]
+    },
+    {
+      "department_name": "声乐歌剧系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演（美声演唱）",
+          "level": "本科",
+          "school_special_id": "2161735"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐学（音乐学理论）",
+          "level": "本科",
+          "school_special_id": "2161736"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "艺术管理",
+          "level": "本科",
+          "school_special_id": "2156498"
+        }
+      ]
+    }
+  ]
+}

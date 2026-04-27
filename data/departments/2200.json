@@ -1,0 +1,199 @@
+{
+  "update_time": "2026-04-27 16:41:01",
+  "school_id": "2200",
+  "school_name": "哈尔滨城市职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2200.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "869df20719331c22c0e44b5e328651f3",
+  "department_count": 7,
+  "special_count": 29,
+  "data": [
+    {
+      "department_name": "医药护理系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "健康管理(数字化服务与健康管理)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "139246"
+        },
+        {
+          "special_name": "护理(医助护理)",
+          "level": "专科",
+          "school_special_id": "139246"
+        },
+        {
+          "special_name": "护理(康养护理)",
+          "level": "专科",
+          "school_special_id": "139246"
+        },
+        {
+          "special_name": "护理(数字化全科护理)",
+          "level": "专科",
+          "school_special_id": "139246"
+        },
+        {
+          "special_name": "护理(高级护理)",
+          "level": "专科",
+          "school_special_id": "139246"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中医养生保健(中医经络体疗)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "139262"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "139249"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "139248"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "139247"
+        },
+        {
+          "special_name": "老年保健管理(数字化服务管理与中医护理)",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "新媒体系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "体育艺术表演(新媒体艺术表演、鸡尾酒调酒师)",
+          "level": "专科",
+          "school_special_id": "1791589"
+        },
+        {
+          "special_name": "全媒体广告策划与营销(广告策划与直播电商)",
+          "level": "专科",
+          "school_special_id": "1591449"
+        },
+        {
+          "special_name": "国际商务(数字化星级酒店管理及跨境电商)",
+          "level": "专科",
+          "school_special_id": "258419"
+        },
+        {
+          "special_name": "工商企业管理(新媒体运营与直播电商)",
+          "level": "专科",
+          "school_special_id": "258420"
+        },
+        {
+          "special_name": "市场营销(数字经济与互联网营销师)",
+          "level": "专科",
+          "school_special_id": "139254"
+        },
+        {
+          "special_name": "电子商务(数字经济与直播电商)",
+          "level": "专科",
+          "school_special_id": "139255"
+        },
+        {
+          "special_name": "计算机应用技术(数字化电商应用与网络建设)",
+          "level": "专科",
+          "school_special_id": "258405"
+        },
+        {
+          "special_name": "连锁经营与管理(互联网营销师与管理)",
+          "level": "专科",
+          "school_special_id": "1791585"
+        }
+      ]
+    },
+    {
+      "department_name": "航空系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际邮轮乘务管理",
+          "level": "专科",
+          "school_special_id": "139264"
+        },
+        {
+          "special_name": "空中乘务(空姐、空哥、机场数字化酒店管理)",
+          "level": "专科",
+          "school_special_id": "139251"
+        },
+        {
+          "special_name": "高速铁路客运乘务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理(幼儿园教学与数字化管理)",
+          "level": "专科",
+          "school_special_id": "1591443"
+        },
+        {
+          "special_name": "现代家政服务与管理(城市社区数字化服务与管理)",
+          "level": "专科",
+          "school_special_id": "1791580"
+        }
+      ]
+    },
+    {
+      "department_name": "财经系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1591445"
+        },
+        {
+          "special_name": "大数据与会计(大数据与财务管理)",
+          "level": "专科",
+          "school_special_id": "1591445"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1591427"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1791588"
+        }
+      ]
+    }
+  ]
+}

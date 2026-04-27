@@ -1,0 +1,151 @@
+{
+  "update_time": "2026-04-27 16:41:20",
+  "school_id": "2227",
+  "school_name": "太湖创意职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2227.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "9599c28f8dd6e6a46746310089d85b5f",
+  "department_count": 4,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "国际商务系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "会计电算化",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1745918"
+        },
+        {
+          "special_name": "导游",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "1745919"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "证券投资与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融保险",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "动漫设计与制作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "服装设计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "艺术设计(环境艺术)",
+          "level": "专科",
+          "school_special_id": "1031941"
+        },
+        {
+          "special_name": "艺术设计(视觉传达)",
+          "level": "专科",
+          "school_special_id": "1031941"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机应用技术系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "129345"
+        },
+        {
+          "special_name": "建筑工程管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑装饰工程与技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1745907"
+        },
+        {
+          "special_name": "计算机应用技术(软件)",
+          "level": "专科",
+          "school_special_id": "1745912"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务日语",
+          "level": "专科",
+          "school_special_id": "2163105"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "165318"
+        },
+        {
+          "special_name": "文秘",
+          "level": "专科",
+          "school_special_id": "2163104"
+        }
+      ]
+    }
+  ]
+}

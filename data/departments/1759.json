@@ -1,0 +1,152 @@
+{
+  "update_time": "2026-04-27 16:35:52",
+  "school_id": "1759",
+  "school_name": "桂林山水职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1759.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "ef7545797fbb948b7c0c087cccede3ec",
+  "department_count": 5,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "财经商贸学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1596819"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1738992"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "1738985"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "1794097"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1794102"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1725788"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "62504"
+        }
+      ]
+    },
+    {
+      "department_name": "公共管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1596820"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "62505"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1794115"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1794114"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "62514"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1738996"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1794091"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1794092"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "导游",
+          "level": "专科",
+          "school_special_id": "133646"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1738988"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

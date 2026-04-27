@@ -1,0 +1,100 @@
+{
+  "update_time": "2026-04-27 16:39:06",
+  "school_id": "2029",
+  "school_name": "湖南理工职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2029.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "dcc7466523309b72584e1cc72610ba1d",
+  "department_count": 3,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "新能源学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "光伏工程技术",
+          "level": "专科",
+          "school_special_id": "1619792"
+        },
+        {
+          "special_name": "太阳能光热技术与应用",
+          "level": "专科",
+          "school_special_id": "69049"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "69050"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "246596"
+        },
+        {
+          "special_name": "风力发电工程技术",
+          "level": "专科",
+          "school_special_id": "69035"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "69040"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1729733"
+        },
+        {
+          "special_name": "机械设计与制造",
+          "level": "专科",
+          "school_special_id": "69039"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "69038"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "69037"
+        }
+      ]
+    },
+    {
+      "department_name": "管理艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "69045"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1691750"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "69041"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "350779"
+        }
+      ]
+    }
+  ]
+}

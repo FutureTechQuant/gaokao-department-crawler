@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 16:42:18",
+  "school_id": "2312",
+  "school_name": "长白山职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2312.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "65cf0a4515d24c11bbe8b9c514c95ee5",
+  "department_count": 6,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "194996"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "132304"
+        }
+      ]
+    },
+    {
+      "department_name": "教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1977304"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "75981"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "75984"
+        }
+      ]
+    },
+    {
+      "department_name": "工业工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "75987"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1715595"
+        }
+      ]
+    },
+    {
+      "department_name": "财经系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计信息管理",
+          "level": "专科",
+          "school_special_id": "1892242"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1715597"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1515375"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "194997"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药制药技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1359159"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "75986"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "132308"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

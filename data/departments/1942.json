@@ -1,0 +1,217 @@
+{
+  "update_time": "2026-04-27 16:38:03",
+  "school_id": "1942",
+  "school_name": "郑州健康学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1942.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "400376339a76f67c6fe6bae0e51d0a20",
+  "department_count": 10,
+  "special_count": 29,
+  "data": [
+    {
+      "department_name": "临床医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1738175"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "2065151"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "66781"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "66780"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "66785"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "121286"
+        }
+      ]
+    },
+    {
+      "department_name": "中医系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1738176"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "66779"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "66778"
+        }
+      ]
+    },
+    {
+      "department_name": "康复医学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1792047"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "66783"
+        },
+        {
+          "special_name": "言语听觉康复技术",
+          "level": "专科",
+          "school_special_id": "1867011"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "66787"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "66788"
+        },
+        {
+          "special_name": "医疗器械维护与管理",
+          "level": "专科",
+          "school_special_id": "1867010"
+        },
+        {
+          "special_name": "卫生检验与检疫技术",
+          "level": "专科",
+          "school_special_id": "2065504"
+        }
+      ]
+    },
+    {
+      "department_name": "卫生管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1867012"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "66794"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1792055"
+        },
+        {
+          "special_name": "计算机应用技术(医学软件方向)",
+          "level": "专科",
+          "school_special_id": "66790"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生健康系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "1113467"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "66789"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1792056"
+        },
+        {
+          "special_name": "社区康复",
+          "level": "专科",
+          "school_special_id": "66786"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "66791"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1867013"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1867014"
+        }
+      ]
+    }
+  ]
+}

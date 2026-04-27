@@ -1,0 +1,95 @@
+{
+  "update_time": "2026-04-27 16:48:36",
+  "school_id": "3208",
+  "school_name": "浙江特殊教育职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3208.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "1f7de844b71afe48fc8e8bde8706d8d5",
+  "department_count": 3,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "康复技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "784628"
+        },
+        {
+          "special_name": "康复治疗技术(推拿方向)",
+          "level": "专科",
+          "school_special_id": "784628"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "文化体育系、公共管理系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中西面点工艺",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1028451"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1028452"
+        },
+        {
+          "special_name": "民族传统技艺",
+          "level": "专科",
+          "school_special_id": "1783205"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1028455"
+        },
+        {
+          "special_name": "茶艺与茶文化",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "特殊教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1782327"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "133116"
+        },
+        {
+          "special_name": "特殊教育(手语翻译)",
+          "level": "专科",
+          "school_special_id": "133116"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2163025"
+        }
+      ]
+    }
+  ]
+}

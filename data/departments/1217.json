@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 16:31:05",
+  "school_id": "1217",
+  "school_name": "北京大学医学部",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1217.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:43",
+  "md5": "ddc4216d3e840d09138e2c9a6e31a31e",
+  "department_count": 8,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "基础医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "基础医学",
+          "level": "本科",
+          "school_special_id": "50859"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "50857"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "预防医学",
+          "level": "本科",
+          "school_special_id": "50861"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "1731735"
+        }
+      ]
+    },
+    {
+      "department_name": "医学人文学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语（医学英语）",
+          "level": "本科",
+          "school_special_id": "50858"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "50862"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "50863"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术研究院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "2160407"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "50865"
+        }
+      ]
+    }
+  ]
+}

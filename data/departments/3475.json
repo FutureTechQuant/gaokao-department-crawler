@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 16:51:13",
+  "school_id": "3475",
+  "school_name": "克孜勒苏职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3475.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "917f94846588ea4f1425d46a56060e3b",
+  "department_count": 5,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "工业工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1777743"
+        }
+      ]
+    },
+    {
+      "department_name": "农经工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "1777681"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "1046618"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "1267786"
+        }
+      ]
+    },
+    {
+      "department_name": "教育艺术文化旅游系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "安全保卫管理",
+          "level": "专科",
+          "school_special_id": "1903538"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1046617"
+        }
+      ]
+    },
+    {
+      "department_name": "医护工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1267788"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1267787"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1903537"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1777682"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1267789"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1777744"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "update_time": "2026-04-27 16:52:40",
+  "school_id": "3625",
+  "school_name": "郑州汽车工程职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3625.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "dcc1ad1601f597e819fc6c7116f3d24f",
+  "department_count": 5,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "新能源与智能汽车学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2013412"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "2158799"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2013413"
+        }
+      ]
+    },
+    {
+      "department_name": "电子信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2158801"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2013414"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2013415"
+        },
+        {
+          "special_name": "集成电路技术",
+          "level": "专科",
+          "school_special_id": "2158802"
+        }
+      ]
+    },
+    {
+      "department_name": "电商物流学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "全媒体广告策划与营销",
+          "level": "专科",
+          "school_special_id": "2158804"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "2158800"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "2158803"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "2013416"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2158798"
+        }
+      ]
+    },
+    {
+      "department_name": "数字艺术与设计学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2163167"
+        }
+      ]
+    }
+  ]
+}

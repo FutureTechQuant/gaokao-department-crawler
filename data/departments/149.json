@@ -1,0 +1,374 @@
+{
+  "update_time": "2026-04-27 16:19:51",
+  "school_id": "149",
+  "school_name": "南京艺术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/149.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:46",
+  "md5": "cbcf89e880330ccc6ffb87ee800064b2",
+  "department_count": 12,
+  "special_count": 58,
+  "data": [
+    {
+      "department_name": "美术与书法学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中国画",
+          "level": "本科",
+          "school_special_id": "803290"
+        },
+        {
+          "special_name": "书法学",
+          "level": "本科",
+          "school_special_id": "803289"
+        },
+        {
+          "special_name": "绘画(包括油画、版画、壁画、插画四个专业方向)",
+          "level": "本科",
+          "school_special_id": "7704"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "7707"
+        },
+        {
+          "special_name": "雕塑",
+          "level": "本科",
+          "school_special_id": "7706"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论",
+          "level": "本科",
+          "school_special_id": "803272"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "803271"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "本科",
+          "school_special_id": "1800711"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "本科",
+          "school_special_id": "803270"
+        }
+      ]
+    },
+    {
+      "department_name": "设计学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "公共艺术",
+          "level": "本科",
+          "school_special_id": "803296"
+        },
+        {
+          "special_name": "工艺美术",
+          "level": "本科",
+          "school_special_id": "803297"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "803295"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "803293"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "803292"
+        },
+        {
+          "special_name": "设计学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "戏剧与影视学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "戏剧影视导演",
+          "level": "本科",
+          "school_special_id": "803279"
+        },
+        {
+          "special_name": "戏剧影视文学",
+          "level": "本科",
+          "school_special_id": "803277"
+        },
+        {
+          "special_name": "戏剧影视美术设计",
+          "level": "本科",
+          "school_special_id": "803280"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "803282"
+        },
+        {
+          "special_name": "表演",
+          "level": "本科",
+          "school_special_id": "803276"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "803274"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "本科",
+          "school_special_id": "169514"
+        },
+        {
+          "special_name": "舞蹈编导",
+          "level": "本科",
+          "school_special_id": "803275"
+        },
+        {
+          "special_name": "舞蹈表演(含中国古典舞方向、中国民族民间舞方向、昆舞方向、国际标准舞方向、芭蕾舞方向)",
+          "level": "本科",
+          "school_special_id": "803273"
+        }
+      ]
+    },
+    {
+      "department_name": "传媒学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "7708"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "111884"
+        },
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "803278"
+        },
+        {
+          "special_name": "录音艺术",
+          "level": "本科",
+          "school_special_id": "803281"
+        },
+        {
+          "special_name": "影视摄影与制作",
+          "level": "本科",
+          "school_special_id": "803284"
+        },
+        {
+          "special_name": "摄影",
+          "level": "本科",
+          "school_special_id": "803288"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "803298"
+        }
+      ]
+    },
+    {
+      "department_name": "现代音乐与科技学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论(流行音乐创作)",
+          "level": "本科",
+          "school_special_id": "803272"
+        },
+        {
+          "special_name": "音乐学(乐器修造)",
+          "level": "本科",
+          "school_special_id": "803271"
+        },
+        {
+          "special_name": "音乐学(音乐传播)",
+          "level": "本科",
+          "school_special_id": "803271"
+        },
+        {
+          "special_name": "音乐科技",
+          "level": "本科",
+          "school_special_id": "2161606"
+        },
+        {
+          "special_name": "音乐表演(流行音乐演唱)",
+          "level": "本科",
+          "school_special_id": "803270"
+        },
+        {
+          "special_name": "音乐表演(流行音乐演奏)",
+          "level": "本科",
+          "school_special_id": "803270"
+        }
+      ]
+    },
+    {
+      "department_name": "工业设计学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "803294"
+        },
+        {
+          "special_name": "智能交互设计",
+          "level": "本科",
+          "school_special_id": "2011738"
+        },
+        {
+          "special_name": "艺术与科技",
+          "level": "本科",
+          "school_special_id": "803299"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与博物馆学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "文物保护与修复",
+          "level": "本科",
+          "school_special_id": "220589"
+        },
+        {
+          "special_name": "艺术史论",
+          "level": "本科",
+          "school_special_id": "197488"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "本科",
+          "school_special_id": "111883"
+        },
+        {
+          "special_name": "非物质文化遗产保护",
+          "level": "本科",
+          "school_special_id": "1800710"
+        }
+      ]
+    },
+    {
+      "department_name": "文化产业学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "文化产业管理",
+          "level": "本科",
+          "school_special_id": "111879"
+        },
+        {
+          "special_name": "艺术管理",
+          "level": "本科",
+          "school_special_id": "197489"
+        }
+      ]
+    },
+    {
+      "department_name": "数字艺术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "公共艺术",
+          "level": "本科",
+          "school_special_id": "803296"
+        },
+        {
+          "special_name": "戏剧影视美术设计",
+          "level": "本科",
+          "school_special_id": "803280"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "803298"
+        }
+      ]
+    },
+    {
+      "department_name": "高等职业教育学院(成人教育学院)",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "产品设计(家居设计方向)",
+          "level": "本科",
+          "school_special_id": "803294"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "803282"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "803298"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "803293"
+        },
+        {
+          "special_name": "舞蹈编导",
+          "level": "本科",
+          "school_special_id": "803275"
+        },
+        {
+          "special_name": "表演",
+          "level": "本科",
+          "school_special_id": "803276"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "803292"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "本科",
+          "school_special_id": "1800711"
+        }
+      ]
+    }
+  ]
+}

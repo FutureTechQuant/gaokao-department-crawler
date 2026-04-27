@@ -1,0 +1,96 @@
+{
+  "update_time": "2026-04-27 16:28:32",
+  "school_id": "954",
+  "school_name": "鹰潭职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/954.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "17e8169edc075f3f2bab78719ac2c920",
+  "department_count": 4,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2043112"
+        },
+        {
+          "special_name": "学前教育(师范类)",
+          "level": "专科",
+          "school_special_id": "43094"
+        },
+        {
+          "special_name": "小学教育(师范类)",
+          "level": "专科",
+          "school_special_id": "43100"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "1788642"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1788643"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1410373"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "43092"
+        }
+      ]
+    },
+    {
+      "department_name": "机械工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2043113"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "43097"
+        }
+      ]
+    },
+    {
+      "department_name": "管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1788641"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "43087"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "43083"
+        }
+      ]
+    }
+  ]
+}

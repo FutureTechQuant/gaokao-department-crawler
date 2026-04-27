@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 16:38:11",
+  "school_id": "1953",
+  "school_name": "武汉电力职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1953.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "97d760578a3c50a77c92ab966424e112",
+  "department_count": 5,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "电力工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "发电厂及电力系统",
+          "level": "专科",
+          "school_special_id": "1729053"
+        },
+        {
+          "special_name": "发电厂及电力系统（中外合作办学）",
+          "level": "专科",
+          "school_special_id": "1729053"
+        }
+      ]
+    },
+    {
+      "department_name": "供用电工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "供用电技术",
+          "level": "专科",
+          "school_special_id": "1734003"
+        },
+        {
+          "special_name": "电力系统自动化技术",
+          "level": "专科",
+          "school_special_id": "218564"
+        }
+      ]
+    },
+    {
+      "department_name": "动力工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "发电运行技术",
+          "level": "专科",
+          "school_special_id": "1592259"
+        },
+        {
+          "special_name": "热工自动化技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "热能动力工程技术",
+          "level": "专科",
+          "school_special_id": "1593423"
+        }
+      ]
+    },
+    {
+      "department_name": "新能源工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "分布式发电与智能微电网技术",
+          "level": "专科",
+          "school_special_id": "2021750"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "218565"
+        },
+        {
+          "special_name": "水电站机电设备与自动化",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "风力发电工程技术",
+          "level": "专科",
+          "school_special_id": "1592261"
+        }
+      ]
+    },
+    {
+      "department_name": "电网建设工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

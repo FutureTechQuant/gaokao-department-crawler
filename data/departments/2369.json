@@ -1,0 +1,159 @@
+{
+  "update_time": "2026-04-27 16:42:53",
+  "school_id": "2369",
+  "school_name": "南宁师范大学师园学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2369.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "e11cc045c6bae21ed1630da361749dd6",
+  "department_count": 7,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "中文系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "77219"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "1130783"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "77221"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "77220"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "77239"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "理工系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "地理科学",
+          "level": "本科",
+          "school_special_id": "77236"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "77223"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "77222"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "703317"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "703311"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "703321"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "77233"
+        }
+      ]
+    },
+    {
+      "department_name": "体育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "77231"
+        }
+      ]
+    },
+    {
+      "department_name": "教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "77237"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "77238"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "77226"
+        }
+      ]
+    }
+  ]
+}

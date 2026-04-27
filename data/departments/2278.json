@@ -1,0 +1,95 @@
+{
+  "update_time": "2026-04-27 16:41:54",
+  "school_id": "2278",
+  "school_name": "青海卫生职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2278.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "48da728c511d5999c11e506bf7ea26fe",
+  "department_count": 3,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "135839"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1597897"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1676754"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1978848"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1676757"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1676756"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1676758"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "75596"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1597899"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1597900"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1597898"
+        }
+      ]
+    }
+  ]
+}

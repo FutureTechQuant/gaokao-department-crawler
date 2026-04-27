@@ -1,0 +1,206 @@
+{
+  "update_time": "2026-04-27 16:43:38",
+  "school_id": "2434",
+  "school_name": "南昌医学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2434.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "65aa3a0dfc2b0dab8b4f73056d01a84f",
+  "department_count": 9,
+  "special_count": 28,
+  "data": [
+    {
+      "department_name": "临床医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "1801799"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "78605"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "2154031"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "本科",
+          "school_special_id": "1865143"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "保险学（健康保险方向）",
+          "level": "本科",
+          "school_special_id": "78597"
+        },
+        {
+          "special_name": "公共事业管理（健康管理与服务方向）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "公共事业管理（卫生法学方向）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "公共事业管理（卫生管理方向）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销（医药营销方向）",
+          "level": "本科",
+          "school_special_id": "78596"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "本科",
+          "school_special_id": "2012908"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "中医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "78602"
+        },
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "78601"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "78603"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "78599"
+        }
+      ]
+    },
+    {
+      "department_name": "健康管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "养老服务管理",
+          "level": "本科",
+          "school_special_id": "2154033"
+        },
+        {
+          "special_name": "助产学",
+          "level": "本科",
+          "school_special_id": "1800963"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "78605"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "78595"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "78598"
+        },
+        {
+          "special_name": "中药制药",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "检验医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "78604"
+        },
+        {
+          "special_name": "卫生检验与检疫技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学影像学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "78606"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "放射治疗技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

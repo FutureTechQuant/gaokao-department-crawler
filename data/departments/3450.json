@@ -1,0 +1,115 @@
+{
+  "update_time": "2026-04-27 16:50:58",
+  "school_id": "3450",
+  "school_name": "大同师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3450.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "c7aeb757ec4e8cad09d518c7a9d15da1",
+  "department_count": 8,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "中文系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "1860206"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1599726"
+        }
+      ]
+    },
+    {
+      "department_name": "数学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "小学数学教育",
+          "level": "专科",
+          "school_special_id": "1786616"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语教育",
+          "level": "专科",
+          "school_special_id": "1029277"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1679318"
+        }
+      ]
+    },
+    {
+      "department_name": "小学教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1679318"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "1599728"
+        }
+      ]
+    },
+    {
+      "department_name": "教育技术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "现代教育技术",
+          "level": "专科",
+          "school_special_id": "1029279"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1600646"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1029278"
+        }
+      ]
+    },
+    {
+      "department_name": "体育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1786618"
+        }
+      ]
+    }
+  ]
+}

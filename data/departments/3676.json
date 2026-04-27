@@ -1,0 +1,85 @@
+{
+  "update_time": "2026-04-27 16:53:15",
+  "school_id": "3676",
+  "school_name": "遂宁能源职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3676.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "de5564f8f0814bc7dbd54d830b58c421",
+  "department_count": 3,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "能源工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "发电厂及电力系统",
+          "level": "专科",
+          "school_special_id": "2159360"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2159361"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "2073347"
+        },
+        {
+          "special_name": "节电技术与管理",
+          "level": "专科",
+          "school_special_id": "2073348"
+        }
+      ]
+    },
+    {
+      "department_name": "化工与材料学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "2073349"
+        },
+        {
+          "special_name": "新能源材料应用技术",
+          "level": "专科",
+          "school_special_id": "2159362"
+        }
+      ]
+    },
+    {
+      "department_name": "数字经济学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "2073350"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2159363"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "2073351"
+        },
+        {
+          "special_name": "计算机应用技术（网络方向）",
+          "level": "专科",
+          "school_special_id": "2073352"
+        },
+        {
+          "special_name": "计算机应用技术（软件方向）",
+          "level": "专科",
+          "school_special_id": "2073352"
+        }
+      ]
+    }
+  ]
+}

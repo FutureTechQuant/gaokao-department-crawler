@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 16:36:11",
+  "school_id": "1786",
+  "school_name": "浙江邮电职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1786.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "2eed946ee7b40296383ed9e98ec0eab5",
+  "department_count": 3,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "电子与通信工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1713789"
+        },
+        {
+          "special_name": "智能产品开发与应用",
+          "level": "专科",
+          "school_special_id": "1750750"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1740793"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1740796"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "1750748"
+        },
+        {
+          "special_name": "通信工程设计与监理",
+          "level": "专科",
+          "school_special_id": "136092"
+        },
+        {
+          "special_name": "集成电路技术",
+          "level": "专科",
+          "school_special_id": "1750749"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "安全技术与管理",
+          "level": "专科",
+          "school_special_id": "219074"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "136078"
+        },
+        {
+          "special_name": "电信服务与管理",
+          "level": "专科",
+          "school_special_id": "136079"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1363046"
+        },
+        {
+          "special_name": "邮政快递智能技术",
+          "level": "专科",
+          "school_special_id": "1734096"
+        },
+        {
+          "special_name": "邮政快递运营管理",
+          "level": "专科",
+          "school_special_id": "1656169"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1656160"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1750751"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1656162"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1740792"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1740798"
+        }
+      ]
+    }
+  ]
+}

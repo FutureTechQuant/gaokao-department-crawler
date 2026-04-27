@@ -1,0 +1,61 @@
+{
+  "update_time": "2026-04-27 16:53:30",
+  "school_id": "3699",
+  "school_name": "宁夏交通职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3699.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "d21093e275998459ca589b8f1fb03aba",
+  "department_count": 4,
+  "special_count": 5,
+  "data": [
+    {
+      "department_name": "汽车工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2155079"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2155080"
+        }
+      ]
+    },
+    {
+      "department_name": "路桥工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "2155081"
+        }
+      ]
+    },
+    {
+      "department_name": "交通信息工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "智能交通技术",
+          "level": "专科",
+          "school_special_id": "2155083"
+        }
+      ]
+    },
+    {
+      "department_name": "轨道交通工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "2155082"
+        }
+      ]
+    }
+  ]
+}

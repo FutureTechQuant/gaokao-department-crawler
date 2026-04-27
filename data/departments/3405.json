@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 16:50:35",
+  "school_id": "3405",
+  "school_name": "云南特殊教育职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3405.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "2823c58b793d4dfb2d5227a038679c35",
+  "department_count": 3,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "特殊教育与公共服务系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1679266"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "1679541"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1731035"
+        },
+        {
+          "special_name": "社区康复",
+          "level": "专科",
+          "school_special_id": "133573"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "1731041"
+        },
+        {
+          "special_name": "民族传统技艺",
+          "level": "专科",
+          "school_special_id": "1031438"
+        },
+        {
+          "special_name": "美容美体艺术",
+          "level": "专科",
+          "school_special_id": "1031439"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1031436"
+        }
+      ]
+    },
+    {
+      "department_name": "经济信息系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1731037"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "网络舆情监测",
+          "level": "专科",
+          "school_special_id": "1731038"
+        }
+      ]
+    }
+  ]
+}

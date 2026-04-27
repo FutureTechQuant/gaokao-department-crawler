@@ -1,0 +1,223 @@
+{
+  "update_time": "2026-04-27 16:38:40",
+  "school_id": "1994",
+  "school_name": "湖南信息职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1994.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "1a501882e94aba3151a76b7bb7632d1c",
+  "department_count": 6,
+  "special_count": 35,
+  "data": [
+    {
+      "department_name": "电子工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "嵌入式技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "68152"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "68159"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "68156"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1534273"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "68153"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "1534274"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "2159161"
+        },
+        {
+          "special_name": "机械设计与制造",
+          "level": "专科",
+          "school_special_id": "68157"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "68163"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "68161"
+        }
+      ]
+    },
+    {
+      "department_name": "网络空间安全学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1620767"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1534275"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1534276"
+        },
+        {
+          "special_name": "计算机技术应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "68165"
+        }
+      ]
+    },
+    {
+      "department_name": "软件学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1620766"
+        },
+        {
+          "special_name": "区块链技术应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "移动互联应用技术",
+          "level": "专科",
+          "school_special_id": "68168"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "1359351"
+        },
+        {
+          "special_name": "软件技术(JAVA开发方向)",
+          "level": "专科",
+          "school_special_id": "68164"
+        },
+        {
+          "special_name": "软件技术(Web前端开发方向)",
+          "level": "专科",
+          "school_special_id": "68164"
+        }
+      ]
+    },
+    {
+      "department_name": "文化传播与艺术设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "68169"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "68170"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1926754"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "商务日语",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1520624"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "68174"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1533007"
+        }
+      ]
+    }
+  ]
+}

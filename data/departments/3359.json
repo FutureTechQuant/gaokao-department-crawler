@@ -1,0 +1,87 @@
+{
+  "update_time": "2026-04-27 16:50:08",
+  "school_id": "3359",
+  "school_name": "山东特殊教育职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3359.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "0d7f99aedfc5b67fa4fe08bd614b5625",
+  "department_count": 5,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "艺术设计系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1426775"
+        },
+        {
+          "special_name": "文物修复与保护",
+          "level": "专科",
+          "school_special_id": "1426776"
+        }
+      ]
+    },
+    {
+      "department_name": "服装艺术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "服装与工艺",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代家用纺织品设计",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学康复系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "126480"
+        }
+      ]
+    },
+    {
+      "department_name": "特殊教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "126478"
+        },
+        {
+          "special_name": "言语听觉康复技术",
+          "level": "专科",
+          "school_special_id": "1426780"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "126479"
+        }
+      ]
+    }
+  ]
+}

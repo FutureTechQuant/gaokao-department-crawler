@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 16:52:59",
+  "school_id": "3652",
+  "school_name": "定西职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3652.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "394b175fdd5857b5442b06ec99b4f547",
+  "department_count": 8,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "畜牧兽医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "2152406"
+        }
+      ]
+    },
+    {
+      "department_name": "现代农业学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "园艺",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经贸学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "休闲农业与经营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "电子信息学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "2152390"
+        }
+      ]
+    },
+    {
+      "department_name": "新能源技术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2159498"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "村镇建设与管理",
+          "level": "专科",
+          "school_special_id": "2152418"
+        }
+      ]
+    },
+    {
+      "department_name": "健康管理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "2159497"
+        },
+        {
+          "special_name": "中草药栽培与加工技术",
+          "level": "专科",
+          "school_special_id": "2152395"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "幼儿保育",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "2163168"
+        }
+      ]
+    }
+  ]
+}

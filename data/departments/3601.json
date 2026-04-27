@@ -1,0 +1,100 @@
+{
+  "update_time": "2026-04-27 16:52:26",
+  "school_id": "3601",
+  "school_name": "白银希望职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3601.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "82a358f29cc94ed106979e590ddcaa4b",
+  "department_count": 3,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "汽车与轨道交通系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "1802080"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1802078"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1802077"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1802079"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与财经商贸系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2037512"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1802084"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1802081"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1802085"
+        }
+      ]
+    },
+    {
+      "department_name": "健康管理与社会服务系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "1802086"
+        },
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "1802082"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "2037513"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1802083"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2062387"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "2037511"
+        }
+      ]
+    }
+  ]
+}

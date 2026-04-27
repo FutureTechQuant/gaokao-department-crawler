@@ -1,0 +1,115 @@
+{
+  "update_time": "2026-04-27 16:49:00",
+  "school_id": "3248",
+  "school_name": "南昌影视传播职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3248.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "a17d26defb2d25f28f942a352dd767b5",
+  "department_count": 3,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "音乐舞蹈系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "1031270"
+        },
+        {
+          "special_name": "舞蹈编导",
+          "level": "专科",
+          "school_special_id": "1789010"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1031275"
+        },
+        {
+          "special_name": "音乐剧表演",
+          "level": "专科",
+          "school_special_id": "1031282"
+        }
+      ]
+    },
+    {
+      "department_name": "文化管理系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "1703061"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1703062"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1378439"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "1031278"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "134163"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1031269"
+        }
+      ]
+    },
+    {
+      "department_name": "影视与艺术设计系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "1031272"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1789011"
+        },
+        {
+          "special_name": "影视动画",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "1031279"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1031273"
+        }
+      ]
+    }
+  ]
+}

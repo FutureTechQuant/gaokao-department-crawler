@@ -1,0 +1,87 @@
+{
+  "update_time": "2026-04-27 16:49:27",
+  "school_id": "3296",
+  "school_name": "太原幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3296.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "cf1875a06ef8a3885e192b751ddd66dc",
+  "department_count": 5,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "学前系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1697272"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "610561"
+        }
+      ]
+    },
+    {
+      "department_name": "美术系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "1029282"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "1786622"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1029281"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "1029283"
+        },
+        {
+          "special_name": "舞蹈编导",
+          "level": "专科",
+          "school_special_id": "2158968"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1029284"
+        }
+      ]
+    },
+    {
+      "department_name": "英语系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语教育",
+          "level": "专科",
+          "school_special_id": "610563"
+        }
+      ]
+    }
+  ]
+}

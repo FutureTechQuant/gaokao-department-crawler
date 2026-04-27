@@ -1,0 +1,137 @@
+{
+  "update_time": "2026-04-27 16:27:15",
+  "school_id": "823",
+  "school_name": "北京汇佳职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/823.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "163716473035fcdedce5bfab35b75bae",
+  "department_count": 5,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "教师学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2156553"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "128894"
+        }
+      ]
+    },
+    {
+      "department_name": "护理与康养学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "2156552"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "2037601"
+        },
+        {
+          "special_name": "护理（康养师方向）",
+          "level": "专科",
+          "school_special_id": "2037601"
+        }
+      ]
+    },
+    {
+      "department_name": "国际影视艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "2163110"
+        },
+        {
+          "special_name": "影视制片管理",
+          "level": "专科",
+          "school_special_id": "1656757"
+        },
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "2163111"
+        },
+        {
+          "special_name": "舞台艺术设计与制作",
+          "level": "专科",
+          "school_special_id": "1796172"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能工程师学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1593126"
+        },
+        {
+          "special_name": "城市轨道交通通信信号技术",
+          "level": "专科",
+          "school_special_id": "777895"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2156551"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1796169"
+        }
+      ]
+    },
+    {
+      "department_name": "数字经济与航空服务学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "1742476"
+        },
+        {
+          "special_name": "机场运行服务与管理",
+          "level": "专科",
+          "school_special_id": "1856844"
+        },
+        {
+          "special_name": "电子商务（数字化新居住运营 贝壳订单班）",
+          "level": "专科",
+          "school_special_id": "2152097"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1591613"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "1860054"
+        },
+        {
+          "special_name": "艺术设计（数字化整装家居 贝壳订单班）",
+          "level": "专科",
+          "school_special_id": "2156275"
+        }
+      ]
+    }
+  ]
+}

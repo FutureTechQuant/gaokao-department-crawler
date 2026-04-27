@@ -1,0 +1,118 @@
+{
+  "update_time": "2026-04-27 16:30:16",
+  "school_id": "1139",
+  "school_name": "南京警察学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1139.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "48b279b6e641a9b185793a113fb2ff02",
+  "department_count": 6,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "治安学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "治安学",
+          "level": "本科",
+          "school_special_id": "48715"
+        },
+        {
+          "special_name": "治安学（面向民航公安机关就业）",
+          "level": "本科",
+          "school_special_id": "48715"
+        },
+        {
+          "special_name": "治安学（面向长江航运公安机关就业）",
+          "level": "本科",
+          "school_special_id": "48715"
+        }
+      ]
+    },
+    {
+      "department_name": "侦查学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "侦查学",
+          "level": "本科",
+          "school_special_id": "48716"
+        },
+        {
+          "special_name": "侦查学（面向海关缉私机关就业）",
+          "level": "本科",
+          "school_special_id": "48716"
+        }
+      ]
+    },
+    {
+      "department_name": "刑事科学技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "刑事科学技术",
+          "level": "本科",
+          "school_special_id": "48709"
+        },
+        {
+          "special_name": "刑事科学技术（视听技术方向）",
+          "level": "本科",
+          "school_special_id": "48709"
+        },
+        {
+          "special_name": "食品药品环境犯罪侦查技术",
+          "level": "本科",
+          "school_special_id": "1532431"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "公安管理学",
+          "level": "本科",
+          "school_special_id": "48710"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "公安情报学",
+          "level": "本科",
+          "school_special_id": "48714"
+        },
+        {
+          "special_name": "公安情报学（面向海关缉私机关就业）",
+          "level": "本科",
+          "school_special_id": "48714"
+        },
+        {
+          "special_name": "数据警务技术",
+          "level": "本科",
+          "school_special_id": "1801734"
+        },
+        {
+          "special_name": "网络安全与执法",
+          "level": "本科",
+          "school_special_id": "48713"
+        }
+      ]
+    },
+    {
+      "department_name": "特警学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "警务指挥与战术",
+          "level": "本科",
+          "school_special_id": "48711"
+        }
+      ]
+    }
+  ]
+}

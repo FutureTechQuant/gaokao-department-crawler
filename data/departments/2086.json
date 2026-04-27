@@ -1,0 +1,163 @@
+{
+  "update_time": "2026-04-27 16:39:45",
+  "school_id": "2086",
+  "school_name": "四川铁道职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2086.json?a=www.gaokao.cn",
+  "time": "2025-09-26 18:02:36",
+  "md5": "719dac7a6f9d19613f37658867df0559",
+  "department_count": 6,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "机车\n车辆学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "动车组检修技术",
+          "level": "专科",
+          "school_special_id": "70372"
+        },
+        {
+          "special_name": "铁道养路机械应用技术",
+          "level": "专科",
+          "school_special_id": "2156004"
+        },
+        {
+          "special_name": "铁道机车车辆制造与维护",
+          "level": "专科",
+          "school_special_id": "2000283"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "1676615"
+        },
+        {
+          "special_name": "铁道车辆技术",
+          "level": "专科",
+          "school_special_id": "1785329"
+        }
+      ]
+    },
+    {
+      "department_name": "城市轨道\n交通学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "城市轨道交通机电技术",
+          "level": "专科",
+          "school_special_id": "1998862"
+        },
+        {
+          "special_name": "城市轨道交通车辆制造与维护",
+          "level": "专科",
+          "school_special_id": "1998861"
+        },
+        {
+          "special_name": "城市轨道车辆应用技术",
+          "level": "专科",
+          "school_special_id": "1676617"
+        }
+      ]
+    },
+    {
+      "department_name": "铁道\n工电学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "城市轨道交通供配电技术",
+          "level": "专科",
+          "school_special_id": "1031132"
+        },
+        {
+          "special_name": "铁道供电技术",
+          "level": "专科",
+          "school_special_id": "70374"
+        },
+        {
+          "special_name": "铁道工程技术",
+          "level": "专科",
+          "school_special_id": "70378"
+        },
+        {
+          "special_name": "高速铁路综合维修技术",
+          "level": "专科",
+          "school_special_id": "1676623"
+        }
+      ]
+    },
+    {
+      "department_name": "电信\n工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "70376"
+        },
+        {
+          "special_name": "铁道信号自动控制",
+          "level": "专科",
+          "school_special_id": "70375"
+        },
+        {
+          "special_name": "铁道通信与信息化技术",
+          "level": "专科",
+          "school_special_id": "70377"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能\n工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2167438"
+        },
+        {
+          "special_name": "智能产品开发与应用",
+          "level": "专科",
+          "school_special_id": "1676621"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "2167439"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "2000284"
+        }
+      ]
+    },
+    {
+      "department_name": "经济\n管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "供应链运营",
+          "level": "专科",
+          "school_special_id": "2013324"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1782068"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "70381"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "2156005"
+        }
+      ]
+    }
+  ]
+}

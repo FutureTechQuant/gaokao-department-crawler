@@ -1,0 +1,195 @@
+{
+  "update_time": "2026-04-27 16:49:11",
+  "school_id": "3271",
+  "school_name": "鄂尔多斯应用技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3271.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "51bb9515b37f25086144e31cd7f2275e",
+  "department_count": 8,
+  "special_count": 27,
+  "data": [
+    {
+      "department_name": "大飞机学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "交通运输",
+          "level": "本科",
+          "school_special_id": "126765"
+        },
+        {
+          "special_name": "交通运输（机场现场运行管理方向、航空管制方向）",
+          "level": "本科",
+          "school_special_id": "126765"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "126761"
+        },
+        {
+          "special_name": "机械工程（机务方向）",
+          "level": "本科",
+          "school_special_id": "126761"
+        },
+        {
+          "special_name": "汽车服务工程",
+          "level": "本科",
+          "school_special_id": "126762"
+        },
+        {
+          "special_name": "电子信息科学与技术（电子系统与机载设备方向）",
+          "level": "本科",
+          "school_special_id": "126754"
+        },
+        {
+          "special_name": "智能制造工程技术",
+          "level": "职本",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "电子信息科学与技术",
+          "level": "本科",
+          "school_special_id": "126754"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "126763"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "126764"
+        }
+      ]
+    },
+    {
+      "department_name": "土木工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "126758"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "126756"
+        },
+        {
+          "special_name": "矿物资源工程",
+          "level": "本科",
+          "school_special_id": "169296"
+        }
+      ]
+    },
+    {
+      "department_name": "化学工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "126759"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "126760"
+        },
+        {
+          "special_name": "材料化学",
+          "level": "本科",
+          "school_special_id": "126753"
+        }
+      ]
+    },
+    {
+      "department_name": "数学与计算机工程学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "126757"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "126755"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "旅游管理与服务教育",
+          "level": "本科",
+          "school_special_id": "126752"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "126751"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "1129917"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "564866"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "本科",
+          "school_special_id": "564867"
+        }
+      ]
+    },
+    {
+      "department_name": "医学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "126767"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "126766"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "201977"
+        },
+        {
+          "special_name": "眼视光学",
+          "level": "本科",
+          "school_special_id": "126768"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "update_time": "2026-04-27 16:41:10",
+  "school_id": "2213",
+  "school_name": "宿迁职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2213.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "0e82d7af14c865f975ceb4ccf4b84a7b",
+  "department_count": 5,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "互联网系",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "互联网金融",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1789748"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "129163"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "1750735"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "73857"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "73859"
+        },
+        {
+          "special_name": "电子商务技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "网络营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1031997"
+        }
+      ]
+    },
+    {
+      "department_name": "云计算系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "云计算技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "游戏系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "129161"
+        },
+        {
+          "special_name": "数字媒体应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能产品开发",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "网络工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "物联网工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1746246"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1746247"
+        }
+      ]
+    },
+    {
+      "department_name": "软件工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "1750740"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1750737"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "update_time": "2026-04-27 16:27:05",
+  "school_id": "805",
+  "school_name": "四川邮电职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/805.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "f8109a6d7c6a36c89aea3c959aabb6d0",
+  "department_count": 4,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "通信工程学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "通信工程",
+          "level": "职本",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1469517"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1620864"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "38637"
+        },
+        {
+          "special_name": "计算机网络技术(云计算方向)(中美合作办学)",
+          "level": "专科",
+          "school_special_id": "38637"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "38638"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "保险",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1799071"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "38629"
+        },
+        {
+          "special_name": "现代物业管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1620866"
+        },
+        {
+          "special_name": "电信服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1458073"
+        },
+        {
+          "special_name": "金融科技应用",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "军士教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1733786"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "1676602"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "update_time": "2026-04-27 16:28:45",
+  "school_id": "973",
+  "school_name": "广东新安职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/973.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "c6d6234e1397706c79fed2b5f3790418",
+  "department_count": 4,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1695569"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "132637"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "43798"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "43797"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "132629"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "132638"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1033117"
+        }
+      ]
+    },
+    {
+      "department_name": "医药健康学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1462283"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "576842"
+        },
+        {
+          "special_name": "药品生物技术",
+          "level": "专科",
+          "school_special_id": "132639"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1695554"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1695552"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "43802"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "43808"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1695561"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "43803"
+        },
+        {
+          "special_name": "现代物业管理",
+          "level": "专科",
+          "school_special_id": "1695546"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "43804"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "132635"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1462923"
+        }
+      ]
+    }
+  ]
+}

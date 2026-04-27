@@ -1,0 +1,127 @@
+{
+  "update_time": "2026-04-27 16:52:47",
+  "school_id": "3637",
+  "school_name": "吉安幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3637.json?a=www.gaokao.cn",
+  "time": "2026-03-13 15:36:06",
+  "md5": "78645fc1a0787f81ace3c88eb8906de9",
+  "department_count": 5,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "2167820"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2043682"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2154845"
+        },
+        {
+          "special_name": "早起教育",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "2166838"
+        },
+        {
+          "special_name": "网络直播与运营",
+          "level": "专科",
+          "school_special_id": "2166839"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "2163166"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2170915"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "2043683"
+        },
+        {
+          "special_name": "定制旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2167817"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "2043684"
+        },
+        {
+          "special_name": "文化创意与策划",
+          "level": "专科",
+          "school_special_id": "2167818"
+        }
+      ]
+    },
+    {
+      "department_name": "数字媒体学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2167819"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2156704"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2157164"
+        }
+      ]
+    },
+    {
+      "department_name": "工体部（体育学院）",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "2170916"
+        },
+        {
+          "special_name": "运动健康指导",
+          "level": "专科",
+          "school_special_id": "2170917"
+        }
+      ]
+    }
+  ]
+}

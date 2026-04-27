@@ -1,0 +1,127 @@
+{
+  "update_time": "2026-04-27 16:37:33",
+  "school_id": "1900",
+  "school_name": "厦门演艺职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1900.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "75dbee467524a34abfaaf162463edfa0",
+  "department_count": 5,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "音乐系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "现代流行音乐",
+          "level": "专科",
+          "school_special_id": "65532"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "1030599"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "国际标准舞(体育舞蹈)",
+          "level": "专科",
+          "school_special_id": "65525"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1030598"
+        }
+      ]
+    },
+    {
+      "department_name": "戏剧与音乐剧系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "65527"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "65526"
+        },
+        {
+          "special_name": "音乐剧表演",
+          "level": "专科",
+          "school_special_id": "699362"
+        }
+      ]
+    },
+    {
+      "department_name": "编导与创意系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "1799353"
+        },
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "65534"
+        },
+        {
+          "special_name": "影视编导",
+          "level": "专科",
+          "school_special_id": "65533"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1799354"
+        },
+        {
+          "special_name": "网络直播与运营",
+          "level": "专科",
+          "school_special_id": "1472850"
+        },
+        {
+          "special_name": "舞台美术设计与制作",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "社会文化系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育艺术表演",
+          "level": "专科",
+          "school_special_id": "2163133"
+        },
+        {
+          "special_name": "幼儿发展与健康管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "121887"
+        },
+        {
+          "special_name": "空乘服务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "update_time": "2026-04-27 16:24:57",
+  "school_id": "596",
+  "school_name": "河北医科大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/596.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:46",
+  "md5": "36a4e78a1b5f3be0537e563b58d30bfa",
+  "department_count": 10,
+  "special_count": 32,
+  "data": [
+    {
+      "department_name": "基础医学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "31553"
+        },
+        {
+          "special_name": "儿科学",
+          "level": "本科",
+          "school_special_id": "31568"
+        },
+        {
+          "special_name": "基础医学",
+          "level": "本科",
+          "school_special_id": "31566"
+        },
+        {
+          "special_name": "眼视光医学",
+          "level": "本科",
+          "school_special_id": "31567"
+        },
+        {
+          "special_name": "精神医学",
+          "level": "本科",
+          "school_special_id": "31564"
+        },
+        {
+          "special_name": "麻醉学",
+          "level": "本科",
+          "school_special_id": "31547"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "171006"
+        },
+        {
+          "special_name": "临床药学",
+          "level": "本科",
+          "school_special_id": "31552"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "31560"
+        },
+        {
+          "special_name": "药物分析",
+          "level": "本科",
+          "school_special_id": "31555"
+        },
+        {
+          "special_name": "药物制剂",
+          "level": "本科",
+          "school_special_id": "31556"
+        },
+        {
+          "special_name": "药物化学",
+          "level": "本科",
+          "school_special_id": "31569"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "卫生检验与检疫(4年制)",
+          "level": "本科",
+          "school_special_id": "31557"
+        },
+        {
+          "special_name": "妇幼保健医学(5年制)",
+          "level": "本科",
+          "school_special_id": "31570"
+        },
+        {
+          "special_name": "预防医学(5年制)",
+          "level": "本科",
+          "school_special_id": "31554"
+        },
+        {
+          "special_name": "食品卫生与营养学(4年制)",
+          "level": "本科",
+          "school_special_id": "31572"
+        }
+      ]
+    },
+    {
+      "department_name": "中西医结合学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "31563"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产学",
+          "level": "本科",
+          "school_special_id": "31571"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "31558"
+        }
+      ]
+    },
+    {
+      "department_name": "法医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法医学",
+          "level": "本科",
+          "school_special_id": "31551"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "31550"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "31562"
+        }
+      ]
+    },
+    {
+      "department_name": "医学影像学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学影像学",
+          "level": "本科",
+          "school_special_id": "31548"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "31561"
+        },
+        {
+          "special_name": "智能医学工程",
+          "level": "本科",
+          "school_special_id": "1513408"
+        }
+      ]
+    },
+    {
+      "department_name": "临床学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "31563"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "31553"
+        },
+        {
+          "special_name": "医学影像学",
+          "level": "本科",
+          "school_special_id": "31548"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "31550"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "31549"
+        },
+        {
+          "special_name": "麻醉学",
+          "level": "本科",
+          "school_special_id": "31547"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "31549"
+        }
+      ]
+    }
+  ]
+}

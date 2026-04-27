@@ -1,0 +1,141 @@
+{
+  "update_time": "2026-04-27 16:39:13",
+  "school_id": "2037",
+  "school_name": "湖南电气职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2037.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "442cb1581bb7a97e7e1b9a9e9cca1cdb",
+  "department_count": 4,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "电梯工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "城市轨道交通机电技术",
+          "level": "专科",
+          "school_special_id": "69218"
+        },
+        {
+          "special_name": "工业互联网应用",
+          "level": "专科",
+          "school_special_id": "2150069"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "69215"
+        },
+        {
+          "special_name": "机械设计与制造",
+          "level": "专科",
+          "school_special_id": "69214"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "69216"
+        },
+        {
+          "special_name": "电梯工程技术",
+          "level": "专科",
+          "school_special_id": "69213"
+        }
+      ]
+    },
+    {
+      "department_name": "风能工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1132184"
+        },
+        {
+          "special_name": "新能源装备技术",
+          "level": "专科",
+          "school_special_id": "69210"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "69217"
+        },
+        {
+          "special_name": "电机与电器技术",
+          "level": "专科",
+          "school_special_id": "69211"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "69212"
+        },
+        {
+          "special_name": "输配电工程技术",
+          "level": "专科",
+          "school_special_id": "2150068"
+        },
+        {
+          "special_name": "风力发电工程技术",
+          "level": "专科",
+          "school_special_id": "1692527"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1692523"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1692526"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "69226"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1359527"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "69220"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1692536"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1692538"
+        },
+        {
+          "special_name": "汽车智能技术",
+          "level": "专科",
+          "school_special_id": "1028842"
+        }
+      ]
+    }
+  ]
+}

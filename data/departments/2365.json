@@ -1,0 +1,240 @@
+{
+  "update_time": "2026-04-27 16:42:49",
+  "school_id": "2365",
+  "school_name": "广西幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2365.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "7ccc37a0f739f16c88f0e9fcd47b0439",
+  "department_count": 8,
+  "special_count": 36,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "77116"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "77101"
+        }
+      ]
+    },
+    {
+      "department_name": "初等教育学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "1511013"
+        },
+        {
+          "special_name": "小学教育(师范)",
+          "level": "专科",
+          "school_special_id": "77106"
+        },
+        {
+          "special_name": "小学英语教育(师范)",
+          "level": "专科",
+          "school_special_id": "1535596"
+        },
+        {
+          "special_name": "小学语文教育(师范)",
+          "level": "专科",
+          "school_special_id": "1535595"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "77095"
+        },
+        {
+          "special_name": "现代教育技术(师范)",
+          "level": "专科",
+          "school_special_id": "1363181"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1799012"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2159608"
+        }
+      ]
+    },
+    {
+      "department_name": "特殊教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "77112"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "2095217"
+        },
+        {
+          "special_name": "社区康复(ABA方向)",
+          "level": "专科",
+          "school_special_id": "127342"
+        },
+        {
+          "special_name": "社区康复(儿童康复方向）",
+          "level": "专科",
+          "school_special_id": "127342"
+        }
+      ]
+    },
+    {
+      "department_name": "运动科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "77102"
+        },
+        {
+          "special_name": "体育艺术表演",
+          "level": "专科",
+          "school_special_id": "2162993"
+        },
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1472736"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1533227"
+        }
+      ]
+    },
+    {
+      "department_name": "托育服务与康养学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1472736"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1533227"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "77101"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1799010"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐舞蹈学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "77097"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "77099"
+        },
+        {
+          "special_name": "舞蹈表演(儿童舞蹈表演与编导方向）",
+          "level": "专科",
+          "school_special_id": "77099"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "1029498"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "77103"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "77098"
+        }
+      ]
+    },
+    {
+      "department_name": "美术设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "77091"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1038589"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "77114"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "77115"
+        }
+      ]
+    },
+    {
+      "department_name": "儿童艺术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "2162994"
+        },
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "77109"
+        },
+        {
+          "special_name": "音乐制作",
+          "level": "专科",
+          "school_special_id": "1799503"
+        }
+      ]
+    }
+  ]
+}

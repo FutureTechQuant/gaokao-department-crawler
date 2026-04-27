@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 16:52:59",
+  "school_id": "3653",
+  "school_name": "喀什理工职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3653.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "7e13e349f741a8ee89e204dbc1beff2c",
+  "department_count": 5,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "健康护理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "2148604"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2156735"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2148603"
+        }
+      ]
+    },
+    {
+      "department_name": "电子信息系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "2156736"
+        },
+        {
+          "special_name": "视觉传达设计(艺术类）",
+          "level": "专科",
+          "school_special_id": "2160088"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2148602"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2156737"
+        }
+      ]
+    },
+    {
+      "department_name": "土木工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "2148599"
+        },
+        {
+          "special_name": "建筑钢结构工程技术",
+          "level": "专科",
+          "school_special_id": "2156734"
+        }
+      ]
+    },
+    {
+      "department_name": "机械电气系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2148600"
+        },
+        {
+          "special_name": "电力系统自动化技术",
+          "level": "专科",
+          "school_special_id": "2156733"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "2148601"
+        }
+      ]
+    }
+  ]
+}

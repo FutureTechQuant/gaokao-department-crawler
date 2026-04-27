@@ -1,0 +1,239 @@
+{
+  "update_time": "2026-04-27 16:35:56",
+  "school_id": "1765",
+  "school_name": "浙江药科职业大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1765.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "bc0eed33861dc265aedb18fd3a2392b3",
+  "department_count": 7,
+  "special_count": 37,
+  "data": [
+    {
+      "department_name": "药学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "药学",
+          "level": "职本",
+          "school_special_id": "2155658"
+        },
+        {
+          "special_name": "药物分析",
+          "level": "职本",
+          "school_special_id": "2155660"
+        },
+        {
+          "special_name": "药物制剂",
+          "level": "职本",
+          "school_special_id": "2155659"
+        },
+        {
+          "special_name": "药品质量与安全",
+          "level": "专科",
+          "school_special_id": "1030411"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "141837"
+        }
+      ]
+    },
+    {
+      "department_name": "制药工程与生物技术学院、化妆品学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "制药工程技术",
+          "level": "职本",
+          "school_special_id": "2155661"
+        },
+        {
+          "special_name": "化妆品工程技术",
+          "level": "职本",
+          "school_special_id": "2155663"
+        },
+        {
+          "special_name": "合成生物技术",
+          "level": "职本",
+          "school_special_id": "2155662"
+        },
+        {
+          "special_name": "制药设备应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "化妆品技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "化妆品经营与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "化妆品质量与安全",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药商学院、医药数字化技术学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "企业数字化管理",
+          "level": "职本",
+          "school_special_id": "2155666"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "职本",
+          "school_special_id": "2155667"
+        },
+        {
+          "special_name": "药事服务与管理",
+          "level": "职本",
+          "school_special_id": "2155665"
+        },
+        {
+          "special_name": "药品质量管理",
+          "level": "职本",
+          "school_special_id": "2155664"
+        },
+        {
+          "special_name": "国际经济与贸易(健康产品)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品质量与安全(药事管理)",
+          "level": "专科",
+          "school_special_id": "1030411"
+        },
+        {
+          "special_name": "食品药品监督管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "中药学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药制药",
+          "level": "职本",
+          "school_special_id": "2155668"
+        },
+        {
+          "special_name": "中药学",
+          "level": "职本",
+          "school_special_id": "2155670"
+        },
+        {
+          "special_name": "中药材生产与加工",
+          "level": "职本",
+          "school_special_id": "2155669"
+        },
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "2158253"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "141842"
+        }
+      ]
+    },
+    {
+      "department_name": "食品学院、健康管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "智慧健康养老管理",
+          "level": "职本",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "食品工程技术",
+          "level": "职本",
+          "school_special_id": "2155672"
+        },
+        {
+          "special_name": "食品营养与健康",
+          "level": "职本",
+          "school_special_id": "2155673"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "职本",
+          "school_special_id": "2155671"
+        },
+        {
+          "special_name": "食品智能加工技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医疗器械学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医疗器械工程技术",
+          "level": "职本",
+          "school_special_id": "2155674"
+        },
+        {
+          "special_name": "康复辅助器具技术",
+          "level": "职本",
+          "school_special_id": "2155676"
+        },
+        {
+          "special_name": "新材料与应用技术",
+          "level": "职本",
+          "school_special_id": "2155675"
+        },
+        {
+          "special_name": "医疗器械经营与服务",
+          "level": "专科",
+          "school_special_id": "1713778"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理",
+          "level": "职本",
+          "school_special_id": "2155657"
+        }
+      ]
+    }
+  ]
+}

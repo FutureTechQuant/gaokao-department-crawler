@@ -1,0 +1,110 @@
+{
+  "update_time": "2026-04-27 16:36:38",
+  "school_id": "1822",
+  "school_name": "安徽体育运动职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1822.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "13dd38fe3557462153f74d3ddad4be7e",
+  "department_count": 3,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "运动训练系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "1472884"
+        },
+        {
+          "special_name": "冰雪运动与管理",
+          "level": "专科",
+          "school_special_id": "2148676"
+        },
+        {
+          "special_name": "民族传统体育",
+          "level": "专科",
+          "school_special_id": "1035809"
+        },
+        {
+          "special_name": "电子竞技运动与管理",
+          "level": "专科",
+          "school_special_id": "131633"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "2160559"
+        }
+      ]
+    },
+    {
+      "department_name": "社会体育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "1035808"
+        },
+        {
+          "special_name": "体育表演艺术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "131631"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "63473"
+        }
+      ]
+    },
+    {
+      "department_name": "体育教育管理系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "休闲服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "63475"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "63470"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "63471"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "131630"
+        },
+        {
+          "special_name": "老年服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "运动健康与指导",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

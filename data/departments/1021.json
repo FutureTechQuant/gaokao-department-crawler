@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 16:29:17",
+  "school_id": "1021",
+  "school_name": "福建中医药大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1021.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:46",
+  "md5": "1dfa6223839b4fac0deea23d6d4656eb",
+  "department_count": 6,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "中医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医学(5+3一体化)",
+          "level": "本科",
+          "school_special_id": "45287"
+        },
+        {
+          "special_name": "中医学(五年制)",
+          "level": "本科",
+          "school_special_id": "45287"
+        },
+        {
+          "special_name": "中医骨伤科学",
+          "level": "本科",
+          "school_special_id": "1131110"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "45274"
+        },
+        {
+          "special_name": "制药工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "45273"
+        },
+        {
+          "special_name": "药物制剂",
+          "level": "本科",
+          "school_special_id": "45271"
+        },
+        {
+          "special_name": "食品科学与工程",
+          "level": "本科",
+          "school_special_id": "580567"
+        }
+      ]
+    },
+    {
+      "department_name": "针灸推拿学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "45268"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "148384"
+        },
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "580568"
+        },
+        {
+          "special_name": "公共事业管理(设卫生管理、医事法律、健康保险等特色教学模块)",
+          "level": "本科",
+          "school_special_id": "148378"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "45276"
+        }
+      ]
+    },
+    {
+      "department_name": "康复医学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "听力与言语康复学",
+          "level": "本科",
+          "school_special_id": "148377"
+        },
+        {
+          "special_name": "康复作业治疗",
+          "level": "本科",
+          "school_special_id": "168839"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "148383"
+        },
+        {
+          "special_name": "康复物理治疗",
+          "level": "本科",
+          "school_special_id": "165544"
+        }
+      ]
+    }
+  ]
+}

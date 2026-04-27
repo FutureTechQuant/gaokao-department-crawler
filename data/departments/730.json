@@ -1,0 +1,214 @@
+{
+  "update_time": "2026-04-27 16:26:17",
+  "school_id": "730",
+  "school_name": "廊坊职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/730.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "d7dabb29807291bf6ba5e90f81bd1f40",
+  "department_count": 7,
+  "special_count": 32,
+  "data": [
+    {
+      "department_name": "计算机科学与工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "云计算技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1029120"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "35862"
+        }
+      ]
+    },
+    {
+      "department_name": "商务管理系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "35884"
+        },
+        {
+          "special_name": "旅游管理(含酒店管理方向)",
+          "level": "专科",
+          "school_special_id": "35875"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1514022"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "35874"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1513822"
+        }
+      ]
+    },
+    {
+      "department_name": "财会金融系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "会计(云财务会计师方向)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车整形技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车电子技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车运用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "动物科学与技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "宠物养护与驯导",
+          "level": "专科",
+          "school_special_id": "1792992"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "140175"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "35867"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "城建工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "园林技术(园林规划与设计方向)",
+          "level": "专科",
+          "school_special_id": "1860510"
+        },
+        {
+          "special_name": "园艺技术(观光服务方向)",
+          "level": "专科",
+          "school_special_id": "140163"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "35881"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "140173"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "35880"
+        }
+      ]
+    },
+    {
+      "department_name": "文化传媒与服务系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "广告设计与制作",
+          "level": "专科",
+          "school_special_id": "140167"
+        },
+        {
+          "special_name": "文秘速录",
+          "level": "专科",
+          "school_special_id": "35893"
+        },
+        {
+          "special_name": "民族传统技艺(风筝方向)",
+          "level": "专科",
+          "school_special_id": "1860520"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "35861"
+        }
+      ]
+    }
+  ]
+}

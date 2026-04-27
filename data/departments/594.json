@@ -1,0 +1,114 @@
+{
+  "update_time": "2026-04-27 16:24:55",
+  "school_id": "594",
+  "school_name": "国际关系学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/594.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:48",
+  "md5": "406ca1a3fb920d99b31ac41d18b77fe6",
+  "department_count": 7,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "国际政治系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "国际政治",
+          "level": "本科",
+          "school_special_id": "1668600"
+        }
+      ]
+    },
+    {
+      "department_name": "文化与传播系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "1668601"
+        }
+      ]
+    },
+    {
+      "department_name": "公共管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "政治学、经济学与哲学",
+          "level": "本科",
+          "school_special_id": "2012299"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "1668656"
+        }
+      ]
+    },
+    {
+      "department_name": "网络空间安全学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "2153380"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1668657"
+        },
+        {
+          "special_name": "网络空间安全",
+          "level": "本科",
+          "school_special_id": "1676945"
+        }
+      ]
+    },
+    {
+      "department_name": "经济金融学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "1668655"
+        }
+      ]
+    },
+    {
+      "department_name": "法学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "1673358"
+        }
+      ]
+    },
+    {
+      "department_name": "外语学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "31461"
+        },
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "1676793"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "1668602"
+        }
+      ]
+    }
+  ]
+}

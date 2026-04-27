@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 16:51:45",
+  "school_id": "3522",
+  "school_name": "广西物流职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3522.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "bb0b29699451ea616ff6138f76ce9ee9",
+  "department_count": 4,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "物流管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "供应链运营",
+          "level": "专科",
+          "school_special_id": "1866361"
+        },
+        {
+          "special_name": "智能物流技术",
+          "level": "专科",
+          "school_special_id": "1866362"
+        },
+        {
+          "special_name": "物流工程技术",
+          "level": "专科",
+          "school_special_id": "1471494"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1471493"
+        }
+      ]
+    },
+    {
+      "department_name": "物流交通学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车检测与维修",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1471495"
+        }
+      ]
+    },
+    {
+      "department_name": "生态环保学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1894937"
+        },
+        {
+          "special_name": "环境工程技术(含水处理方向)",
+          "level": "专科",
+          "school_special_id": "1365090"
+        }
+      ]
+    },
+    {
+      "department_name": "物流金融学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1471497"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1894071"
+        },
+        {
+          "special_name": "财富管理",
+          "level": "专科",
+          "school_special_id": "1894070"
+        }
+      ]
+    }
+  ]
+}

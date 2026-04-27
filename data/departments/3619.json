@@ -1,0 +1,86 @@
+{
+  "update_time": "2026-04-27 16:52:35",
+  "school_id": "3619",
+  "school_name": "上海科创职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3619.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "07508a129897f371bd3b783a335b5cf5",
+  "department_count": 4,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "智能制造学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "2013411"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2013410"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "2013406"
+        },
+        {
+          "special_name": "电气自动化",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "智慧服务学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "烹饪工艺与营养",
+          "level": "专科",
+          "school_special_id": "2013407"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2153254"
+        }
+      ]
+    },
+    {
+      "department_name": "智能汽车学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2013405"
+        },
+        {
+          "special_name": "智能网联汽车",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "智能建造学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "2013409"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "2013408"
+        }
+      ]
+    }
+  ]
+}

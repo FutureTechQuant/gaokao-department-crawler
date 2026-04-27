@@ -1,0 +1,131 @@
+{
+  "update_time": "2026-04-27 16:51:40",
+  "school_id": "3515",
+  "school_name": "汝州职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3515.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "f5ee766363af8aad435a34f4448bafc2",
+  "department_count": 4,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "信息工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1799978"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2063822"
+        },
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1799979"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1799975"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1799981"
+        }
+      ]
+    },
+    {
+      "department_name": "陶瓷艺术系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "美容美体艺术",
+          "level": "专科",
+          "school_special_id": "1799984"
+        },
+        {
+          "special_name": "陶瓷制造技术与工艺",
+          "level": "专科",
+          "school_special_id": "1799987"
+        },
+        {
+          "special_name": "陶瓷设计与工艺",
+          "level": "专科",
+          "school_special_id": "1383896"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "1799974"
+        },
+        {
+          "special_name": "高速铁路客运乘务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造与工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "包装工程技术",
+          "level": "专科",
+          "school_special_id": "2070250"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2061501"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "1472631"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1799980"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1799985"
+        }
+      ]
+    },
+    {
+      "department_name": "经管与牧业系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1799976"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1383895"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "1799986"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,284 @@
+{
+  "update_time": "2026-04-27 16:31:51",
+  "school_id": "1307",
+  "school_name": "黄河交通学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1307.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "257ffd41e16c817797aca509f44e421a",
+  "department_count": 7,
+  "special_count": 46,
+  "data": [
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "思想政治教育",
+          "level": "本科",
+          "school_special_id": "170060"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "交通运输",
+          "level": "本科",
+          "school_special_id": "52738"
+        },
+        {
+          "special_name": "新能源汽车工程",
+          "level": "本科",
+          "school_special_id": "2011679"
+        },
+        {
+          "special_name": "智能车辆工程",
+          "level": "本科",
+          "school_special_id": "2154262"
+        },
+        {
+          "special_name": "汽车服务工程",
+          "level": "本科",
+          "school_special_id": "52732"
+        },
+        {
+          "special_name": "汽车维修工程教育",
+          "level": "本科",
+          "school_special_id": "159549"
+        },
+        {
+          "special_name": "能源与动力工程",
+          "level": "本科",
+          "school_special_id": "52730"
+        },
+        {
+          "special_name": "车辆工程",
+          "level": "本科",
+          "school_special_id": "52727"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2158775"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "52743"
+        }
+      ]
+    },
+    {
+      "department_name": "交通工程学院",
+      "special_num": 11,
+      "special": [
+        {
+          "special_name": "交通工程",
+          "level": "本科",
+          "school_special_id": "52728"
+        },
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "52723"
+        },
+        {
+          "special_name": "地理空间信息工程",
+          "level": "本科",
+          "school_special_id": "2154264"
+        },
+        {
+          "special_name": "城市地下空间工程",
+          "level": "本科",
+          "school_special_id": "159551"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "52724"
+        },
+        {
+          "special_name": "智能建造与智慧交通",
+          "level": "本科",
+          "school_special_id": "2012251"
+        },
+        {
+          "special_name": "测绘工程",
+          "level": "本科",
+          "school_special_id": "159552"
+        },
+        {
+          "special_name": "道路桥梁与渡河工程",
+          "level": "本科",
+          "school_special_id": "52726"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "52740"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "1792080"
+        }
+      ]
+    },
+    {
+      "department_name": "智能工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "159558"
+        },
+        {
+          "special_name": "智能科学与技术",
+          "level": "本科",
+          "school_special_id": "1130536"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "159550"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "170057"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "52721"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "52768"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1130538"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "170055"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "交通管理",
+          "level": "本科",
+          "school_special_id": "159555"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "1130537"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "52729"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "159557"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "159554"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "170059"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1792084"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "159566"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "智能制造工程",
+          "level": "本科",
+          "school_special_id": "2154261"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "170056"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "159548"
+        },
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "52731"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "52739"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "52725"
+        },
+        {
+          "special_name": "飞行器制造工程",
+          "level": "本科",
+          "school_special_id": "159553"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1792085"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "52775"
+        }
+      ]
+    }
+  ]
+}

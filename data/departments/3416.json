@@ -1,0 +1,392 @@
+{
+  "update_time": "2026-04-27 16:50:42",
+  "school_id": "3416",
+  "school_name": "辽宁生态工程职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3416.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "8782d75c90d187fddaa283399a41f32d",
+  "department_count": 10,
+  "special_count": 64,
+  "data": [
+    {
+      "department_name": "林学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "林业信息技术应用",
+          "level": "专科",
+          "school_special_id": "1515726"
+        },
+        {
+          "special_name": "林业技术",
+          "level": "专科",
+          "school_special_id": "171887"
+        },
+        {
+          "special_name": "森林和草原资源保护",
+          "level": "专科",
+          "school_special_id": "1515745"
+        },
+        {
+          "special_name": "环境工程技术",
+          "level": "专科",
+          "school_special_id": "171891"
+        },
+        {
+          "special_name": "环境监测技术",
+          "level": "专科",
+          "school_special_id": "1515746"
+        },
+        {
+          "special_name": "环境管理与评价",
+          "level": "专科",
+          "school_special_id": "1515747"
+        },
+        {
+          "special_name": "生态环境修复技术",
+          "level": "专科",
+          "school_special_id": "1515748"
+        }
+      ]
+    },
+    {
+      "department_name": "农牧学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "农产品加工与质量检测",
+          "level": "专科",
+          "school_special_id": "1515734"
+        },
+        {
+          "special_name": "动物营养与饲料",
+          "level": "专科",
+          "school_special_id": "1515728"
+        },
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "1515730"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "171923"
+        },
+        {
+          "special_name": "食品智能加工技术",
+          "level": "专科",
+          "school_special_id": "1515729"
+        }
+      ]
+    },
+    {
+      "department_name": "园林学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "园林工程技术",
+          "level": "专科",
+          "school_special_id": "171896"
+        },
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "171894"
+        },
+        {
+          "special_name": "园林技术（规划设计方向）",
+          "level": "专科",
+          "school_special_id": "171894"
+        },
+        {
+          "special_name": "园艺技术（商品花卉方向）",
+          "level": "专科",
+          "school_special_id": "171898"
+        },
+        {
+          "special_name": "风景园林设计",
+          "level": "专科",
+          "school_special_id": "171895"
+        }
+      ]
+    },
+    {
+      "department_name": "水利工程学院",
+      "special_num": 11,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "171910"
+        },
+        {
+          "special_name": "市政工程技术",
+          "level": "专科",
+          "school_special_id": "171935"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "171908"
+        },
+        {
+          "special_name": "建筑工程技术（BIM）",
+          "level": "专科",
+          "school_special_id": "171908"
+        },
+        {
+          "special_name": "建设工程监理",
+          "level": "专科",
+          "school_special_id": "171925"
+        },
+        {
+          "special_name": "水利工程",
+          "level": "专科",
+          "school_special_id": "171924"
+        },
+        {
+          "special_name": "水利工程（城市水利工程）",
+          "level": "专科",
+          "school_special_id": "171924"
+        },
+        {
+          "special_name": "水利水电工程技术",
+          "level": "专科",
+          "school_special_id": "1515735"
+        },
+        {
+          "special_name": "水利水电建筑工程",
+          "level": "专科",
+          "school_special_id": "171926"
+        },
+        {
+          "special_name": "水利水电建筑工程（工程质量检测方向）",
+          "level": "专科",
+          "school_special_id": "171926"
+        },
+        {
+          "special_name": "水生态修复技术",
+          "level": "专科",
+          "school_special_id": "2022538"
+        }
+      ]
+    },
+    {
+      "department_name": "电气工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "供用电技术",
+          "level": "专科",
+          "school_special_id": "171928"
+        },
+        {
+          "special_name": "分布式发电与智能微电网技术",
+          "level": "专科",
+          "school_special_id": "1515732"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "1230165"
+        },
+        {
+          "special_name": "机电设备维修与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "水电站动力设备",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "木材工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "会展策划与管理",
+          "level": "专科",
+          "school_special_id": "171900"
+        },
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "171901"
+        },
+        {
+          "special_name": "家具设计与制造",
+          "level": "专科",
+          "school_special_id": "171902"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "171939"
+        },
+        {
+          "special_name": "木材加工技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "生态旅游学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "171905"
+        },
+        {
+          "special_name": "森林生态旅游与康养",
+          "level": "专科",
+          "school_special_id": "1515733"
+        },
+        {
+          "special_name": "森林生态旅游与康养（原森林生态旅游（马术休闲骑乘）",
+          "level": "专科",
+          "school_special_id": "1515733"
+        },
+        {
+          "special_name": "西式烹饪工艺",
+          "level": "专科",
+          "school_special_id": "1515737"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1515738"
+        }
+      ]
+    },
+    {
+      "department_name": "环境设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "建筑动画技术",
+          "level": "专科",
+          "school_special_id": "1515739"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "171913"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "171912"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "171911"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "云计算技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机人工智能应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1230168"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "171919"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "通信技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "党务工作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1515742"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "171932"
+        },
+        {
+          "special_name": "现代物业管理",
+          "level": "专科",
+          "school_special_id": "1515405"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1515743"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "171916"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "171917"
+        },
+        {
+          "special_name": "跨境电商",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

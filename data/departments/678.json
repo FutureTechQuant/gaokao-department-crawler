@@ -1,0 +1,299 @@
+{
+  "update_time": "2026-04-27 16:25:43",
+  "school_id": "678",
+  "school_name": "山东医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/678.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "37ad28e1585f5f8e61d6d0c7796c3fea",
+  "department_count": 12,
+  "special_count": 43,
+  "data": [
+    {
+      "department_name": "基础医学教学部(临沂校区)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1981777"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "172707"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "121931"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学系(临沂校区)",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "34183"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系(临沂校区)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "34191"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1786628"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系(临沂校区)",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1786630"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "34211"
+        }
+      ]
+    },
+    {
+      "department_name": "医学检验系(临沂校区)",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "34190"
+        },
+        {
+          "special_name": "医学生物技术",
+          "level": "专科",
+          "school_special_id": "1426649"
+        },
+        {
+          "special_name": "卫生检验与检疫技术",
+          "level": "专科",
+          "school_special_id": "34186"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1786627"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系(临沂校区)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "34197"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "34194"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "34199"
+        }
+      ]
+    },
+    {
+      "department_name": "健康与康复系(临沂校区)",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1787350"
+        },
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1981778"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "34201"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "34187"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "172706"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系(济南校区)",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "34197"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "34194"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "34199"
+        }
+      ]
+    },
+    {
+      "department_name": "医学检验系(济南校区)",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "34190"
+        },
+        {
+          "special_name": "医学生物技术",
+          "level": "专科",
+          "school_special_id": "1426649"
+        },
+        {
+          "special_name": "卫生检验与检疫技术",
+          "level": "专科",
+          "school_special_id": "34186"
+        },
+        {
+          "special_name": "职业健康安全技术",
+          "level": "专科",
+          "school_special_id": "2152068"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "121931"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1981779"
+        }
+      ]
+    },
+    {
+      "department_name": "医学影像系(济南校区)",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1981777"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "34201"
+        },
+        {
+          "special_name": "放射治疗技术",
+          "level": "专科",
+          "school_special_id": "121922"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1786627"
+        }
+      ]
+    },
+    {
+      "department_name": "医学系(济南校区)",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1787350"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "34183"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1786630"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "34187"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "34188"
+        },
+        {
+          "special_name": "社区康复",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "172706"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系(济南校区)",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "34211"
+        }
+      ]
+    }
+  ]
+}

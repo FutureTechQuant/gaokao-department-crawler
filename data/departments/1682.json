@@ -1,0 +1,210 @@
+{
+  "update_time": "2026-04-27 16:35:03",
+  "school_id": "1682",
+  "school_name": "盘锦职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1682.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "13cb5ced5c7e7793d6a7490f72017de3",
+  "department_count": 8,
+  "special_count": 30,
+  "data": [
+    {
+      "department_name": "医疗护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "130442"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1856815"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "60529"
+        },
+        {
+          "special_name": "护理(老年方向)",
+          "level": "专科",
+          "school_special_id": "60529"
+        }
+      ]
+    },
+    {
+      "department_name": "师范教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2022232"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "60532"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "60531"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "60520"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "60519"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1620018"
+        },
+        {
+          "special_name": "定制旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "60530"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1620019"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "1856814"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "2022231"
+        },
+        {
+          "special_name": "智能机器人技术",
+          "level": "专科",
+          "school_special_id": "1472319"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1597851"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1671755"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1856812"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "60522"
+        }
+      ]
+    },
+    {
+      "department_name": "化学工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "化工安全技术",
+          "level": "专科",
+          "school_special_id": "1597847"
+        },
+        {
+          "special_name": "化工装备技术",
+          "level": "专科",
+          "school_special_id": "60516"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "60513"
+        },
+        {
+          "special_name": "石油化工技术",
+          "level": "专科",
+          "school_special_id": "60514"
+        },
+        {
+          "special_name": "精细化工技术",
+          "level": "专科",
+          "school_special_id": "60515"
+        }
+      ]
+    },
+    {
+      "department_name": "石油工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "油气储运技术",
+          "level": "专科",
+          "school_special_id": "60518"
+        },
+        {
+          "special_name": "油气智能开采技术",
+          "level": "专科",
+          "school_special_id": "1597853"
+        },
+        {
+          "special_name": "石油工程技术",
+          "level": "专科",
+          "school_special_id": "1597845"
+        }
+      ]
+    },
+    {
+      "department_name": "信息学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "1856813"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "60525"
+        }
+      ]
+    }
+  ]
+}

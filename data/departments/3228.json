@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 16:48:48",
+  "school_id": "3228",
+  "school_name": "辽宁民族师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3228.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "39d00bba200821025565d890c5663139",
+  "department_count": 4,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "(沈阳校区)教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "125289"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1597298"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "(阜新校区)教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "125306"
+        }
+      ]
+    },
+    {
+      "department_name": "(沈阳校区)民族文化与职业教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应用韩语",
+          "level": "专科",
+          "school_special_id": "125292"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1715232"
+        }
+      ]
+    },
+    {
+      "department_name": "(阜新校区)民族文化与职业教育系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中国少数民族语言文化",
+          "level": "专科",
+          "school_special_id": "1030174"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1600663"
+        },
+        {
+          "special_name": "民族表演艺术",
+          "level": "专科",
+          "school_special_id": "1030173"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "125308"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1715231"
+        }
+      ]
+    }
+  ]
+}

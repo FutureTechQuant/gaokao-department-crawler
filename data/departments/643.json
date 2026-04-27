@@ -1,0 +1,168 @@
+{
+  "update_time": "2026-04-27 16:25:24",
+  "school_id": "643",
+  "school_name": "广东东软学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/643.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "09bc300709d4d8194ed61a3f60bb66fe",
+  "department_count": 6,
+  "special_count": 24,
+  "data": [
+    {
+      "department_name": "计算机学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1515302"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "1801315"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "33329"
+        },
+        {
+          "special_name": "网络工程",
+          "level": "本科",
+          "school_special_id": "33327"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "1521569"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "33323"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "33341"
+        }
+      ]
+    },
+    {
+      "department_name": "信息管理与工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "159680"
+        },
+        {
+          "special_name": "大数据管理与应用",
+          "level": "本科",
+          "school_special_id": "170280"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "33332"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "33330"
+        }
+      ]
+    },
+    {
+      "department_name": "商务管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "1471747"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "33334"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "33333"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "33331"
+        }
+      ]
+    },
+    {
+      "department_name": "数字媒体与设计学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "33338"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "本科",
+          "school_special_id": "170279"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "33328"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "33337"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "33335"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "33336"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "33339"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "33340"
+        }
+      ]
+    },
+    {
+      "department_name": "国际教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "33323"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "update_time": "2026-04-27 16:32:04",
+  "school_id": "1336",
+  "school_name": "日照职业技术大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1336.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "013294b7eac04f4286ea53f9e0caa13a",
+  "department_count": 11,
+  "special_count": 59,
+  "data": [
+    {
+      "department_name": "海洋技术系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "水产养殖技术",
+          "level": "专科",
+          "school_special_id": "53310"
+        },
+        {
+          "special_name": "环境工程技术",
+          "level": "专科",
+          "school_special_id": "53291"
+        },
+        {
+          "special_name": "食品加工技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "食品生物技术",
+          "level": "专科",
+          "school_special_id": "124973"
+        },
+        {
+          "special_name": "食品营养与检测",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程系",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "建筑工程技术(3+2本科)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "53307"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "53306"
+        },
+        {
+          "special_name": "建筑工程技术(中加合作办学)",
+          "level": "专科",
+          "school_special_id": "53306"
+        },
+        {
+          "special_name": "建筑工程技术(外国留学生)",
+          "level": "专科",
+          "school_special_id": "53306"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "1775606"
+        },
+        {
+          "special_name": "智能建造技术",
+          "level": "专科",
+          "school_special_id": "2152078"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "1775605"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "53292"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "53322"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "53295"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "53321"
+        },
+        {
+          "special_name": "钢铁冶金设备维护",
+          "level": "专科",
+          "school_special_id": "2152077"
+        },
+        {
+          "special_name": "钢铁智能冶金技术",
+          "level": "专科",
+          "school_special_id": "2152080"
+        }
+      ]
+    },
+    {
+      "department_name": "通用航空系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1534304"
+        },
+        {
+          "special_name": "通用航空航务技术",
+          "level": "专科",
+          "school_special_id": "124971"
+        },
+        {
+          "special_name": "飞行器数字化制造技术",
+          "level": "专科",
+          "school_special_id": "1532495"
+        },
+        {
+          "special_name": "飞行器维修技术",
+          "level": "专科",
+          "school_special_id": "124982"
+        }
+      ]
+    },
+    {
+      "department_name": "现代汽车系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "218412"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "1472216"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1532365"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1746357"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1479122"
+        },
+        {
+          "special_name": "汽车检测与维修技术(中外)",
+          "level": "专科",
+          "school_special_id": "1479122"
+        }
+      ]
+    },
+    {
+      "department_name": "电子信息工程系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "云计算技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1799253"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "1512857"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "53296"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1798301"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "53320"
+        }
+      ]
+    },
+    {
+      "department_name": "会计系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1510813"
+        },
+        {
+          "special_name": "大数据与审计",
+          "level": "专科",
+          "school_special_id": "2152076"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "统计与会计核算",
+          "level": "专科",
+          "school_special_id": "53302"
+        }
+      ]
+    },
+    {
+      "department_name": "商学系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "124974"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "124977"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "124975"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1513777"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "124976"
+        },
+        {
+          "special_name": "移动商务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与旅游系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "124979"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "53305"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2152079"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1981790"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1513807"
+        }
+      ]
+    },
+    {
+      "department_name": "创意设计系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "124972"
+        },
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "2156298"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2156318"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "694050"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1798331"
+        }
+      ]
+    },
+    {
+      "department_name": "思政部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "党务工作",
+          "level": "专科",
+          "school_special_id": "1472217"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,96 @@
+{
+  "update_time": "2026-04-27 16:28:02",
+  "school_id": "907",
+  "school_name": "北京京北职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/907.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "458ae7c397c6214f42b1bc6b6f51dc85",
+  "department_count": 4,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "影视技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "安全智能监测技术",
+          "level": "专科",
+          "school_special_id": "2020687"
+        },
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "137291"
+        },
+        {
+          "special_name": "电子竞技运动与管理",
+          "level": "专科",
+          "school_special_id": "137293"
+        }
+      ]
+    },
+    {
+      "department_name": "教育与管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1513537"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "41407"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "2156556"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1035905"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "41395"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "137292"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "41406"
+        }
+      ]
+    },
+    {
+      "department_name": "卫生与健康系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "41401"
+        },
+        {
+          "special_name": "社区康复",
+          "level": "专科",
+          "school_special_id": "41404"
+        }
+      ]
+    }
+  ]
+}

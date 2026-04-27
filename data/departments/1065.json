@@ -1,0 +1,301 @@
+{
+  "update_time": "2026-04-27 16:29:41",
+  "school_id": "1065",
+  "school_name": "南京工业职业技术大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1065.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "20b2bb0b50580339ac68405a43637f7e",
+  "department_count": 9,
+  "special_count": 47,
+  "data": [
+    {
+      "department_name": "机械工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "智能制造工程技术",
+          "level": "职本",
+          "school_special_id": "2155760"
+        },
+        {
+          "special_name": "机械电子工程技术",
+          "level": "职本",
+          "school_special_id": "2155758"
+        },
+        {
+          "special_name": "机械设计制造及自动化",
+          "level": "职本",
+          "school_special_id": "2155759"
+        },
+        {
+          "special_name": "装备智能化技术",
+          "level": "职本",
+          "school_special_id": "2155761"
+        }
+      ]
+    },
+    {
+      "department_name": "电气工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "新能源发电工程技术",
+          "level": "职本",
+          "school_special_id": "2155764"
+        },
+        {
+          "special_name": "电气工程及自动化",
+          "level": "职本",
+          "school_special_id": "2155766"
+        },
+        {
+          "special_name": "自动化技术与应用",
+          "level": "职本",
+          "school_special_id": "2155762"
+        },
+        {
+          "special_name": "分布式发电与智能微电网技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑智能化工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电力系统及自动化技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "电子信息工程学院/集成电路学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "物联网工程技术",
+          "level": "职本",
+          "school_special_id": "2155765"
+        },
+        {
+          "special_name": "现代通信工程",
+          "level": "职本",
+          "school_special_id": "2155763"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "职本",
+          "school_special_id": "2155767"
+        },
+        {
+          "special_name": "集成电路工程技术",
+          "level": "职本",
+          "school_special_id": "2160954"
+        }
+      ]
+    },
+    {
+      "department_name": "航空工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "电子信息工程技术",
+          "level": "职本",
+          "school_special_id": "2155767"
+        },
+        {
+          "special_name": "航空智能制造技术",
+          "level": "职本",
+          "school_special_id": "2155769"
+        },
+        {
+          "special_name": "飞行器维修工程技术",
+          "level": "职本",
+          "school_special_id": "2155768"
+        },
+        {
+          "special_name": "飞行器数字化制造",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "交通工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "城市轨道交通信号与控制技术",
+          "level": "职本",
+          "school_special_id": "2160955"
+        },
+        {
+          "special_name": "城市轨道交通设备与控制技术",
+          "level": "职本",
+          "school_special_id": "2155771"
+        },
+        {
+          "special_name": "新能源汽车工程技术",
+          "level": "职本",
+          "school_special_id": "2155772"
+        },
+        {
+          "special_name": "汽车服务工程技术",
+          "level": "职本",
+          "school_special_id": "2155770"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机与软件学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能工程技术",
+          "level": "职本",
+          "school_special_id": "2155775"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "职本",
+          "school_special_id": "2155776"
+        },
+        {
+          "special_name": "网络工程技术",
+          "level": "职本",
+          "school_special_id": "2155774"
+        },
+        {
+          "special_name": "软件工程技术",
+          "level": "职本",
+          "school_special_id": "2155773"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "企业数字化管理",
+          "level": "职本",
+          "school_special_id": "2155754"
+        },
+        {
+          "special_name": "大数据与会计管理",
+          "level": "职本",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "职本",
+          "school_special_id": "2155777"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "房地产经营与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "商务贸易学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "职本",
+          "school_special_id": "2155755"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "职本",
+          "school_special_id": "2155756"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "职本",
+          "school_special_id": "2155757"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "1980018"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1980019"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "2162771"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "职本",
+          "school_special_id": "2155781"
+        },
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "46842"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "46843"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1789133"
+        }
+      ]
+    }
+  ]
+}

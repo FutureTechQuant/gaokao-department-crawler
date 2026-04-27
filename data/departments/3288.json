@@ -1,0 +1,117 @@
+{
+  "update_time": "2026-04-27 16:49:22",
+  "school_id": "3288",
+  "school_name": "武汉铁路桥梁职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3288.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "5fabcfca3c78349667b742c77036cbc5",
+  "department_count": 5,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "桥梁工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "城市轨道交通工程技术",
+          "level": "专科",
+          "school_special_id": "88870"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "88861"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "88862"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "1512955"
+        },
+        {
+          "special_name": "铁道桥梁隧道工程技术",
+          "level": "专科",
+          "school_special_id": "1511045"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "88864"
+        },
+        {
+          "special_name": "工程物流管理",
+          "level": "专科",
+          "school_special_id": "2156903"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "88863"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "88865"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "88867"
+        },
+        {
+          "special_name": "机电维修与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "铁道运输学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "1867825"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "88869"
+        }
+      ]
+    },
+    {
+      "department_name": "材料工程学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "土木工程检测技术",
+          "level": "专科",
+          "school_special_id": "88868"
+        },
+        {
+          "special_name": "道路工程检测技术",
+          "level": "专科",
+          "school_special_id": "1860911"
+        }
+      ]
+    }
+  ]
+}

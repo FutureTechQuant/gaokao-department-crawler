@@ -1,0 +1,172 @@
+{
+  "update_time": "2026-04-27 16:44:46",
+  "school_id": "2530",
+  "school_name": "哈尔滨远东理工学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2530.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "18f96a02ee63929faa9f1199f4abb5e3",
+  "department_count": 5,
+  "special_count": 26,
+  "data": [
+    {
+      "department_name": "机器人工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1473225"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "158770"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "81696"
+        },
+        {
+          "special_name": "电子信息科学与技术",
+          "level": "本科",
+          "school_special_id": "81705"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "81678"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "81681"
+        }
+      ]
+    },
+    {
+      "department_name": "机械电气工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "81691"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "81702"
+        },
+        {
+          "special_name": "汽车服务工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物流工程",
+          "level": "本科",
+          "school_special_id": "81701"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "81680"
+        }
+      ]
+    },
+    {
+      "department_name": "土木建筑工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "158771"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "81697"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "158767"
+        },
+        {
+          "special_name": "道路桥梁与渡河工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "81693"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "81699"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "81694"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "81690"
+        },
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "81684"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "81686"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "81689"
+        }
+      ]
+    }
+  ]
+}

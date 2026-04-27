@@ -1,0 +1,111 @@
+{
+  "update_time": "2026-04-27 16:50:20",
+  "school_id": "3375",
+  "school_name": "湖北铁道运输职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3375.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "7e5e34c7437a2c1d07a24019e01aa8f1",
+  "department_count": 4,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "机车车辆系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "城市轨道交通车辆制造与维护",
+          "level": "专科",
+          "school_special_id": "1468480"
+        },
+        {
+          "special_name": "城市轨道车辆应用技术(驾驶方向)",
+          "level": "专科",
+          "school_special_id": "1468478"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "1468477"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "城市轨道交通供配电技术",
+          "level": "专科",
+          "school_special_id": "89534"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2038765"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "89535"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1947327"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "2058600"
+        },
+        {
+          "special_name": "铁道供电技术",
+          "level": "专科",
+          "school_special_id": "89531"
+        }
+      ]
+    },
+    {
+      "department_name": "车辆工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "动车组检修技术",
+          "level": "专科",
+          "school_special_id": "1868787"
+        },
+        {
+          "special_name": "城市轨道车辆应用技术(检修方向)",
+          "level": "专科",
+          "school_special_id": "1468478"
+        },
+        {
+          "special_name": "铁道车辆技术",
+          "level": "专科",
+          "school_special_id": "1468479"
+        }
+      ]
+    },
+    {
+      "department_name": "运输管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "89533"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "2151318"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "89536"
+        }
+      ]
+    }
+  ]
+}

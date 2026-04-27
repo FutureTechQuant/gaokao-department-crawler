@@ -1,0 +1,181 @@
+{
+  "update_time": "2026-04-27 16:34:15",
+  "school_id": "1608",
+  "school_name": "白城医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1608.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "9fd0a6477bcf0d2442db1358c8a659e1",
+  "department_count": 9,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "口腔医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "58688"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "58687"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "58686"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "58694"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "58698"
+        },
+        {
+          "special_name": "放射治疗技术",
+          "level": "专科",
+          "school_special_id": "58699"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "130461"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "58697"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "58696"
+        }
+      ]
+    },
+    {
+      "department_name": "中医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "1026935"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1892229"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "康复医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1026936"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "58691"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "眼视光学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "眼视光仪器技术",
+          "level": "专科",
+          "school_special_id": "1472438"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "58692"
+        },
+        {
+          "special_name": "视觉训练与康复技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学美容学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "58695"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "58690"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1892230"
+        }
+      ]
+    }
+  ]
+}

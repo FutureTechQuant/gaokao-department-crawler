@@ -1,0 +1,280 @@
+{
+  "update_time": "2026-04-27 16:27:02",
+  "school_id": "802",
+  "school_name": "四川水利职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/802.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "b22e2a479295d7ae0f6df5deb2263cb4",
+  "department_count": 8,
+  "special_count": 44,
+  "data": [
+    {
+      "department_name": "水利工程学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "水利水电工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智慧水利技术",
+          "level": "专科",
+          "school_special_id": "1472093"
+        },
+        {
+          "special_name": "水利工程",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "水利水电工程技术",
+          "level": "专科",
+          "school_special_id": "38575"
+        },
+        {
+          "special_name": "水利水电工程智能管理",
+          "level": "专科",
+          "school_special_id": "1777566"
+        },
+        {
+          "special_name": "水利水电建筑工程",
+          "level": "专科",
+          "school_special_id": "1676601"
+        },
+        {
+          "special_name": "水文与水资源技术",
+          "level": "专科",
+          "school_special_id": "1728473"
+        },
+        {
+          "special_name": "给排水工程技术",
+          "level": "专科",
+          "school_special_id": "135740"
+        }
+      ]
+    },
+    {
+      "department_name": "电力工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "供用电技术",
+          "level": "专科",
+          "school_special_id": "1728470"
+        },
+        {
+          "special_name": "光伏工程技术",
+          "level": "专科",
+          "school_special_id": "2158378"
+        },
+        {
+          "special_name": "水电站机电设备与自动化",
+          "level": "专科",
+          "school_special_id": "135750"
+        },
+        {
+          "special_name": "电力系统自动化技术",
+          "level": "专科",
+          "school_special_id": "1676597"
+        },
+        {
+          "special_name": "输配电工程技术",
+          "level": "专科",
+          "school_special_id": "1728469"
+        }
+      ]
+    },
+    {
+      "department_name": "资源环境工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "城市地质勘察",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "水土保持技术",
+          "level": "专科",
+          "school_special_id": "1728466"
+        },
+        {
+          "special_name": "水文与工程地质",
+          "level": "专科",
+          "school_special_id": "1676595"
+        },
+        {
+          "special_name": "环境工程技术",
+          "level": "专科",
+          "school_special_id": "135748"
+        },
+        {
+          "special_name": "环境监测技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1782165"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1782161"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1782160"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "38563"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "269036"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "38557"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "38554"
+        },
+        {
+          "special_name": "智能建造技术",
+          "level": "专科",
+          "school_special_id": "1472095"
+        },
+        {
+          "special_name": "装配式建筑工程技术",
+          "level": "专科",
+          "school_special_id": "1472096"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "测绘地理信息学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "地籍测绘与土地管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "1676596"
+        },
+        {
+          "special_name": "摄影测量与遥感技术",
+          "level": "专科",
+          "school_special_id": "269035"
+        },
+        {
+          "special_name": "无人机测绘技术",
+          "level": "专科",
+          "school_special_id": "1472094"
+        },
+        {
+          "special_name": "测绘地理信息技术",
+          "level": "专科",
+          "school_special_id": "38549"
+        }
+      ]
+    },
+    {
+      "department_name": "管理工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "冷链物流技术与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1782162"
+        },
+        {
+          "special_name": "现代物业管理",
+          "level": "专科",
+          "school_special_id": "1782164"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1777567"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1782163"
+        }
+      ]
+    },
+    {
+      "department_name": "生物工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "动物营养与饲料",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "动物防疫与检疫",
+          "level": "专科",
+          "school_special_id": "38567"
+        },
+        {
+          "special_name": "水产养殖技术",
+          "level": "专科",
+          "school_special_id": "38564"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "38573"
+        },
+        {
+          "special_name": "食品生物技术",
+          "level": "专科",
+          "school_special_id": "269034"
+        }
+      ]
+    }
+  ]
+}

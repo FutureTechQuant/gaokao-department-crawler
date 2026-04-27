@@ -1,0 +1,294 @@
+{
+  "update_time": "2026-04-27 16:21:29",
+  "school_id": "294",
+  "school_name": "广东医科大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/294.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:48",
+  "md5": "3c55034e2fa9a685747bb86ff749c30b",
+  "department_count": 12,
+  "special_count": 42,
+  "data": [
+    {
+      "department_name": "基础医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "法医学",
+          "level": "本科",
+          "school_special_id": "15046"
+        },
+        {
+          "special_name": "生物技术",
+          "level": "本科",
+          "school_special_id": "15047"
+        }
+      ]
+    },
+    {
+      "department_name": "第一临床医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "15055"
+        },
+        {
+          "special_name": "医学影像学",
+          "level": "本科",
+          "school_special_id": "15042"
+        },
+        {
+          "special_name": "麻醉学",
+          "level": "本科",
+          "school_special_id": "15054"
+        }
+      ]
+    },
+    {
+      "department_name": "第二临床医学院（全科医学院）",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "15055"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "15053"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "本科",
+          "school_special_id": "1039214"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "15065"
+        },
+        {
+          "special_name": "康复物理治疗",
+          "level": "本科",
+          "school_special_id": "2011846"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学实验技术",
+          "level": "本科",
+          "school_special_id": "15058"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "15057"
+        },
+        {
+          "special_name": "眼视光学",
+          "level": "本科",
+          "school_special_id": "1864916"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产学",
+          "level": "本科",
+          "school_special_id": "170238"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "15066"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中药制药",
+          "level": "本科",
+          "school_special_id": "1864917"
+        },
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "15062"
+        },
+        {
+          "special_name": "临床药学",
+          "level": "本科",
+          "school_special_id": "170921"
+        },
+        {
+          "special_name": "化妆品科学与技术",
+          "level": "本科",
+          "school_special_id": "2013026"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "15061"
+        },
+        {
+          "special_name": "药物分析",
+          "level": "本科",
+          "school_special_id": "15067"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "卫生检验与检疫",
+          "level": "本科",
+          "school_special_id": "15060"
+        },
+        {
+          "special_name": "生物统计学",
+          "level": "本科",
+          "school_special_id": "2013129"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "本科",
+          "school_special_id": "15059"
+        }
+      ]
+    },
+    {
+      "department_name": "妇儿医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "儿科学",
+          "level": "本科",
+          "school_special_id": "15052"
+        },
+        {
+          "special_name": "助产学",
+          "level": "本科",
+          "school_special_id": "170238"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "15066"
+        }
+      ]
+    },
+    {
+      "department_name": "海洋与热带医学学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "海洋药学",
+          "level": "本科",
+          "school_special_id": "2154431"
+        }
+      ]
+    },
+    {
+      "department_name": "生物医学工程学院/未来技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "15063"
+        },
+        {
+          "special_name": "信息资源管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1801276"
+        },
+        {
+          "special_name": "智能医学工程",
+          "level": "本科",
+          "school_special_id": "1039215"
+        },
+        {
+          "special_name": "生物医学工程",
+          "level": "本科",
+          "school_special_id": "15064"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与管理学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "1039216"
+        },
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "15048"
+        },
+        {
+          "special_name": "劳动与社会保障",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医疗保险",
+          "level": "本科",
+          "school_special_id": "1801277"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "15045"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "15049"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "15044"
+        }
+      ]
+    }
+  ]
+}

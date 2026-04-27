@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-04-27 16:36:05",
+  "school_id": "1778",
+  "school_name": "浙江警官职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1778.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "66256a1c5af6681d07d3c9b935d4ff6b",
+  "department_count": 4,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "刑事司法系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "刑事执行",
+          "level": "专科",
+          "school_special_id": "622909"
+        },
+        {
+          "special_name": "罪犯心理测量与矫正技术",
+          "level": "专科",
+          "school_special_id": "1998958"
+        },
+        {
+          "special_name": "行政执行",
+          "level": "专科",
+          "school_special_id": "1620302"
+        }
+      ]
+    },
+    {
+      "department_name": "安全防范系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "安全防范技术",
+          "level": "专科",
+          "school_special_id": "160435"
+        },
+        {
+          "special_name": "建筑消防技术",
+          "level": "专科",
+          "school_special_id": "1620904"
+        },
+        {
+          "special_name": "政治安全保卫",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民航空中安全保卫",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "应用法律系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "司法警务",
+          "level": "专科",
+          "school_special_id": "160428"
+        },
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "160429"
+        },
+        {
+          "special_name": "法律文秘",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "专科",
+          "school_special_id": "161769"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术与管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "信息安全与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "司法信息安全",
+          "level": "专科",
+          "school_special_id": "1620932"
+        }
+      ]
+    }
+  ]
+}

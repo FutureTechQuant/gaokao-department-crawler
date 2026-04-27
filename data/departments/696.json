@@ -1,0 +1,213 @@
+{
+  "update_time": "2026-04-27 16:25:55",
+  "school_id": "696",
+  "school_name": "张家口职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/696.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "6bccdc1537b8ada3466c5ad98f720a08",
+  "department_count": 6,
+  "special_count": 33,
+  "data": [
+    {
+      "department_name": "机电工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "冰雪设施运维与管理",
+          "level": "专科",
+          "school_special_id": "1033867"
+        },
+        {
+          "special_name": "数字化设计与制造技术",
+          "level": "专科",
+          "school_special_id": "1861011"
+        },
+        {
+          "special_name": "智能机器人技术",
+          "level": "专科",
+          "school_special_id": "1472636"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "34731"
+        },
+        {
+          "special_name": "机电一体化技术(中外合作办学)",
+          "level": "专科",
+          "school_special_id": "34731"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "34729"
+        },
+        {
+          "special_name": "风力发电工程技术",
+          "level": "专科",
+          "school_special_id": "34743"
+        }
+      ]
+    },
+    {
+      "department_name": "财经旅游学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "34721"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "34716"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1681562"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程与艺术设计学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1681502"
+        },
+        {
+          "special_name": "信息安全应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1620245"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "131020"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "34738"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "1033874"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1681653"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "34736"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "131019"
+        }
+      ]
+    },
+    {
+      "department_name": "土木工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "34719"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "34735"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "1033868"
+        },
+        {
+          "special_name": "道路桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "34737"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "1472635"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1680759"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "34713"
+        }
+      ]
+    },
+    {
+      "department_name": "电子商务系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "供应链运营",
+          "level": "专科",
+          "school_special_id": "2023677"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "34716"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "2040555"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2156974"
+        }
+      ]
+    }
+  ]
+}

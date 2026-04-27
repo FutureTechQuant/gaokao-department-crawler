@@ -1,0 +1,117 @@
+{
+  "update_time": "2026-04-27 16:52:29",
+  "school_id": "3607",
+  "school_name": "重庆五一职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3607.json?a=www.gaokao.cn",
+  "time": "2025-12-25 15:56:10",
+  "md5": "6148a85f8cfc0c6a91e127c887765acd",
+  "department_count": 5,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "人文艺术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "1802313"
+        }
+      ]
+    },
+    {
+      "department_name": "智慧康养学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2153127"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2014561"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1802314"
+        },
+        {
+          "special_name": "融媒体技术与运营",
+          "level": "专科",
+          "school_special_id": "2153128"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2014560"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "2153125"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1802312"
+        }
+      ]
+    },
+    {
+      "department_name": "电气工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2153124"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "2156177"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1802310"
+        },
+        {
+          "special_name": "电梯工程技术",
+          "level": "专科",
+          "school_special_id": "1802309"
+        }
+      ]
+    },
+    {
+      "department_name": "机械工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "2014562"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "2153126"
+        },
+        {
+          "special_name": "机械设计与制造",
+          "level": "专科",
+          "school_special_id": "1802311"
+        }
+      ]
+    }
+  ]
+}

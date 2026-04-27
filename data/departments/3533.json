@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:51:54",
+  "school_id": "3533",
+  "school_name": "塔里木职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3533.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "2310bd8cf3b2866b2bcead3dde37a866",
+  "department_count": 5,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "智能工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2039990"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1597505"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "1860781"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1368602"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1598358"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1597506"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1597508"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1860785"
+        },
+        {
+          "special_name": "智能物流技术",
+          "level": "专科",
+          "school_special_id": "2039994"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1368143"
+        }
+      ]
+    },
+    {
+      "department_name": "纺织服装学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "现代纺织技术",
+          "level": "专科",
+          "school_special_id": "1368604"
+        },
+        {
+          "special_name": "纺织品检验与贸易",
+          "level": "专科",
+          "school_special_id": "2039992"
+        },
+        {
+          "special_name": "纺织品设计",
+          "level": "专科",
+          "school_special_id": "1860782"
+        }
+      ]
+    },
+    {
+      "department_name": "通航产业学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2039991"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1860783"
+        },
+        {
+          "special_name": "通用航空器维修",
+          "level": "专科",
+          "school_special_id": "1861163"
+        }
+      ]
+    },
+    {
+      "department_name": "教育健康学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1597510"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1597507"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2039993"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1860784"
+        }
+      ]
+    }
+  ]
+}

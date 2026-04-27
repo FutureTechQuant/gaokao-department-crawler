@@ -1,0 +1,49 @@
+{
+  "update_time": "2026-04-27 16:53:49",
+  "school_id": "3729",
+  "school_name": "成都轨道交通职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3729.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:07",
+  "md5": "7dd0df9871265767c366030e305c9913",
+  "department_count": 2,
+  "special_count": 5,
+  "data": [
+    {
+      "department_name": "交通运输系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "2159370"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "城市轨道交通供配电技术",
+          "level": "专科",
+          "school_special_id": "2159369"
+        },
+        {
+          "special_name": "城市轨道交通机电技术",
+          "level": "专科",
+          "school_special_id": "2159367"
+        },
+        {
+          "special_name": "城市轨道交通通信信号技术",
+          "level": "专科",
+          "school_special_id": "2159368"
+        },
+        {
+          "special_name": "城市轨道车辆应用技术",
+          "level": "专科",
+          "school_special_id": "2159366"
+        }
+      ]
+    }
+  ]
+}

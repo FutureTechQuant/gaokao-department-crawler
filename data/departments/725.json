@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:26:13",
+  "school_id": "725",
+  "school_name": "河北司法警官职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/725.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "dc11f655c06983c5f973115339fb75b0",
+  "department_count": 3,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "司法事务系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "公共事务管理",
+          "level": "专科",
+          "school_special_id": "138201"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1793085"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "35676"
+        }
+      ]
+    },
+    {
+      "department_name": "刑事执行系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "刑事执行",
+          "level": "专科",
+          "school_special_id": "35680"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "罪犯心理测量与矫正技术",
+          "level": "专科",
+          "school_special_id": "138203"
+        },
+        {
+          "special_name": "行政执行",
+          "level": "专科",
+          "school_special_id": "138202"
+        }
+      ]
+    },
+    {
+      "department_name": "刑事侦查系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "刑事侦查技术",
+          "level": "专科",
+          "school_special_id": "35682"
+        },
+        {
+          "special_name": "司法警务",
+          "level": "专科",
+          "school_special_id": "35681"
+        },
+        {
+          "special_name": "安全防范技术",
+          "level": "专科",
+          "school_special_id": "793766"
+        }
+      ]
+    }
+  ]
+}

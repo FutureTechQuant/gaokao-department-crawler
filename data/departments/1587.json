@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 16:34:01",
+  "school_id": "1587",
+  "school_name": "福建电力职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1587.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "1bd364e7e75dde37e35323180d9d0bde",
+  "department_count": 3,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "电力工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "分布式发电与智能微电网技术",
+          "level": "专科",
+          "school_special_id": "2143599"
+        },
+        {
+          "special_name": "发电厂及电力系统",
+          "level": "专科",
+          "school_special_id": "58173"
+        },
+        {
+          "special_name": "发电运行技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "热能动力工程技术",
+          "level": "专科",
+          "school_special_id": "1733773"
+        },
+        {
+          "special_name": "输配电工程技术",
+          "level": "专科",
+          "school_special_id": "1795511"
+        }
+      ]
+    },
+    {
+      "department_name": "综合能源工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "光伏工程技术",
+          "level": "专科",
+          "school_special_id": "1795514"
+        },
+        {
+          "special_name": "建筑电气工程技术",
+          "level": "专科",
+          "school_special_id": "2143601"
+        },
+        {
+          "special_name": "智能机器人技术",
+          "level": "专科",
+          "school_special_id": "2160446"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "58164"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "1733774"
+        },
+        {
+          "special_name": "风力发电工程技术",
+          "level": "专科",
+          "school_special_id": "1795513"
+        }
+      ]
+    },
+    {
+      "department_name": "供用电工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "供用电技术",
+          "level": "专科",
+          "school_special_id": "1698739"
+        },
+        {
+          "special_name": "电力系统自动化技术",
+          "level": "专科",
+          "school_special_id": "1733776"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "58187"
+        }
+      ]
+    }
+  ]
+}

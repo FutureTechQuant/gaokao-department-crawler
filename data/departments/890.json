@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:27:54",
+  "school_id": "890",
+  "school_name": "漯河医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/890.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "eccd313f84aa681b04cdc8fee81a3072",
+  "department_count": 5,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "40904"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1792165"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "40902"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2158777"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "2158776"
+        }
+      ]
+    },
+    {
+      "department_name": "医疗系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "40894"
+        },
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1383569"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "40892"
+        },
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "1035871"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "40898"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "40899"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1383568"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "40897"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "40896"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "40893"
+        }
+      ]
+    },
+    {
+      "department_name": "食品营养系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "1792163"
+        },
+        {
+          "special_name": "大数据技术(健康方向)",
+          "level": "专科",
+          "school_special_id": "1792168"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1792162"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "专科",
+          "school_special_id": "40900"
+        }
+      ]
+    }
+  ]
+}

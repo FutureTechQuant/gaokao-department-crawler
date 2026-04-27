@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-04-27 16:42:16",
+  "school_id": "2309",
+  "school_name": "石家庄人民医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2309.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "7edc6a3abb0a0f2bac6a254decc781e3",
+  "department_count": 4,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1742577"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1735195"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "中医与药学系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药膳与食疗",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "视觉训练与康复",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1742576"
+        }
+      ]
+    }
+  ]
+}

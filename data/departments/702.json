@@ -1,0 +1,377 @@
+{
+  "update_time": "2026-04-27 16:25:58",
+  "school_id": "702",
+  "school_name": "石家庄铁路职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/702.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "59fddaffe73c7e7e409b95195e698348",
+  "department_count": 10,
+  "special_count": 61,
+  "data": [
+    {
+      "department_name": "铁道工程系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "地下与隧道工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "地下与隧道工程技术（盾构施工技术方向）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市轨道交通工程技术",
+          "level": "专科",
+          "school_special_id": "123530"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "1514050"
+        },
+        {
+          "special_name": "铁道工程技术",
+          "level": "专科",
+          "school_special_id": "35012"
+        },
+        {
+          "special_name": "铁道桥梁隧道工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "高速铁路施工与维护",
+          "level": "专科",
+          "school_special_id": "1513925"
+        },
+        {
+          "special_name": "高速铁路综合维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "35004"
+        },
+        {
+          "special_name": "建筑智能化工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑材料工程技术",
+          "level": "专科",
+          "school_special_id": "35003"
+        },
+        {
+          "special_name": "建筑设备工程技术",
+          "level": "专科",
+          "school_special_id": "35005"
+        }
+      ]
+    },
+    {
+      "department_name": "测绘工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "测绘工程（应用型试点本科）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "35000"
+        },
+        {
+          "special_name": "无人机测绘技术",
+          "level": "专科",
+          "school_special_id": "1472646"
+        },
+        {
+          "special_name": "测绘地理信息技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "测绘工程技术",
+          "level": "专科",
+          "school_special_id": "35001"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "云计算技术与应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "人工智能技术服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术（轨道交通BIM方向）",
+          "level": "专科",
+          "school_special_id": "34992"
+        },
+        {
+          "special_name": "通信技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道通信与信息化技术",
+          "level": "专科",
+          "school_special_id": "34990"
+        }
+      ]
+    },
+    {
+      "department_name": "电气工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市轨道交通供配电技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电设备技术（盾构机运用与维护方向）",
+          "level": "专科",
+          "school_special_id": "1860744"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "123524"
+        },
+        {
+          "special_name": "铁道供电技术",
+          "level": "专科",
+          "school_special_id": "35007"
+        }
+      ]
+    },
+    {
+      "department_name": "轨道交通系(机电工程系)",
+      "special_num": 11,
+      "special": [
+        {
+          "special_name": "动车组检修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市轨道交通机电技术",
+          "level": "专科",
+          "school_special_id": "34987"
+        },
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市轨道交通通信信号技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市轨道车辆应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "34985"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "34983"
+        },
+        {
+          "special_name": "铁道信号自动控制",
+          "level": "专科",
+          "school_special_id": "34982"
+        },
+        {
+          "special_name": "铁道养路机械应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "1513969"
+        },
+        {
+          "special_name": "铁道车辆技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1514089"
+        },
+        {
+          "special_name": "工程物流管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁路物流管理",
+          "level": "专科",
+          "school_special_id": "35011"
+        }
+      ]
+    },
+    {
+      "department_name": "人文社科系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "会展策划与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1799472"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1799471"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1514092"
+        },
+        {
+          "special_name": "高速铁路客运乘务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "国际交通学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "城市轨道交通机电技术（中俄合作办学）",
+          "level": "专科",
+          "school_special_id": "34987"
+        },
+        {
+          "special_name": "道路桥梁工程技术（中俄合作办学）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道供电技术（中俄合作办学）",
+          "level": "专科",
+          "school_special_id": "35007"
+        },
+        {
+          "special_name": "铁道信号自动控制（中俄合作办学）",
+          "level": "专科",
+          "school_special_id": "34982"
+        },
+        {
+          "special_name": "铁道工程技术（中俄合作办学）",
+          "level": "专科",
+          "school_special_id": "35012"
+        }
+      ]
+    },
+    {
+      "department_name": "康旅产业学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "会展策划与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "园林工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1514089"
+        },
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "35000"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "35004"
+        },
+        {
+          "special_name": "智慧景区开发与管理",
+          "level": "专科",
+          "school_special_id": "1998821"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1514092"
+        }
+      ]
+    }
+  ]
+}

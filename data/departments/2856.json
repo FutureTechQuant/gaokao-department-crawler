@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-04-27 16:46:31",
+  "school_id": "2856",
+  "school_name": "河北青年管理干部学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2856.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "1d0d0f0c4cfa302f0da70bd0b3661184",
+  "department_count": 4,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "财经系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1679839"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "130313"
+        },
+        {
+          "special_name": "环境监测技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "130318"
+        }
+      ]
+    },
+    {
+      "department_name": "信息系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "广播影视节目制作",
+          "level": "专科",
+          "school_special_id": "130329"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "130314"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "130315"
+        }
+      ]
+    },
+    {
+      "department_name": "教育传媒系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "130326"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1793318"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "130320"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1793321"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "1793320"
+        }
+      ]
+    },
+    {
+      "department_name": "公共管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "130325"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "130323"
+        }
+      ]
+    }
+  ]
+}

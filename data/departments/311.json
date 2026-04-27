@@ -1,0 +1,652 @@
+{
+  "update_time": "2026-04-27 16:21:41",
+  "school_id": "311",
+  "school_name": "上海师范大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/311.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:45",
+  "md5": "cb924a10dc8786ab5de301a7a6909088",
+  "department_count": 20,
+  "special_count": 104,
+  "data": [
+    {
+      "department_name": "人文学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "世界史",
+          "level": "本科",
+          "school_special_id": "90348"
+        },
+        {
+          "special_name": "历史学教育",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "古典文献学",
+          "level": "本科",
+          "school_special_id": "15938"
+        },
+        {
+          "special_name": "档案学",
+          "level": "本科",
+          "school_special_id": "90344"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "90350"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "15930"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "15925"
+        },
+        {
+          "special_name": "教育学",
+          "level": "本科",
+          "school_special_id": "90373"
+        },
+        {
+          "special_name": "教育学（教育管理）",
+          "level": "本科",
+          "school_special_id": "90373"
+        },
+        {
+          "special_name": "教育技术学",
+          "level": "本科",
+          "school_special_id": "15941"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "15933"
+        }
+      ]
+    },
+    {
+      "department_name": "心理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "15925"
+        },
+        {
+          "special_name": "应用心理学(师范)",
+          "level": "本科",
+          "school_special_id": "15925"
+        }
+      ]
+    },
+    {
+      "department_name": "哲学与法政学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "15871"
+        },
+        {
+          "special_name": "劳动与社会保障",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "哲学",
+          "level": "本科",
+          "school_special_id": "15909"
+        },
+        {
+          "special_name": "思想政治教育(道德与法治方向)",
+          "level": "本科",
+          "school_special_id": "90357"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "15903"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "15940"
+        },
+        {
+          "special_name": "行政管理（含社保方向）",
+          "level": "本科",
+          "school_special_id": "1024315"
+        }
+      ]
+    },
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "思想政治教育(师范)",
+          "level": "本科",
+          "school_special_id": "90357"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "15912"
+        },
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "15929"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "15926"
+        },
+        {
+          "special_name": "英语(师范)",
+          "level": "本科",
+          "school_special_id": "15926"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 14,
+      "special": [
+        {
+          "special_name": "保险学（停招）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "信用管理",
+          "level": "本科",
+          "school_special_id": "1024302"
+        },
+        {
+          "special_name": "广告学(营销方向)(中法合作)",
+          "level": "本科",
+          "school_special_id": "929130"
+        },
+        {
+          "special_name": "投资学（停招）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务（2023年停招）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "15916"
+        },
+        {
+          "special_name": "经济学(中法合作)",
+          "level": "本科",
+          "school_special_id": "15916"
+        },
+        {
+          "special_name": "经济学(中美合作)",
+          "level": "本科",
+          "school_special_id": "15916"
+        },
+        {
+          "special_name": "计算机科学与技术(金融大数据处理方向)(中法合作)",
+          "level": "本科",
+          "school_special_id": "104500"
+        },
+        {
+          "special_name": "财务管理（含财务管理与资产评估方向）",
+          "level": "本科",
+          "school_special_id": "1024313"
+        },
+        {
+          "special_name": "资产评估（2023年停招）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融学（含金融学和投资学两个方向）",
+          "level": "本科",
+          "school_special_id": "1024298"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "1024299"
+        },
+        {
+          "special_name": "金融科技",
+          "level": "本科",
+          "school_special_id": "1800663"
+        }
+      ]
+    },
+    {
+      "department_name": "对外汉语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "15913"
+        },
+        {
+          "special_name": "汉语言",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "会展经济与管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "录音艺术",
+          "level": "本科",
+          "school_special_id": "15884"
+        },
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "15885"
+        },
+        {
+          "special_name": "音乐学(师范)",
+          "level": "本科",
+          "school_special_id": "172045"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "本科",
+          "school_special_id": "15882"
+        },
+        {
+          "special_name": "音乐表演(中俄合作)",
+          "level": "本科",
+          "school_special_id": "15882"
+        }
+      ]
+    },
+    {
+      "department_name": "美术学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中国画",
+          "level": "本科",
+          "school_special_id": "15887"
+        },
+        {
+          "special_name": "书法学",
+          "level": "本科",
+          "school_special_id": "2162255"
+        },
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "1024321"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "1024320"
+        },
+        {
+          "special_name": "绘画",
+          "level": "本科",
+          "school_special_id": "171438"
+        },
+        {
+          "special_name": "美术学(师范)",
+          "level": "本科",
+          "school_special_id": "172035"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "1024319"
+        },
+        {
+          "special_name": "雕塑",
+          "level": "本科",
+          "school_special_id": "15888"
+        }
+      ]
+    },
+    {
+      "department_name": "影视传媒学院",
+      "special_num": 11,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "15895"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "929130"
+        },
+        {
+          "special_name": "广播电视学",
+          "level": "本科",
+          "school_special_id": "929129"
+        },
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "15894"
+        },
+        {
+          "special_name": "戏剧影视文学",
+          "level": "本科",
+          "school_special_id": "171439"
+        },
+        {
+          "special_name": "摄影",
+          "level": "本科",
+          "school_special_id": "171440"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "15893"
+        },
+        {
+          "special_name": "文化产业管理（停招）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "编辑出版学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "艺术管理",
+          "level": "本科",
+          "school_special_id": "1658005"
+        },
+        {
+          "special_name": "表演",
+          "level": "本科",
+          "school_special_id": "15892"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "15896"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "15897"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "本科",
+          "school_special_id": "2012605"
+        }
+      ]
+    },
+    {
+      "department_name": "数理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "2160502"
+        },
+        {
+          "special_name": "应用物理学（2023年停招）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数学与应用数学(师范)",
+          "level": "本科",
+          "school_special_id": "172034"
+        },
+        {
+          "special_name": "物理学(师范)",
+          "level": "本科",
+          "school_special_id": "90370"
+        },
+        {
+          "special_name": "统计学",
+          "level": "本科",
+          "school_special_id": "2160409"
+        }
+      ]
+    },
+    {
+      "department_name": "生命科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "园艺",
+          "level": "本科",
+          "school_special_id": "1021832"
+        },
+        {
+          "special_name": "生物技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "生物科学",
+          "level": "本科",
+          "school_special_id": "172032"
+        },
+        {
+          "special_name": "食品安全与检测",
+          "level": "本科",
+          "school_special_id": "15928"
+        }
+      ]
+    },
+    {
+      "department_name": "化学与材料科学学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "化学(师范)",
+          "level": "本科",
+          "school_special_id": "172033"
+        },
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "1024312"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "1024305"
+        }
+      ]
+    },
+    {
+      "department_name": "环境与地理科学学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人文地理与城乡规划",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "地理信息科学(师范)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "地理科学",
+          "level": "本科",
+          "school_special_id": "104471"
+        },
+        {
+          "special_name": "环境工程",
+          "level": "本科",
+          "school_special_id": "15873"
+        },
+        {
+          "special_name": "资源环境科学",
+          "level": "本科",
+          "school_special_id": "1800664"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与机电工程学院",
+      "special_num": 12,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "15927"
+        },
+        {
+          "special_name": "机械设计制造及其自动化(中美合作)",
+          "level": "本科",
+          "school_special_id": "15927"
+        },
+        {
+          "special_name": "汽车服务工程",
+          "level": "本科",
+          "school_special_id": "1022101"
+        },
+        {
+          "special_name": "汽车服务工程(中德合作)",
+          "level": "本科",
+          "school_special_id": "1022101"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "1021833"
+        },
+        {
+          "special_name": "电子信息工程(中美合作)",
+          "level": "本科",
+          "school_special_id": "1021833"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "104500"
+        },
+        {
+          "special_name": "计算机科学与技术(师范)",
+          "level": "本科",
+          "school_special_id": "104500"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "104501"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "15923"
+        },
+        {
+          "special_name": "科学教育",
+          "level": "本科",
+          "school_special_id": "15876"
+        }
+      ]
+    }
+  ]
+}

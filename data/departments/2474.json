@@ -1,0 +1,154 @@
+{
+  "update_time": "2026-04-27 16:44:07",
+  "school_id": "2474",
+  "school_name": "常德学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2474.json?a=www.gaokao.cn",
+  "time": "2025-06-20 19:40:00",
+  "md5": "6058f881b314e745958de18dbd416fc9",
+  "department_count": 7,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "智能制造学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "2154422"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "79787"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "79795"
+        }
+      ]
+    },
+    {
+      "department_name": "信息学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "网络工程",
+          "level": "本科",
+          "school_special_id": "2161761"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "79784"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "159462"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "2161762"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "2154423"
+        },
+        {
+          "special_name": "药物分析",
+          "level": "本科",
+          "school_special_id": "2013024"
+        }
+      ]
+    },
+    {
+      "department_name": "智能建筑学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "79793"
+        },
+        {
+          "special_name": "城乡规划",
+          "level": "本科",
+          "school_special_id": "79792"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育（师范）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "思想政治教育（师范）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "教育学（师范）",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "79777"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "1026502"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "159454"
+        }
+      ]
+    },
+    {
+      "department_name": "人文艺术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汉语言文学（师范）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "英语（师范）",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "2161764"
+        }
+      ]
+    }
+  ]
+}

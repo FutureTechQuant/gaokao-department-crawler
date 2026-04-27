@@ -1,0 +1,234 @@
+{
+  "update_time": "2026-04-27 16:38:21",
+  "school_id": "1967",
+  "school_name": "武昌工学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1967.json?a=www.gaokao.cn",
+  "time": "2026-04-23 10:09:51",
+  "md5": "3c23ccaa04d0d8c99847e76461c242a2",
+  "department_count": 7,
+  "special_count": 36,
+  "data": [
+    {
+      "department_name": "信息学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "2171129"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1498736"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "67587"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "2050174"
+        },
+        {
+          "special_name": "计算机科学与技术（智能数据与云计算）",
+          "level": "本科",
+          "school_special_id": "2050174"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "2050175"
+        },
+        {
+          "special_name": "软件工程（智能应用技术）",
+          "level": "本科",
+          "school_special_id": "2050175"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "67585"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "1801193"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "1130603"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "2171128"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与教育学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "67602"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "1801192"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "67589"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "2171127"
+        },
+        {
+          "special_name": "英语（教育方向）",
+          "level": "本科",
+          "school_special_id": "2171126"
+        },
+        {
+          "special_name": "英语（经贸方向）",
+          "level": "本科",
+          "school_special_id": "2171125"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "智能制造工程",
+          "level": "本科",
+          "school_special_id": "1498735"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "170126"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "1364735"
+        },
+        {
+          "special_name": "机械设计制造及其自动化（高端智能制造装备技术方向）",
+          "level": "本科",
+          "school_special_id": "1364735"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "232021"
+        },
+        {
+          "special_name": "电气工程及其自动化（工业机器人智能控制方向）",
+          "level": "本科",
+          "school_special_id": "232021"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "67594"
+        },
+        {
+          "special_name": "大数据管理与应用",
+          "level": "本科",
+          "school_special_id": "1500193"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "67593"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "67596"
+        },
+        {
+          "special_name": "经济与金融",
+          "level": "本科",
+          "school_special_id": "2171124"
+        }
+      ]
+    },
+    {
+      "department_name": "城市建设学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工程管理（数智化技术方向）",
+          "level": "本科",
+          "school_special_id": "2171122"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "120446"
+        },
+        {
+          "special_name": "智能建造（BIM技术应用方向）",
+          "level": "本科",
+          "school_special_id": "2171121"
+        },
+        {
+          "special_name": "工程造价（工程财务方向）",
+          "level": "专科",
+          "school_special_id": "242043"
+        }
+      ]
+    },
+    {
+      "department_name": "会计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计学（注册会计师方向）",
+          "level": "本科",
+          "school_special_id": "203121"
+        },
+        {
+          "special_name": "会计学（管理会计师方向）",
+          "level": "本科",
+          "school_special_id": "1230579"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "120417"
+        },
+        {
+          "special_name": "财务管理（智能财务方向）",
+          "level": "本科",
+          "school_special_id": "2171123"
+        }
+      ]
+    }
+  ]
+}

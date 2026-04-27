@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-04-27 16:51:19",
+  "school_id": "3489",
+  "school_name": "烟台幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3489.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "6fe75294ade76c90f85f877c5981ae4b",
+  "department_count": 4,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "学前一系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1429384"
+        }
+      ]
+    },
+    {
+      "department_name": "学前二系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1787344"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1429385"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术教育系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "1787348"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "1429386"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "2162900"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "2162899"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1429387"
+        }
+      ]
+    },
+    {
+      "department_name": "公共服务系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "2159903"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1981997"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1787345"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2159905"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "2159904"
+        }
+      ]
+    }
+  ]
+}

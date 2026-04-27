@@ -1,0 +1,340 @@
+{
+  "update_time": "2026-04-27 16:44:22",
+  "school_id": "2497",
+  "school_name": "成都外国语学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2497.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "b794cc4bf798e680bc8b6b83c5a7902b",
+  "department_count": 8,
+  "special_count": 56,
+  "data": [
+    {
+      "department_name": "宜宾校区",
+      "special_num": 20,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "1130873"
+        },
+        {
+          "special_name": "会展经济与管理",
+          "level": "本科",
+          "school_special_id": "140980"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "140977"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "140971"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "80580"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "140972"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "170466"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "170464"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "80564"
+        },
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "1469458"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "705078"
+        },
+        {
+          "special_name": "商务日语",
+          "level": "专科",
+          "school_special_id": "1375605"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "141006"
+        },
+        {
+          "special_name": "国际商务",
+          "level": "专科",
+          "school_special_id": "1425798"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1469460"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "141000"
+        },
+        {
+          "special_name": "民航空中安全保卫",
+          "level": "专科",
+          "school_special_id": "1368548"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1375604"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1861158"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1861159"
+        }
+      ]
+    },
+    {
+      "department_name": "英语语言文化与翻译学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "140976"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "80564"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "141000"
+        }
+      ]
+    },
+    {
+      "department_name": "教育与体育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "2013045"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "170465"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "2161219"
+        },
+        {
+          "special_name": "高尔夫球运动与管理",
+          "level": "专科",
+          "school_special_id": "1025597"
+        }
+      ]
+    },
+    {
+      "department_name": "西欧语言学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "意大利语",
+          "level": "本科",
+          "school_special_id": "140975"
+        },
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "80573"
+        },
+        {
+          "special_name": "葡萄牙语",
+          "level": "本科",
+          "school_special_id": "80583"
+        },
+        {
+          "special_name": "西班牙语",
+          "level": "本科",
+          "school_special_id": "80572"
+        }
+      ]
+    },
+    {
+      "department_name": "中东欧语言学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "80574"
+        },
+        {
+          "special_name": "匈牙利语",
+          "level": "本科",
+          "school_special_id": "140974"
+        },
+        {
+          "special_name": "德语",
+          "level": "本科",
+          "school_special_id": "80566"
+        },
+        {
+          "special_name": "捷克语",
+          "level": "本科",
+          "school_special_id": "140973"
+        },
+        {
+          "special_name": "波兰语",
+          "level": "本科",
+          "school_special_id": "80584"
+        }
+      ]
+    },
+    {
+      "department_name": "亚非语言学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "80580"
+        },
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "80575"
+        },
+        {
+          "special_name": "泰语",
+          "level": "本科",
+          "school_special_id": "80578"
+        },
+        {
+          "special_name": "越南语",
+          "level": "本科",
+          "school_special_id": "80577"
+        },
+        {
+          "special_name": "阿拉伯语",
+          "level": "本科",
+          "school_special_id": "80576"
+        },
+        {
+          "special_name": "马来语",
+          "level": "本科",
+          "school_special_id": "1130874"
+        }
+      ]
+    },
+    {
+      "department_name": "国际商学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "会展经济与管理",
+          "level": "本科",
+          "school_special_id": "140980"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "140971"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "1468776"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "本科",
+          "school_special_id": "1801517"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1046572"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "2021190"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2156591"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1468777"
+        }
+      ]
+    },
+    {
+      "department_name": "国际传媒艺术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "国际新闻与传播",
+          "level": "本科",
+          "school_special_id": "2011858"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "1130875"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "140972"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "1468775"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "2161220"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1469459"
+        }
+      ]
+    }
+  ]
+}

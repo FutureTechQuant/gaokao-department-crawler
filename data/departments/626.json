@@ -1,0 +1,135 @@
+{
+  "update_time": "2026-04-27 16:25:14",
+  "school_id": "626",
+  "school_name": "河北体育学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/626.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:49",
+  "md5": "f1df8504c95cb387b2af5f2d8e763c1d",
+  "department_count": 8,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "学校体育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "32839"
+        },
+        {
+          "special_name": "体能训练",
+          "level": "本科",
+          "school_special_id": "1129818"
+        }
+      ]
+    },
+    {
+      "department_name": "运动训练系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育(网球教育方向)",
+          "level": "本科",
+          "school_special_id": "32839"
+        },
+        {
+          "special_name": "运动训练(运动训练及网球训练方向)",
+          "level": "本科",
+          "school_special_id": "1023474"
+        }
+      ]
+    },
+    {
+      "department_name": "社会体育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "1023476"
+        },
+        {
+          "special_name": "体育经济与管理",
+          "level": "本科",
+          "school_special_id": "116663"
+        },
+        {
+          "special_name": "物业管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社会体育指导与管理(高尔夫球管理方向、大众健身方向、少数民族传统体育方向)",
+          "level": "本科",
+          "school_special_id": "2162458"
+        }
+      ]
+    },
+    {
+      "department_name": "武术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育(武术文化教育方向)",
+          "level": "本科",
+          "school_special_id": "32839"
+        },
+        {
+          "special_name": "武术与民族传统体育",
+          "level": "本科",
+          "school_special_id": "32841"
+        }
+      ]
+    },
+    {
+      "department_name": "运动人体科学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "运动人体科学",
+          "level": "本科",
+          "school_special_id": "32840"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "116661"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语(体育英语方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "体育艺术系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "2162459"
+        }
+      ]
+    },
+    {
+      "department_name": "冰雪运动系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "冰雪运动",
+          "level": "本科",
+          "school_special_id": "1129819"
+        }
+      ]
+    }
+  ]
+}

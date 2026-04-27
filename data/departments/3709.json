@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-04-27 16:53:36",
+  "school_id": "3709",
+  "school_name": "德州工程职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3709.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:07",
+  "md5": "01496ba069c21e5b9cf8429daf98cf85",
+  "department_count": 4,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "智慧交通学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2157413"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "2159929"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "2157412"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2156623"
+        }
+      ]
+    },
+    {
+      "department_name": "先进制造学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业互联网应用",
+          "level": "专科",
+          "school_special_id": "2159928"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2158299"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2159927"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2156622"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2159930"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2156624"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "2159133"
+        }
+      ]
+    },
+    {
+      "department_name": "数字商贸学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "供应链运营",
+          "level": "专科",
+          "school_special_id": "2159931"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "2156625"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2156626"
+        }
+      ]
+    }
+  ]
+}

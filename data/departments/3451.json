@@ -1,0 +1,137 @@
+{
+  "update_time": "2026-04-27 16:50:59",
+  "school_id": "3451",
+  "school_name": "广东茂名农林科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3451.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "0ed5aac29dc9d8142b5594fd35daa187",
+  "department_count": 5,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "生物技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "农产品流通与管理",
+          "level": "专科",
+          "school_special_id": "1866351"
+        },
+        {
+          "special_name": "园艺技术",
+          "level": "专科",
+          "school_special_id": "1029401"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "1029396"
+        }
+      ]
+    },
+    {
+      "department_name": "园林工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "园林工程技术",
+          "level": "专科",
+          "school_special_id": "1033313"
+        },
+        {
+          "special_name": "风景园林设计",
+          "level": "专科",
+          "school_special_id": "1029399"
+        }
+      ]
+    },
+    {
+      "department_name": "动物科学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "1462417"
+        },
+        {
+          "special_name": "水产养殖技术",
+          "level": "专科",
+          "school_special_id": "1697275"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "1029400"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "全媒体广告策划与营销",
+          "level": "专科",
+          "school_special_id": "1697290"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1693244"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1029402"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1384082"
+        }
+      ]
+    },
+    {
+      "department_name": "智能工程系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "1033315"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1033314"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1697284"
+        },
+        {
+          "special_name": "智能机电技术",
+          "level": "专科",
+          "school_special_id": "1866352"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1697282"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1697283"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1029397"
+        }
+      ]
+    }
+  ]
+}

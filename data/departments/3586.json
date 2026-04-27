@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 16:52:16",
+  "school_id": "3586",
+  "school_name": "广东梅州职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3586.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "a82e6a5e2971c45b9b31f011485c80e9",
+  "department_count": 4,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "农业工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "园艺技术",
+          "level": "专科",
+          "school_special_id": "1801946"
+        },
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "1801948"
+        },
+        {
+          "special_name": "智能化养殖",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "1697313"
+        },
+        {
+          "special_name": "茶叶生产技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1697315"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1801956"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1801957"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能机器人技术",
+          "level": "专科",
+          "school_special_id": "1801953"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1697314"
+        }
+      ]
+    },
+    {
+      "department_name": "财经商贸学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1801958"
+        },
+        {
+          "special_name": "烹饪工艺与营养",
+          "level": "专科",
+          "school_special_id": "1697316"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1801959"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1801955"
+        }
+      ]
+    }
+  ]
+}

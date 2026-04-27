@@ -1,0 +1,153 @@
+{
+  "update_time": "2026-04-27 16:47:47",
+  "school_id": "3066",
+  "school_name": "合肥科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3066.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "801ee1e1c22ed0b672b1484e380a7ca8",
+  "department_count": 6,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "人文艺术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1679829"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "1799556"
+        },
+        {
+          "special_name": "运动健康指导",
+          "level": "专科",
+          "school_special_id": "1472914"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2148804"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1708761"
+        },
+        {
+          "special_name": "大数据与审计",
+          "level": "专科",
+          "school_special_id": "1708759"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1708756"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "86642"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "86643"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1746539"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "2159097"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "86626"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "86627"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "1708735"
+        },
+        {
+          "special_name": "建筑钢结构工程技术",
+          "level": "专科",
+          "school_special_id": "1028703"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "1708741"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "86628"
+        }
+      ]
+    },
+    {
+      "department_name": "健康护理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1708758"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1860275"
+        }
+      ]
+    }
+  ]
+}

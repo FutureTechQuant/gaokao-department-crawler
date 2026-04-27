@@ -1,0 +1,160 @@
+{
+  "update_time": "2026-04-27 16:38:36",
+  "school_id": "1987",
+  "school_name": "湖南医药学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1987.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "604831e5d19a833c02002f5f548f1ab3",
+  "department_count": 8,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产学",
+          "level": "本科",
+          "school_special_id": "161094"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "67996"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "67999"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "68000"
+        }
+      ]
+    },
+    {
+      "department_name": "医学检验学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "67997"
+        },
+        {
+          "special_name": "卫生检验与检疫",
+          "level": "本科",
+          "school_special_id": "67998"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "本科",
+          "school_special_id": "1473300"
+        },
+        {
+          "special_name": "食品卫生与营养学",
+          "level": "本科",
+          "school_special_id": "170214"
+        }
+      ]
+    },
+    {
+      "department_name": "康复医学与保健学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "756401"
+        },
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "68002"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "68003"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "1130655"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "118916"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "1473301"
+        }
+      ]
+    },
+    {
+      "department_name": "医学人文与管理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "供应链管理",
+          "level": "本科",
+          "school_special_id": "1801260"
+        },
+        {
+          "special_name": "市场营销(医药方向)",
+          "level": "本科",
+          "school_special_id": "118917"
+        }
+      ]
+    },
+    {
+      "department_name": "体育艺术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "1801259"
+        }
+      ]
+    },
+    {
+      "department_name": "医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "67994"
+        },
+        {
+          "special_name": "医学影像学",
+          "level": "本科",
+          "school_special_id": "1131131"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "67995"
+        }
+      ]
+    }
+  ]
+}

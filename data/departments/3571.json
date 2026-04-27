@@ -1,0 +1,111 @@
+{
+  "update_time": "2026-04-27 16:52:05",
+  "school_id": "3571",
+  "school_name": "邢台应用技术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3571.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "ab1bd0bb801c6418a53a04859faadbe4",
+  "department_count": 4,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "工程技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "光伏工程技术",
+          "level": "专科",
+          "school_special_id": "2156949"
+        },
+        {
+          "special_name": "农业电气化技术",
+          "level": "专科",
+          "school_special_id": "2156948"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "2040464"
+        },
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1679253"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1860969"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1679528"
+        },
+        {
+          "special_name": "工业软件开发技术",
+          "level": "专科",
+          "school_special_id": "2040465"
+        }
+      ]
+    },
+    {
+      "department_name": "医药健康学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1860970"
+        },
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "1679760"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1679977"
+        }
+      ]
+    },
+    {
+      "department_name": "数字经贸学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "会计信息管理",
+          "level": "专科",
+          "school_special_id": "2040466"
+        },
+        {
+          "special_name": "全媒体广告策划与营销",
+          "level": "专科",
+          "school_special_id": "2040467"
+        },
+        {
+          "special_name": "农村电子商务",
+          "level": "专科",
+          "school_special_id": "1680157"
+        },
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "2040463"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2156258"
+        }
+      ]
+    }
+  ]
+}

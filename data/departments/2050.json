@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-04-27 16:39:21",
+  "school_id": "2050",
+  "school_name": "广东体育职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2050.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "68d1f42293a078c4648dea719959afd3",
+  "department_count": 4,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "竞技体育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "运动训练(体育训练指导方向)",
+          "level": "专科",
+          "school_special_id": "799751"
+        },
+        {
+          "special_name": "运动训练(水域运动方向)",
+          "level": "专科",
+          "school_special_id": "799751"
+        },
+        {
+          "special_name": "运动训练(赛马方向)",
+          "level": "专科",
+          "school_special_id": "799751"
+        },
+        {
+          "special_name": "运动训练(足球方向)",
+          "level": "专科",
+          "school_special_id": "799751"
+        }
+      ]
+    },
+    {
+      "department_name": "社会体育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育艺术表演",
+          "level": "专科",
+          "school_special_id": "1033154"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "1799393"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2056895"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "799752"
+        }
+      ]
+    },
+    {
+      "department_name": "体育管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "799755"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "141516"
+        },
+        {
+          "special_name": "高尔夫球运动与管理",
+          "level": "专科",
+          "school_special_id": "1033155"
+        }
+      ]
+    },
+    {
+      "department_name": "体育健康学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "799753"
+        },
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "1472779"
+        },
+        {
+          "special_name": "运动防护",
+          "level": "专科",
+          "school_special_id": "799754"
+        }
+      ]
+    }
+  ]
+}

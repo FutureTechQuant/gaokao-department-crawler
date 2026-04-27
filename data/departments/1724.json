@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 16:35:29",
+  "school_id": "1724",
+  "school_name": "上海电影艺术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1724.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "cb8a2cd57a8035027e3a4c524b78c867",
+  "department_count": 4,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "表演学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "国际标准舞",
+          "level": "专科",
+          "school_special_id": "61476"
+        },
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "61472"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "时尚表演与传播",
+          "level": "专科",
+          "school_special_id": "1785686"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "61470"
+        },
+        {
+          "special_name": "音乐剧表演",
+          "level": "专科",
+          "school_special_id": "61477"
+        }
+      ]
+    },
+    {
+      "department_name": "影视科创学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "影视编导",
+          "level": "专科",
+          "school_special_id": "61474"
+        },
+        {
+          "special_name": "摄影摄像技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "数字学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "61483"
+        },
+        {
+          "special_name": "影视动画",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "游戏艺术设计",
+          "level": "专科",
+          "school_special_id": "1785687"
+        },
+        {
+          "special_name": "电子竞技运动与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "传媒学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "61468"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1785690"
+        },
+        {
+          "special_name": "新闻采编与制作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "舞台艺术设计与制作",
+          "level": "专科",
+          "school_special_id": "1785688"
+        }
+      ]
+    }
+  ]
+}

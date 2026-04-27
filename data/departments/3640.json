@@ -1,0 +1,85 @@
+{
+  "update_time": "2026-04-27 16:52:49",
+  "school_id": "3640",
+  "school_name": "可克达拉职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3640.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "b08355950d900e309a2ff2a3140055ed",
+  "department_count": 3,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "先进制造学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2156223"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "2156221"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2016878"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "2156222"
+        }
+      ]
+    },
+    {
+      "department_name": "数字经济学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "2156225"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "2016880"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "2016882"
+        }
+      ]
+    },
+    {
+      "department_name": "现代农业学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "2016881"
+        },
+        {
+          "special_name": "酿酒技术",
+          "level": "专科",
+          "school_special_id": "2016883"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "2156224"
+        }
+      ]
+    }
+  ]
+}

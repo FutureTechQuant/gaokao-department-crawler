@@ -1,0 +1,125 @@
+{
+  "update_time": "2026-04-27 16:19:02",
+  "school_id": "75",
+  "school_name": "上海交通大学医学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/75.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "8e490ec1179759b01616f09af331212c",
+  "department_count": 8,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "基础医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "生物医学科学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "营养系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "食品卫生与营养学",
+          "level": "本科",
+          "school_special_id": "2875"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "2874"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "临床医学(本博连读口腔医学方向)",
+          "level": "本科",
+          "school_special_id": "2878"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "2873"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "2011485"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "2879"
+        },
+        {
+          "special_name": "听力与言语康复学",
+          "level": "本科",
+          "school_special_id": "2011484"
+        },
+        {
+          "special_name": "食品卫生与营养学",
+          "level": "本科",
+          "school_special_id": "2875"
+        }
+      ]
+    },
+    {
+      "department_name": "上海-渥太华联合医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "2878"
+        }
+      ]
+    },
+    {
+      "department_name": "儿科学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "儿科学\"5+3\"",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "中法联合医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "临床医学(法语班)",
+          "level": "本科",
+          "school_special_id": "2878"
+        },
+        {
+          "special_name": "医学检验技术（法语班）",
+          "level": "本科",
+          "school_special_id": "2879"
+        }
+      ]
+    }
+  ]
+}

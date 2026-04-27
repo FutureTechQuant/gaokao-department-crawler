@@ -1,0 +1,111 @@
+{
+  "update_time": "2026-04-27 16:40:18",
+  "school_id": "2131",
+  "school_name": "菏泽家政职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2131.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "f26af45ac27e3c95a267f400582d18f0",
+  "department_count": 4,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "家政管理系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "2148594"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1712116"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1776219"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "1981938"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1903519"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1776218"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1735506"
+        }
+      ]
+    },
+    {
+      "department_name": "医药技术系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1735502"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1735504"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1437764"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1735501"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "1746361"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1735503"
+        }
+      ]
+    },
+    {
+      "department_name": "早期教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1776223"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1679623"
+        }
+      ]
+    }
+  ]
+}

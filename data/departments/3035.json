@@ -1,0 +1,151 @@
+{
+  "update_time": "2026-04-27 16:47:33",
+  "school_id": "3035",
+  "school_name": "郑州幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3035.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "18d77e55195e1d13a8839395902bf527",
+  "department_count": 9,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "1450450"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "86295"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "86293"
+        }
+      ]
+    },
+    {
+      "department_name": "特殊教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "86297"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "86291"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "86298"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1142781"
+        }
+      ]
+    },
+    {
+      "department_name": "美术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "86294"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "86292"
+        }
+      ]
+    },
+    {
+      "department_name": "中国语言文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "2158726"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1792483"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2158725"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语言学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1792482"
+        },
+        {
+          "special_name": "旅游英语",
+          "level": "专科",
+          "school_special_id": "86300"
+        }
+      ]
+    },
+    {
+      "department_name": "科学与技术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "科学教育",
+          "level": "专科",
+          "school_special_id": "1142784"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "86296"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1142785"
+        }
+      ]
+    }
+  ]
+}

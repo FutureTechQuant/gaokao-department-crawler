@@ -1,0 +1,123 @@
+{
+  "update_time": "2026-04-27 16:49:21",
+  "school_id": "3287",
+  "school_name": "茅台学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3287.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "cd4525a80552dc34bed3f661200ea23a",
+  "department_count": 6,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "酿酒工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "白酒酿造工程",
+          "level": "本科",
+          "school_special_id": "1036337"
+        },
+        {
+          "special_name": "葡萄与葡萄酒",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酿酒工程",
+          "level": "本科",
+          "school_special_id": "88811"
+        }
+      ]
+    },
+    {
+      "department_name": "食品科学与工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "食品科学与工程",
+          "level": "本科",
+          "school_special_id": "170517"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "本科",
+          "school_special_id": "88813"
+        }
+      ]
+    },
+    {
+      "department_name": "资源环境系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "环境科学与工程",
+          "level": "本科",
+          "school_special_id": "88815"
+        },
+        {
+          "special_name": "种子科学与工程",
+          "level": "本科",
+          "school_special_id": "1801572"
+        },
+        {
+          "special_name": "资源循环科学与工程",
+          "level": "本科",
+          "school_special_id": "88814"
+        }
+      ]
+    },
+    {
+      "department_name": "酿酒工程自动化系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "包装工程",
+          "level": "本科",
+          "school_special_id": "170519"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "88816"
+        }
+      ]
+    },
+    {
+      "department_name": "工商管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "88817"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "170518"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "88818"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "1595825"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "88819"
+        }
+      ]
+    }
+  ]
+}

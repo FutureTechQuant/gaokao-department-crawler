@@ -1,0 +1,202 @@
+{
+  "update_time": "2026-04-27 16:41:19",
+  "school_id": "2226",
+  "school_name": "九州职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2226.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "599d27fc8a891ab5dbe47a173e964a19",
+  "department_count": 5,
+  "special_count": 32,
+  "data": [
+    {
+      "department_name": "机电与汽车工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "74184"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1596244"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1745928"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1577562"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "1745930"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1745932"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1745933"
+        }
+      ]
+    },
+    {
+      "department_name": "医疗与健康学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1745961"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1745960"
+        },
+        {
+          "special_name": "智慧养老服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社区康复",
+          "level": "专科",
+          "school_special_id": "1789300"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程与设计学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "城市轨道交通工程技术",
+          "level": "专科",
+          "school_special_id": "1745941"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1745938"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "1745937"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "1745940"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "764180"
+        },
+        {
+          "special_name": "道路桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "现代服务与管理学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1596230"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1789289"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1596223"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "1745945"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1596232"
+        },
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "74190"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1745944"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1596235"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1596221"
+        }
+      ]
+    },
+    {
+      "department_name": "航空学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "民航安全技术管理",
+          "level": "专科",
+          "school_special_id": "1745956"
+        },
+        {
+          "special_name": "现代物流管理(航空物流管理)",
+          "level": "专科",
+          "school_special_id": "1789290"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1745954"
+        },
+        {
+          "special_name": "通用航空器维修",
+          "level": "专科",
+          "school_special_id": "216373"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "1359182"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1596239"
+        }
+      ]
+    }
+  ]
+}

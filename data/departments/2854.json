@@ -1,0 +1,107 @@
+{
+  "update_time": "2026-04-27 16:46:30",
+  "school_id": "2854",
+  "school_name": "廊坊卫生职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2854.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "49bb967804704e0f8ef08aa24a5189a9",
+  "department_count": 5,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1696995"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1742579"
+        }
+      ]
+    },
+    {
+      "department_name": "康复治疗系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1737694"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "84534"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "84533"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1737695"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "274278"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1742578"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "84527"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1680373"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "1860506"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "84530"
+        }
+      ]
+    }
+  ]
+}

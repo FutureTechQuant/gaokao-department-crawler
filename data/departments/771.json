@@ -1,0 +1,266 @@
+{
+  "update_time": "2026-04-27 16:26:40",
+  "school_id": "771",
+  "school_name": "成都航空职业技术大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/771.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "249a4a65ed63e6f312df343ba161cef8",
+  "department_count": 9,
+  "special_count": 40,
+  "data": [
+    {
+      "department_name": "航空装备制造产业学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "复合材料工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "579322"
+        },
+        {
+          "special_name": "模具设计与制造",
+          "level": "专科",
+          "school_special_id": "37036"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "航空发动机装试技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "航空材料精密成型技术",
+          "level": "专科",
+          "school_special_id": "37039"
+        },
+        {
+          "special_name": "航空装备表面处理技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "飞行器制造技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "37046"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "37042"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "供热通风与空调工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "37054"
+        },
+        {
+          "special_name": "建筑智能化工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能建造技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代物业管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "37048"
+        },
+        {
+          "special_name": "航空物流管理",
+          "level": "专科",
+          "school_special_id": "1471080"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "无人机产业学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "37061"
+        }
+      ]
+    },
+    {
+      "department_name": "航空维修工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "航空发动机维修技术",
+          "level": "专科",
+          "school_special_id": "1471081"
+        },
+        {
+          "special_name": "通用航空器维修",
+          "level": "专科",
+          "school_special_id": "37050"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "37062"
+        },
+        {
+          "special_name": "飞机电子设备维修",
+          "level": "专科",
+          "school_special_id": "128553"
+        }
+      ]
+    },
+    {
+      "department_name": "民航运输学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "机场运行服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民航空中安全保卫",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "37051"
+        }
+      ]
+    },
+    {
+      "department_name": "军士管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "37061"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "37042"
+        },
+        {
+          "special_name": "通用航空器维修",
+          "level": "专科",
+          "school_special_id": "37050"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "37062"
+        },
+        {
+          "special_name": "飞机电子设备维修",
+          "level": "专科",
+          "school_special_id": "128553"
+        },
+        {
+          "special_name": "飞行器数字化制造技术",
+          "level": "专科",
+          "school_special_id": "1471085"
+        }
+      ]
+    }
+  ]
+}

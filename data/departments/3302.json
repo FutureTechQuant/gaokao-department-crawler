@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:49:32",
+  "school_id": "3302",
+  "school_name": "黔南民族幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3302.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "a63965ac2d924a5754e63f89224962d0",
+  "department_count": 4,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1738906"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1675970"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "89092"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "1845945"
+        }
+      ]
+    },
+    {
+      "department_name": "基础教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "小学数学教育",
+          "level": "专科",
+          "school_special_id": "1793666"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1793667"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1793665"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "1793670"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1028005"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "89086"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1028004"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "89085"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "1028003"
+        }
+      ]
+    },
+    {
+      "department_name": "体育与健康管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1738908"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1738909"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "1845946"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "update_time": "2026-04-27 16:20:24",
+  "school_id": "201",
+  "school_name": "中国刑事警察学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/201.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:47",
+  "md5": "89c7b6cacd7cd7b739fd739cde814345",
+  "department_count": 6,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "刑事科学技术学院(法庭科学学院)",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "刑事科学技术",
+          "level": "本科",
+          "school_special_id": "10403"
+        },
+        {
+          "special_name": "法医学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "公安信息技术与情报学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "公安情报学",
+          "level": "本科",
+          "school_special_id": "10399"
+        },
+        {
+          "special_name": "公安视听技术",
+          "level": "本科",
+          "school_special_id": "10407"
+        },
+        {
+          "special_name": "技术侦查学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数据警务技术",
+          "level": "本科",
+          "school_special_id": "2153480"
+        },
+        {
+          "special_name": "网络安全与执法",
+          "level": "本科",
+          "school_special_id": "562378"
+        }
+      ]
+    },
+    {
+      "department_name": "警犬技术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "警犬技术",
+          "level": "本科",
+          "school_special_id": "10401"
+        }
+      ]
+    },
+    {
+      "department_name": "侦查与反恐怖学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "侦查学",
+          "level": "本科",
+          "school_special_id": "10405"
+        },
+        {
+          "special_name": "反恐警务",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济犯罪侦查学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "经济犯罪侦查",
+          "level": "本科",
+          "school_special_id": "10406"
+        }
+      ]
+    },
+    {
+      "department_name": "禁毒与治安学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "治安学",
+          "level": "本科",
+          "school_special_id": "10400"
+        },
+        {
+          "special_name": "涉外警务",
+          "level": "本科",
+          "school_special_id": "562377"
+        },
+        {
+          "special_name": "禁毒学",
+          "level": "本科",
+          "school_special_id": "10402"
+        }
+      ]
+    }
+  ]
+}

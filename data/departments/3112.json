@@ -1,0 +1,174 @@
+{
+  "update_time": "2026-04-27 16:48:07",
+  "school_id": "3112",
+  "school_name": "红河卫生职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3112.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "364d782425f92b0b61f7f2f69b6161fe",
+  "department_count": 7,
+  "special_count": 24,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "87331"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2041507"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1730707"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "87330"
+        }
+      ]
+    },
+    {
+      "department_name": "临床与公共卫生学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "87334"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1730700"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "87337"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "140285"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "2040919"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "87336"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "87325"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1407971"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "87329"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "87327"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "87328"
+        }
+      ]
+    },
+    {
+      "department_name": "中医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "87333"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1067810"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1730703"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1730701"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "87326"
+        },
+        {
+          "special_name": "口腔卫生保健",
+          "level": "专科",
+          "school_special_id": "2158356"
+        },
+        {
+          "special_name": "护理（口腔护理方向）",
+          "level": "专科",
+          "school_special_id": "1730707"
+        }
+      ]
+    },
+    {
+      "department_name": "公共课部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1880730"
+        }
+      ]
+    },
+    {
+      "department_name": "体育部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "2162995"
+        }
+      ]
+    }
+  ]
+}

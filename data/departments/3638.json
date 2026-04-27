@@ -1,0 +1,50 @@
+{
+  "update_time": "2026-04-27 16:52:48",
+  "school_id": "3638",
+  "school_name": "新星职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3638.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "02a85d79b6d94ed3e96181f45c0bed58",
+  "department_count": 3,
+  "special_count": 4,
+  "data": [
+    {
+      "department_name": "机电工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2016874"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2016876"
+        }
+      ]
+    },
+    {
+      "department_name": "教育艺术系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "2016877"
+        }
+      ]
+    },
+    {
+      "department_name": "能源化工系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "2016875"
+        }
+      ]
+    }
+  ]
+}

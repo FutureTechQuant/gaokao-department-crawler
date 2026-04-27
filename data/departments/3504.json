@@ -1,0 +1,96 @@
+{
+  "update_time": "2026-04-27 16:51:31",
+  "school_id": "3504",
+  "school_name": "南昌健康职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3504.json?a=www.gaokao.cn",
+  "time": "2025-07-29 18:12:01",
+  "md5": "b9263ce14e4626b1c7a79f55ff42ba13",
+  "department_count": 4,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1802396"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2167811"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1370183"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "2157789"
+        }
+      ]
+    },
+    {
+      "department_name": "食品药品系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "2157790"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1370182"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "2157791"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1370184"
+        },
+        {
+          "special_name": "口腔卫生保健",
+          "level": "专科",
+          "school_special_id": "2167810"
+        }
+      ]
+    },
+    {
+      "department_name": "康养系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1370186"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "2168009"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2157792"
+        }
+      ]
+    }
+  ]
+}

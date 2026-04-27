@@ -1,0 +1,352 @@
+{
+  "update_time": "2026-04-27 16:24:08",
+  "school_id": "522",
+  "school_name": "黔南民族师范学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/522.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:49",
+  "md5": "dc222dd9c24b526e2ad87d3b4f722bae",
+  "department_count": 15,
+  "special_count": 50,
+  "data": [
+    {
+      "department_name": "文学与传媒学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "广播电视学",
+          "level": "本科",
+          "school_special_id": "117450"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "1025151"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "117447"
+        },
+        {
+          "special_name": "秘书学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "航空服务艺术与管理",
+          "level": "本科",
+          "school_special_id": "1801855"
+        }
+      ]
+    },
+    {
+      "department_name": "历史与民族学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "历史学",
+          "level": "本科",
+          "school_special_id": "117472"
+        },
+        {
+          "special_name": "民族学",
+          "level": "本科",
+          "school_special_id": "117454"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "879243"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游与资源环境学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "地理信息科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "地理科学",
+          "level": "本科",
+          "school_special_id": "168652"
+        },
+        {
+          "special_name": "文化产业管理",
+          "level": "本科",
+          "school_special_id": "117456"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "168655"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "1004076"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "201852"
+        },
+        {
+          "special_name": "英语(师范类)",
+          "level": "本科",
+          "school_special_id": "168659"
+        },
+        {
+          "special_name": "英语(旅游英语方向)",
+          "level": "本科",
+          "school_special_id": "168659"
+        }
+      ]
+    },
+    {
+      "department_name": "数学与统计学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "168658"
+        },
+        {
+          "special_name": "应用统计学",
+          "level": "本科",
+          "school_special_id": "117487"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "168657"
+        }
+      ]
+    },
+    {
+      "department_name": "物理与电子科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "天文学",
+          "level": "本科",
+          "school_special_id": "117486"
+        },
+        {
+          "special_name": "物理学",
+          "level": "本科",
+          "school_special_id": "117480"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "117488"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "117484"
+        }
+      ]
+    },
+    {
+      "department_name": "化学化工学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "117474"
+        },
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "117476"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "117481"
+        },
+        {
+          "special_name": "能源化学工程",
+          "level": "本科",
+          "school_special_id": "2154649"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机与信息学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1130907"
+        },
+        {
+          "special_name": "智能科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "168653"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "1004078"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "168661"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "680351"
+        }
+      ]
+    },
+    {
+      "department_name": "生物科学与农学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "植物保护",
+          "level": "本科",
+          "school_special_id": "1130908"
+        },
+        {
+          "special_name": "生物技术",
+          "level": "本科",
+          "school_special_id": "117475"
+        },
+        {
+          "special_name": "生物科学",
+          "level": "本科",
+          "school_special_id": "117495"
+        },
+        {
+          "special_name": "茶学",
+          "level": "本科",
+          "school_special_id": "117485"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐舞蹈学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "1253672"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "168660"
+        }
+      ]
+    },
+    {
+      "department_name": "美术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "1025160"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "1025158"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "350531"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "1025159"
+        }
+      ]
+    },
+    {
+      "department_name": "教育科学学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "117446"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "117479"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "680373"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "农林经济管理",
+          "level": "本科",
+          "school_special_id": "117457"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "117459"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "117449"
+        }
+      ]
+    },
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "思想政治教育",
+          "level": "本科",
+          "school_special_id": "168663"
+        }
+      ]
+    }
+  ]
+}

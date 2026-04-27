@@ -1,0 +1,224 @@
+{
+  "update_time": "2026-04-27 16:38:44",
+  "school_id": "1999",
+  "school_name": "湖南科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1999.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "c210661a5b73184397eba9bbe4fdf641",
+  "department_count": 7,
+  "special_count": 34,
+  "data": [
+    {
+      "department_name": "软件学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1691525"
+        },
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "68362"
+        },
+        {
+          "special_name": "区块链技术应用",
+          "level": "专科",
+          "school_special_id": "1472470"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "121203"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1691526"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1691524"
+        },
+        {
+          "special_name": "嵌入式技术应用",
+          "level": "专科",
+          "school_special_id": "1691527"
+        },
+        {
+          "special_name": "移动互联应用技术",
+          "level": "专科",
+          "school_special_id": "68364"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "592419"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院(湘瓷学院）",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "121205"
+        },
+        {
+          "special_name": "广告设计与制作",
+          "level": "专科",
+          "school_special_id": "68341"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "350745"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "专科",
+          "school_special_id": "68338"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "350751"
+        },
+        {
+          "special_name": "皮具艺术设计",
+          "level": "专科",
+          "school_special_id": "68344"
+        },
+        {
+          "special_name": "视觉传播设计与制作",
+          "level": "专科",
+          "school_special_id": "68342"
+        },
+        {
+          "special_name": "陶瓷艺术设计与工艺",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "智能装备技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "68352"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "121211"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1741510"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "68351"
+        },
+        {
+          "special_name": "模具设计与制造",
+          "level": "专科",
+          "school_special_id": "68353"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "商务管理",
+          "level": "专科",
+          "school_special_id": "1725554"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1691499"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "68349"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1691505"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1691502"
+        },
+        {
+          "special_name": "移动商务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1359331"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "68355"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品质量与安全",
+          "level": "专科",
+          "school_special_id": "121206"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "68354"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与音乐学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "68332"
+        }
+      ]
+    }
+  ]
+}

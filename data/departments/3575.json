@@ -1,0 +1,126 @@
+{
+  "update_time": "2026-04-27 16:52:08",
+  "school_id": "3575",
+  "school_name": "浙江金华科贸职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3575.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "f05f85442e8352840892b0a56975284c",
+  "department_count": 4,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "信息工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2155084"
+        },
+        {
+          "special_name": "智能机器人技术",
+          "level": "专科",
+          "school_special_id": "2107690"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1656466"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1656465"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1656463"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1656464"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1915268"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1656468"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1656467"
+        }
+      ]
+    },
+    {
+      "department_name": "数字商贸学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1656469"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1656471"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1656470"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1915269"
+        }
+      ]
+    },
+    {
+      "department_name": "文旅艺术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2107691"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1656472"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1656475"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1656473"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1656474"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,146 @@
+{
+  "update_time": "2026-04-27 16:38:33",
+  "school_id": "1984",
+  "school_name": "长沙航空职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1984.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "d0953b50220b9475767a0d6870ddd717",
+  "department_count": 4,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "航空机电设备维修学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "复合材料工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1741428"
+        },
+        {
+          "special_name": "理化测试与质检技术",
+          "level": "专科",
+          "school_special_id": "122846"
+        },
+        {
+          "special_name": "航空发动机维修技术",
+          "level": "专科",
+          "school_special_id": "1741429"
+        },
+        {
+          "special_name": "通用航空器维修",
+          "level": "专科",
+          "school_special_id": "1741433"
+        },
+        {
+          "special_name": "飞行器维修技术",
+          "level": "专科",
+          "school_special_id": "67940"
+        }
+      ]
+    },
+    {
+      "department_name": "航空电子设备维修学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "导弹维修技术",
+          "level": "专科",
+          "school_special_id": "1691367"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "67935"
+        },
+        {
+          "special_name": "民航通信技术",
+          "level": "专科",
+          "school_special_id": "1691355"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "1691354"
+        },
+        {
+          "special_name": "飞机电子设备维修",
+          "level": "专科",
+          "school_special_id": "67937"
+        }
+      ]
+    },
+    {
+      "department_name": "航空机械制造学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1725542"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "67932"
+        },
+        {
+          "special_name": "智能焊接技术",
+          "level": "专科",
+          "school_special_id": "1469388"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "67926"
+        },
+        {
+          "special_name": "航空发动机制造技术",
+          "level": "专科",
+          "school_special_id": "1741427"
+        },
+        {
+          "special_name": "飞行器数字化制造技术",
+          "level": "专科",
+          "school_special_id": "1469387"
+        }
+      ]
+    },
+    {
+      "department_name": "航空服务与管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "机场运行服务与管理",
+          "level": "专科",
+          "school_special_id": "1469389"
+        },
+        {
+          "special_name": "民航安全技术与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民航运输服务",
+          "level": "专科",
+          "school_special_id": "1725539"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "67930"
+        },
+        {
+          "special_name": "通用航空航务技术",
+          "level": "专科",
+          "school_special_id": "67927"
+        }
+      ]
+    }
+  ]
+}

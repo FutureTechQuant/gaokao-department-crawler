@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 16:31:43",
+  "school_id": "1284",
+  "school_name": "西安海棠职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1284.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "d0a35ce5340c6b727a323df41146654c",
+  "department_count": 3,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "医学美容系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1860929"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1734702"
+        },
+        {
+          "special_name": "化妆品技术",
+          "level": "专科",
+          "school_special_id": "1596868"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1734714"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1734715"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1596867"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "1734707"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1734700"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1734716"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1734717"
+        },
+        {
+          "special_name": "司法鉴定",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1734701"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2059791"
+        }
+      ]
+    },
+    {
+      "department_name": "工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1596866"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1734705"
+        },
+        {
+          "special_name": "建筑消防技术",
+          "level": "专科",
+          "school_special_id": "1596865"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "42232"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1734708"
+        }
+      ]
+    }
+  ]
+}

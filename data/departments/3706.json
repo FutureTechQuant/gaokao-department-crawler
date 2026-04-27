@@ -1,0 +1,96 @@
+{
+  "update_time": "2026-04-27 16:53:34",
+  "school_id": "3706",
+  "school_name": "江西樟树中医药职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3706.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:07",
+  "md5": "d4e3b3409fcf30ac096fc05f1b41bb13",
+  "department_count": 4,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "健康管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "2157892"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "2156725"
+        }
+      ]
+    },
+    {
+      "department_name": "医学系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2156727"
+        },
+        {
+          "special_name": "针灸学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "2156726"
+        },
+        {
+          "special_name": "中药材生产与加工",
+          "level": "专科",
+          "school_special_id": "2157891"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

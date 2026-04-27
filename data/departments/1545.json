@@ -1,0 +1,85 @@
+{
+  "update_time": "2026-04-27 16:33:39",
+  "school_id": "1545",
+  "school_name": "内蒙古体育职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1545.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "64b3a0b6144711516d2adc39e0899c30",
+  "department_count": 3,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "运动训练系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "57144"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "1460509"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "57143"
+        }
+      ]
+    },
+    {
+      "department_name": "体育管理系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "57146"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "57148"
+        },
+        {
+          "special_name": "市场营销(体育市场营销方向)",
+          "level": "专科",
+          "school_special_id": "57147"
+        },
+        {
+          "special_name": "新闻采编与制作(体育新闻方向)",
+          "level": "专科",
+          "school_special_id": "132838"
+        },
+        {
+          "special_name": "民航空中安全保卫",
+          "level": "专科",
+          "school_special_id": "1787805"
+        }
+      ]
+    },
+    {
+      "department_name": "体育教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1788042"
+        },
+        {
+          "special_name": "民族传统体育",
+          "level": "专科",
+          "school_special_id": "1460510"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "57142"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "update_time": "2026-04-27 16:52:44",
+  "school_id": "3632",
+  "school_name": "秦皇岛工业职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3632.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "1d43019ca9a07c53070066ba310ab50a",
+  "department_count": 5,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "机械工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "2152512"
+        },
+        {
+          "special_name": "机械装备制造技术",
+          "level": "专科",
+          "school_special_id": "2152513"
+        }
+      ]
+    },
+    {
+      "department_name": "电气工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "工业过程自动化技术",
+          "level": "专科",
+          "school_special_id": "2152514"
+        },
+        {
+          "special_name": "智能机电技术",
+          "level": "专科",
+          "school_special_id": "2152515"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车电子技术",
+          "level": "专科",
+          "school_special_id": "2152517"
+        }
+      ]
+    },
+    {
+      "department_name": "商贸服务系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中西面点工艺",
+          "level": "专科",
+          "school_special_id": "2152520"
+        },
+        {
+          "special_name": "广播影视节目制作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "西式烹饪工艺",
+          "level": "专科",
+          "school_special_id": "2152521"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "会计信息管理",
+          "level": "专科",
+          "school_special_id": "2152519"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "2152518"
+        }
+      ]
+    }
+  ]
+}

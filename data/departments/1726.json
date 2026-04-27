@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 16:35:30",
+  "school_id": "1726",
+  "school_name": "上海民远职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1726.json?a=www.gaokao.cn",
+  "time": "2025-07-09 10:22:41",
+  "md5": "c0e854c4606a35c26c1efc13830631a7",
+  "department_count": 5,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "宠物科技学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "宠物养护与驯导",
+          "level": "专科",
+          "school_special_id": "2166456"
+        },
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "2157199"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1785641"
+        }
+      ]
+    },
+    {
+      "department_name": "智能工程与技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1712860"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1712861"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1785643"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1750921"
+        }
+      ]
+    },
+    {
+      "department_name": "文化与旅游学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1785642"
+        }
+      ]
+    },
+    {
+      "department_name": "新媒体学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1708172"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1785640"
+        }
+      ]
+    }
+  ]
+}

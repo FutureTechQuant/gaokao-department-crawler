@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:26:03",
+  "school_id": "709",
+  "school_name": "大兴安岭职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/709.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "0acfec54f9a83a3317105239930e4f1c",
+  "department_count": 5,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "医学技术学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1881761"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1733982"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1888607"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1733981"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1377371"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1728885"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "人文教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "35237"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1868123"
+        }
+      ]
+    },
+    {
+      "department_name": "生态环境学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1591288"
+        },
+        {
+          "special_name": "林业技术",
+          "level": "专科",
+          "school_special_id": "1591278"
+        },
+        {
+          "special_name": "森林草原防火技术",
+          "level": "专科",
+          "school_special_id": "1591279"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1750844"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "1593096"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "旅游工艺品设计与制作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "1026980"
+        },
+        {
+          "special_name": "雕刻艺术与家具设计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "35240"
+        }
+      ]
+    }
+  ]
+}

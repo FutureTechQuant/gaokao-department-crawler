@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-04-27 16:50:05",
+  "school_id": "3353",
+  "school_name": "上饶幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3353.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "e949d3d73c092d2c6dc61013ea5b3c63",
+  "department_count": 4,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1789038"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "89340"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1031705"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "1515429"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1789036"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "89341"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "2153276"
+        }
+      ]
+    },
+    {
+      "department_name": "小学教育学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "89342"
+        },
+        {
+          "special_name": "小学数学教育",
+          "level": "专科",
+          "school_special_id": "1515553"
+        },
+        {
+          "special_name": "小学科学教育",
+          "level": "专科",
+          "school_special_id": "1515559"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1515420"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1515407"
+        }
+      ]
+    },
+    {
+      "department_name": "公共基础教育部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "2163141"
+        }
+      ]
+    }
+  ]
+}

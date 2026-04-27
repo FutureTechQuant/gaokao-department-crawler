@@ -1,0 +1,132 @@
+{
+  "update_time": "2026-04-27 16:51:27",
+  "school_id": "3499",
+  "school_name": "赤峰应用技术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3499.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "5022963f91b89792794e618ba4af1819",
+  "department_count": 5,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "畜牧兽医系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "1619636"
+        }
+      ]
+    },
+    {
+      "department_name": "农林系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中草药栽培与加工",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "1788025"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "2152943"
+        },
+        {
+          "special_name": "设施农业与装备",
+          "level": "专科",
+          "school_special_id": "2159524"
+        }
+      ]
+    },
+    {
+      "department_name": "现代服务与管理系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1619637"
+        },
+        {
+          "special_name": "现代农业经济管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代物业管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "2159526"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1788029"
+        }
+      ]
+    },
+    {
+      "department_name": "健康管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "1788036"
+        },
+        {
+          "special_name": "医疗器械维护与管理",
+          "level": "专科",
+          "school_special_id": "1459189"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1619639"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "2159527"
+        }
+      ]
+    },
+    {
+      "department_name": "基础教育与文化艺术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育艺术表演(武术方向)",
+          "level": "专科",
+          "school_special_id": "1788024"
+        },
+        {
+          "special_name": "民族表演艺术",
+          "level": "专科",
+          "school_special_id": "2152944"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2162892"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "update_time": "2026-04-27 16:38:12",
+  "school_id": "1955",
+  "school_name": "湖北艺术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1955.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "47e4125a4f1d0c23f686ddaef0147314",
+  "department_count": 6,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "戏曲学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "戏曲表演",
+          "level": "专科",
+          "school_special_id": "1799237"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际标准舞",
+          "level": "专科",
+          "school_special_id": "1702430"
+        },
+        {
+          "special_name": "舞蹈编导",
+          "level": "专科",
+          "school_special_id": "67187"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "2161745"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "现代流行音乐(现代流行演唱)",
+          "level": "专科",
+          "school_special_id": "1702431"
+        },
+        {
+          "special_name": "钢琴调律",
+          "level": "专科",
+          "school_special_id": "67192"
+        },
+        {
+          "special_name": "音乐制作",
+          "level": "专科",
+          "school_special_id": "2163014"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "787491"
+        }
+      ]
+    },
+    {
+      "department_name": "影视传媒学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "影视编导",
+          "level": "专科",
+          "school_special_id": "1135324"
+        },
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "67196"
+        },
+        {
+          "special_name": "摄影摄像技术",
+          "level": "专科",
+          "school_special_id": "787496"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "67194"
+        },
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "1702428"
+        },
+        {
+          "special_name": "文物修复与保护",
+          "level": "专科",
+          "school_special_id": "67195"
+        },
+        {
+          "special_name": "舞台艺术设计与制作",
+          "level": "专科",
+          "school_special_id": "1702435"
+        },
+        {
+          "special_name": "艺术设计(广告新媒体)",
+          "level": "专科",
+          "school_special_id": "787490"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "626420"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "787493"
+        }
+      ]
+    }
+  ]
+}

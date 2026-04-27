@@ -1,0 +1,125 @@
+{
+  "update_time": "2026-04-27 16:50:23",
+  "school_id": "3383",
+  "school_name": "湖南吉利汽车职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3383.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "939002a12345bcc24085ad0c9a231ff3",
+  "department_count": 3,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "人工智能与软件学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1599966"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "89567"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "1691943"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "242127"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1691945"
+        },
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1691944"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1691952"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1359399"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "1691942"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "1691941"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "128879"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "128872"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "1691940"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1691938"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1734381"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "1691951"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1691946"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1691937"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "89569"
+        }
+      ]
+    }
+  ]
+}

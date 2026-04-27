@@ -1,0 +1,98 @@
+{
+  "update_time": "2026-04-27 16:52:34",
+  "school_id": "3618",
+  "school_name": "吕梁师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3618.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "96c34e993c28957cba93c6be0fd2e4bb",
+  "department_count": 6,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "表演系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "戏曲表演",
+          "level": "专科",
+          "school_special_id": "2152531"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "2152530"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "旅游英语",
+          "level": "专科",
+          "school_special_id": "2152528"
+        }
+      ]
+    },
+    {
+      "department_name": "中文系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "2152527"
+        }
+      ]
+    },
+    {
+      "department_name": "体育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "2152524"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "2152529"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2158979"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2152526"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2152523"
+        }
+      ]
+    }
+  ]
+}

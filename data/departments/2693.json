@@ -1,0 +1,236 @@
+{
+  "update_time": "2026-04-27 16:46:08",
+  "school_id": "2693",
+  "school_name": "榆林职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2693.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "e3c09123656fff4e8205ac97700f209a",
+  "department_count": 9,
+  "special_count": 34,
+  "data": [
+    {
+      "department_name": "农学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "建筑消防技术",
+          "level": "专科",
+          "school_special_id": "1601071"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1030882"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "121686"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "121683"
+        }
+      ]
+    },
+    {
+      "department_name": "化学工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "化工自动化技术",
+          "level": "专科",
+          "school_special_id": "121685"
+        },
+        {
+          "special_name": "化工装备技术",
+          "level": "专科",
+          "school_special_id": "84209"
+        },
+        {
+          "special_name": "工业分析技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "121672"
+        },
+        {
+          "special_name": "煤炭深加工与利用",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "林学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "121682"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1601078"
+        },
+        {
+          "special_name": "林业技术",
+          "level": "专科",
+          "school_special_id": "121681"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "84201"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "1601073"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "84215"
+        },
+        {
+          "special_name": "热能动力工程技术",
+          "level": "专科",
+          "school_special_id": "1597215"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "84217"
+        }
+      ]
+    },
+    {
+      "department_name": "人文社科学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1597210"
+        }
+      ]
+    },
+    {
+      "department_name": "矿业工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "121684"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "84204"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "84205"
+        },
+        {
+          "special_name": "煤矿智能开采技术",
+          "level": "专科",
+          "school_special_id": "1601069"
+        },
+        {
+          "special_name": "矿山机电与智能装备",
+          "level": "专科",
+          "school_special_id": "1601070"
+        }
+      ]
+    },
+    {
+      "department_name": "医学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1368579"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1368578"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1734363"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1730536"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1860995"
+        }
+      ]
+    },
+    {
+      "department_name": "管理工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1601079"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1597213"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1597220"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "84218"
+        }
+      ]
+    },
+    {
+      "department_name": "师范教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "84206"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "1597211"
+        }
+      ]
+    }
+  ]
+}

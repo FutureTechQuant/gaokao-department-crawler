@@ -1,0 +1,188 @@
+{
+  "update_time": "2026-04-27 16:25:20",
+  "school_id": "635",
+  "school_name": "广州民航职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/635.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "b477974dbddf655ee0fb62863c637458",
+  "department_count": 6,
+  "special_count": 28,
+  "data": [
+    {
+      "department_name": "飞机维修工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "航空发动机维修技术",
+          "level": "专科",
+          "school_special_id": "2157133"
+        },
+        {
+          "special_name": "通用航空器维修",
+          "level": "专科",
+          "school_special_id": "127722"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "33133"
+        },
+        {
+          "special_name": "飞机电子设备维修",
+          "level": "专科",
+          "school_special_id": "33125"
+        },
+        {
+          "special_name": "飞机结构修理",
+          "level": "专科",
+          "school_special_id": "1022668"
+        },
+        {
+          "special_name": "飞机部件修理",
+          "level": "专科",
+          "school_special_id": "33131"
+        }
+      ]
+    },
+    {
+      "department_name": "航空港管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "机场场务技术与管理",
+          "level": "专科",
+          "school_special_id": "33140"
+        },
+        {
+          "special_name": "机场运行管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民航安全技术管理(民航旅客安全检查)",
+          "level": "专科",
+          "school_special_id": "33128"
+        },
+        {
+          "special_name": "民航安全技术管理(民航货邮安全检查)",
+          "level": "专科",
+          "school_special_id": "33128"
+        },
+        {
+          "special_name": "通用航空航务技术",
+          "level": "专科",
+          "school_special_id": "127702"
+        }
+      ]
+    },
+    {
+      "department_name": "空中乘务学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "会展策划与管理(航空会展与酒店管理)",
+          "level": "专科",
+          "school_special_id": "33142"
+        },
+        {
+          "special_name": "民航空中安全保卫",
+          "level": "专科",
+          "school_special_id": "33126"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "33141"
+        }
+      ]
+    },
+    {
+      "department_name": "民航电子信息工程学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2157135"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1515583"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "33135"
+        },
+        {
+          "special_name": "机场电工技术",
+          "level": "专科",
+          "school_special_id": "127706"
+        },
+        {
+          "special_name": "民航通信技术(导航设备维修方向)",
+          "level": "专科",
+          "school_special_id": "33137"
+        },
+        {
+          "special_name": "民航通信技术(通信设备维修方向)",
+          "level": "专科",
+          "school_special_id": "33137"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "2157134"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "33134"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "33139"
+        }
+      ]
+    },
+    {
+      "department_name": "民航经营管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1515584"
+        },
+        {
+          "special_name": "民航运输服务",
+          "level": "专科",
+          "school_special_id": "1515398"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1515436"
+        },
+        {
+          "special_name": "航空物流管理",
+          "level": "专科",
+          "school_special_id": "1515444"
+        }
+      ]
+    },
+    {
+      "department_name": "无人机学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2021544"
+        }
+      ]
+    }
+  ]
+}

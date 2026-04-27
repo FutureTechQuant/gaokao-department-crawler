@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-04-27 16:18:44",
+  "school_id": "49",
+  "school_name": "北京中医药大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/49.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "de07c33994ad9ee8c12715cd71ad23e0",
+  "department_count": 8,
+  "special_count": 25,
+  "data": [
+    {
+      "department_name": "中医学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中医学(卓越中医京华班)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中医学(卓越中医儿科班)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中医学(卓越中医班)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中医学(卓越中西医班)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中医学(实验班)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中医学(岐黄国医班)",
+          "level": "本科",
+          "school_special_id": "1381"
+        }
+      ]
+    },
+    {
+      "department_name": "中药学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药制药",
+          "level": "本科",
+          "school_special_id": "1370"
+        },
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "1369"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "100424"
+        }
+      ]
+    },
+    {
+      "department_name": "生命科学学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "生物工程",
+          "level": "本科",
+          "school_special_id": "1129595"
+        }
+      ]
+    },
+    {
+      "department_name": "针灸推拿学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医学(卓越针推八年制)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中医学(卓越骨伤八年制)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "1383"
+        },
+        {
+          "special_name": "针灸推拿学(五年制)",
+          "level": "本科",
+          "school_special_id": "1368"
+        }
+      ]
+    },
+    {
+      "department_name": "岐黄学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医学(领军人才培养计划)",
+          "level": "本科",
+          "school_special_id": "1381"
+        },
+        {
+          "special_name": "中西医临床医学(华佗班)",
+          "level": "本科",
+          "school_special_id": "307217"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "1376"
+        },
+        {
+          "special_name": "大数据管理与应用",
+          "level": "本科",
+          "school_special_id": "1129596"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "1377"
+        },
+        {
+          "special_name": "药事管理",
+          "level": "本科",
+          "school_special_id": "1386"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "1378"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "法学(医药卫生)",
+          "level": "本科",
+          "school_special_id": "1379"
+        },
+        {
+          "special_name": "英语(中医药国际传播)",
+          "level": "本科",
+          "school_special_id": "1380"
+        },
+        {
+          "special_name": "英语(医学)",
+          "level": "本科",
+          "school_special_id": "1380"
+        }
+      ]
+    }
+  ]
+}

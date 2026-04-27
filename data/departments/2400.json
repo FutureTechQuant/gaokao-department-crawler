@@ -1,0 +1,183 @@
+{
+  "update_time": "2026-04-27 16:43:14",
+  "school_id": "2400",
+  "school_name": "上海财经大学浙江学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2400.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "af923548f60f0e033757621ebb13b79a",
+  "department_count": 6,
+  "special_count": 27,
+  "data": [
+    {
+      "department_name": "统计系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "应用统计学",
+          "level": "本科",
+          "school_special_id": "156598"
+        },
+        {
+          "special_name": "应用统计学(金融统计方向)",
+          "level": "本科",
+          "school_special_id": "156598"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "156601"
+        },
+        {
+          "special_name": "经济统计学",
+          "level": "本科",
+          "school_special_id": "156599"
+        },
+        {
+          "special_name": "统计学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "金融系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "保险学",
+          "level": "本科",
+          "school_special_id": "900276"
+        },
+        {
+          "special_name": "投资学",
+          "level": "本科",
+          "school_special_id": "156592"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "77873"
+        }
+      ]
+    },
+    {
+      "department_name": "会计系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "77875"
+        },
+        {
+          "special_name": "会计学(国际会计ACCA)",
+          "level": "本科",
+          "school_special_id": "77875"
+        },
+        {
+          "special_name": "会计学(注册会计)",
+          "level": "本科",
+          "school_special_id": "77875"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "77879"
+        }
+      ]
+    },
+    {
+      "department_name": "工商管理系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "77876"
+        },
+        {
+          "special_name": "会展经济与管理",
+          "level": "本科",
+          "school_special_id": "156586"
+        },
+        {
+          "special_name": "创业管理",
+          "level": "本科",
+          "school_special_id": "1800816"
+        },
+        {
+          "special_name": "国际商务",
+          "level": "本科",
+          "school_special_id": "156590"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "77874"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "77878"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "77877"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "77872"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与信息管理系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "156585"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "156589"
+        },
+        {
+          "special_name": "经济学(健康经济与管理)",
+          "level": "本科",
+          "school_special_id": "156589"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "本科",
+          "school_special_id": "2012719"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "1026249"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "156587"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "77880"
+        }
+      ]
+    }
+  ]
+}

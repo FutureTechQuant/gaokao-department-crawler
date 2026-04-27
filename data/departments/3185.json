@@ -1,0 +1,105 @@
+{
+  "update_time": "2026-04-27 16:48:25",
+  "school_id": "3185",
+  "school_name": "皖北卫生职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3185.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "7470f4c767fbd0f9eed391c6122fa7c7",
+  "department_count": 3,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "87877"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "131913"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1740053"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "2148695"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "87881"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "87878"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1740054"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学与医学技术系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1679512"
+        },
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1028713"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1740051"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "87876"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "87879"
+        },
+        {
+          "special_name": "卫生检验与检疫技术",
+          "level": "专科",
+          "school_special_id": "1028709"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "87875"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "87880"
+        }
+      ]
+    }
+  ]
+}

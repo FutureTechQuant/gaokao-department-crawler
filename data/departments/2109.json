@@ -1,0 +1,325 @@
+{
+  "update_time": "2026-04-27 16:40:01",
+  "school_id": "2109",
+  "school_name": "山东水利职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2109.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "09e5c2ef29005d7a05b9ce5540b9a480",
+  "department_count": 8,
+  "special_count": 53,
+  "data": [
+    {
+      "department_name": "水利工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "智慧水利技术",
+          "level": "专科",
+          "school_special_id": "1472230"
+        },
+        {
+          "special_name": "水利工程",
+          "level": "专科",
+          "school_special_id": "71209"
+        },
+        {
+          "special_name": "水利水电工程智能管理",
+          "level": "专科",
+          "school_special_id": "1775806"
+        },
+        {
+          "special_name": "水利水电建筑工程",
+          "level": "专科",
+          "school_special_id": "71222"
+        },
+        {
+          "special_name": "治河与航道工程技术",
+          "level": "专科",
+          "school_special_id": "1775807"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "土木工程检测技术",
+          "level": "专科",
+          "school_special_id": "71213"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "71194"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "71192"
+        },
+        {
+          "special_name": "建设工程监理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "资源与环境系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "园林工程技术",
+          "level": "专科",
+          "school_special_id": "71223"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "71211"
+        },
+        {
+          "special_name": "智能水务管理",
+          "level": "专科",
+          "school_special_id": "1514558"
+        },
+        {
+          "special_name": "水文与水资源技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "水生态修复技术",
+          "level": "专科",
+          "school_special_id": "1472232"
+        },
+        {
+          "special_name": "环境工程技术",
+          "level": "专科",
+          "school_special_id": "71216"
+        },
+        {
+          "special_name": "给排水工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "183093"
+        },
+        {
+          "special_name": "数字化设计与制造技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "601834"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "2042314"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "71215"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "71188"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 15,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1775812"
+        },
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "71207"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1981848"
+        },
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "1034992"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1798294"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1799334"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1392603"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "71220"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "1798295"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "71217"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "71203"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "71219"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "71189"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1513683"
+        },
+        {
+          "special_name": "大数据与会计(云财务会计师方向)",
+          "level": "专科",
+          "school_special_id": "1513683"
+        },
+        {
+          "special_name": "财富管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "财税大数据应用",
+          "level": "专科",
+          "school_special_id": "1981847"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1775813"
+        }
+      ]
+    },
+    {
+      "department_name": "商务管理系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "关务与外贸服务",
+          "level": "专科",
+          "school_special_id": "1798293"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "71226"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "124509"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1775816"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "124513"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "1775815"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1514559"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1775817"
+        }
+      ]
+    },
+    {
+      "department_name": "国际合作部",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "71215"
+        },
+        {
+          "special_name": "水利工程",
+          "level": "专科",
+          "school_special_id": "71209"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 16:28:50",
+  "school_id": "980",
+  "school_name": "广东司法警官职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/980.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "a4dfaa6a06521b48abaafef583fa97f6",
+  "department_count": 6,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "公共基础部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "133100"
+        }
+      ]
+    },
+    {
+      "department_name": "警察系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "刑事侦查技术",
+          "level": "专科",
+          "school_special_id": "133106"
+        },
+        {
+          "special_name": "刑事执行",
+          "level": "专科",
+          "school_special_id": "133104"
+        },
+        {
+          "special_name": "罪犯心理测量与矫正技术",
+          "level": "专科",
+          "school_special_id": "133111"
+        },
+        {
+          "special_name": "行政执行",
+          "level": "专科",
+          "school_special_id": "133105"
+        }
+      ]
+    },
+    {
+      "department_name": "信息管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "司法信息安全",
+          "level": "专科",
+          "school_special_id": "133110"
+        },
+        {
+          "special_name": "司法信息技术",
+          "level": "专科",
+          "school_special_id": "133109"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1866175"
+        }
+      ]
+    },
+    {
+      "department_name": "法律系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "司法助理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "43966"
+        },
+        {
+          "special_name": "法律文秘",
+          "level": "专科",
+          "school_special_id": "133102"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "专科",
+          "school_special_id": "133112"
+        }
+      ]
+    },
+    {
+      "department_name": "应急管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应急救援技术",
+          "level": "专科",
+          "school_special_id": "1866176"
+        },
+        {
+          "special_name": "消防救援技术",
+          "level": "专科",
+          "school_special_id": "1472788"
+        }
+      ]
+    },
+    {
+      "department_name": "安全保卫系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "司法警务",
+          "level": "专科",
+          "school_special_id": "133103"
+        },
+        {
+          "special_name": "司法鉴定技术",
+          "level": "专科",
+          "school_special_id": "133107"
+        },
+        {
+          "special_name": "安全防范技术",
+          "level": "专科",
+          "school_special_id": "133108"
+        }
+      ]
+    }
+  ]
+}

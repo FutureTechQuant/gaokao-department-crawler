@@ -1,0 +1,85 @@
+{
+  "update_time": "2026-04-27 16:48:15",
+  "school_id": "3126",
+  "school_name": "保定幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3126.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "a3149cb7817e0ac248aba2bac3b6fd7e",
+  "department_count": 3,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1679008"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "87498"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "87500"
+        }
+      ]
+    },
+    {
+      "department_name": "初等教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1029178"
+        },
+        {
+          "special_name": "小学教育(综合文科教育)",
+          "level": "专科",
+          "school_special_id": "130416"
+        },
+        {
+          "special_name": "小学教育(综合理科教育)",
+          "level": "专科",
+          "school_special_id": "130416"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1680004"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "书画艺术(插画方向)",
+          "level": "专科",
+          "school_special_id": "1793259"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "87494"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "87499"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2162821"
+        }
+      ]
+    }
+  ]
+}

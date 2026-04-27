@@ -1,0 +1,195 @@
+{
+  "update_time": "2026-04-27 16:33:52",
+  "school_id": "1567",
+  "school_name": "安顺职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1567.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "44784ff48510e4eed9113472d4520aad",
+  "department_count": 8,
+  "special_count": 27,
+  "data": [
+    {
+      "department_name": "应用医药系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1740523"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1740522"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "57604"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "57610"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1735016"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1735015"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1735017"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1735018"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "57619"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "专科",
+          "school_special_id": "57615"
+        }
+      ]
+    },
+    {
+      "department_name": "现代工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "57628"
+        },
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2124697"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "57624"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与电子科学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1735001"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "57631"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "57630"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "现代农业工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "农业经济管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "园艺技术",
+          "level": "专科",
+          "school_special_id": "1371133"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "57638"
+        },
+        {
+          "special_name": "茶艺与茶文化",
+          "level": "专科",
+          "school_special_id": "1735011"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "导游",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "57641"
+        },
+        {
+          "special_name": "烹调工艺与营养",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1735006"
+        }
+      ]
+    },
+    {
+      "department_name": "公共课教学部",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1371132"
+        }
+      ]
+    }
+  ]
+}

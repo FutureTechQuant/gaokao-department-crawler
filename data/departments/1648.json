@@ -1,0 +1,127 @@
+{
+  "update_time": "2026-04-27 16:34:42",
+  "school_id": "1648",
+  "school_name": "山西财贸职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1648.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "fe8f0d41a03d41437531c7f31d2039be",
+  "department_count": 5,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "会计系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1777854"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1777853"
+        },
+        {
+          "special_name": "财富管理",
+          "level": "专科",
+          "school_special_id": "1777852"
+        },
+        {
+          "special_name": "资产评估与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济贸易系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "59611"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "59612"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "2158930"
+        }
+      ]
+    },
+    {
+      "department_name": "物联网技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1979066"
+        },
+        {
+          "special_name": "制冷与空调技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "59617"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "59618"
+        }
+      ]
+    },
+    {
+      "department_name": "文化旅游系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智慧旅游技术应用",
+          "level": "专科",
+          "school_special_id": "1472179"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "工程艺术设计系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1777858"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "59616"
+        }
+      ]
+    }
+  ]
+}

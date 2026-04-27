@@ -1,0 +1,138 @@
+{
+  "update_time": "2026-04-27 16:51:00",
+  "school_id": "3454",
+  "school_name": "和田职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3454.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "c84c5c39d05b1df1b379daaaf96c1a05",
+  "department_count": 6,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "农业科技系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "农产品加工与质量检测（含 2+3）",
+          "level": "专科",
+          "school_special_id": "1615112"
+        },
+        {
+          "special_name": "园艺技术",
+          "level": "专科",
+          "school_special_id": "1731138"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "1869279"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计（含 3+2)",
+          "level": "专科",
+          "school_special_id": "1615568"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1615762"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1363287"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1365087"
+        },
+        {
+          "special_name": "烹调工艺与营养",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1869280"
+        }
+      ]
+    },
+    {
+      "department_name": "社会管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "民政服务与管理",
+          "level": "专科",
+          "school_special_id": "1734451"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1739621"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "2041707"
+        }
+      ]
+    },
+    {
+      "department_name": "工程技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2041557"
+        },
+        {
+          "special_name": "机电一体化技术（矿山机电方向）",
+          "level": "专科",
+          "school_special_id": "2040785"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1615768"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1046609"
+        }
+      ]
+    },
+    {
+      "department_name": "工艺美术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "服装设计与工艺",
+          "level": "专科",
+          "school_special_id": "1370245"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1734450"
+        }
+      ]
+    }
+  ]
+}

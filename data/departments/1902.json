@@ -1,0 +1,274 @@
+{
+  "update_time": "2026-04-27 16:37:35",
+  "school_id": "1902",
+  "school_name": "泉州海洋职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1902.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "b515cc98beb9ed992d821cdf796b1a1f",
+  "department_count": 7,
+  "special_count": 44,
+  "data": [
+    {
+      "department_name": "航海交通学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "国际邮轮乘务管理",
+          "level": "专科",
+          "school_special_id": "65546"
+        },
+        {
+          "special_name": "港口物流管理",
+          "level": "专科",
+          "school_special_id": "2159766"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "133884"
+        },
+        {
+          "special_name": "航海技术",
+          "level": "专科",
+          "school_special_id": "65536"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1597199"
+        }
+      ]
+    },
+    {
+      "department_name": "海洋工程学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "604545"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1515393"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "133890"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "65542"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1515573"
+        },
+        {
+          "special_name": "海洋工程装备技术",
+          "level": "专科",
+          "school_special_id": "1754812"
+        },
+        {
+          "special_name": "石油化工技术",
+          "level": "专科",
+          "school_special_id": "604539"
+        },
+        {
+          "special_name": "船舶工程技术",
+          "level": "专科",
+          "school_special_id": "65541"
+        },
+        {
+          "special_name": "轮机工程技术",
+          "level": "专科",
+          "school_special_id": "65540"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "1888521"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1515434"
+        },
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "1659718"
+        },
+        {
+          "special_name": "影视编导",
+          "level": "专科",
+          "school_special_id": "1412869"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1032827"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "1383053"
+        },
+        {
+          "special_name": "移动互联应用技术",
+          "level": "专科",
+          "school_special_id": "133891"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "133885"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "257310"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "604548"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "商务数据分析与应用",
+          "level": "专科",
+          "school_special_id": "1795946"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "2096394"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1515441"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "65550"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "65551"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "244175"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "1866302"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术体育学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "65538"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1795953"
+        },
+        {
+          "special_name": "康复工程技术",
+          "level": "专科",
+          "school_special_id": "1030765"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1857018"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "133888"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "133889"
+        }
+      ]
+    },
+    {
+      "department_name": "国防教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "1383053"
+        },
+        {
+          "special_name": "航海技术",
+          "level": "专科",
+          "school_special_id": "65536"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "257310"
+        },
+        {
+          "special_name": "轮机工程技术",
+          "level": "专科",
+          "school_special_id": "65540"
+        }
+      ]
+    },
+    {
+      "department_name": "游艇帆船学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "休闲服务与管理",
+          "level": "专科",
+          "school_special_id": "1979907"
+        },
+        {
+          "special_name": "游艇设计与制造",
+          "level": "专科",
+          "school_special_id": "1947494"
+        }
+      ]
+    }
+  ]
+}

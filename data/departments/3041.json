@@ -1,0 +1,135 @@
+{
+  "update_time": "2026-04-27 16:47:37",
+  "school_id": "3041",
+  "school_name": "昆明卫生职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3041.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "5a9455ed773da9460a1d1ceda24ecc61",
+  "department_count": 8,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1730602"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "127910"
+        }
+      ]
+    },
+    {
+      "department_name": "临床学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1734945"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "检验学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1730608"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1734949"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1734946"
+        }
+      ]
+    },
+    {
+      "department_name": "中医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1734947"
+        },
+        {
+          "special_name": "中医骨伤",
+          "level": "专科",
+          "school_special_id": "1734948"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1730606"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1730607"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1730603"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1734949"
+        }
+      ]
+    },
+    {
+      "department_name": "影像学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1730609"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

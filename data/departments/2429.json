@@ -1,0 +1,306 @@
+{
+  "update_time": "2026-04-27 16:43:35",
+  "school_id": "2429",
+  "school_name": "江西师范大学科学技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2429.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "a20267ef66ef015ec684f419e35e3701",
+  "department_count": 9,
+  "special_count": 48,
+  "data": [
+    {
+      "department_name": "商学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "78466"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "78486"
+        },
+        {
+          "special_name": "经济统计学",
+          "level": "本科",
+          "school_special_id": "78456"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "78485"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "文法学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "78467"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "78468"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "教师教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "78463"
+        },
+        {
+          "special_name": "家政学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "78461"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "1130372"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "78477"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "78471"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "78454"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "78482"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "78474"
+        }
+      ]
+    },
+    {
+      "department_name": "传媒学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "78478"
+        },
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "2162669"
+        },
+        {
+          "special_name": "影视摄影与制作",
+          "level": "本科",
+          "school_special_id": "78480"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "78481"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "78479"
+        },
+        {
+          "special_name": "表演",
+          "level": "本科",
+          "school_special_id": "2162670"
+        }
+      ]
+    },
+    {
+      "department_name": "理工学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1130374"
+        },
+        {
+          "special_name": "地理信息科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "地理科学",
+          "level": "本科",
+          "school_special_id": "78475"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "78469"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物理学",
+          "level": "本科",
+          "school_special_id": "78470"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "78476"
+        },
+        {
+          "special_name": "网络工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "78472"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "78455"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "2162250"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "78462"
+        }
+      ]
+    },
+    {
+      "department_name": "美术学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "2162671"
+        },
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "78483"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "78458"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "78459"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "78457"
+        },
+        {
+          "special_name": "表演(服装表演方向)",
+          "level": "本科",
+          "school_special_id": "2162670"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "78460"
+        }
+      ]
+    }
+  ]
+}

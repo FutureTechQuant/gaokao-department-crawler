@@ -1,0 +1,222 @@
+{
+  "update_time": "2026-04-27 16:47:46",
+  "school_id": "3064",
+  "school_name": "山西能源学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3064.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "dc22b07f6d60090f2d9b8df6184e55e1",
+  "department_count": 10,
+  "special_count": 30,
+  "data": [
+    {
+      "department_name": "矿业工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "城市地下空间工程",
+          "level": "本科",
+          "school_special_id": "218078"
+        },
+        {
+          "special_name": "智能采矿",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "油气储运工程",
+          "level": "本科",
+          "school_special_id": "160476"
+        },
+        {
+          "special_name": "采矿工程",
+          "level": "本科",
+          "school_special_id": "86584"
+        }
+      ]
+    },
+    {
+      "department_name": "安全工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "安全工程",
+          "level": "本科",
+          "school_special_id": "86586"
+        }
+      ]
+    },
+    {
+      "department_name": "地质与测绘工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "地下水科学与工程",
+          "level": "本科",
+          "school_special_id": "169259"
+        },
+        {
+          "special_name": "测绘工程",
+          "level": "本科",
+          "school_special_id": "86587"
+        },
+        {
+          "special_name": "资源勘查工程",
+          "level": "本科",
+          "school_special_id": "86583"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "169260"
+        },
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "86592"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "86580"
+        },
+        {
+          "special_name": "车辆工程（新能源）",
+          "level": "本科",
+          "school_special_id": "160473"
+        }
+      ]
+    },
+    {
+      "department_name": "电气与控制工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "电气工程与智能控制",
+          "level": "本科",
+          "school_special_id": "1619058"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "86582"
+        }
+      ]
+    },
+    {
+      "department_name": "能源与动力工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "建筑环境与能源应用工程",
+          "level": "本科",
+          "school_special_id": "169258"
+        },
+        {
+          "special_name": "新能源科学与工程",
+          "level": "本科",
+          "school_special_id": "160475"
+        },
+        {
+          "special_name": "能源与动力工程",
+          "level": "本科",
+          "school_special_id": "86590"
+        }
+      ]
+    },
+    {
+      "department_name": "资源与环境工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "环保设备工程",
+          "level": "本科",
+          "school_special_id": "160477"
+        },
+        {
+          "special_name": "能源与环境系统工程",
+          "level": "本科",
+          "school_special_id": "86591"
+        }
+      ]
+    },
+    {
+      "department_name": "能源化学与材料工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "86585"
+        },
+        {
+          "special_name": "新能源材料与器件",
+          "level": "本科",
+          "school_special_id": "160474"
+        },
+        {
+          "special_name": "能源化学工程",
+          "level": "本科",
+          "school_special_id": "169261"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机与信息工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "160465"
+        },
+        {
+          "special_name": "区块链工程",
+          "level": "本科",
+          "school_special_id": "1619060"
+        },
+        {
+          "special_name": "信息管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "广告设计与制作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "能源经济",
+          "level": "本科",
+          "school_special_id": "86589"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "86588"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "218077"
+        }
+      ]
+    }
+  ]
+}

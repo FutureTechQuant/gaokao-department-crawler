@@ -1,0 +1,75 @@
+{
+  "update_time": "2026-04-27 16:48:40",
+  "school_id": "3216",
+  "school_name": "北京网络职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3216.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "63a177c621566654a9bef531fa14fcf4",
+  "department_count": 3,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "网络安全系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "信息安全技术应用(天融信定向生班)",
+          "level": "专科",
+          "school_special_id": "1679802"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1742536"
+        }
+      ]
+    },
+    {
+      "department_name": "软件工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人工智能技术应用(中软国际定向生班)",
+          "level": "专科",
+          "school_special_id": "2153113"
+        },
+        {
+          "special_name": "大数据技术(中软国际定向生班)",
+          "level": "专科",
+          "school_special_id": "1679571"
+        },
+        {
+          "special_name": "软件技术(软通动力定向生班)",
+          "level": "专科",
+          "school_special_id": "1742538"
+        }
+      ]
+    },
+    {
+      "department_name": "数字影视系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "广播影视节目制作(影视特效合成师)",
+          "level": "专科",
+          "school_special_id": "1742540"
+        },
+        {
+          "special_name": "数字媒体与技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1864445"
+        },
+        {
+          "special_name": "网络新闻与传播",
+          "level": "专科",
+          "school_special_id": "1680013"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+  "update_time": "2026-04-27 16:26:32",
+  "school_id": "757",
+  "school_name": "河北政法职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/757.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "a74ec570b543111a2f03336f9704ab99",
+  "department_count": 11,
+  "special_count": 56,
+  "data": [
+    {
+      "department_name": "应用法律系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "司法助理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "检察事务",
+          "level": "专科",
+          "school_special_id": "1514095"
+        },
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "法律事务（书记官方向）",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "法律事务（律师方向）",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "专科",
+          "school_special_id": "36657"
+        }
+      ]
+    },
+    {
+      "department_name": "司法实务系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "检察事务",
+          "level": "专科",
+          "school_special_id": "1514095"
+        },
+        {
+          "special_name": "民事执行",
+          "level": "专科",
+          "school_special_id": "1514096"
+        },
+        {
+          "special_name": "法律事务（公务员方向）",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "社区矫正",
+          "level": "专科",
+          "school_special_id": "36657"
+        }
+      ]
+    },
+    {
+      "department_name": "国际法商系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "国际商务（跨境电子商务方向）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "36650"
+        },
+        {
+          "special_name": "国际金融",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "投资与理财",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法律事务（国际经济法方向）",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "金融管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "行政法务系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "法律事务（政府法务方向）",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "法律事务（行政执法方向）",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "知识产权管理",
+          "level": "专科",
+          "school_special_id": "36661"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机与数字法务系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1792836"
+        },
+        {
+          "special_name": "安全防范技术",
+          "level": "专科",
+          "school_special_id": "1860434"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1792833"
+        },
+        {
+          "special_name": "法律事务（智慧法治方向）",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "36665"
+        }
+      ]
+    },
+    {
+      "department_name": "政治与公共管理系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "36647"
+        },
+        {
+          "special_name": "婴幼儿托育管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "36669"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "网络新闻与传播",
+          "level": "专科",
+          "school_special_id": "36631"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程与法务系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "36645"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "36644"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法律事务(建设工程法务方向)",
+          "level": "专科",
+          "school_special_id": "36658"
+        },
+        {
+          "special_name": "环境艺术设计(高端别墅设计方向)",
+          "level": "专科",
+          "school_special_id": "777235"
+        }
+      ]
+    },
+    {
+      "department_name": "经贸法务系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "36675"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1792843"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "36673"
+        }
+      ]
+    },
+    {
+      "department_name": "国际交流系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "36633"
+        },
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用日语（商务方向）",
+          "level": "专科",
+          "school_special_id": "777284"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "36634"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "36637"
+        },
+        {
+          "special_name": "表演艺术（航空服务方向）",
+          "level": "专科",
+          "school_special_id": "2152899"
+        }
+      ]
+    },
+    {
+      "department_name": "会计系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "会计(会计电算化方向)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "会计（司法会计方向）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "审计（信息化审计方向）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "税务（税务师方向）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "财务管理（注册会计师方向）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "资产评估与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "生态工程与法务系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "司法鉴定技术（环境损害司法鉴定方向）",
+          "level": "专科",
+          "school_special_id": "2152900"
+        },
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "36671"
+        },
+        {
+          "special_name": "环境工程技术",
+          "level": "专科",
+          "school_special_id": "1380393"
+        },
+        {
+          "special_name": "风景园林设计",
+          "level": "专科",
+          "school_special_id": "36643"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "update_time": "2026-04-27 16:50:49",
+  "school_id": "3429",
+  "school_name": "浙江大学医学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3429.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:43",
+  "md5": "cbd7f48411a7167e2961a1ac88ac2503",
+  "department_count": 4,
+  "special_count": 5,
+  "data": [
+    {
+      "department_name": "基础医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "基础医学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "生物医学",
+          "level": "本科",
+          "school_special_id": "1095893"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "预防医学",
+          "level": "本科",
+          "school_special_id": "1021757"
+        }
+      ]
+    },
+    {
+      "department_name": "儿科学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "1601630"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "本科",
+          "school_special_id": "1864109"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:50:18",
+  "school_id": "3373",
+  "school_name": "平顶山文化艺术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3373.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "ad6c900cdde2a131807ed4399db5c666",
+  "department_count": 4,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "艺术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "2155102"
+        },
+        {
+          "special_name": "国际标准舞",
+          "level": "专科",
+          "school_special_id": "2155092"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2155106"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "微电子技术",
+          "level": "专科",
+          "school_special_id": "2155105"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2155094"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "2155099"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "2155096"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2155098"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "2155095"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "2155107"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "2155100"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "2155093"
+        },
+        {
+          "special_name": "陶瓷制造技术与工艺",
+          "level": "专科",
+          "school_special_id": "2155104"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2155103"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2155101"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2155097"
+        }
+      ]
+    }
+  ]
+}

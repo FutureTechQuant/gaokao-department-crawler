@@ -1,0 +1,168 @@
+{
+  "update_time": "2026-04-27 16:30:04",
+  "school_id": "1112",
+  "school_name": "北京工业大学耿丹学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1112.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "99556f3f43c78dd7c9944db9d597ab80",
+  "department_count": 6,
+  "special_count": 24,
+  "data": [
+    {
+      "department_name": "国际商学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "48116"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "48117"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "48124"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "118149"
+        }
+      ]
+    },
+    {
+      "department_name": "国际设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "48107"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "48108"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "48105"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "48104"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "169086"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "48123"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "48118"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "48112"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "48110"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "48106"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "48109"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "48103"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "城乡规划",
+          "level": "本科",
+          "school_special_id": "48120"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "本科",
+          "school_special_id": "48102"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "48119"
+        },
+        {
+          "special_name": "建筑学",
+          "level": "本科",
+          "school_special_id": "118150"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "48111"
+        }
+      ]
+    },
+    {
+      "department_name": "数字技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "48114"
+        },
+        {
+          "special_name": "戏剧影视美术设计",
+          "level": "本科",
+          "school_special_id": "48121"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "48112"
+        }
+      ]
+    }
+  ]
+}

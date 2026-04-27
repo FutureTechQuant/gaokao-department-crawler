@@ -1,0 +1,175 @@
+{
+  "update_time": "2026-04-27 16:41:54",
+  "school_id": "2277",
+  "school_name": "贵州城市职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2277.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "5aa978444f666c344c080164a9268e86",
+  "department_count": 8,
+  "special_count": 23,
+  "data": [
+    {
+      "department_name": "城建学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "75557"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "75569"
+        },
+        {
+          "special_name": "建筑设计",
+          "level": "专科",
+          "school_special_id": "75572"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "75571"
+        }
+      ]
+    },
+    {
+      "department_name": "医护学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1793518"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "75567"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "75585"
+        }
+      ]
+    },
+    {
+      "department_name": "商务学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "75561"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1793511"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1739401"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "75588"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "75583"
+        }
+      ]
+    },
+    {
+      "department_name": "机电学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1027934"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "124844"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1793515"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "广告设计与制作",
+          "level": "专科",
+          "school_special_id": "75579"
+        },
+        {
+          "special_name": "新闻采编与制作",
+          "level": "专科",
+          "school_special_id": "75576"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "75577"
+        }
+      ]
+    },
+    {
+      "department_name": "大数据学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1793513"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "75563"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "75564"
+        }
+      ]
+    },
+    {
+      "department_name": "旅航学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1793514"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "75581"
+        }
+      ]
+    }
+  ]
+}

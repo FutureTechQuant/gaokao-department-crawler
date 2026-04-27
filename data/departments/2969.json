@@ -1,0 +1,97 @@
+{
+  "update_time": "2026-04-27 16:47:22",
+  "school_id": "2969",
+  "school_name": "河南推拿职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2969.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "8fab87c68cd19fbc4b1a554b4635cbd9",
+  "department_count": 5,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "针灸推拿系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "1792481"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "86019"
+        }
+      ]
+    },
+    {
+      "department_name": "中医系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中医骨伤",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "康复系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1792480"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "86020"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1867201"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "86021"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1867202"
+        }
+      ]
+    },
+    {
+      "department_name": "中药系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "86018"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "2069229"
+        }
+      ]
+    }
+  ]
+}

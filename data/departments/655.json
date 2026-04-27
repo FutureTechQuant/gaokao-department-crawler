@@ -1,0 +1,92 @@
+{
+  "update_time": "2026-04-27 16:25:31",
+  "school_id": "655",
+  "school_name": "上海海关学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/655.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "0e822af414130e231f25d4cc2a42d1a2",
+  "department_count": 5,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "海关与公共管理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "海关管理",
+          "level": "本科",
+          "school_special_id": "1668603"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "海关与公共经济学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "税收学",
+          "level": "本科",
+          "school_special_id": "33720"
+        },
+        {
+          "special_name": "经济统计学",
+          "level": "本科",
+          "school_special_id": "169042"
+        }
+      ]
+    },
+    {
+      "department_name": "工商管理与关务学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际商务",
+          "level": "本科",
+          "school_special_id": "33721"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "海关稽查",
+          "level": "本科",
+          "school_special_id": "1801737"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "33724"
+        }
+      ]
+    },
+    {
+      "department_name": "海关法律系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "113308"
+        }
+      ]
+    },
+    {
+      "department_name": "海关外语系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语（商务应用方向）",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

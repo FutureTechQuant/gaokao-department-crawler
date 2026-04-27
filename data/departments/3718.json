@@ -1,0 +1,87 @@
+{
+  "update_time": "2026-04-27 16:53:43",
+  "school_id": "3718",
+  "school_name": "无锡师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3718.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:07",
+  "md5": "41569d1bf5d8ec6ddd319f015cb3eb20",
+  "department_count": 5,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2159994"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "2159995"
+        }
+      ]
+    },
+    {
+      "department_name": "美术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "2159996"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "2159997"
+        },
+        {
+          "special_name": "研学旅游管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "设计学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2163175"
+        }
+      ]
+    }
+  ]
+}

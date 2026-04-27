@@ -1,0 +1,101 @@
+{
+  "update_time": "2026-04-27 16:52:19",
+  "school_id": "3590",
+  "school_name": "防城港职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3590.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "bb80846495076861242a379c71e9d710",
+  "department_count": 4,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "经济管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1800066"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1894078"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1800067"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1800068"
+        }
+      ]
+    },
+    {
+      "department_name": "医药康养学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "2159622"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1894077"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "2159624"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造与信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1894075"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1894076"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1800069"
+        },
+        {
+          "special_name": "软件技术(产业学院)",
+          "level": "专科",
+          "school_special_id": "2159621"
+        }
+      ]
+    },
+    {
+      "department_name": "海洋渔业学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "水产养殖技术(水产养殖技术)",
+          "level": "专科",
+          "school_special_id": "1800070"
+        },
+        {
+          "special_name": "水产养殖技术(水产生物病害防治)",
+          "level": "专科",
+          "school_special_id": "1800070"
+        }
+      ]
+    }
+  ]
+}

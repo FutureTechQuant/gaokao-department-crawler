@@ -1,0 +1,136 @@
+{
+  "update_time": "2026-04-27 16:51:51",
+  "school_id": "3529",
+  "school_name": "德阳农业科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3529.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "c1eca7be77ec40393056fbea130bb622",
+  "department_count": 4,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "教育与艺体学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "2156241"
+        },
+        {
+          "special_name": "网络直播与运营",
+          "level": "专科",
+          "school_special_id": "1860212"
+        },
+        {
+          "special_name": "融媒体技术与运营",
+          "level": "专科",
+          "school_special_id": "1472159"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "1363333"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与建造工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "供用电技术",
+          "level": "专科",
+          "school_special_id": "2021602"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1738185"
+        },
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1860209"
+        },
+        {
+          "special_name": "智能产品开发与应用",
+          "level": "专科",
+          "school_special_id": "2156620"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "2156619"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1750985"
+        },
+        {
+          "special_name": "通信软件技术",
+          "level": "专科",
+          "school_special_id": "1750984"
+        }
+      ]
+    },
+    {
+      "department_name": "管理与城乡建设学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "农村新型经济组织管理",
+          "level": "专科",
+          "school_special_id": "1738183"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1860210"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "1363330"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "1860211"
+        },
+        {
+          "special_name": "设施农业与装备",
+          "level": "专科",
+          "school_special_id": "1679319"
+        }
+      ]
+    },
+    {
+      "department_name": "卫生与健康学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "1738184"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1738179"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "2156618"
+        }
+      ]
+    }
+  ]
+}

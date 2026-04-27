@@ -1,0 +1,162 @@
+{
+  "update_time": "2026-04-27 16:44:47",
+  "school_id": "2532",
+  "school_name": "黑龙江工商学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2532.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "ff9790db8902d04d03de84542bd32762",
+  "department_count": 5,
+  "special_count": 24,
+  "data": [
+    {
+      "department_name": "信息与机电工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "81729"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "81738"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "81730"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "81742"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "81739"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "81741"
+        }
+      ]
+    },
+    {
+      "department_name": "铁道学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "交通运输(轨道运输)",
+          "level": "本科",
+          "school_special_id": "1130071"
+        },
+        {
+          "special_name": "土木工程(铁道工程)",
+          "level": "本科",
+          "school_special_id": "81727"
+        },
+        {
+          "special_name": "车辆工程(轨道车辆)",
+          "level": "本科",
+          "school_special_id": "1130070"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "81731"
+        },
+        {
+          "special_name": "商务经济学",
+          "level": "本科",
+          "school_special_id": "169434"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "81736"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "81732"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "81733"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "121126"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "81734"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "81735"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术与传媒学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "81740"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "567375"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1473212"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "567374"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "567373"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "121125"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "81737"
+        }
+      ]
+    }
+  ]
+}

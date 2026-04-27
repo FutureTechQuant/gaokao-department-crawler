@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-04-27 16:46:47",
+  "school_id": "2905",
+  "school_name": "宁波幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2905.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "8eded995453fbd3744fa97ff83a9194c",
+  "department_count": 4,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "鹤琴学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育与照护",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2152921"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1783209"
+        }
+      ]
+    },
+    {
+      "department_name": "雪门学前教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2152921"
+        }
+      ]
+    },
+    {
+      "department_name": "阳明人文学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "162124"
+        },
+        {
+          "special_name": "新闻采编与制作",
+          "level": "专科",
+          "school_special_id": "162128"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1781160"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "贤江艺术与体育学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "1783207"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1783213"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2163102"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "2163103"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1783212"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "1783208"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "update_time": "2026-04-27 16:53:33",
+  "school_id": "3704",
+  "school_name": "深圳理工大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3704.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "85ce03944fd3348be1fa8442be5ad224",
+  "department_count": 5,
+  "special_count": 5,
+  "data": [
+    {
+      "department_name": "生命健康学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "神经科学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机科学与控制工程学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "2155086"
+        }
+      ]
+    },
+    {
+      "department_name": "材料科学与能源工程学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "算力微电子学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "集成电路设计与集成系统",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

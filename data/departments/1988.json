@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:38:36",
+  "school_id": "1988",
+  "school_name": "湖南中医药高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1988.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "e3cfd99f7838b01b7cb693a1696f8195",
+  "department_count": 5,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "68004"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "68018"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1691868"
+        },
+        {
+          "special_name": "老年服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "康复保健学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1028810"
+        },
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "1691872"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "68007"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "68006"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药制药技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1691878"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "68010"
+        },
+        {
+          "special_name": "药品质量与安全",
+          "level": "专科",
+          "school_special_id": "68012"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "68009"
+        }
+      ]
+    },
+    {
+      "department_name": "中医学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "1028811"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1691875"
+        },
+        {
+          "special_name": "中医骨伤",
+          "level": "专科",
+          "school_special_id": "68015"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1691877"
+        }
+      ]
+    },
+    {
+      "department_name": "医学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1691884"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "68016"
+        },
+        {
+          "special_name": "心理咨询",
+          "level": "专科",
+          "school_special_id": "1926790"
+        }
+      ]
+    }
+  ]
+}

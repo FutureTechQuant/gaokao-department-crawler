@@ -1,0 +1,76 @@
+{
+  "update_time": "2026-04-27 16:34:49",
+  "school_id": "1661",
+  "school_name": "山西电力职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1661.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "4e2b2b1d72e0c3be64188c258cda77b1",
+  "department_count": 4,
+  "special_count": 8,
+  "data": [
+    {
+      "department_name": "电力工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "供用电技术",
+          "level": "专科",
+          "school_special_id": "59900"
+        },
+        {
+          "special_name": "发电厂及电力系统",
+          "level": "专科",
+          "school_special_id": "59899"
+        },
+        {
+          "special_name": "发电厂及电力系统(中外合作)",
+          "level": "专科",
+          "school_special_id": "59899"
+        },
+        {
+          "special_name": "电力系统继电保护技术",
+          "level": "专科",
+          "school_special_id": "1777861"
+        }
+      ]
+    },
+    {
+      "department_name": "能源与动力工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "分布式发电与智能微电网技术",
+          "level": "专科",
+          "school_special_id": "1777860"
+        },
+        {
+          "special_name": "热能动力工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1786483"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "59907"
+        }
+      ]
+    }
+  ]
+}

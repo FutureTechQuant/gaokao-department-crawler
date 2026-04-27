@@ -1,0 +1,155 @@
+{
+  "update_time": "2026-04-27 16:24:40",
+  "school_id": "568",
+  "school_name": "中华女子学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/568.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "63a7bd3b418c84c0c3c96116564c1a22",
+  "department_count": 8,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "国际教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "30779"
+        }
+      ]
+    },
+    {
+      "department_name": "妇女发展学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "女性学",
+          "level": "本科",
+          "school_special_id": "30771"
+        }
+      ]
+    },
+    {
+      "department_name": "法学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "30773"
+        }
+      ]
+    },
+    {
+      "department_name": "社会工作学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "社会学",
+          "level": "本科",
+          "school_special_id": "30762"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "30764"
+        }
+      ]
+    },
+    {
+      "department_name": "儿童发展与教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "30775"
+        },
+        {
+          "special_name": "家庭教育",
+          "level": "本科",
+          "school_special_id": "2011513"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "30781"
+        }
+      ]
+    },
+    {
+      "department_name": "文化传播与艺术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "30772"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "30782"
+        },
+        {
+          "special_name": "网络新媒体",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "表演（服装表演）",
+          "level": "本科",
+          "school_special_id": "2162484"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "30766"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "30769"
+        },
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "30765"
+        },
+        {
+          "special_name": "养老服务管理",
+          "level": "本科",
+          "school_special_id": "1532848"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "30763"
+        }
+      ]
+    },
+    {
+      "department_name": "数据科学与信息技术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "149055"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

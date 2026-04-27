@@ -1,0 +1,214 @@
+{
+  "update_time": "2026-04-27 16:36:02",
+  "school_id": "1775",
+  "school_name": "浙江艺术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1775.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "cb2cbcb585cfe8a26f1a8cecdff0cff5",
+  "department_count": 7,
+  "special_count": 32,
+  "data": [
+    {
+      "department_name": "戏曲学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "戏曲表演",
+          "level": "专科",
+          "school_special_id": "1028323"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "戏剧表演（音乐剧表演）",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "戏曲音乐",
+          "level": "专科",
+          "school_special_id": "1472068"
+        },
+        {
+          "special_name": "现代流行音乐",
+          "level": "专科",
+          "school_special_id": "697784"
+        },
+        {
+          "special_name": "表演（越剧音乐伴奏）",
+          "level": "专科",
+          "school_special_id": "2162999"
+        },
+        {
+          "special_name": "音乐制作",
+          "level": "专科",
+          "school_special_id": "1028326"
+        },
+        {
+          "special_name": "音乐学(师范)",
+          "level": "专科",
+          "school_special_id": "2162998"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2161748"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈编导(舞蹈编导、少儿舞蹈方向)",
+          "level": "专科",
+          "school_special_id": "2161749"
+        },
+        {
+          "special_name": "舞蹈表演(中国舞、芭蕾舞、表导方向)",
+          "level": "专科",
+          "school_special_id": "1028328"
+        }
+      ]
+    },
+    {
+      "department_name": "戏剧影视学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "声像工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "影视制片管理",
+          "level": "专科",
+          "school_special_id": "1655401"
+        },
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "123625"
+        },
+        {
+          "special_name": "影视编导",
+          "level": "专科",
+          "school_special_id": "123623"
+        },
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "1028324"
+        },
+        {
+          "special_name": "摄影摄像技术",
+          "level": "专科",
+          "school_special_id": "123621"
+        },
+        {
+          "special_name": "时尚表演与传播",
+          "level": "专科",
+          "school_special_id": "2163000"
+        },
+        {
+          "special_name": "音像技术",
+          "level": "专科",
+          "school_special_id": "123624"
+        }
+      ]
+    },
+    {
+      "department_name": "设计学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "697779"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1799040"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "专科",
+          "school_special_id": "1030415"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "2161750"
+        },
+        {
+          "special_name": "舞台艺术设计与制作",
+          "level": "专科",
+          "school_special_id": "697781"
+        }
+      ]
+    },
+    {
+      "department_name": "手工艺学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "展示艺术设计",
+          "level": "专科",
+          "school_special_id": "697783"
+        },
+        {
+          "special_name": "文化创意与策划",
+          "level": "专科",
+          "school_special_id": "123622"
+        },
+        {
+          "special_name": "文物修复与保护",
+          "level": "专科",
+          "school_special_id": "1030416"
+        },
+        {
+          "special_name": "民族传统技艺",
+          "level": "专科",
+          "school_special_id": "1799397"
+        }
+      ]
+    },
+    {
+      "department_name": "演艺与教育学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "公共文化服务与管理",
+          "level": "专科",
+          "school_special_id": "161750"
+        },
+        {
+          "special_name": "公共文化服务与管理（乡镇文化员定向培养)",
+          "level": "专科",
+          "school_special_id": "161750"
+        },
+        {
+          "special_name": "学前教育(师范)",
+          "level": "专科",
+          "school_special_id": "1799398"
+        },
+        {
+          "special_name": "歌舞表演",
+          "level": "专科",
+          "school_special_id": "1028327"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "697796"
+        }
+      ]
+    }
+  ]
+}

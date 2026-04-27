@@ -1,0 +1,328 @@
+{
+  "update_time": "2026-04-27 16:39:58",
+  "school_id": "2106",
+  "school_name": "滨州职业技术大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2106.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "3f7c27bdfad4ddf2a3920770efdce893",
+  "department_count": 11,
+  "special_count": 50,
+  "data": [
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "党务工作",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "128054"
+        }
+      ]
+    },
+    {
+      "department_name": "生物工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "化工生物技术",
+          "level": "专科",
+          "school_special_id": "71069"
+        },
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "71086"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "1715398"
+        },
+        {
+          "special_name": "食品营养与检测",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "71067"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "71066"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "128055"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1775746"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "71058"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "71065"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "71059"
+        }
+      ]
+    },
+    {
+      "department_name": "化工与能源学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "71087"
+        },
+        {
+          "special_name": "新能源材料应用技术",
+          "level": "专科",
+          "school_special_id": "2159812"
+        },
+        {
+          "special_name": "电厂化学与环保技术",
+          "level": "专科",
+          "school_special_id": "128050"
+        },
+        {
+          "special_name": "石油化工生产技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "健康学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "1437682"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "128052"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "71078"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1736521"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1775748"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "71082"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1736517"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "71079"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1027743"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1736518"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1736519"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "71070"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "71073"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "128053"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1775750"
+        },
+        {
+          "special_name": "知识产权管理",
+          "level": "专科",
+          "school_special_id": "1027747"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1775749"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1775751"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "2152062"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "2159813"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1981840"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "71083"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "71054"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "1736520"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "71076"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "71075"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "71077"
+        }
+      ]
+    },
+    {
+      "department_name": "军士学院（海洋学院、滨州双拥学院）",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1736521"
+        },
+        {
+          "special_name": "港口与航运管理",
+          "level": "专科",
+          "school_special_id": "128049"
+        },
+        {
+          "special_name": "石油化工技术",
+          "level": "专科",
+          "school_special_id": "1671450"
+        },
+        {
+          "special_name": "航海技术",
+          "level": "专科",
+          "school_special_id": "1671452"
+        },
+        {
+          "special_name": "轮机工程技术",
+          "level": "专科",
+          "school_special_id": "1671451"
+        }
+      ]
+    }
+  ]
+}

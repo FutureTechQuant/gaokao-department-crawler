@@ -1,0 +1,56 @@
+{
+  "update_time": "2026-04-27 16:47:27",
+  "school_id": "2992",
+  "school_name": "中国人民解放军陆军边海防学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2992.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "0a11ae40de56cea809116a472858f892",
+  "department_count": 4,
+  "special_count": 4,
+  "data": [
+    {
+      "department_name": "指挥系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "作战指挥",
+          "level": "本科",
+          "school_special_id": "1378944"
+        }
+      ]
+    },
+    {
+      "department_name": "指挥系统工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "指挥信息系统工程",
+          "level": "本科",
+          "school_special_id": "1378945"
+        }
+      ]
+    },
+    {
+      "department_name": "火力指挥系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "火力指挥与控制工程",
+          "level": "本科",
+          "school_special_id": "1460961"
+        }
+      ]
+    },
+    {
+      "department_name": "语言文学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中国语言文学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

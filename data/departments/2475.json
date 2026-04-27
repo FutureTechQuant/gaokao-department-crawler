@@ -1,0 +1,132 @@
+{
+  "update_time": "2026-04-27 16:44:07",
+  "school_id": "2475",
+  "school_name": "岳阳学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2475.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "b4dfc0167b911aedae3e4ea540d099d6",
+  "department_count": 5,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "文学与法学系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "79799"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "346569"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "79806"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "79807"
+        }
+      ]
+    },
+    {
+      "department_name": "外语与商务贸易系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "158795"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "79800"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "79809"
+        },
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "79798"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "79801"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "158796"
+        }
+      ]
+    },
+    {
+      "department_name": "机械与电子工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "79810"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "79803"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "79804"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "79805"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑与化学工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "制药工程",
+          "level": "本科",
+          "school_special_id": "79812"
+        },
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "79802"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "79811"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "158801"
+        }
+      ]
+    }
+  ]
+}

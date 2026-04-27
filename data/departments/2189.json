@@ -1,0 +1,108 @@
+{
+  "update_time": "2026-04-27 16:40:54",
+  "school_id": "2189",
+  "school_name": "哈尔滨体育学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2189.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:49",
+  "md5": "48c2f93b7d1860de471e0bed2e55a32a",
+  "department_count": 6,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "冬季奥林匹克学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "73313"
+        },
+        {
+          "special_name": "冰雪运动",
+          "level": "本科",
+          "school_special_id": "1037432"
+        }
+      ]
+    },
+    {
+      "department_name": "体育教育训练学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "73311"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "本科",
+          "school_special_id": "73315"
+        }
+      ]
+    },
+    {
+      "department_name": "运动科学与健康学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "运动人体科学",
+          "level": "本科",
+          "school_special_id": "73314"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "73310"
+        }
+      ]
+    },
+    {
+      "department_name": "体育人文与社会学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育经济与管理",
+          "level": "本科",
+          "school_special_id": "73320"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "73317"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "73312"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "73319"
+        }
+      ]
+    },
+    {
+      "department_name": "民族传统体育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "武术与民族传统体育",
+          "level": "本科",
+          "school_special_id": "73316"
+        }
+      ]
+    },
+    {
+      "department_name": "体育艺术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "73318"
+        }
+      ]
+    }
+  ]
+}

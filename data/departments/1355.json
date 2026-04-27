@@ -1,0 +1,255 @@
+{
+  "update_time": "2026-04-27 16:32:13",
+  "school_id": "1355",
+  "school_name": "浙江机电职业技术大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1355.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "f59b0541a0b4225e3731e971c8bfd107",
+  "department_count": 8,
+  "special_count": 39,
+  "data": [
+    {
+      "department_name": "智能制造学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "智能制造工程技术",
+          "level": "职本",
+          "school_special_id": "2161052"
+        },
+        {
+          "special_name": "机械设计制造及自动化",
+          "level": "职本",
+          "school_special_id": "2161051"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "53604"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "1620891"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1620899"
+        },
+        {
+          "special_name": "模具设计与制造",
+          "level": "专科",
+          "school_special_id": "53607"
+        }
+      ]
+    },
+    {
+      "department_name": "自动化学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "智能控制技术",
+          "level": "职本",
+          "school_special_id": "2161054"
+        },
+        {
+          "special_name": "机械电子工程技术",
+          "level": "职本",
+          "school_special_id": "2161053"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "53611"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "129753"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "53608"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "53609"
+        }
+      ]
+    },
+    {
+      "department_name": "现代信息技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1620897"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1620894"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "129752"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "53614"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "53615"
+        }
+      ]
+    },
+    {
+      "department_name": "数字商贸学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "商务数据分析与应用",
+          "level": "专科",
+          "school_special_id": "1022515"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1737052"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "53621"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "53618"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1378782"
+        }
+      ]
+    },
+    {
+      "department_name": "创意设计学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "53626"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "专科",
+          "school_special_id": "53625"
+        },
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "1782563"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1028322"
+        }
+      ]
+    },
+    {
+      "department_name": "增材制造学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "材料成型及控制工程",
+          "level": "职本",
+          "school_special_id": "2161055"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "129754"
+        },
+        {
+          "special_name": "材料成型与控制技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "理化测试与质检技术",
+          "level": "专科",
+          "school_special_id": "129755"
+        }
+      ]
+    },
+    {
+      "department_name": "智慧交通学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "城市轨道交通设备与控制技术",
+          "level": "职本",
+          "school_special_id": "2161056"
+        },
+        {
+          "special_name": "城市轨道交通机电技术",
+          "level": "专科",
+          "school_special_id": "129750"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1777721"
+        },
+        {
+          "special_name": "汽车智能技术",
+          "level": "专科",
+          "school_special_id": "244885"
+        }
+      ]
+    },
+    {
+      "department_name": "国际教育学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "国际经济与贸易(中澳合作)",
+          "level": "专科",
+          "school_special_id": "2152919"
+        },
+        {
+          "special_name": "工业设计(中英合作)",
+          "level": "专科",
+          "school_special_id": "53625"
+        },
+        {
+          "special_name": "智能制造装备技术(中英合作)",
+          "level": "专科",
+          "school_special_id": "1620891"
+        },
+        {
+          "special_name": "物联网应用技术(中英合作)",
+          "level": "专科",
+          "school_special_id": "129752"
+        },
+        {
+          "special_name": "跨境电子商务(中英合作)",
+          "level": "专科",
+          "school_special_id": "1378782"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "update_time": "2026-04-27 16:52:29",
+  "school_id": "3608",
+  "school_name": "益阳师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3608.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "5d57658db5af5d9d753fc604bb9bb44f",
+  "department_count": 4,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1800125"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1800122"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "2155019"
+        }
+      ]
+    },
+    {
+      "department_name": "基础教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "2159250"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "2163162"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "2163161"
+        }
+      ]
+    },
+    {
+      "department_name": "现代教育技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2150477"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1800124"
+        },
+        {
+          "special_name": "现代教育技术",
+          "level": "专科",
+          "school_special_id": "1800123"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2073334"
+        },
+        {
+          "special_name": "集成电路技术",
+          "level": "专科",
+          "school_special_id": "2159251"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2163163"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "2159252"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1800127"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "1800126"
+        }
+      ]
+    }
+  ]
+}

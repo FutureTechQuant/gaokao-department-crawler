@@ -1,0 +1,121 @@
+{
+  "update_time": "2026-04-27 16:27:08",
+  "school_id": "811",
+  "school_name": "湖北中医药高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/811.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "eb2bd42b1599dc93ee379ba54453254a",
+  "department_count": 4,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "中医学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "38791"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "38777"
+        },
+        {
+          "special_name": "中医骨伤",
+          "level": "专科",
+          "school_special_id": "38778"
+        },
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "38789"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "38788"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "38779"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "38785"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "38787"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1510801"
+        },
+        {
+          "special_name": "药品质量与安全",
+          "level": "专科",
+          "school_special_id": "1510800"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "38784"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "38775"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "38776"
+        }
+      ]
+    },
+    {
+      "department_name": "护理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "38783"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "38782"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1510804"
+        }
+      ]
+    }
+  ]
+}

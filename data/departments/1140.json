@@ -1,0 +1,201 @@
+{
+  "update_time": "2026-04-27 16:30:17",
+  "school_id": "1140",
+  "school_name": "南京特殊教育师范学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1140.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "33f759bc78b3905ca6a6b4f8b79d405e",
+  "department_count": 9,
+  "special_count": 27,
+  "data": [
+    {
+      "department_name": "特殊教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "孤独症儿童教育",
+          "level": "本科",
+          "school_special_id": "2013162"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "118035"
+        },
+        {
+          "special_name": "手语翻译",
+          "level": "本科",
+          "school_special_id": "160842"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "本科",
+          "school_special_id": "118031"
+        }
+      ]
+    },
+    {
+      "department_name": "康复科学学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "听力与言语康复学（医技类）",
+          "level": "本科",
+          "school_special_id": "1800734"
+        },
+        {
+          "special_name": "康复治疗学(医技类)",
+          "level": "本科",
+          "school_special_id": "118054"
+        },
+        {
+          "special_name": "教育康复学(师范类)",
+          "level": "本科",
+          "school_special_id": "118040"
+        }
+      ]
+    },
+    {
+      "department_name": "教育科学学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "118033"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "118034"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院(无障碍管理学院)",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "118036"
+        },
+        {
+          "special_name": "劳动与社会保障",
+          "level": "本科",
+          "school_special_id": "169519"
+        },
+        {
+          "special_name": "无障碍管理",
+          "level": "本科",
+          "school_special_id": "2013183"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "2011649"
+        }
+      ]
+    },
+    {
+      "department_name": "语言学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "118039"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "118032"
+        }
+      ]
+    },
+    {
+      "department_name": "数学与信息科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "教育技术学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "118057"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1130138"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "118058"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐与舞蹈学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "舞蹈学（师范）",
+          "level": "本科",
+          "school_special_id": "2161691"
+        },
+        {
+          "special_name": "舞蹈治疗",
+          "level": "本科",
+          "school_special_id": "2161607"
+        },
+        {
+          "special_name": "音乐学(师范)",
+          "level": "本科",
+          "school_special_id": "2160718"
+        },
+        {
+          "special_name": "音乐治疗（非师范）",
+          "level": "本科",
+          "school_special_id": "170864"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "2160592"
+        }
+      ]
+    },
+    {
+      "department_name": "美术与设计学院(阳光学院)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "服装与服饰设计（残健融合）",
+          "level": "本科",
+          "school_special_id": "1024590"
+        },
+        {
+          "special_name": "美术学（师范类）",
+          "level": "本科",
+          "school_special_id": "2160719"
+        },
+        {
+          "special_name": "视觉传达设计（残健融合）",
+          "level": "本科",
+          "school_special_id": "160847"
+        }
+      ]
+    }
+  ]
+}

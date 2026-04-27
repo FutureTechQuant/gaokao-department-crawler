@@ -1,0 +1,103 @@
+{
+  "update_time": "2026-04-27 16:52:39",
+  "school_id": "3624",
+  "school_name": "重庆中医药学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3624.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "6b39572ea6c3a9130a55b23d6e6e5a90",
+  "department_count": 6,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "中医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医养生学",
+          "level": "本科",
+          "school_special_id": "2154587"
+        },
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "2013417"
+        }
+      ]
+    },
+    {
+      "department_name": "中药学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药制药",
+          "level": "本科",
+          "school_special_id": "2013422"
+        },
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "2013421"
+        },
+        {
+          "special_name": "中药资源与开发",
+          "level": "本科",
+          "school_special_id": "2154588"
+        }
+      ]
+    },
+    {
+      "department_name": "针灸推拿学院、骨伤学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医康复学",
+          "level": "本科",
+          "school_special_id": "2154586"
+        },
+        {
+          "special_name": "中医骨伤科学",
+          "level": "本科",
+          "school_special_id": "2013420"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "2013419"
+        }
+      ]
+    },
+    {
+      "department_name": "中西医结合学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "2013418"
+        }
+      ]
+    },
+    {
+      "department_name": "通识学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "2154590"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "2154589"
+        }
+      ]
+    }
+  ]
+}

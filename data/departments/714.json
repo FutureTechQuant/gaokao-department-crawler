@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 16:26:06",
+  "school_id": "714",
+  "school_name": "鹤岗师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/714.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "fa019a1101c04c8556d094f1ada600fb",
+  "department_count": 6,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "小学教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "1679077"
+        },
+        {
+          "special_name": "小学数学教育",
+          "level": "专科",
+          "school_special_id": "1600668"
+        }
+      ]
+    },
+    {
+      "department_name": "职业技术系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1591201"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "35346"
+        },
+        {
+          "special_name": "矿物加工技术（石墨方向）",
+          "level": "专科",
+          "school_special_id": "1593076"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "134837"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "134838"
+        }
+      ]
+    },
+    {
+      "department_name": "人文教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "历史教育",
+          "level": "专科",
+          "school_special_id": "35339"
+        },
+        {
+          "special_name": "地理教育",
+          "level": "专科",
+          "school_special_id": "35340"
+        },
+        {
+          "special_name": "语文教育",
+          "level": "专科",
+          "school_special_id": "35338"
+        }
+      ]
+    },
+    {
+      "department_name": "外语教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1679624"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "35342"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1791520"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "35343"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "35341"
+        }
+      ]
+    },
+    {
+      "department_name": "体育教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "134861"
+        },
+        {
+          "special_name": "体育服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

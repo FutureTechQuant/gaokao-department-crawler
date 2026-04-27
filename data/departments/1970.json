@@ -1,0 +1,171 @@
+{
+  "update_time": "2026-04-27 16:38:23",
+  "school_id": "1970",
+  "school_name": "湖北师范大学文理学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1970.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "b1b145a66656208741fe426bd40c80a4",
+  "department_count": 4,
+  "special_count": 27,
+  "data": [
+    {
+      "department_name": "经济与管理学部",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "互联网金融",
+          "level": "本科",
+          "school_special_id": "188663"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "67677"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "1801205"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "67662"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "67675"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学部",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "历史学(师范类)",
+          "level": "本科",
+          "school_special_id": "67664"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "67673"
+        },
+        {
+          "special_name": "汉语言文学(师范类)",
+          "level": "本科",
+          "school_special_id": "67663"
+        },
+        {
+          "special_name": "英语(师范类)",
+          "level": "本科",
+          "school_special_id": "67669"
+        },
+        {
+          "special_name": "中文",
+          "level": "专科",
+          "school_special_id": "1513752"
+        },
+        {
+          "special_name": "应用英语",
+          "level": "专科",
+          "school_special_id": "158761"
+        }
+      ]
+    },
+    {
+      "department_name": "理工学部",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1801206"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "67665"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1801207"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "67667"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "188664"
+        },
+        {
+          "special_name": "网络工程",
+          "level": "本科",
+          "school_special_id": "2012551"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "67670"
+        },
+        {
+          "special_name": "软件工程(天融信班)",
+          "level": "本科",
+          "school_special_id": "1500140"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1600736"
+        }
+      ]
+    },
+    {
+      "department_name": "教育与艺术学部",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "67674"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "170134"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "2156429"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "699881"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "2156316"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1791281"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "2162761"
+        }
+      ]
+    }
+  ]
+}

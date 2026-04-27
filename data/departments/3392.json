@@ -1,0 +1,106 @@
+{
+  "update_time": "2026-04-27 16:50:27",
+  "school_id": "3392",
+  "school_name": "西昌民族幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3392.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "e343373bdd7756fcfe05c47d57fcf2ea",
+  "department_count": 4,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "172733"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "小学教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "172734"
+        },
+        {
+          "special_name": "心理健康教育",
+          "level": "专科",
+          "school_special_id": "2008777"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "2073243"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术教育系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "1033951"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "1469149"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "172735"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "2162143"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1033952"
+        }
+      ]
+    },
+    {
+      "department_name": "职业教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "农村电子商务",
+          "level": "专科",
+          "school_special_id": "1957745"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1469150"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1033955"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1469151"
+        }
+      ]
+    }
+  ]
+}

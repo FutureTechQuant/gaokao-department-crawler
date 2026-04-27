@@ -1,0 +1,255 @@
+{
+  "update_time": "2026-04-27 16:38:26",
+  "school_id": "1974",
+  "school_name": "武汉晴川学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1974.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "09cea173c93019af3d00cfa77f5fd8e9",
+  "department_count": 8,
+  "special_count": 39,
+  "data": [
+    {
+      "department_name": "设计工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "1023085"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1023086"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "1801184"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1801185"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "170152"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "67780"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "67776"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "机械与电气工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "119999"
+        },
+        {
+          "special_name": "机械电子工程(工业机器人实验班)",
+          "level": "本科",
+          "school_special_id": "119999"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "120005"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "67788"
+        },
+        {
+          "special_name": "供用电技术(新能源汽车方向)",
+          "level": "专科",
+          "school_special_id": "119994"
+        }
+      ]
+    },
+    {
+      "department_name": "会计学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "67783"
+        },
+        {
+          "special_name": "信息管理与信息系统(停招)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "612827"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "67775"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "北斗学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "67789"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "67777"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "67779"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "119997"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "67790"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "170153"
+        },
+        {
+          "special_name": "英语语言文学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "67771"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "67772"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "67774"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "67785"
+        },
+        {
+          "special_name": "金融科技",
+          "level": "本科",
+          "school_special_id": "1499708"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "119998"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1513734"
+        }
+      ]
+    },
+    {
+      "department_name": "传媒艺术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "67786"
+        },
+        {
+          "special_name": "影视摄影与制作",
+          "level": "本科",
+          "school_special_id": "699921"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "67787"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "67784"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "170154"
+        }
+      ]
+    }
+  ]
+}

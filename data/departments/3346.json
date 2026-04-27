@@ -1,0 +1,119 @@
+{
+  "update_time": "2026-04-27 16:50:00",
+  "school_id": "3346",
+  "school_name": "江苏航空职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3346.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "021cb5d52c190a138b2daf7bc85803c3",
+  "department_count": 2,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "航空工程学院",
+      "special_num": 14,
+      "special": [
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1745718"
+        },
+        {
+          "special_name": "无人机测绘技术",
+          "level": "专科",
+          "school_special_id": "1860459"
+        },
+        {
+          "special_name": "民航通信技术",
+          "level": "专科",
+          "school_special_id": "1860461"
+        },
+        {
+          "special_name": "航空发动机维修技术",
+          "level": "专科",
+          "school_special_id": "1745717"
+        },
+        {
+          "special_name": "航空复合材料成型与加工技术",
+          "level": "专科",
+          "school_special_id": "1745729"
+        },
+        {
+          "special_name": "航空精密材料成型技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "通用航空器维修",
+          "level": "专科",
+          "school_special_id": "1745726"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "1745724"
+        },
+        {
+          "special_name": "飞机机载装配调试技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "飞机电子设备维修",
+          "level": "专科",
+          "school_special_id": "1745725"
+        },
+        {
+          "special_name": "飞机结构修理",
+          "level": "专科",
+          "school_special_id": "1745727"
+        },
+        {
+          "special_name": "飞行器数字化制造技术",
+          "level": "专科",
+          "school_special_id": "1745714"
+        },
+        {
+          "special_name": "飞行器数字化装配技术",
+          "level": "专科",
+          "school_special_id": "1745730"
+        },
+        {
+          "special_name": "飞行器维修技术",
+          "level": "专科",
+          "school_special_id": "1745716"
+        }
+      ]
+    },
+    {
+      "department_name": "航空飞行学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "机场运行",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民航安全技术管理",
+          "level": "专科",
+          "school_special_id": "1745721"
+        },
+        {
+          "special_name": "民航空中安全保卫",
+          "level": "专科",
+          "school_special_id": "1745722"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1745720"
+        },
+        {
+          "special_name": "航空物流",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

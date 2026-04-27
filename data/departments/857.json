@@ -1,0 +1,134 @@
+{
+  "update_time": "2026-04-27 16:27:33",
+  "school_id": "857",
+  "school_name": "天津艺术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/857.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "44226710d7b031b5d9f6bd1b0120c8fd",
+  "department_count": 7,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "戏曲系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "戏曲表演",
+          "level": "专科",
+          "school_special_id": "1784762"
+        }
+      ]
+    },
+    {
+      "department_name": "曲艺系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "曲艺表演",
+          "level": "专科",
+          "school_special_id": "1784759"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "39853"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "钢琴调律",
+          "level": "专科",
+          "school_special_id": "1784760"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "39852"
+        }
+      ]
+    },
+    {
+      "department_name": "学前艺术教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "1620131"
+        },
+        {
+          "special_name": "表演艺术(幼儿艺术)",
+          "level": "专科",
+          "school_special_id": "2163057"
+        }
+      ]
+    },
+    {
+      "department_name": "文化旅游系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "会展策划与管理",
+          "level": "专科",
+          "school_special_id": "1709107"
+        },
+        {
+          "special_name": "导游",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "文物修复与保护",
+          "level": "专科",
+          "school_special_id": "39842"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "203002"
+        }
+      ]
+    },
+    {
+      "department_name": "舞美技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "39848"
+        },
+        {
+          "special_name": "摄影摄像技术",
+          "level": "专科",
+          "school_special_id": "39851"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2156336"
+        },
+        {
+          "special_name": "舞台艺术设计与制作(舞台技术)",
+          "level": "专科",
+          "school_special_id": "39849"
+        }
+      ]
+    }
+  ]
+}

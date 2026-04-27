@@ -1,0 +1,86 @@
+{
+  "update_time": "2026-04-27 16:49:53",
+  "school_id": "3334",
+  "school_name": "唐山幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3334.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "3d91d9e54e6832210aa906732d70df11",
+  "department_count": 4,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1513521"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "89238"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1268057"
+        }
+      ]
+    },
+    {
+      "department_name": "语言文学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1513689"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育(音乐方向、舞蹈方向、美术方向)",
+          "level": "专科",
+          "school_special_id": "89238"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "89240"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "89239"
+        }
+      ]
+    },
+    {
+      "department_name": "公共教学部",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "89243"
+        },
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "2160902"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "1793339"
+        }
+      ]
+    }
+  ]
+}

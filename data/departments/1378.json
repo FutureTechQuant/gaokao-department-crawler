@@ -1,0 +1,100 @@
+{
+  "update_time": "2026-04-27 16:32:22",
+  "school_id": "1378",
+  "school_name": "北京劳动保障职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1378.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "edfbcfff3c02ab60078d1b547650a968",
+  "department_count": 3,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "劳动经济管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "专科",
+          "school_special_id": "45531"
+        },
+        {
+          "special_name": "公共事务管理(劳动关系方向)",
+          "level": "专科",
+          "school_special_id": "128157"
+        },
+        {
+          "special_name": "劳动与社会保障",
+          "level": "专科",
+          "school_special_id": "45532"
+        },
+        {
+          "special_name": "职业指导与服务",
+          "level": "专科",
+          "school_special_id": "1472856"
+        }
+      ]
+    },
+    {
+      "department_name": "民生福祉学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际商务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1460856"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1460857"
+        }
+      ]
+    },
+    {
+      "department_name": "城市安全学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1620708"
+        },
+        {
+          "special_name": "城市轨道交通机电技术",
+          "level": "专科",
+          "school_special_id": "45533"
+        },
+        {
+          "special_name": "安全技术与管理",
+          "level": "专科",
+          "school_special_id": "128158"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "45528"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

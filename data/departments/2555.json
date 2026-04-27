@@ -1,0 +1,238 @@
+{
+  "update_time": "2026-04-27 16:45:03",
+  "school_id": "2555",
+  "school_name": "南通大学杏林学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2555.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "1ae63e62ec5c51142d325fb9a4613cfe",
+  "department_count": 6,
+  "special_count": 38,
+  "data": [
+    {
+      "department_name": "人文学部",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "82403"
+        },
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "82407"
+        },
+        {
+          "special_name": "广播电视学",
+          "level": "本科",
+          "school_special_id": "82406"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "82405"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "82400"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "82402"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "82404"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "82401"
+        }
+      ]
+    },
+    {
+      "department_name": "理学部",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "光电信息科学与工程",
+          "level": "本科",
+          "school_special_id": "82391"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "82398"
+        },
+        {
+          "special_name": "海洋技术",
+          "level": "本科",
+          "school_special_id": "82399"
+        },
+        {
+          "special_name": "经济统计学",
+          "level": "本科",
+          "school_special_id": "82397"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "82377"
+        }
+      ]
+    },
+    {
+      "department_name": "经管学部",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "82410"
+        },
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "82372"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "82409"
+        },
+        {
+          "special_name": "城市管理",
+          "level": "本科",
+          "school_special_id": "82408"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "82373"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "82368"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "82378"
+        }
+      ]
+    },
+    {
+      "department_name": "信息学部",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "微电子科学与工程",
+          "level": "本科",
+          "school_special_id": "82388"
+        },
+        {
+          "special_name": "物联网工程",
+          "level": "本科",
+          "school_special_id": "82379"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "82381"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "82374"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "82375"
+        },
+        {
+          "special_name": "集成电路设计与集成系统",
+          "level": "本科",
+          "school_special_id": "82385"
+        }
+      ]
+    },
+    {
+      "department_name": "工学部",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "82396"
+        },
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "82393"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "82394"
+        },
+        {
+          "special_name": "服装设计与工程",
+          "level": "本科",
+          "school_special_id": "82369"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "82370"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "82376"
+        }
+      ]
+    },
+    {
+      "department_name": "医学部",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "82392"
+        },
+        {
+          "special_name": "医学实验技术",
+          "level": "本科",
+          "school_special_id": "82387"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "本科",
+          "school_special_id": "82384"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "本科",
+          "school_special_id": "82366"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "82390"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "82386"
+        }
+      ]
+    }
+  ]
+}

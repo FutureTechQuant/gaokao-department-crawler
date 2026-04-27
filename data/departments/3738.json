@@ -1,0 +1,122 @@
+{
+  "update_time": "2026-04-27 16:53:54",
+  "school_id": "3738",
+  "school_name": "长沙医药健康职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3738.json?a=www.gaokao.cn",
+  "time": "2025-07-18 11:42:39",
+  "md5": "582584dd36591b349e6e0e1f91189612",
+  "department_count": 5,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "医学技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "2161170"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "2161169"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "2160642"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "2170356"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "2161171"
+        }
+      ]
+    },
+    {
+      "department_name": "医学智能工程学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医疗器械经营与服务",
+          "level": "专科",
+          "school_special_id": "2161173"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "2161172"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "2160643"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "2161175"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "2161174"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "2160644"
+        }
+      ]
+    },
+    {
+      "department_name": "健康学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "2161176"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2160640"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "2161177"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "2160641"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "2160645"
+        }
+      ]
+    }
+  ]
+}

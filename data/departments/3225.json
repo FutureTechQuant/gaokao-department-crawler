@@ -1,0 +1,127 @@
+{
+  "update_time": "2026-04-27 16:48:47",
+  "school_id": "3225",
+  "school_name": "贵阳幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3225.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "756cc078cdba7a5b8e0b4d7e949e6937",
+  "department_count": 5,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "学前与早教学院(系)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "儿童发展与健康管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "141764"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "141765"
+        }
+      ]
+    },
+    {
+      "department_name": "学前与特殊学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "141764"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院(系)",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "1027996"
+        },
+        {
+          "special_name": "国标舞",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "1027998"
+        },
+        {
+          "special_name": "美术",
+          "level": "专科",
+          "school_special_id": "2163042"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "88226"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "800275"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "88218"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "1793649"
+        }
+      ]
+    },
+    {
+      "department_name": "语言文化学院(系)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1027997"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "1793655"
+        },
+        {
+          "special_name": "软件与信息服务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "体育与健康学院(系)",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1027997"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "1793655"
+        }
+      ]
+    }
+  ]
+}

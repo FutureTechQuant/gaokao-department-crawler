@@ -1,0 +1,178 @@
+{
+  "update_time": "2026-04-27 16:27:21",
+  "school_id": "835",
+  "school_name": "天津医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/835.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "02951ad46fa70aed5c51bf07f0e6680f",
+  "department_count": 6,
+  "special_count": 26,
+  "data": [
+    {
+      "department_name": "医学护理学院(护理系)",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1742549"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "39329"
+        },
+        {
+          "special_name": "护理(口腔护理方向)",
+          "level": "专科",
+          "school_special_id": "39329"
+        },
+        {
+          "special_name": "护理(涉外护理方向)",
+          "level": "专科",
+          "school_special_id": "39329"
+        },
+        {
+          "special_name": "护理(社区护理方向)",
+          "level": "专科",
+          "school_special_id": "39329"
+        },
+        {
+          "special_name": "护理(老年护理方向)",
+          "level": "专科",
+          "school_special_id": "39329"
+        }
+      ]
+    },
+    {
+      "department_name": "医学护理学院(医学系)",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1742550"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1742552"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1742551"
+        }
+      ]
+    },
+    {
+      "department_name": "药学与生物技术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1742557"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1742558"
+        },
+        {
+          "special_name": "医学生物技术",
+          "level": "专科",
+          "school_special_id": "1742559"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "1742560"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1742556"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "1364925"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1742555"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1742553"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1593142"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1737066"
+        },
+        {
+          "special_name": "美容美体艺术",
+          "level": "专科",
+          "school_special_id": "1861178"
+        }
+      ]
+    },
+    {
+      "department_name": "医学护理学院(口腔医学系)",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1742566"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1593150"
+        }
+      ]
+    },
+    {
+      "department_name": "卫生健康管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "保险实务(医疗保险实务方向)",
+          "level": "专科",
+          "school_special_id": "1591653"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "1742564"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "1742563"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1742562"
+        }
+      ]
+    }
+  ]
+}

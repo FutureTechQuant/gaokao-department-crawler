@@ -1,0 +1,137 @@
+{
+  "update_time": "2026-04-27 16:34:11",
+  "school_id": "1603",
+  "school_name": "河北劳动关系职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1603.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "18edd338e2e92a9d7903270dd2e591a6",
+  "department_count": 5,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "建筑工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "58553"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "58567"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "58558"
+        },
+        {
+          "special_name": "智能建造技术",
+          "level": "专科",
+          "school_special_id": "1860395"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "218780"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1679836"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "58569"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "国际商务",
+          "level": "专科",
+          "school_special_id": "1378261"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1619705"
+        },
+        {
+          "special_name": "大数据与会计（注册会计师）",
+          "level": "专科",
+          "school_special_id": "1619705"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1680683"
+        },
+        {
+          "special_name": "工商企业管理",
+          "level": "专科",
+          "school_special_id": "1110902"
+        },
+        {
+          "special_name": "市场营销（数字新媒体方向）",
+          "level": "专科",
+          "school_special_id": "58552"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "58572"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "58566"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "58571"
+        }
+      ]
+    },
+    {
+      "department_name": "公共管理与现代服务系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "广告设计与制作",
+          "level": "专科",
+          "school_special_id": "58561"
+        },
+        {
+          "special_name": "铁路交通运营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

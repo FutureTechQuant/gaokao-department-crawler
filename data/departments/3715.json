@@ -1,0 +1,60 @@
+{
+  "update_time": "2026-04-27 16:53:41",
+  "school_id": "3715",
+  "school_name": "荆门通用航空职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3715.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:07",
+  "md5": "ce73d96f5cdb6ff295e9e380f8d9988e",
+  "department_count": 3,
+  "special_count": 6,
+  "data": [
+    {
+      "department_name": "通航机电学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2159731"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2159727"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2159729"
+        }
+      ]
+    },
+    {
+      "department_name": "通航装备学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "航空地面设备维修",
+          "level": "专科",
+          "school_special_id": "2159730"
+        },
+        {
+          "special_name": "飞行器数字化制造技术",
+          "level": "专科",
+          "school_special_id": "2159728"
+        }
+      ]
+    },
+    {
+      "department_name": "通航商贸学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "农村电子商务",
+          "level": "专科",
+          "school_special_id": "2159732"
+        }
+      ]
+    }
+  ]
+}

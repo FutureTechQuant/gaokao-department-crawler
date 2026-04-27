@@ -1,0 +1,138 @@
+{
+  "update_time": "2026-04-27 16:51:23",
+  "school_id": "3494",
+  "school_name": "梧州医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3494.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "2e35f3da74dd5aefa71f9a36d33af37c",
+  "department_count": 6,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "临床学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1881539"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "2057570"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1738482"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1738488"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1738484"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1738489"
+        }
+      ]
+    },
+    {
+      "department_name": "中医学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "1738491"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1363303"
+        },
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "2040176"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1738483"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1860888"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1738487"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1860889"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1738485"
+        }
+      ]
+    },
+    {
+      "department_name": "公共教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "1738486"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "2095097"
+        },
+        {
+          "special_name": "运动健康指导",
+          "level": "专科",
+          "school_special_id": "1738490"
+        }
+      ]
+    }
+  ]
+}

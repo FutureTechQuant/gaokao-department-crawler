@@ -1,0 +1,202 @@
+{
+  "update_time": "2026-04-27 16:35:10",
+  "school_id": "1694",
+  "school_name": "辽宁装备制造职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1694.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "5a58b3510ca72ccd5ccced143fe3b8c7",
+  "department_count": 5,
+  "special_count": 32,
+  "data": [
+    {
+      "department_name": "机械工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "1730009"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "1673278"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1593246"
+        },
+        {
+          "special_name": "机械设计与制造",
+          "level": "专科",
+          "school_special_id": "60811"
+        },
+        {
+          "special_name": "模具设计与制造",
+          "level": "专科",
+          "school_special_id": "1714197"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "60813"
+        },
+        {
+          "special_name": "智能焊接技术",
+          "level": "专科",
+          "school_special_id": "1788335"
+        },
+        {
+          "special_name": "智能焊接技术(机器人焊接)",
+          "level": "专科",
+          "school_special_id": "1788335"
+        },
+        {
+          "special_name": "材料成型及控制技术",
+          "level": "专科",
+          "school_special_id": "1788334"
+        },
+        {
+          "special_name": "材料成型及控制技术(飞机制造)",
+          "level": "专科",
+          "school_special_id": "1788334"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1740566"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1615758"
+        },
+        {
+          "special_name": "汽车电子技术",
+          "level": "专科",
+          "school_special_id": "60801"
+        },
+        {
+          "special_name": "理化测试与质检技术(无损检测)",
+          "level": "专科",
+          "school_special_id": "2157179"
+        }
+      ]
+    },
+    {
+      "department_name": "自动控制工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "60794"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "60793"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1857000"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1673287"
+        },
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1619870"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "1673270"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与通信工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "60796"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1673288"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "60815"
+        },
+        {
+          "special_name": "通信工程设计与监理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "工商管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1619872"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "60800"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1672428"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "60816"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1672427"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "update_time": "2026-04-27 16:52:20",
+  "school_id": "3591",
+  "school_name": "广西信息职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3591.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "0e6cb3d92663fd4d9ceba4e6bfd265bb",
+  "department_count": 4,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "北斗与通信学院（智能制造学院）",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "2159628"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1801996"
+        },
+        {
+          "special_name": "智能产品开发与应用",
+          "level": "专科",
+          "school_special_id": "1801998"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "1801995"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机与人工智能学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2159627"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2095399"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1801999"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2096091"
+        }
+      ]
+    },
+    {
+      "department_name": "数字艺术与传媒学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "1802003"
+        },
+        {
+          "special_name": "影视动画",
+          "level": "专科",
+          "school_special_id": "1802004"
+        },
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "1802005"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1802002"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "2159626"
+        }
+      ]
+    },
+    {
+      "department_name": "数字经济与管理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "2159625"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1802000"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2158710"
+        }
+      ]
+    }
+  ]
+}

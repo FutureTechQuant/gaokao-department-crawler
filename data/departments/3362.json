@@ -1,0 +1,179 @@
+{
+  "update_time": "2026-04-27 16:50:10",
+  "school_id": "3362",
+  "school_name": "濮阳医学高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3362.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "9e9902c46766d7cb0aec75ef706cf176",
+  "department_count": 7,
+  "special_count": 25,
+  "data": [
+    {
+      "department_name": "中医学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1513552"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1277696"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "健康大数据管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "1792582"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "2158707"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "2039379"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "89452"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "89451"
+        }
+      ]
+    },
+    {
+      "department_name": "康复医学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1513552"
+        },
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1792580"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1021598"
+        }
+      ]
+    },
+    {
+      "department_name": "药学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1277699"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "89453"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1277701"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1021600"
+        },
+        {
+          "special_name": "医疗器械维护与管理",
+          "level": "专科",
+          "school_special_id": "1021601"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1021599"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1277702"
+        }
+      ]
+    }
+  ]
+}

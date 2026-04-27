@@ -1,0 +1,158 @@
+{
+  "update_time": "2026-04-27 16:47:04",
+  "school_id": "2936",
+  "school_name": "阿拉善职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2936.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "ca3b9024686e84bc923b356a24429711",
+  "department_count": 6,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "医疗护理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1615122"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "86068"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "86083"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1619475"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "782080"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "131470"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "131469"
+        },
+        {
+          "special_name": "工艺美术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民族表演艺术",
+          "level": "专科",
+          "school_special_id": "1787988"
+        },
+        {
+          "special_name": "雕刻艺术设计",
+          "level": "专科",
+          "school_special_id": "1787974"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "131472"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2152958"
+        },
+        {
+          "special_name": "汽车电子技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电力系统自动化技术",
+          "level": "专科",
+          "school_special_id": "1619480"
+        },
+        {
+          "special_name": "风力发电工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "化工工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "分析检验技术",
+          "level": "专科",
+          "school_special_id": "1619479"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "86082"
+        }
+      ]
+    },
+    {
+      "department_name": "通用航空系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "无人机技术应用",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机场运行服务与管理",
+          "level": "专科",
+          "school_special_id": "1619477"
+        },
+        {
+          "special_name": "民航安全技术管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "航空服务",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

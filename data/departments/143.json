@@ -1,0 +1,840 @@
+{
+  "update_time": "2026-04-27 16:19:48",
+  "school_id": "143",
+  "school_name": "北京理工大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/143.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "29a80fa2179be82f3333a868df174076",
+  "department_count": 23,
+  "special_count": 138,
+  "data": [
+    {
+      "department_name": "珠海校区",
+      "special_num": 58,
+      "special": [
+        {
+          "special_name": "交通运输(机场运行管理、飞行运行管理、航空市场营销与物流管理方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "2013936"
+        },
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1797460"
+        },
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "7439"
+        },
+        {
+          "special_name": "信息工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "7438"
+        },
+        {
+          "special_name": "信用管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "573135"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "2162196"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "7428"
+        },
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "安全工程",
+          "level": "本科",
+          "school_special_id": "922959"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工业工程(智能制造管理方向)",
+          "level": "本科",
+          "school_special_id": "573124"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工艺美术",
+          "level": "本科",
+          "school_special_id": "2162198"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "303075"
+        },
+        {
+          "special_name": "应用统计学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "2162199"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1797457"
+        },
+        {
+          "special_name": "无人驾驶航空器系统工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "7441"
+        },
+        {
+          "special_name": "智能科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智能科学与技术(国际班)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "2162197"
+        },
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "573131"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "7456"
+        },
+        {
+          "special_name": "机械电子工程(智能制造大类)",
+          "level": "本科",
+          "school_special_id": "7432"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "7430"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "7445"
+        },
+        {
+          "special_name": "测控技术与仪器(智能检测方向)",
+          "level": "本科",
+          "school_special_id": "573122"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "2013937"
+        },
+        {
+          "special_name": "生物工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子科学与技术",
+          "level": "本科",
+          "school_special_id": "573150"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "7446"
+        },
+        {
+          "special_name": "网络工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "能源与动力工程",
+          "level": "本科",
+          "school_special_id": "573165"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "7433"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "7440"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "1026592"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "7434"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "车辆工程",
+          "level": "本科",
+          "school_special_id": "7443"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "7435"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "573132"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "集成电路设计与集成系统",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "飞行器制造工程(航空维修工程方向)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "飞行技术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "食品科学与工程",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "化学与化工学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "制药工程",
+          "level": "本科",
+          "school_special_id": "573167"
+        },
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "922984"
+        },
+        {
+          "special_name": "化学工程与工艺",
+          "level": "本科",
+          "school_special_id": "573135"
+        },
+        {
+          "special_name": "应用化学",
+          "level": "本科",
+          "school_special_id": "303075"
+        },
+        {
+          "special_name": "能源化学工程",
+          "level": "本科",
+          "school_special_id": "1030464"
+        }
+      ]
+    },
+    {
+      "department_name": "生命学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "生物工程",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "生物技术",
+          "level": "本科",
+          "school_special_id": "573157"
+        }
+      ]
+    },
+    {
+      "department_name": "宇航学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工程力学",
+          "level": "本科",
+          "school_special_id": "7437"
+        },
+        {
+          "special_name": "探测制导与控制技术",
+          "level": "本科",
+          "school_special_id": "922963"
+        },
+        {
+          "special_name": "武器发射工程",
+          "level": "本科",
+          "school_special_id": "1026588"
+        },
+        {
+          "special_name": "航空航天工程",
+          "level": "本科",
+          "school_special_id": "1026589"
+        },
+        {
+          "special_name": "飞行器动力工程",
+          "level": "本科",
+          "school_special_id": "922972"
+        },
+        {
+          "special_name": "飞行器设计与工程",
+          "level": "本科",
+          "school_special_id": "922964"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "生物医学工程",
+          "level": "本科",
+          "school_special_id": "573123"
+        }
+      ]
+    },
+    {
+      "department_name": "机电学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "安全工程",
+          "level": "本科",
+          "school_special_id": "922959"
+        },
+        {
+          "special_name": "工程力学",
+          "level": "本科",
+          "school_special_id": "7437"
+        },
+        {
+          "special_name": "弹药工程与爆炸技术",
+          "level": "本科",
+          "school_special_id": "1797462"
+        },
+        {
+          "special_name": "探测制导与控制技术",
+          "level": "本科",
+          "school_special_id": "922963"
+        },
+        {
+          "special_name": "智能无人系统技术",
+          "level": "本科",
+          "school_special_id": "1036303"
+        },
+        {
+          "special_name": "机械电子工程",
+          "level": "本科",
+          "school_special_id": "7432"
+        },
+        {
+          "special_name": "武器系统与工程",
+          "level": "本科",
+          "school_special_id": "7461"
+        },
+        {
+          "special_name": "特种能源技术与工程",
+          "level": "本科",
+          "school_special_id": "1797463"
+        }
+      ]
+    },
+    {
+      "department_name": "机械与车辆学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工业工程",
+          "level": "本科",
+          "school_special_id": "573124"
+        },
+        {
+          "special_name": "智能制造工程",
+          "level": "本科",
+          "school_special_id": "1797461"
+        },
+        {
+          "special_name": "机械工程",
+          "level": "本科",
+          "school_special_id": "7456"
+        },
+        {
+          "special_name": "能源与动力工程",
+          "level": "本科",
+          "school_special_id": "573165"
+        },
+        {
+          "special_name": "装甲车辆工程",
+          "level": "本科",
+          "school_special_id": "1026590"
+        },
+        {
+          "special_name": "车辆工程",
+          "level": "本科",
+          "school_special_id": "7443"
+        }
+      ]
+    },
+    {
+      "department_name": "数学与统计学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "573162"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "573160"
+        },
+        {
+          "special_name": "统计学",
+          "level": "本科",
+          "school_special_id": "573161"
+        }
+      ]
+    },
+    {
+      "department_name": "光电学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "光电信息科学与工程",
+          "level": "本科",
+          "school_special_id": "7454"
+        },
+        {
+          "special_name": "智能感知工程",
+          "level": "本科",
+          "school_special_id": "1797459"
+        },
+        {
+          "special_name": "测控技术与仪器",
+          "level": "本科",
+          "school_special_id": "573122"
+        }
+      ]
+    },
+    {
+      "department_name": "物理学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应用物理学",
+          "level": "本科",
+          "school_special_id": "573152"
+        },
+        {
+          "special_name": "量子信息科学",
+          "level": "本科",
+          "school_special_id": "2012304"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与电子学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "97726"
+        },
+        {
+          "special_name": "通信工程",
+          "level": "本科",
+          "school_special_id": "573132"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "7439"
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "7438"
+        },
+        {
+          "special_name": "国际组织和全球治理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "303084"
+        }
+      ]
+    },
+    {
+      "department_name": "集成电路与电子学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "微电子科学与工程",
+          "level": "本科",
+          "school_special_id": "573151"
+        },
+        {
+          "special_name": "王小谟英才班",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子科学与技术",
+          "level": "本科",
+          "school_special_id": "573150"
+        },
+        {
+          "special_name": "电子科学与技术（全英文）",
+          "level": "本科",
+          "school_special_id": "573150"
+        }
+      ]
+    },
+    {
+      "department_name": "经济学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "7428"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "7427"
+        },
+        {
+          "special_name": "金融科技",
+          "level": "本科",
+          "school_special_id": "1800336"
+        }
+      ]
+    },
+    {
+      "department_name": "自动化学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "机器人工程",
+          "level": "本科",
+          "school_special_id": "573131"
+        },
+        {
+          "special_name": "电气工程及其自动化",
+          "level": "本科",
+          "school_special_id": "7446"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "7433"
+        },
+        {
+          "special_name": "自动化（全英文教学）",
+          "level": "本科",
+          "school_special_id": "7433"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "2153467"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "7429"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1797460"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1797457"
+        },
+        {
+          "special_name": "数据科学与大数据技术（全英文）",
+          "level": "本科",
+          "school_special_id": "1797457"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "7434"
+        },
+        {
+          "special_name": "计算机科学与技术（拔尖基地班）",
+          "level": "本科",
+          "school_special_id": "7434"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "7435"
+        }
+      ]
+    },
+    {
+      "department_name": "网络空间安全学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "信息对抗技术",
+          "level": "本科",
+          "school_special_id": "922985"
+        },
+        {
+          "special_name": "密码科学与技术",
+          "level": "本科",
+          "school_special_id": "1797458"
+        },
+        {
+          "special_name": "网络空间安全",
+          "level": "本科",
+          "school_special_id": "1131062"
+        }
+      ]
+    },
+    {
+      "department_name": "法学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "7445"
+        }
+      ]
+    },
+    {
+      "department_name": "材料学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "新能源材料与器件",
+          "level": "本科",
+          "school_special_id": "1026591"
+        },
+        {
+          "special_name": "材料化学",
+          "level": "本科",
+          "school_special_id": "922980"
+        },
+        {
+          "special_name": "材料成型及控制工程",
+          "level": "本科",
+          "school_special_id": "573126"
+        },
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "7430"
+        },
+        {
+          "special_name": "电子封装技术",
+          "level": "本科",
+          "school_special_id": "922949"
+        },
+        {
+          "special_name": "高分子材料与工程",
+          "level": "本科",
+          "school_special_id": "573134"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "德语",
+          "level": "本科",
+          "school_special_id": "7442"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "7441"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "7440"
+        },
+        {
+          "special_name": "西班牙语",
+          "level": "本科",
+          "school_special_id": "7453"
+        }
+      ]
+    },
+    {
+      "department_name": "设计与艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "2013936"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "本科",
+          "school_special_id": "7431"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "2013937"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "1026592"
+        }
+      ]
+    },
+    {
+      "department_name": "明德书院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "社会科学试验班(精品文科班)",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

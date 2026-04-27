@@ -1,0 +1,490 @@
+{
+  "update_time": "2026-04-27 16:31:08",
+  "school_id": "1220",
+  "school_name": "香港中文大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1220.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "1131ae6ade5eefc873348dd56fdc5189",
+  "department_count": 8,
+  "special_count": 86,
+  "data": [
+    {
+      "department_name": "文学院",
+      "special_num": 17,
+      "special": [
+        {
+          "special_name": "中国研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中国语言及文学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "人类学",
+          "level": "本科",
+          "school_special_id": "2162107"
+        },
+        {
+          "special_name": "公众史学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "历史",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "双渠道双语研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "哲学",
+          "level": "本科",
+          "school_special_id": "2162106"
+        },
+        {
+          "special_name": "宗教研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "文化研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "文化管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "日本研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "神学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "2162104"
+        },
+        {
+          "special_name": "艺术",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "英文",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "语言学",
+          "level": "本科",
+          "school_special_id": "2162099"
+        },
+        {
+          "special_name": "音乐",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "工商管理学院",
+      "special_num": 11,
+      "special": [
+        {
+          "special_name": "专业会计学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "保险、金融与精算学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工商管理(工商管理学士综合课程及法律博士双学位)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工商管理(综合课程)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环球商业学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环球经济与金融跨学科",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "生物科技、创业与医疗管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计量金融学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计量金融学及风险管理科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "跨学科数据分析(+X双主修课程)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店旅游及房地产",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "学习设计与科技",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "幼儿教育",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "教育学(健康与体育运动科学)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数学及数学教育",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "文学(中国语文研究)及教育学(中国语文教育)双学位",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "文学(英国语文研究)及教育学(英国语文教育)双学位",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "工程学院",
+      "special_num": 14,
+      "special": [
+        {
+          "special_name": "人工智能(系统与科技)",
+          "level": "本科",
+          "school_special_id": "2162093"
+        },
+        {
+          "special_name": "信息工程学",
+          "level": "本科",
+          "school_special_id": "2160537"
+        },
+        {
+          "special_name": "学习设计与科技",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数学与信息工程学",
+          "level": "本科",
+          "school_special_id": "2160538"
+        },
+        {
+          "special_name": "机械与自动化工程学",
+          "level": "本科",
+          "school_special_id": "2160539"
+        },
+        {
+          "special_name": "生物医学工程学",
+          "level": "本科",
+          "school_special_id": "2160529"
+        },
+        {
+          "special_name": "电子工程学",
+          "level": "本科",
+          "school_special_id": "2160534"
+        },
+        {
+          "special_name": "系统工程和工程管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "能源与环境工程学",
+          "level": "本科",
+          "school_special_id": "2160535"
+        },
+        {
+          "special_name": "航天科学与地球信息学(X双主修课程)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算数据科学",
+          "level": "本科",
+          "school_special_id": "2160532"
+        },
+        {
+          "special_name": "计算机科学与工程",
+          "level": "本科",
+          "school_special_id": "2160533"
+        },
+        {
+          "special_name": "跨学科数据分析(+X双主修课程)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融科技学",
+          "level": "本科",
+          "school_special_id": "2160536"
+        }
+      ]
+    },
+    {
+      "department_name": "法律学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "工商管理(工商管理学士综合课程及法律博士双学位)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "2162105"
+        }
+      ]
+    },
+    {
+      "department_name": "医学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "2162094"
+        },
+        {
+          "special_name": "公共卫生",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "内外全科医学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "2162095"
+        },
+        {
+          "special_name": "生物医学",
+          "level": "本科",
+          "school_special_id": "2162108"
+        },
+        {
+          "special_name": "生物科技、创业与医疗管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药剂学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "理学院",
+      "special_num": 12,
+      "special": [
+        {
+          "special_name": "地球与环境科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "学习设计与科技",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数学与信息工程学",
+          "level": "本科",
+          "school_special_id": "2160538"
+        },
+        {
+          "special_name": "数学精研",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "理学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "理论物理精研",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "生物科技、创业与医疗管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "航天科学与地球信息学(X双主修课程)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算数据科学",
+          "level": "本科",
+          "school_special_id": "2160532"
+        },
+        {
+          "special_name": "计量金融学及风险管理科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "跨学科数据分析(+X双主修课程)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "风险管理科学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "社会科学院",
+      "special_num": 17,
+      "special": [
+        {
+          "special_name": "全球传播",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "全球研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "地理与资源管理学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑学",
+          "level": "本科",
+          "school_special_id": "2162100"
+        },
+        {
+          "special_name": "心理学",
+          "level": "本科",
+          "school_special_id": "2162101"
+        },
+        {
+          "special_name": "性别研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "政治与行政学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数据科学与政策研究",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "新闻与传播学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环球经济与金融跨学科",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社会与可持续发展",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社会学",
+          "level": "本科",
+          "school_special_id": "2162102"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "本科",
+          "school_special_id": "2162098"
+        },
+        {
+          "special_name": "社会科学类",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "2162103"
+        },
+        {
+          "special_name": "航天科学与地球信息学(X双主修课程)",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

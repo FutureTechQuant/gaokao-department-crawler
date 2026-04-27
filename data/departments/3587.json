@@ -1,0 +1,64 @@
+{
+  "update_time": "2026-04-27 16:52:17",
+  "school_id": "3587",
+  "school_name": "广东潮州卫生健康职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3587.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "e5b70c705c4609047fc1b1a092c6d931",
+  "department_count": 2,
+  "special_count": 8,
+  "data": [
+    {
+      "department_name": "护理及康复学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1801963"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1801968"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "药学及检验学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1801966"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1801964"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1801961"
+        }
+      ]
+    }
+  ]
+}

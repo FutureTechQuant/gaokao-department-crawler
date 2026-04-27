@@ -1,0 +1,133 @@
+{
+  "update_time": "2026-04-27 16:46:14",
+  "school_id": "2817",
+  "school_name": "济南护理职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2817.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "999961ce5187f62e81bf07cce61dd621",
+  "department_count": 6,
+  "special_count": 17,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "84666"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1735495"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "84664"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "84662"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1735494"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1735492"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1027882"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1787220"
+        }
+      ]
+    },
+    {
+      "department_name": "康复保健系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "127032"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1711236"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1787221"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1592149"
+        }
+      ]
+    },
+    {
+      "department_name": "口腔医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "84663"
+        }
+      ]
+    },
+    {
+      "department_name": "公共卫生系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "公共卫生管理",
+          "level": "专科",
+          "school_special_id": "1981965"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "1027883"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1787223"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "1787222"
+        }
+      ]
+    }
+  ]
+}

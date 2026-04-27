@@ -1,0 +1,156 @@
+{
+  "update_time": "2026-04-27 16:23:22",
+  "school_id": "455",
+  "school_name": "武汉音乐学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/455.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "8958b2dec471fad3757fca87abdda15e",
+  "department_count": 9,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "作曲系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论（作曲方向）",
+          "level": "本科",
+          "school_special_id": "803454"
+        },
+        {
+          "special_name": "录音艺术（音乐音响导演方向）",
+          "level": "本科",
+          "school_special_id": "803457"
+        },
+        {
+          "special_name": "音乐表演（指挥方向）",
+          "level": "本科",
+          "school_special_id": "803452"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "音乐学(戏曲音乐)",
+          "level": "本科",
+          "school_special_id": "803453"
+        },
+        {
+          "special_name": "音乐学(音乐学理论)",
+          "level": "本科",
+          "school_special_id": "803453"
+        },
+        {
+          "special_name": "音乐学(音乐管理)",
+          "level": "本科",
+          "school_special_id": "803453"
+        }
+      ]
+    },
+    {
+      "department_name": "中乐系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(中国乐器演奏方向)",
+          "level": "本科",
+          "school_special_id": "803452"
+        }
+      ]
+    },
+    {
+      "department_name": "钢琴系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(钢琴演奏方向)",
+          "level": "本科",
+          "school_special_id": "803452"
+        }
+      ]
+    },
+    {
+      "department_name": "管弦系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(西洋管弦（打击）乐器演奏方向)",
+          "level": "本科",
+          "school_special_id": "803452"
+        }
+      ]
+    },
+    {
+      "department_name": "声乐系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(演唱方向)",
+          "level": "本科",
+          "school_special_id": "803452"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈编导",
+          "level": "本科",
+          "school_special_id": "803456"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "803455"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "音乐教育（音乐教育方向）",
+          "level": "本科",
+          "school_special_id": "1801172"
+        },
+        {
+          "special_name": "音乐治疗（音乐治疗方向）",
+          "level": "本科",
+          "school_special_id": "1801171"
+        }
+      ]
+    },
+    {
+      "department_name": "演艺学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "音乐学(钢琴调律)",
+          "level": "本科",
+          "school_special_id": "803453"
+        },
+        {
+          "special_name": "音乐表演(通俗乐器演奏与编导(爵士鼓、古典吉他、萨克斯管))",
+          "level": "本科",
+          "school_special_id": "803452"
+        },
+        {
+          "special_name": "音乐表演(通俗声乐演唱与编导)",
+          "level": "本科",
+          "school_special_id": "803452"
+        },
+        {
+          "special_name": "音乐表演(键盘乐器演奏与编导(钢琴、手风琴、电子管风琴、爵士钢琴))",
+          "level": "本科",
+          "school_special_id": "803452"
+        }
+      ]
+    }
+  ]
+}

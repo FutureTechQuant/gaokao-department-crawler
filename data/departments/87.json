@@ -1,0 +1,482 @@
+{
+  "update_time": "2026-04-27 16:19:10",
+  "school_id": "87",
+  "school_name": "天津外国语大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/87.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:47",
+  "md5": "22b245c62fdbaf842df1ebb092ca390b",
+  "department_count": 10,
+  "special_count": 82,
+  "data": [
+    {
+      "department_name": "求索荣誉学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "财务管理(商务英语)",
+          "level": "本科",
+          "school_special_id": "3610"
+        },
+        {
+          "special_name": "金融学(商务英语)",
+          "level": "本科",
+          "school_special_id": "3578"
+        }
+      ]
+    },
+    {
+      "department_name": "英语学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "3553"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "3580"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "3582"
+        }
+      ]
+    },
+    {
+      "department_name": "日语学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "104541"
+        }
+      ]
+    },
+    {
+      "department_name": "欧洲语言文化学院",
+      "special_num": 16,
+      "special": [
+        {
+          "special_name": "乌克兰语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "1721821"
+        },
+        {
+          "special_name": "保加利亚语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "匈牙利语",
+          "level": "本科",
+          "school_special_id": "3597"
+        },
+        {
+          "special_name": "塞尔维亚语",
+          "level": "本科",
+          "school_special_id": "1023596"
+        },
+        {
+          "special_name": "希腊语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "德语",
+          "level": "本科",
+          "school_special_id": "3558"
+        },
+        {
+          "special_name": "意大利语",
+          "level": "本科",
+          "school_special_id": "3567"
+        },
+        {
+          "special_name": "捷克语",
+          "level": "本科",
+          "school_special_id": "3593"
+        },
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "3571"
+        },
+        {
+          "special_name": "波兰语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "白俄罗斯语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "罗马尼亚语",
+          "level": "本科",
+          "school_special_id": "104543"
+        },
+        {
+          "special_name": "芬兰语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "葡萄牙语",
+          "level": "本科",
+          "school_special_id": "3568"
+        },
+        {
+          "special_name": "西班牙语",
+          "level": "本科",
+          "school_special_id": "3591"
+        }
+      ]
+    },
+    {
+      "department_name": "亚非语学院",
+      "special_num": 13,
+      "special": [
+        {
+          "special_name": "印地语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "印尼语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "土耳其语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "斯瓦希里语",
+          "level": "本科",
+          "school_special_id": "3550"
+        },
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "3559"
+        },
+        {
+          "special_name": "柬埔寨语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "波斯语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "泰语",
+          "level": "本科",
+          "school_special_id": "3557"
+        },
+        {
+          "special_name": "缅甸语",
+          "level": "本科",
+          "school_special_id": "3562"
+        },
+        {
+          "special_name": "蒙古语",
+          "level": "本科",
+          "school_special_id": "1129771"
+        },
+        {
+          "special_name": "豪萨语",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "阿拉伯语",
+          "level": "本科",
+          "school_special_id": "3565"
+        },
+        {
+          "special_name": "马来语",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "国际商学院",
+      "special_num": 10,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "3608"
+        },
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "3609"
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "国际商务",
+          "level": "本科",
+          "school_special_id": "3586"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "3587"
+        },
+        {
+          "special_name": "大数据管理与应用",
+          "level": "本科",
+          "school_special_id": "1592551"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "104540"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "3610"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "3578"
+        }
+      ]
+    },
+    {
+      "department_name": "国际传媒学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "920135"
+        },
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "3572"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "3579"
+        },
+        {
+          "special_name": "教育技术学",
+          "level": "本科",
+          "school_special_id": "1748832"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "1748833"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1023597"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "314765"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "3574"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "1583859"
+        }
+      ]
+    },
+    {
+      "department_name": "国际关系学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "国际政治",
+          "level": "本科",
+          "school_special_id": "3614"
+        },
+        {
+          "special_name": "国际组织与全球治理",
+          "level": "本科",
+          "school_special_id": "1590614"
+        },
+        {
+          "special_name": "外交学",
+          "level": "本科",
+          "school_special_id": "3612"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "3613"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "国际教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "3551"
+        }
+      ]
+    },
+    {
+      "department_name": "天津外国语大学滨海外事学院",
+      "special_num": 22,
+      "special": [
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "1721821"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "3553"
+        },
+        {
+          "special_name": "国际事务与国际关系",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "3587"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "2162337"
+        },
+        {
+          "special_name": "广告学",
+          "level": "本科",
+          "school_special_id": "3579"
+        },
+        {
+          "special_name": "德语",
+          "level": "本科",
+          "school_special_id": "3558"
+        },
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "314765"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "104541"
+        },
+        {
+          "special_name": "朝鲜语（韩国语）",
+          "level": "本科",
+          "school_special_id": "3559"
+        },
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "3551"
+        },
+        {
+          "special_name": "法学",
+          "level": "本科",
+          "school_special_id": "3613"
+        },
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "3571"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "3580"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "3582"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "西班牙语",
+          "level": "本科",
+          "school_special_id": "3591"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "3610"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "3578"
+        }
+      ]
+    }
+  ]
+}

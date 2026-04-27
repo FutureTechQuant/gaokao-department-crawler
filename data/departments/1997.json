@@ -1,0 +1,280 @@
+{
+  "update_time": "2026-04-27 16:38:43",
+  "school_id": "1997",
+  "school_name": "永州职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1997.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "ab1fa2642496e1045ac206e50f90cb3c",
+  "department_count": 8,
+  "special_count": 44,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1738040"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1675303"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1738041"
+        },
+        {
+          "special_name": "护理（中韩合作办学）",
+          "level": "专科",
+          "school_special_id": "1738041"
+        }
+      ]
+    },
+    {
+      "department_name": "医学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1359329"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1733710"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1728146"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1728147"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1733709"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1728151"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1728150"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1733712"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1733713"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1733711"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1615793"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1866075"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1733716"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1691452"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造与建筑工程学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1691444"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "68283"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "68269"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "68284"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "133389"
+        },
+        {
+          "special_name": "智能装备",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机械制造与自动化",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1741674"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "1738034"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1596256"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1679539"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1359328"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "1738030"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1738032"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1675301"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "1675314"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1615071"
+        }
+      ]
+    },
+    {
+      "department_name": "农学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中草药栽培与加工技术",
+          "level": "专科",
+          "school_special_id": "1866076"
+        },
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "1046279"
+        },
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "1728152"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "1359327"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "68281"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1359328"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1675301"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "1675314"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,234 @@
+{
+  "update_time": "2026-04-27 16:39:00",
+  "school_id": "2021",
+  "school_name": "湖南化工职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2021.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:55",
+  "md5": "2730163fcf62a9aff69107973bb9420c",
+  "department_count": 7,
+  "special_count": 36,
+  "data": [
+    {
+      "department_name": "化学工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "化工智能制造技术",
+          "level": "专科",
+          "school_special_id": "1472481"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "68861"
+        },
+        {
+          "special_name": "材料工程技术",
+          "level": "专科",
+          "school_special_id": "2041650"
+        },
+        {
+          "special_name": "石油化工技术",
+          "level": "专科",
+          "school_special_id": "68862"
+        },
+        {
+          "special_name": "精细化工技术",
+          "level": "专科",
+          "school_special_id": "68863"
+        },
+        {
+          "special_name": "高分子材料智能制造技术",
+          "level": "专科",
+          "school_special_id": "1692236"
+        }
+      ]
+    },
+    {
+      "department_name": "制药与生物工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "分析检验技术",
+          "level": "专科",
+          "school_special_id": "1534341"
+        },
+        {
+          "special_name": "化妆品技术",
+          "level": "专科",
+          "school_special_id": "68865"
+        },
+        {
+          "special_name": "生物制药技术",
+          "level": "专科",
+          "school_special_id": "2041467"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "140629"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "68874"
+        },
+        {
+          "special_name": "食品生物技术",
+          "level": "专科",
+          "school_special_id": "68877"
+        }
+      ]
+    },
+    {
+      "department_name": "机械工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "化工装备技术",
+          "level": "专科",
+          "school_special_id": "68866"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字化设计与制造技术",
+          "level": "专科",
+          "school_special_id": "2157702"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "141910"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "1521921"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1532493"
+        }
+      ]
+    },
+    {
+      "department_name": "智能控制工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "68868"
+        },
+        {
+          "special_name": "工业过程自动化技术",
+          "level": "专科",
+          "school_special_id": "140617"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "204418"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "68867"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "140616"
+        }
+      ]
+    },
+    {
+      "department_name": "现代信息工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1534340"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2156701"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "140622"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "140618"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "140610"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "化妆品经营与管理",
+          "level": "专科",
+          "school_special_id": "204416"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1520769"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "140612"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "68876"
+        }
+      ]
+    },
+    {
+      "department_name": "商务贸易学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "140620"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1520770"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "140613"
+        }
+      ]
+    }
+  ]
+}

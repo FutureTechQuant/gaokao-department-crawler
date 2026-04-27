@@ -1,0 +1,152 @@
+{
+  "update_time": "2026-04-27 16:52:11",
+  "school_id": "3580",
+  "school_name": "周口文理职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3580.json?a=www.gaokao.cn",
+  "time": "2025-06-23 17:44:40",
+  "md5": "eabccaa28a8a9ffd8aa083706026a60d",
+  "department_count": 5,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "教育科学学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1803632"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "2154871"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2158752"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "2016698"
+        },
+        {
+          "special_name": "工业互联网技术",
+          "level": "专科",
+          "school_special_id": "2158753"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2168289"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "2168290"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "2168288"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1801904"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2016699"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2158751"
+        }
+      ]
+    },
+    {
+      "department_name": "文化旅游学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "1803635"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1803636"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "2016700"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1801905"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1801908"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2158754"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1803637"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "歌舞表演",
+          "level": "专科",
+          "school_special_id": "1801907"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1803633"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "1803634"
+        }
+      ]
+    },
+    {
+      "department_name": "通识教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "1801906"
+        }
+      ]
+    }
+  ]
+}

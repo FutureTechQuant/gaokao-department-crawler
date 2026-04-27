@@ -1,0 +1,164 @@
+{
+  "update_time": "2026-04-27 16:49:40",
+  "school_id": "3315",
+  "school_name": "哈密职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3315.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "4c394a82b30d99f7445ff89e1982542e",
+  "department_count": 7,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "机电系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1598317"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "88885"
+        },
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1777664"
+        },
+        {
+          "special_name": "热能动力工程技术",
+          "level": "专科",
+          "school_special_id": "2157140"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "88886"
+        }
+      ]
+    },
+    {
+      "department_name": "化学工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "分析检验技术",
+          "level": "专科",
+          "school_special_id": "1615723"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "88880"
+        },
+        {
+          "special_name": "煤化工技术",
+          "level": "专科",
+          "school_special_id": "2060341"
+        }
+      ]
+    },
+    {
+      "department_name": "医护系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "2160639"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1740728"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1735783"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "1740733"
+        }
+      ]
+    },
+    {
+      "department_name": "经管系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1600605"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1600606"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1597390"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "814444"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1046218"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1869143"
+        }
+      ]
+    },
+    {
+      "department_name": "交通系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1735787"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1615730"
+        },
+        {
+          "special_name": "汽车电子技术",
+          "level": "专科",
+          "school_special_id": "137086"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "137089"
+        }
+      ]
+    }
+  ]
+}

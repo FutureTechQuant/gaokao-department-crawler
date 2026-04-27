@@ -1,0 +1,184 @@
+{
+  "update_time": "2026-04-27 16:37:35",
+  "school_id": "1903",
+  "school_name": "泉州职业技术大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1903.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "ebc0b207b5c6b126b80ace3ef874c6f4",
+  "department_count": 7,
+  "special_count": 26,
+  "data": [
+    {
+      "department_name": "工学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "新能源汽车工程技术",
+          "level": "职本",
+          "school_special_id": "2155704"
+        },
+        {
+          "special_name": "机械设计制造及自动化",
+          "level": "职本",
+          "school_special_id": "2155703"
+        },
+        {
+          "special_name": "汽车服务工程技术",
+          "level": "职本",
+          "school_special_id": "2155706"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "联合创新产业学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "信息安全与管理",
+          "level": "职本",
+          "school_special_id": "2155709"
+        },
+        {
+          "special_name": "计算机应用工程",
+          "level": "职本",
+          "school_special_id": "2155707"
+        },
+        {
+          "special_name": "软件工程技术",
+          "level": "职本",
+          "school_special_id": "2155708"
+        }
+      ]
+    },
+    {
+      "department_name": "能源学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "油气储运工程",
+          "level": "本科",
+          "school_special_id": "1026470"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "职本",
+          "school_special_id": "2155705"
+        },
+        {
+          "special_name": "石油化工技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "人居环境学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "本科",
+          "school_special_id": "699376"
+        },
+        {
+          "special_name": "建筑工程",
+          "level": "职本",
+          "school_special_id": "2155701"
+        },
+        {
+          "special_name": "建筑设计",
+          "level": "职本",
+          "school_special_id": "2160759"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "65583"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "699374"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "699375"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "职本",
+          "school_special_id": "2155711"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "职本",
+          "school_special_id": "2155710"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "职本",
+          "school_special_id": "2155713"
+        }
+      ]
+    },
+    {
+      "department_name": "教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "2162668"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "1026473"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术传媒学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工艺美术",
+          "level": "本科",
+          "school_special_id": "1412627"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1131251"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "345518"
+        }
+      ]
+    }
+  ]
+}

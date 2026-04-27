@@ -1,0 +1,111 @@
+{
+  "update_time": "2026-04-27 16:53:09",
+  "school_id": "3667",
+  "school_name": "焦作新材料职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3667.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "d4944ad1ea4dc715506de7ea0364f4bb",
+  "department_count": 4,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "信息工程学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2158856"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "2158854"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "2152627"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "2158855"
+        }
+      ]
+    },
+    {
+      "department_name": "化工与新能源学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "2152623"
+        },
+        {
+          "special_name": "新能源材料应用技术",
+          "level": "专科",
+          "school_special_id": "2152625"
+        },
+        {
+          "special_name": "环境工程技术",
+          "level": "专科",
+          "school_special_id": "2158852"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "2152624"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2158853"
+        }
+      ]
+    },
+    {
+      "department_name": "经济与管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "2158857"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2158861"
+        },
+        {
+          "special_name": "智慧景区开发与管理",
+          "level": "专科",
+          "school_special_id": "2152626"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "2158859"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "2158858"
+        },
+        {
+          "special_name": "融媒体技术与运营",
+          "level": "专科",
+          "school_special_id": "2158860"
+        }
+      ]
+    }
+  ]
+}

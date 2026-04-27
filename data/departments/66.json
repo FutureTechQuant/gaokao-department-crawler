@@ -1,0 +1,380 @@
+{
+  "update_time": "2026-04-27 16:18:56",
+  "school_id": "66",
+  "school_name": "中国科学技术大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/66.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "2737c0709485998cf41f736b3ed27b70",
+  "department_count": 18,
+  "special_count": 52,
+  "data": [
+    {
+      "department_name": "数学科学学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "1026279"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "305711"
+        }
+      ]
+    },
+    {
+      "department_name": "物理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "光电信息科学与工程",
+          "level": "本科",
+          "school_special_id": "1026281"
+        },
+        {
+          "special_name": "天文学",
+          "level": "本科",
+          "school_special_id": "305712"
+        },
+        {
+          "special_name": "应用物理学",
+          "level": "本科",
+          "school_special_id": "1026280"
+        },
+        {
+          "special_name": "物理学",
+          "level": "本科",
+          "school_special_id": "2297"
+        },
+        {
+          "special_name": "量子信息科学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "化学与材料科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "2299"
+        },
+        {
+          "special_name": "材料化学",
+          "level": "本科",
+          "school_special_id": "2312"
+        },
+        {
+          "special_name": "材料物理",
+          "level": "本科",
+          "school_special_id": "1026282"
+        },
+        {
+          "special_name": "高分子材料与工程",
+          "level": "本科",
+          "school_special_id": "1026283"
+        }
+      ]
+    },
+    {
+      "department_name": "工程科学学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "安全工程",
+          "level": "本科",
+          "school_special_id": "2313"
+        },
+        {
+          "special_name": "机械设计制造及其自动化",
+          "level": "本科",
+          "school_special_id": "2306"
+        },
+        {
+          "special_name": "测控技术与仪器",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "理论与应用力学",
+          "level": "本科",
+          "school_special_id": "2301"
+        },
+        {
+          "special_name": "能源与动力工程",
+          "level": "本科",
+          "school_special_id": "2307"
+        }
+      ]
+    },
+    {
+      "department_name": "信息科学技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1797420"
+        },
+        {
+          "special_name": "电子信息工程",
+          "level": "本科",
+          "school_special_id": "305714"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "620062"
+        },
+        {
+          "special_name": "通信工程(已停招)",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机科学与技术学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "2316"
+        },
+        {
+          "special_name": "软件工程(已停招)",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能与数据科学学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "人工智能",
+          "level": "本科",
+          "school_special_id": "1797420"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "网络空间安全学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "信息安全",
+          "level": "本科",
+          "school_special_id": "1026286"
+        },
+        {
+          "special_name": "网络空间安全",
+          "level": "本科",
+          "school_special_id": "2012602"
+        }
+      ]
+    },
+    {
+      "department_name": "微电子学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "电子科学与技术",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "地球和空间科学学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "地球化学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "地球物理学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大气科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境科学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "空间科学与技术",
+          "level": "本科",
+          "school_special_id": "1800349"
+        },
+        {
+          "special_name": "行星科学",
+          "level": "本科",
+          "school_special_id": "2012444"
+        }
+      ]
+    },
+    {
+      "department_name": "生命科学学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "生物技术",
+          "level": "本科",
+          "school_special_id": "620064"
+        },
+        {
+          "special_name": "生物科学",
+          "level": "本科",
+          "school_special_id": "2310"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "1797419"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统(已停招)",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "349996"
+        },
+        {
+          "special_name": "管理科学",
+          "level": "本科",
+          "school_special_id": "2308"
+        },
+        {
+          "special_name": "统计学",
+          "level": "本科",
+          "school_special_id": "620058"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "1026289"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与社会科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "考古学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "环境科学与工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "环境科学与工程",
+          "level": "本科",
+          "school_special_id": "1797423"
+        }
+      ]
+    },
+    {
+      "department_name": "核科学技术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工程物理",
+          "level": "本科",
+          "school_special_id": "1797422"
+        },
+        {
+          "special_name": "应用物理学",
+          "level": "本科",
+          "school_special_id": "1026280"
+        },
+        {
+          "special_name": "核工程与核技术",
+          "level": "本科",
+          "school_special_id": "2315"
+        }
+      ]
+    },
+    {
+      "department_name": "未来技术学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "量子信息科学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "环境科学与光电技术学院（科教融合学院）",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应用物理学",
+          "level": "本科",
+          "school_special_id": "1026280"
+        },
+        {
+          "special_name": "环境科学",
+          "level": "本科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

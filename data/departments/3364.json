@@ -1,0 +1,137 @@
+{
+  "update_time": "2026-04-27 16:50:12",
+  "school_id": "3364",
+  "school_name": "驻马店幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3364.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "9e4f924cadf2b185289ea59cc3c30ee6",
+  "department_count": 5,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "89484"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "89485"
+        }
+      ]
+    },
+    {
+      "department_name": "应用技术学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1866646"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1792612"
+        },
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "2158790"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "2158793"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "625928"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "625924"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2158791"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1792613"
+        }
+      ]
+    },
+    {
+      "department_name": "基础教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "2163134"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "1792608"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1792609"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "1114073"
+        }
+      ]
+    },
+    {
+      "department_name": "幼儿教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "89484"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1792611"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "2154858"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "2158792"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2071330"
+        }
+      ]
+    }
+  ]
+}

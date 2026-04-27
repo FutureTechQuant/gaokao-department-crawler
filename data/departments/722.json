@@ -1,0 +1,234 @@
+{
+  "update_time": "2026-04-27 16:26:12",
+  "school_id": "722",
+  "school_name": "衡水职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/722.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "36ddbb05e01f916708775c2363448a96",
+  "department_count": 7,
+  "special_count": 36,
+  "data": [
+    {
+      "department_name": "信息工程系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1513967"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1513956"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "35619"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "35620"
+        }
+      ]
+    },
+    {
+      "department_name": "交通运输系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "民航运输服务",
+          "level": "专科",
+          "school_special_id": "1513888"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "1513867"
+        },
+        {
+          "special_name": "铁道供电技术",
+          "level": "专科",
+          "school_special_id": "123714"
+        },
+        {
+          "special_name": "铁道信号自动控制",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道机车运用与维护",
+          "level": "专科",
+          "school_special_id": "1513801"
+        },
+        {
+          "special_name": "飞行器维修技术",
+          "level": "专科",
+          "school_special_id": "1513751"
+        }
+      ]
+    },
+    {
+      "department_name": "数字商贸系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "会计信息管理",
+          "level": "专科",
+          "school_special_id": "1029065"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1514021"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "35629"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术与设计系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "2038737"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "769261"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1514079"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "123716"
+        },
+        {
+          "special_name": "影视动画",
+          "level": "专科",
+          "school_special_id": "35653"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1514068"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育与社会服务系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1514011"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "35625"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "1514088"
+        }
+      ]
+    },
+    {
+      "department_name": "现代农牧系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "35630"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "1513493"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "35632"
+        },
+        {
+          "special_name": "畜牧兽医(小动物方向)",
+          "level": "专科",
+          "school_special_id": "35632"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1513987"
+        },
+        {
+          "special_name": "智能机器人技术",
+          "level": "专科",
+          "school_special_id": "2156692"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "35628"
+        },
+        {
+          "special_name": "汽车制造与实验技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "虚拟现实技术应用",
+          "level": "专科",
+          "school_special_id": "1513975"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "123720"
+        },
+        {
+          "special_name": "集成电路技术",
+          "level": "专科",
+          "school_special_id": "2149211"
+        }
+      ]
+    }
+  ]
+}

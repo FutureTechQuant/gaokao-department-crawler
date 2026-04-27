@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 16:44:50",
+  "school_id": "2536",
+  "school_name": "黑龙江工程学院昆仑旅游学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2536.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "2ae67308293e21533537865d10d1a6d5",
+  "department_count": 6,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "工商管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "81827"
+        },
+        {
+          "special_name": "文化产业管理",
+          "level": "本科",
+          "school_special_id": "1377276"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "2011902"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "本科",
+          "school_special_id": "1471835"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "会展经济与管理",
+          "level": "本科",
+          "school_special_id": "1800650"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "81815"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "81816"
+        }
+      ]
+    },
+    {
+      "department_name": "健康管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "2153712"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "1034416"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "1471837"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "1034414"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "1034415"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "本科",
+          "school_special_id": "1800648"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "159700"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机科学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "2153711"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "1800649"
+        }
+      ]
+    }
+  ]
+}

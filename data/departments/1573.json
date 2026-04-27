@@ -1,0 +1,224 @@
+{
+  "update_time": "2026-04-27 16:33:56",
+  "school_id": "1573",
+  "school_name": "内蒙古鸿德文理学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1573.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:53",
+  "md5": "45c4d682ecda34da84739eb08d95f420",
+  "department_count": 7,
+  "special_count": 34,
+  "data": [
+    {
+      "department_name": "人文系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "广播电视学",
+          "level": "本科",
+          "school_special_id": "169291"
+        },
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "57779"
+        },
+        {
+          "special_name": "新媒体技术",
+          "level": "本科",
+          "school_special_id": "2153632"
+        },
+        {
+          "special_name": "新闻学",
+          "level": "本科",
+          "school_special_id": "57771"
+        },
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "57772"
+        },
+        {
+          "special_name": "新闻采编与制作",
+          "level": "专科",
+          "school_special_id": "117245"
+        }
+      ]
+    },
+    {
+      "department_name": "教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "57775"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "本科",
+          "school_special_id": "1899790"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "172558"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "英语(教育方向)",
+          "level": "本科",
+          "school_special_id": "57774"
+        },
+        {
+          "special_name": "英语(翻译方向)",
+          "level": "本科",
+          "school_special_id": "57774"
+        }
+      ]
+    },
+    {
+      "department_name": "财会系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "57763"
+        },
+        {
+          "special_name": "会计学(注册会计师方向)",
+          "level": "本科",
+          "school_special_id": "57763"
+        },
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "57780"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "57764"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1977488"
+        }
+      ]
+    },
+    {
+      "department_name": "工程管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "土木工程",
+          "level": "本科",
+          "school_special_id": "57769"
+        },
+        {
+          "special_name": "工程管理",
+          "level": "本科",
+          "school_special_id": "57767"
+        },
+        {
+          "special_name": "物业管理",
+          "level": "本科",
+          "school_special_id": "57766"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "169292"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "保险学",
+          "level": "本科",
+          "school_special_id": "117239"
+        },
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "57776"
+        },
+        {
+          "special_name": "养老服务管理",
+          "level": "本科",
+          "school_special_id": "2011794"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "117240"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "57770"
+        },
+        {
+          "special_name": "旅游管理与服务教育",
+          "level": "本科",
+          "school_special_id": "2012483"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "117238"
+        },
+        {
+          "special_name": "电子商务(网络营销与直播电商方向)",
+          "level": "本科",
+          "school_special_id": "117238"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "117236"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "摄影",
+          "level": "本科",
+          "school_special_id": "57777"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "57768"
+        },
+        {
+          "special_name": "绘画",
+          "level": "本科",
+          "school_special_id": "169290"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "57765"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "57773"
+        }
+      ]
+    }
+  ]
+}

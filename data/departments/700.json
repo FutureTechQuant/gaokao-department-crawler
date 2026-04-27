@@ -1,0 +1,467 @@
+{
+  "update_time": "2026-04-27 16:25:57",
+  "school_id": "700",
+  "school_name": "沧州职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/700.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "00f16db9fcec997e7375a02562199216",
+  "department_count": 15,
+  "special_count": 73,
+  "data": [
+    {
+      "department_name": "信息工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1681300"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1681148"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1681021"
+        },
+        {
+          "special_name": "移动互联应用技术",
+          "level": "专科",
+          "school_special_id": "34910"
+        }
+      ]
+    },
+    {
+      "department_name": "车辆工程系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "交通运营管理",
+          "level": "专科",
+          "school_special_id": "1860132"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "127048"
+        },
+        {
+          "special_name": "新能源汽车技术(无人驾驶方向)",
+          "level": "专科",
+          "school_special_id": "127048"
+        },
+        {
+          "special_name": "智能物流技术",
+          "level": "专科",
+          "school_special_id": "2037757"
+        },
+        {
+          "special_name": "汽车智能技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1682560"
+        },
+        {
+          "special_name": "港口机械与智能控制",
+          "level": "专科",
+          "school_special_id": "2157109"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1682531"
+        },
+        {
+          "special_name": "机械制造及自动化(编程与加工方向)",
+          "level": "专科",
+          "school_special_id": "1682531"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1682537"
+        },
+        {
+          "special_name": "电力系统自动化技术",
+          "level": "专科",
+          "school_special_id": "34875"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "34907"
+        },
+        {
+          "special_name": "电气自动化技术(KEBA机器人工程师方向)",
+          "level": "专科",
+          "school_special_id": "34907"
+        },
+        {
+          "special_name": "电气自动化技术(低空飞控方向)",
+          "level": "专科",
+          "school_special_id": "34907"
+        }
+      ]
+    },
+    {
+      "department_name": "化学与生物医药工程系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "农产品加工与检测",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "化妆品生产与经营",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "34913"
+        },
+        {
+          "special_name": "环境工程技术",
+          "level": "专科",
+          "school_special_id": "34879"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "34878"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1861064"
+        },
+        {
+          "special_name": "食品检验检测技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "传媒艺术系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "2162907"
+        },
+        {
+          "special_name": "动漫制作技术(平面设计与制作方向)",
+          "level": "专科",
+          "school_special_id": "1860139"
+        },
+        {
+          "special_name": "文化创意与策划",
+          "level": "专科",
+          "school_special_id": "127051"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "34886"
+        },
+        {
+          "special_name": "艺术设计(平面设计与制作方向)",
+          "level": "专科",
+          "school_special_id": "34886"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "34884"
+        }
+      ]
+    },
+    {
+      "department_name": "城乡建设工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工程测量技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "34877"
+        },
+        {
+          "special_name": "市政工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "34874"
+        },
+        {
+          "special_name": "建筑装饰工程技术",
+          "level": "专科",
+          "school_special_id": "34876"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "1792862"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1860140"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1681744"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "127047"
+        }
+      ]
+    },
+    {
+      "department_name": "经贸管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "34882"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1619605"
+        },
+        {
+          "special_name": "金融科技应用",
+          "level": "专科",
+          "school_special_id": "1681433"
+        }
+      ]
+    },
+    {
+      "department_name": "现代服务管理系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "34893"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "34892"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "34896"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2156576"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "34895"
+        }
+      ]
+    },
+    {
+      "department_name": "农牧工程系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "宠物养护与驯导",
+          "level": "专科",
+          "school_special_id": "34899"
+        },
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "棉花加工与经营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代农业技术(生物发酵方向)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "国际教育交流学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "127045"
+        },
+        {
+          "special_name": "商务英语(外贸方向)",
+          "level": "专科",
+          "school_special_id": "127045"
+        },
+        {
+          "special_name": "商务英语(英俄双语方向)",
+          "level": "专科",
+          "school_special_id": "127045"
+        }
+      ]
+    },
+    {
+      "department_name": "杂技艺术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "文化产业经营与管理",
+          "level": "专科",
+          "school_special_id": "1681714"
+        },
+        {
+          "special_name": "现代魔术设计与表演",
+          "level": "专科",
+          "school_special_id": "1860144"
+        },
+        {
+          "special_name": "舞台艺术设计与制作",
+          "level": "专科",
+          "school_special_id": "1034970"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "34884"
+        },
+        {
+          "special_name": "表演艺术(杂技方向)",
+          "level": "专科",
+          "school_special_id": "34884"
+        }
+      ]
+    },
+    {
+      "department_name": "武术学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "民族传统体育(武术方向)",
+          "level": "专科",
+          "school_special_id": "2160557"
+        },
+        {
+          "special_name": "表演艺术(武术方向)",
+          "level": "专科",
+          "school_special_id": "34884"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "2162908"
+        }
+      ]
+    },
+    {
+      "department_name": "服装学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "服装设计与工艺",
+          "level": "专科",
+          "school_special_id": "1034967"
+        },
+        {
+          "special_name": "艺术设计(服饰形象设计与营销方向)",
+          "level": "专科",
+          "school_special_id": "34886"
+        }
+      ]
+    },
+    {
+      "department_name": "华为ICT学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1681254"
+        },
+        {
+          "special_name": "工业软件开发技术",
+          "level": "专科",
+          "school_special_id": "2156575"
+        },
+        {
+          "special_name": "智能互联网络技术",
+          "level": "专科",
+          "school_special_id": "2037763"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "1792855"
+        }
+      ]
+    }
+  ]
+}

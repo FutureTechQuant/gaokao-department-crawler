@@ -1,0 +1,152 @@
+{
+  "update_time": "2026-04-27 16:40:54",
+  "school_id": "2188",
+  "school_name": "云南科技信息职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2188.json?a=www.gaokao.cn",
+  "time": "2026-03-13 15:36:06",
+  "md5": "43ae13758bd581c744a0da598bc154ef",
+  "department_count": 5,
+  "special_count": 22,
+  "data": [
+    {
+      "department_name": "数智学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "1728695"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "124935"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "124932"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "124933"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "124934"
+        }
+      ]
+    },
+    {
+      "department_name": "数字商旅学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1728699"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1728700"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1028097"
+        },
+        {
+          "special_name": "智慧旅游技术应用",
+          "level": "专科",
+          "school_special_id": "2158360"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1728701"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "2158359"
+        }
+      ]
+    },
+    {
+      "department_name": "交通学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2166529"
+        },
+        {
+          "special_name": "机场运行服务与管理",
+          "level": "专科",
+          "school_special_id": "2011256"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "2011255"
+        }
+      ]
+    },
+    {
+      "department_name": "设计与工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "园林工程技术",
+          "level": "专科",
+          "school_special_id": "124929"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "124930"
+        },
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "124944"
+        },
+        {
+          "special_name": "建筑消防技术",
+          "level": "专科",
+          "school_special_id": "2158362"
+        },
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "124943"
+        }
+      ]
+    },
+    {
+      "department_name": "医药学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "124946"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": "124928"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "2011257"
+        }
+      ]
+    }
+  ]
+}

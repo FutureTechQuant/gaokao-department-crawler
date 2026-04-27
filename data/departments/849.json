@@ -1,0 +1,128 @@
+{
+  "update_time": "2026-04-27 16:27:29",
+  "school_id": "849",
+  "school_name": "天津工艺美术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/849.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:59",
+  "md5": "8a75881f488dd05446fa69f35104f04f",
+  "department_count": 6,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "工业设计系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "1028991"
+        },
+        {
+          "special_name": "展示艺术设计",
+          "level": "专科",
+          "school_special_id": "1028992"
+        }
+      ]
+    },
+    {
+      "department_name": "数字媒体艺术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "影视动画",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "影视多媒体技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "摄影与摄像艺术",
+          "level": "专科",
+          "school_special_id": "1784829"
+        },
+        {
+          "special_name": "游戏设计",
+          "level": "专科",
+          "school_special_id": "1028994"
+        }
+      ]
+    },
+    {
+      "department_name": "环境艺术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "建筑室内设计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "环境艺术设计(景观设计)",
+          "level": "专科",
+          "school_special_id": "1030489"
+        }
+      ]
+    },
+    {
+      "department_name": "服装装饰系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "1028998"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "专科",
+          "school_special_id": "1030488"
+        },
+        {
+          "special_name": "环境艺术设计(装饰艺术)",
+          "level": "专科",
+          "school_special_id": "1030489"
+        }
+      ]
+    },
+    {
+      "department_name": "商业美术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "包装艺术设计",
+          "level": "专科",
+          "school_special_id": "1029001"
+        },
+        {
+          "special_name": "广告设计与制作",
+          "level": "专科",
+          "school_special_id": "1029000"
+        },
+        {
+          "special_name": "视觉传播设计与制作",
+          "level": "专科",
+          "school_special_id": "1028999"
+        }
+      ]
+    },
+    {
+      "department_name": "综合绘画系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "书画艺术(绘画)",
+          "level": "专科",
+          "school_special_id": "2156294"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1029002"
+        }
+      ]
+    }
+  ]
+}

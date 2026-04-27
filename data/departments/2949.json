@@ -1,0 +1,90 @@
+{
+  "update_time": "2026-04-27 16:47:13",
+  "school_id": "2949",
+  "school_name": "湖北体育职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2949.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "bde82e45bb748a9552b710423081d59e",
+  "department_count": 3,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "体育教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1702973"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "86185"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "1459876"
+        },
+        {
+          "special_name": "冰雪运动与管理",
+          "level": "专科",
+          "school_special_id": "2151786"
+        }
+      ]
+    },
+    {
+      "department_name": "运动训练系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体育艺术表演",
+          "level": "专科",
+          "school_special_id": "1702981"
+        },
+        {
+          "special_name": "电子竞技运动与管理",
+          "level": "专科",
+          "school_special_id": "1702980"
+        },
+        {
+          "special_name": "网络直播与运营",
+          "level": "专科",
+          "school_special_id": "1947084"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "86184"
+        }
+      ]
+    },
+    {
+      "department_name": "社会体育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "1702975"
+        },
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "86187"
+        },
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "2159716"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "86186"
+        }
+      ]
+    }
+  ]
+}

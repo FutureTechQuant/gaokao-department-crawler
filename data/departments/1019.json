@@ -1,0 +1,167 @@
+{
+  "update_time": "2026-04-27 16:29:16",
+  "school_id": "1019",
+  "school_name": "武汉警官职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1019.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "62ba296bad3214a3b34d9d6b430df824",
+  "department_count": 5,
+  "special_count": 25,
+  "data": [
+    {
+      "department_name": "警察管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "刑事侦查技术",
+          "level": "专科",
+          "school_special_id": "276293"
+        },
+        {
+          "special_name": "刑事执行",
+          "level": "专科",
+          "school_special_id": "137156"
+        }
+      ]
+    },
+    {
+      "department_name": "司法管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "司法警务",
+          "level": "专科",
+          "school_special_id": "1230507"
+        },
+        {
+          "special_name": "法律事务",
+          "level": "专科",
+          "school_special_id": "137155"
+        },
+        {
+          "special_name": "法律文秘",
+          "level": "专科",
+          "school_special_id": "137154"
+        }
+      ]
+    },
+    {
+      "department_name": "司法侦查系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "司法鉴定技术",
+          "level": "专科",
+          "school_special_id": "137157"
+        },
+        {
+          "special_name": "心理咨询",
+          "level": "专科",
+          "school_special_id": "137152"
+        },
+        {
+          "special_name": "摄影摄像技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "罪犯心理测量与矫正技术",
+          "level": "专科",
+          "school_special_id": "791686"
+        },
+        {
+          "special_name": "行政执行",
+          "level": "专科",
+          "school_special_id": "185563"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "区块链技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "司法信息技术",
+          "level": "专科",
+          "school_special_id": "137159"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1510910"
+        },
+        {
+          "special_name": "应急救援技术",
+          "level": "专科",
+          "school_special_id": "1510909"
+        },
+        {
+          "special_name": "建筑消防技术",
+          "level": "专科",
+          "school_special_id": "1532479"
+        },
+        {
+          "special_name": "消防救援技术",
+          "level": "专科",
+          "school_special_id": "1472514"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "137150"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "137151"
+        }
+      ]
+    },
+    {
+      "department_name": "公共管理系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1532473"
+        },
+        {
+          "special_name": "司法信息安全",
+          "level": "专科",
+          "school_special_id": "137160"
+        },
+        {
+          "special_name": "安全防范技术",
+          "level": "专科",
+          "school_special_id": "137158"
+        },
+        {
+          "special_name": "智能安防运营管理",
+          "level": "专科",
+          "school_special_id": "1472515"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "137161"
+        },
+        {
+          "special_name": "现代移动通讯技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "137149"
+        }
+      ]
+    }
+  ]
+}

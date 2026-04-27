@@ -1,0 +1,136 @@
+{
+  "update_time": "2026-04-27 16:49:01",
+  "school_id": "3251",
+  "school_name": "深圳北理莫斯科大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3251.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:48",
+  "md5": "704cc51a28a38b25c9848034d4dfda9c",
+  "department_count": 9,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "计算数学与控制系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "信息与计算科学",
+          "level": "本科",
+          "school_special_id": "2160162"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "88597"
+        }
+      ]
+    },
+    {
+      "department_name": "材料科学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "88596"
+        }
+      ]
+    },
+    {
+      "department_name": "工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "智能感知工程",
+          "level": "本科",
+          "school_special_id": "2013187"
+        },
+        {
+          "special_name": "电子与计算机工程",
+          "level": "本科",
+          "school_special_id": "1437297"
+        }
+      ]
+    },
+    {
+      "department_name": "经济系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "88598"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "1029786"
+        },
+        {
+          "special_name": "金融科技",
+          "level": "本科",
+          "school_special_id": "2013186"
+        }
+      ]
+    },
+    {
+      "department_name": "语言系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "170285"
+        }
+      ]
+    },
+    {
+      "department_name": "生物系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "生物科学(俄语)",
+          "level": "本科",
+          "school_special_id": "168928"
+        },
+        {
+          "special_name": "生物科学(英语)",
+          "level": "本科",
+          "school_special_id": "168928"
+        }
+      ]
+    },
+    {
+      "department_name": "化学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "2013188"
+        }
+      ]
+    },
+    {
+      "department_name": "物理数学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "数理基础科学",
+          "level": "本科",
+          "school_special_id": "2160164"
+        }
+      ]
+    },
+    {
+      "department_name": "管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "管理科学",
+          "level": "本科",
+          "school_special_id": "2160163"
+        }
+      ]
+    }
+  ]
+}

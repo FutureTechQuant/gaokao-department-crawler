@@ -1,0 +1,185 @@
+{
+  "update_time": "2026-04-27 16:34:50",
+  "school_id": "1662",
+  "school_name": "忻州职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1662.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "5d706d9ffd674fc2d53143ad5a0bac6f",
+  "department_count": 8,
+  "special_count": 25,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "59913"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "59912"
+        },
+        {
+          "special_name": "智慧健康服务养老与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学系",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "611218"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1786492"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "59915"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "59914"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "59916"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "59918"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "59917"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1786493"
+        }
+      ]
+    },
+    {
+      "department_name": "财经系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1778000"
+        },
+        {
+          "special_name": "现代农业技术",
+          "level": "专科",
+          "school_special_id": "1777995"
+        }
+      ]
+    },
+    {
+      "department_name": "机电系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "2158949"
+        },
+        {
+          "special_name": "机械设计与制造",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1777996"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1777997"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1786494"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机应用系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1777999"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "59930"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1777998"
+        }
+      ]
+    },
+    {
+      "department_name": "应用美术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "59928"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1778002"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "59924"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "59923"
+        }
+      ]
+    }
+  ]
+}

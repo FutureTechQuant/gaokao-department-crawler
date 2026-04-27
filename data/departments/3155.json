@@ -1,0 +1,130 @@
+{
+  "update_time": "2026-04-27 16:48:24",
+  "school_id": "3155",
+  "school_name": "兰州科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3155.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "fe3baf4ba8a10502c24d53b690e9b680",
+  "department_count": 3,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "医学系",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "公共卫生管理",
+          "level": "专科",
+          "school_special_id": "1956573"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "138093"
+        },
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1567517"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1567516"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1778465"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "138096"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "138095"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "138092"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "138094"
+        }
+      ]
+    },
+    {
+      "department_name": "机电工程系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "138098"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "138085"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "焊接技术与自动化",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "家政服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "138090"
+        },
+        {
+          "special_name": "老年服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "138088"
+        },
+        {
+          "special_name": "连锁经营管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "138084"
+        }
+      ]
+    }
+  ]
+}

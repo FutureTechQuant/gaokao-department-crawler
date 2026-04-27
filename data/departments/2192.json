@@ -1,0 +1,150 @@
+{
+  "update_time": "2026-04-27 16:40:57",
+  "school_id": "2192",
+  "school_name": "黑龙江幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2192.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "a9f304395184bf81eee28969d7e66431",
+  "department_count": 8,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "73364"
+        }
+      ]
+    },
+    {
+      "department_name": "初等教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数学教育",
+          "level": "专科",
+          "school_special_id": "73350"
+        },
+        {
+          "special_name": "语文教育",
+          "level": "专科",
+          "school_special_id": "73363"
+        }
+      ]
+    },
+    {
+      "department_name": "外语系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "英语教育",
+          "level": "专科",
+          "school_special_id": "73348"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐舞蹈系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "学前教育(音乐舞蹈特长班)",
+          "level": "专科",
+          "school_special_id": "73364"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "73353"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "73362"
+        },
+        {
+          "special_name": "钢琴调律",
+          "level": "专科",
+          "school_special_id": "73361"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "73349"
+        }
+      ]
+    },
+    {
+      "department_name": "美术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "73351"
+        },
+        {
+          "special_name": "美术类(书法方向)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "73360"
+        }
+      ]
+    },
+    {
+      "department_name": "早期教育与特殊教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "73355"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "73354"
+        }
+      ]
+    },
+    {
+      "department_name": "信息与电化教育系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "幼儿发展与健康管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "体育部",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "1791684"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "73352"
+        }
+      ]
+    }
+  ]
+}

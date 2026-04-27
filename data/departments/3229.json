@@ -1,0 +1,141 @@
+{
+  "update_time": "2026-04-27 16:48:49",
+  "school_id": "3229",
+  "school_name": "铜仁幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3229.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "0314977bed72b23b619d47eab876fa82",
+  "department_count": 4,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1675957"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1675954"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "88310"
+        }
+      ]
+    },
+    {
+      "department_name": "初等教育系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "88312"
+        },
+        {
+          "special_name": "小学数学教育",
+          "level": "专科",
+          "school_special_id": "1675956"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1675958"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "2158061"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "2163064"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "88317"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "88318"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "1028001"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "88316"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2163065"
+        }
+      ]
+    },
+    {
+      "department_name": "体育与健康系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "2163066"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "2163067"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "88319"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "88320"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "2126854"
+        }
+      ]
+    }
+  ]
+}

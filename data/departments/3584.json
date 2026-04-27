@@ -1,0 +1,112 @@
+{
+  "update_time": "2026-04-27 16:52:14",
+  "school_id": "3584",
+  "school_name": "湖北孝感美珈职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3584.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "fc6b84b03f1e60dab2ef7b9fe5290699",
+  "department_count": 5,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "信息技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1676786"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1800200"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1800198"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2154992"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1800197"
+        }
+      ]
+    },
+    {
+      "department_name": "医事科技学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1800202"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1800201"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1676785"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2154993"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "2012297"
+        }
+      ]
+    },
+    {
+      "department_name": "国际商业学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1800203"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "2154994"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "1800206"
+        },
+        {
+          "special_name": "商务英语(双语幼师方向)",
+          "level": "专科",
+          "school_special_id": "1800206"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "update_time": "2026-04-27 16:38:52",
+  "school_id": "2010",
+  "school_name": "湘潭医卫职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2010.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "5dad40400998107e44b4faf77cbefa77",
+  "department_count": 4,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "临床学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1691764"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1359377"
+        },
+        {
+          "special_name": "口腔医学",
+          "level": "专科",
+          "school_special_id": "1691767"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "68564"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "68565"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1359376"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "68567"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "2159163"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1728763"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "2150095"
+        },
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1728765"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "68571"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1737394"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1737393"
+        }
+      ]
+    },
+    {
+      "department_name": "医疗设备与管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "68575"
+        },
+        {
+          "special_name": "医疗器械维护与管理",
+          "level": "专科",
+          "school_special_id": "68573"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "68576"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1790578"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "68577"
+        }
+      ]
+    }
+  ]
+}

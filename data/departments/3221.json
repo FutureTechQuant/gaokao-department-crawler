@@ -1,0 +1,126 @@
+{
+  "update_time": "2026-04-27 16:48:44",
+  "school_id": "3221",
+  "school_name": "内蒙古民族幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3221.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "a3adc7752456f5dcd4b1c45c92a6c97d",
+  "department_count": 4,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "学前教育系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1619976"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "88116"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "88110"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "专科",
+          "school_special_id": "88112"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐舞蹈系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "88118"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "88106"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "88113"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "88115"
+        }
+      ]
+    },
+    {
+      "department_name": "美术系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "88108"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1788007"
+        },
+        {
+          "special_name": "广告艺术设计",
+          "level": "专科",
+          "school_special_id": "1788006"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "88114"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "88111"
+        }
+      ]
+    },
+    {
+      "department_name": "基础教育部",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "2160901"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "88117"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1788002"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1619975"
+        },
+        {
+          "special_name": "运动健康指导",
+          "level": "专科",
+          "school_special_id": "2159520"
+        }
+      ]
+    }
+  ]
+}

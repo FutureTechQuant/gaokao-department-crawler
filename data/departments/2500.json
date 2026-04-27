@@ -1,0 +1,475 @@
+{
+  "update_time": "2026-04-27 16:44:24",
+  "school_id": "2500",
+  "school_name": "四川文化艺术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2500.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "74c7dc7472d3484587b5b6dabf41a2d9",
+  "department_count": 13,
+  "special_count": 77,
+  "data": [
+    {
+      "department_name": "音乐舞蹈学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "564731"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "564719"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "564709"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "本科",
+          "school_special_id": "80755"
+        }
+      ]
+    },
+    {
+      "department_name": "戏剧影视学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "录音艺术",
+          "level": "本科",
+          "school_special_id": "80776"
+        },
+        {
+          "special_name": "影视摄影与制作",
+          "level": "本科",
+          "school_special_id": "80771"
+        },
+        {
+          "special_name": "戏剧学",
+          "level": "本科",
+          "school_special_id": "80770"
+        },
+        {
+          "special_name": "戏剧影视文学",
+          "level": "本科",
+          "school_special_id": "80775"
+        },
+        {
+          "special_name": "戏剧影视美术设计(含化妆专业方向)",
+          "level": "本科",
+          "school_special_id": "564686"
+        },
+        {
+          "special_name": "表演(含服装表演方向)",
+          "level": "本科",
+          "school_special_id": "953742"
+        },
+        {
+          "special_name": "人物形象设计",
+          "level": "专科",
+          "school_special_id": "2156267"
+        },
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "80738"
+        }
+      ]
+    },
+    {
+      "department_name": "数字传媒学院",
+      "special_num": 13,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "564692"
+        },
+        {
+          "special_name": "广播电视工程",
+          "level": "本科",
+          "school_special_id": "80769"
+        },
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "564710"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "564684"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "80763"
+        },
+        {
+          "special_name": "艺术与科技",
+          "level": "本科",
+          "school_special_id": "564695"
+        },
+        {
+          "special_name": "影视动画",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "影视编导",
+          "level": "专科",
+          "school_special_id": "564738"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1860770"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "80746"
+        },
+        {
+          "special_name": "游戏艺术设计",
+          "level": "专科",
+          "school_special_id": "2156262"
+        },
+        {
+          "special_name": "虚拟现实技术应用",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "美术设计学院",
+      "special_num": 16,
+      "special": [
+        {
+          "special_name": "产品设计",
+          "level": "本科",
+          "school_special_id": "80747"
+        },
+        {
+          "special_name": "公共艺术",
+          "level": "本科",
+          "school_special_id": "2162677"
+        },
+        {
+          "special_name": "摄影",
+          "level": "本科",
+          "school_special_id": "80761"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "本科",
+          "school_special_id": "80737"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "80759"
+        },
+        {
+          "special_name": "绘画",
+          "level": "本科",
+          "school_special_id": "564733"
+        },
+        {
+          "special_name": "美术学",
+          "level": "本科",
+          "school_special_id": "80741"
+        },
+        {
+          "special_name": "艺术设计学",
+          "level": "本科",
+          "school_special_id": "80753"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "80762"
+        },
+        {
+          "special_name": "雕塑",
+          "level": "本科",
+          "school_special_id": "80743"
+        },
+        {
+          "special_name": "风景园林",
+          "level": "本科",
+          "school_special_id": "1130887"
+        },
+        {
+          "special_name": "家具艺术设计",
+          "level": "专科",
+          "school_special_id": "564735"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "1785353"
+        },
+        {
+          "special_name": "艺术设计(下设视觉传达设计方向、产品设计方向、环境设计方向和服装与服饰设计方向)",
+          "level": "专科",
+          "school_special_id": "564734"
+        },
+        {
+          "special_name": "视觉传播设计与制作",
+          "level": "专科",
+          "school_special_id": "2162676"
+        },
+        {
+          "special_name": "陶瓷设计与工艺",
+          "level": "专科",
+          "school_special_id": "80740"
+        }
+      ]
+    },
+    {
+      "department_name": "中国书法篆刻学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "书法学",
+          "level": "本科",
+          "school_special_id": "564693"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 14,
+      "special": [
+        {
+          "special_name": "会展经济与管理",
+          "level": "本科",
+          "school_special_id": "80779"
+        },
+        {
+          "special_name": "公共事业管理",
+          "level": "本科",
+          "school_special_id": "80783"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "157644"
+        },
+        {
+          "special_name": "文化产业管理",
+          "level": "本科",
+          "school_special_id": "80782"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "80780"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "1130885"
+        },
+        {
+          "special_name": "会展策划与管理",
+          "level": "专科",
+          "school_special_id": "80766"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "文化旅游学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "汉语国际教育",
+          "level": "本科",
+          "school_special_id": "80784"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "80785"
+        },
+        {
+          "special_name": "中文(汉语)",
+          "level": "专科",
+          "school_special_id": "1513911"
+        },
+        {
+          "special_name": "旅游英语",
+          "level": "专科",
+          "school_special_id": "80767"
+        },
+        {
+          "special_name": "现代文秘(文秘)",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "文物与博物馆学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "历史建筑保护工程",
+          "level": "本科",
+          "school_special_id": "1801528"
+        },
+        {
+          "special_name": "宝石及材料工艺学",
+          "level": "本科",
+          "school_special_id": "80781"
+        },
+        {
+          "special_name": "文物与博物馆学",
+          "level": "本科",
+          "school_special_id": "80744"
+        },
+        {
+          "special_name": "民族学",
+          "level": "本科",
+          "school_special_id": "170472"
+        },
+        {
+          "special_name": "古建筑工程技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "宝玉石鉴定与加工",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "心理与教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "1499894"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "本科",
+          "school_special_id": "1130886"
+        }
+      ]
+    },
+    {
+      "department_name": "大数据学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "827420"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "2012421"
+        },
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "1860772"
+        },
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "2039945"
+        },
+        {
+          "special_name": "民族传统体育",
+          "level": "专科",
+          "school_special_id": "2039944"
+        }
+      ]
+    },
+    {
+      "department_name": "国际交流学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "视觉传达设计(中外合作办学)",
+          "level": "本科",
+          "school_special_id": "80762"
+        }
+      ]
+    },
+    {
+      "department_name": "网易人工智能产业学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "动画",
+          "level": "本科",
+          "school_special_id": "564692"
+        },
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "80763"
+        }
+      ]
+    }
+  ]
+}

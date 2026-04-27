@@ -1,0 +1,161 @@
+{
+  "update_time": "2026-04-27 16:22:29",
+  "school_id": "380",
+  "school_name": "西安音乐学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/380.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "c78caf5334469d574a13093df66fbae7",
+  "department_count": 9,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "作曲系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论(作曲、指挥、视唱练耳 )",
+          "level": "本科",
+          "school_special_id": "2162532"
+        }
+      ]
+    },
+    {
+      "department_name": "人文学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "1037240"
+        }
+      ]
+    },
+    {
+      "department_name": "钢琴系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(钢琴、手风琴、管风琴)",
+          "level": "本科",
+          "school_special_id": "803420"
+        }
+      ]
+    },
+    {
+      "department_name": "管弦系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "音乐表演(弦乐(小提琴、中提琴、大提琴、低音提琴、古典吉他、竖琴)）",
+          "level": "本科",
+          "school_special_id": "803420"
+        },
+        {
+          "special_name": "音乐表演(打击乐）(西洋打击乐）",
+          "level": "本科",
+          "school_special_id": "803420"
+        },
+        {
+          "special_name": "音乐表演(木管(长笛、双簧管、单簧管、大管、萨克斯))",
+          "level": "本科",
+          "school_special_id": "803420"
+        },
+        {
+          "special_name": "音乐表演(铜管(小号、圆号、上低音号、长号、大号））",
+          "level": "本科",
+          "school_special_id": "803420"
+        }
+      ]
+    },
+    {
+      "department_name": "民乐系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "音乐表演(吹打）(竹笛、笙、唢呐、排箫、民族打击乐)）",
+          "level": "本科",
+          "school_special_id": "803420"
+        },
+        {
+          "special_name": "音乐表演(弹拨）(琵琶、扬琴、古筝、古琴、柳琴、三弦、阮)）",
+          "level": "本科",
+          "school_special_id": "803420"
+        },
+        {
+          "special_name": "音乐表演(拉弦）(二胡、板胡）",
+          "level": "本科",
+          "school_special_id": "803420"
+        }
+      ]
+    },
+    {
+      "department_name": "声乐系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演(声乐(美声、民族、陕北民歌演唱))",
+          "level": "本科",
+          "school_special_id": "803420"
+        }
+      ]
+    },
+    {
+      "department_name": "现代音乐学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "录音艺术",
+          "level": "本科",
+          "school_special_id": "2162533"
+        },
+        {
+          "special_name": "艺术与科技",
+          "level": "本科",
+          "school_special_id": "2162534"
+        },
+        {
+          "special_name": "音乐表演(流行器乐(双排键电子琴、流行键盘、流行萨克斯、电声吉他、电贝司、爵士鼓))",
+          "level": "本科",
+          "school_special_id": "803420"
+        },
+        {
+          "special_name": "音乐表演(流行演唱)",
+          "level": "本科",
+          "school_special_id": "803420"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐教育",
+          "level": "本科",
+          "school_special_id": "1801610"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "2162535"
+        },
+        {
+          "special_name": "舞蹈编导",
+          "level": "本科",
+          "school_special_id": "2162536"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "1037400"
+        }
+      ]
+    }
+  ]
+}

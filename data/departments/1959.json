@@ -1,0 +1,96 @@
+{
+  "update_time": "2026-04-27 16:38:15",
+  "school_id": "1959",
+  "school_name": "湖北财税职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1959.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "26a11455deb2c4b216dfefc709dee769",
+  "department_count": 4,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "会计系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1615192"
+        },
+        {
+          "special_name": "大数据与审计",
+          "level": "专科",
+          "school_special_id": "1702618"
+        },
+        {
+          "special_name": "财富管理",
+          "level": "专科",
+          "school_special_id": "1702617"
+        }
+      ]
+    },
+    {
+      "department_name": "财税系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "67272"
+        },
+        {
+          "special_name": "财税大数据应用",
+          "level": "专科",
+          "school_special_id": "1615511"
+        },
+        {
+          "special_name": "资产评估与管理",
+          "level": "专科",
+          "school_special_id": "67270"
+        }
+      ]
+    },
+    {
+      "department_name": "工商管理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "67274"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1660880"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "67276"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "67284"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "67281"
+        }
+      ]
+    }
+  ]
+}

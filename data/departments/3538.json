@@ -1,0 +1,98 @@
+{
+  "update_time": "2026-04-27 16:51:57",
+  "school_id": "3538",
+  "school_name": "榆林能源科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3538.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "7272ec78ec195dbd7eb674cf69b3a62c",
+  "department_count": 6,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "能源化工系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "化工自动化技术",
+          "level": "专科",
+          "school_special_id": "1378873"
+        },
+        {
+          "special_name": "煤化工技术",
+          "level": "专科",
+          "school_special_id": "1597499"
+        }
+      ]
+    },
+    {
+      "department_name": "智能工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "安全技术与管理",
+          "level": "专科",
+          "school_special_id": "1592462"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "1592463"
+        },
+        {
+          "special_name": "机电设备技术",
+          "level": "专科",
+          "school_special_id": "1597500"
+        }
+      ]
+    },
+    {
+      "department_name": "现代服务系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1597498"
+        },
+        {
+          "special_name": "高速铁路客运服务",
+          "level": "专科",
+          "school_special_id": "1597497"
+        }
+      ]
+    },
+    {
+      "department_name": "汽车工程系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术教育系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1860993"
+        }
+      ]
+    },
+    {
+      "department_name": "医学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1592465"
+        }
+      ]
+    }
+  ]
+}

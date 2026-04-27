@@ -1,0 +1,193 @@
+{
+  "update_time": "2026-04-27 16:41:43",
+  "school_id": "2259",
+  "school_name": "西安信息职业大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2259.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:52",
+  "md5": "61090d571604ddeaa93c2fb713fd407d",
+  "department_count": 6,
+  "special_count": 29,
+  "data": [
+    {
+      "department_name": "电子工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "光电信息工程技术",
+          "level": "职本",
+          "school_special_id": "2155458"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "职本",
+          "school_special_id": "2155456"
+        },
+        {
+          "special_name": "机械制造及自动化",
+          "level": "专科",
+          "school_special_id": "1734259"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "1751012"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "1751014"
+        }
+      ]
+    },
+    {
+      "department_name": "通信工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "现代通信工程",
+          "level": "职本",
+          "school_special_id": "2155468"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1714107"
+        },
+        {
+          "special_name": "通信工程设计与监理",
+          "level": "专科",
+          "school_special_id": "1682512"
+        },
+        {
+          "special_name": "通信系统运行管理",
+          "level": "专科",
+          "school_special_id": "1729925"
+        },
+        {
+          "special_name": "通信软件技术",
+          "level": "专科",
+          "school_special_id": "1714108"
+        }
+      ]
+    },
+    {
+      "department_name": "计算机工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "网络工程技术",
+          "level": "职本",
+          "school_special_id": "2155460"
+        },
+        {
+          "special_name": "计算机应用工程",
+          "level": "职本",
+          "school_special_id": "2155459"
+        },
+        {
+          "special_name": "虚拟现实技术应用",
+          "level": "专科",
+          "school_special_id": "1714103"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1714098"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1714099"
+        }
+      ]
+    },
+    {
+      "department_name": "软件学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "数字媒体技术",
+          "level": "职本",
+          "school_special_id": "2155462"
+        },
+        {
+          "special_name": "软件工程技术",
+          "level": "职本",
+          "school_special_id": "2155461"
+        },
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "1712151"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "1729929"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1751015"
+        }
+      ]
+    },
+    {
+      "department_name": "经济管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "电子商务",
+          "level": "职本",
+          "school_special_id": "2155471"
+        },
+        {
+          "special_name": "金融科技应用",
+          "level": "职本",
+          "school_special_id": "2155470"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1712155"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1712154"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1746741"
+        },
+        {
+          "special_name": "金融科技应用",
+          "level": "专科",
+          "school_special_id": "1729926"
+        }
+      ]
+    },
+    {
+      "department_name": "交通工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "城市轨道交通工程技术",
+          "level": "专科",
+          "school_special_id": "1714091"
+        },
+        {
+          "special_name": "城市轨道交通机电技术",
+          "level": "专科",
+          "school_special_id": "1714092"
+        },
+        {
+          "special_name": "城市轨道交通运营管理",
+          "level": "专科",
+          "school_special_id": "1746739"
+        }
+      ]
+    }
+  ]
+}

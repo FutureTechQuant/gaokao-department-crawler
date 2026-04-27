@@ -1,0 +1,76 @@
+{
+  "update_time": "2026-04-27 16:37:44",
+  "school_id": "1916",
+  "school_name": "西藏警官高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1916.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:04",
+  "md5": "b0e92cc62e2c1bad94e5d0713a6915f0",
+  "department_count": 4,
+  "special_count": 8,
+  "data": [
+    {
+      "department_name": "侦查系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "刑事侦查",
+          "level": "专科",
+          "school_special_id": "1969235"
+        },
+        {
+          "special_name": "经济犯罪侦查",
+          "level": "专科",
+          "school_special_id": "1969246"
+        }
+      ]
+    },
+    {
+      "department_name": "治安管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "政治安全保卫",
+          "level": "专科",
+          "school_special_id": "1777506"
+        },
+        {
+          "special_name": "治安管理",
+          "level": "专科",
+          "school_special_id": "1675020"
+        },
+        {
+          "special_name": "网络安全与执法",
+          "level": "专科",
+          "school_special_id": "1675019"
+        }
+      ]
+    },
+    {
+      "department_name": "警察管理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "警察管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "道路交通管理",
+          "level": "专科",
+          "school_special_id": "1969245"
+        }
+      ]
+    },
+    {
+      "department_name": "法律系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "刑事科学技术",
+          "level": "专科",
+          "school_special_id": "1675018"
+        }
+      ]
+    }
+  ]
+}

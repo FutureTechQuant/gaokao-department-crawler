@@ -1,0 +1,149 @@
+{
+  "update_time": "2026-04-27 16:51:24",
+  "school_id": "3495",
+  "school_name": "邯郸科技职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3495.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "0ff1c4156fdd6fd53f0475ff4271e705",
+  "department_count": 7,
+  "special_count": 19,
+  "data": [
+    {
+      "department_name": "计算机系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1429352"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "1682308"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1682321"
+        }
+      ]
+    },
+    {
+      "department_name": "农牧系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "园林技术",
+          "level": "专科",
+          "school_special_id": "1429358"
+        },
+        {
+          "special_name": "畜牧兽医",
+          "level": "专科",
+          "school_special_id": "1429359"
+        },
+        {
+          "special_name": "酿酒技术",
+          "level": "专科",
+          "school_special_id": "1429357"
+        }
+      ]
+    },
+    {
+      "department_name": "材料系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "材料工程技术",
+          "level": "专科",
+          "school_special_id": "1429353"
+        },
+        {
+          "special_name": "环境监测技术",
+          "level": "专科",
+          "school_special_id": "1679340"
+        },
+        {
+          "special_name": "药物制剂技术",
+          "level": "专科",
+          "school_special_id": "1682251"
+        }
+      ]
+    },
+    {
+      "department_name": "财经系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "会计信息管理",
+          "level": "专科",
+          "school_special_id": "1429355"
+        },
+        {
+          "special_name": "金融服务与管理(理财方向)",
+          "level": "专科",
+          "school_special_id": "1860272"
+        }
+      ]
+    },
+    {
+      "department_name": "管理系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "商务管理(客户服务、商务筹划方向、企业订单培养)",
+          "level": "专科",
+          "school_special_id": "1680198"
+        },
+        {
+          "special_name": "电子商务(网站(网店)运营网络直播方向)",
+          "level": "专科",
+          "school_special_id": "1680340"
+        },
+        {
+          "special_name": "连锁经营与管理(连锁企业管理方向)",
+          "level": "专科",
+          "school_special_id": "1861103"
+        }
+      ]
+    },
+    {
+      "department_name": "医药卫生系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "1860271"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1860270"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1429356"
+        }
+      ]
+    },
+    {
+      "department_name": "电子信息系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "1682212"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1682271"
+        }
+      ]
+    }
+  ]
+}

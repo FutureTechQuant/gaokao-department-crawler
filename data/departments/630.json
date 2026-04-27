@@ -1,0 +1,260 @@
+{
+  "update_time": "2026-04-27 16:25:17",
+  "school_id": "630",
+  "school_name": "广东文艺职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/630.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "f943d122c525d7beae8581e67f247708",
+  "department_count": 8,
+  "special_count": 40,
+  "data": [
+    {
+      "department_name": "设计与工艺美术学院",
+      "special_num": 9,
+      "special": [
+        {
+          "special_name": "产品艺术设计",
+          "level": "专科",
+          "school_special_id": "1033258"
+        },
+        {
+          "special_name": "展示设计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工艺美术品设计",
+          "level": "专科",
+          "school_special_id": "33005"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "33013"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "专科",
+          "school_special_id": "33014"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "33003"
+        },
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "1794590"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1794589"
+        },
+        {
+          "special_name": "陶瓷设计与工艺",
+          "level": "专科",
+          "school_special_id": "33009"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐与舞蹈学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "现代流行音乐",
+          "level": "专科",
+          "school_special_id": "33008"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "1795107"
+        },
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "33015"
+        },
+        {
+          "special_name": "钢琴调律",
+          "level": "专科",
+          "school_special_id": "33021"
+        },
+        {
+          "special_name": "音乐传播",
+          "level": "专科",
+          "school_special_id": "33007"
+        },
+        {
+          "special_name": "音乐制作",
+          "level": "专科",
+          "school_special_id": "1021281"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "1794591"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "33006"
+        }
+      ]
+    },
+    {
+      "department_name": "影视与动漫学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "传播与策划",
+          "level": "专科",
+          "school_special_id": "33019"
+        },
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "33011"
+        },
+        {
+          "special_name": "影视编导",
+          "level": "专科",
+          "school_special_id": "33017"
+        },
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "1021280"
+        },
+        {
+          "special_name": "播音与主持",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "游戏艺术设计",
+          "level": "专科",
+          "school_special_id": "1794592"
+        }
+      ]
+    },
+    {
+      "department_name": "酒店管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际邮轮乘务管理",
+          "level": "专科",
+          "school_special_id": "1794576"
+        },
+        {
+          "special_name": "现代物业管理",
+          "level": "专科",
+          "school_special_id": "1794577"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1794575"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1794574"
+        }
+      ]
+    },
+    {
+      "department_name": "旅游管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "1794579"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "1794587"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1794578"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "1794588"
+        }
+      ]
+    },
+    {
+      "department_name": "烹饪与营养学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中西面点工艺",
+          "level": "专科",
+          "school_special_id": "1794582"
+        },
+        {
+          "special_name": "烹饪工艺与营养",
+          "level": "专科",
+          "school_special_id": "1794580"
+        },
+        {
+          "special_name": "营养配餐",
+          "level": "专科",
+          "school_special_id": "1794581"
+        },
+        {
+          "special_name": "西式烹饪工艺",
+          "level": "专科",
+          "school_special_id": "1794583"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "2057100"
+        }
+      ]
+    },
+    {
+      "department_name": "财贸与外语学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "商务日语",
+          "level": "专科",
+          "school_special_id": "1866196"
+        },
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "1794585"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1794573"
+        },
+        {
+          "special_name": "旅游英语",
+          "level": "专科",
+          "school_special_id": "1794584"
+        }
+      ]
+    }
+  ]
+}

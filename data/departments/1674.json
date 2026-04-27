@@ -1,0 +1,256 @@
+{
+  "update_time": "2026-04-27 16:34:58",
+  "school_id": "1674",
+  "school_name": "铁岭师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1674.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "67055159f5b6fe86b1a7639058165d90",
+  "department_count": 9,
+  "special_count": 38,
+  "data": [
+    {
+      "department_name": "工学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "60257"
+        },
+        {
+          "special_name": "机械制造及其自动化",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1672861"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1597750"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "1741411"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "保险",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "60242"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1671562"
+        },
+        {
+          "special_name": "社区管理与服务",
+          "level": "专科",
+          "school_special_id": "1712394"
+        }
+      ]
+    },
+    {
+      "department_name": "文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1782115"
+        },
+        {
+          "special_name": "现代文秘",
+          "level": "专科",
+          "school_special_id": "1671565"
+        },
+        {
+          "special_name": "艺术教育",
+          "level": "专科",
+          "school_special_id": "134384"
+        }
+      ]
+    },
+    {
+      "department_name": "理学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1671581"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1672868"
+        },
+        {
+          "special_name": "小学数学教育",
+          "level": "专科",
+          "school_special_id": "1782501"
+        },
+        {
+          "special_name": "小学科学教育",
+          "level": "专科",
+          "school_special_id": "1788126"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1672867"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1672864"
+        }
+      ]
+    },
+    {
+      "department_name": "师范学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "小学教育(三年制)",
+          "level": "专科",
+          "school_special_id": "60237"
+        },
+        {
+          "special_name": "小学教育(五年制)",
+          "level": "专科",
+          "school_special_id": "60237"
+        }
+      ]
+    },
+    {
+      "department_name": "外语学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "1671567"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1782116"
+        },
+        {
+          "special_name": "应用日语",
+          "level": "专科",
+          "school_special_id": "60266"
+        },
+        {
+          "special_name": "应用韩语",
+          "level": "专科",
+          "school_special_id": "60263"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "251100"
+        },
+        {
+          "special_name": "旅游英语",
+          "level": "专科",
+          "school_special_id": "60262"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "60261"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "动漫制作技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "美术教育(师范类)",
+          "level": "专科",
+          "school_special_id": "134379"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "786953"
+        },
+        {
+          "special_name": "音乐教育(师范类)",
+          "level": "专科",
+          "school_special_id": "134378"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "60267"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1459771"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1026796"
+        },
+        {
+          "special_name": "体育服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "1026797"
+        }
+      ]
+    }
+  ]
+}

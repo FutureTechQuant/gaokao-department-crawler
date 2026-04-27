@@ -1,0 +1,120 @@
+{
+  "update_time": "2026-04-27 16:38:52",
+  "school_id": "2009",
+  "school_name": "湖南邮电职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2009.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "8873584fb39abf739d1ed94dfb256a8a",
+  "department_count": 3,
+  "special_count": 18,
+  "data": [
+    {
+      "department_name": "信息通信学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1691712"
+        },
+        {
+          "special_name": "现代移动通信技术（5G移动方向）",
+          "level": "专科",
+          "school_special_id": "1691712"
+        },
+        {
+          "special_name": "现代通信技术",
+          "level": "专科",
+          "school_special_id": "1619801"
+        },
+        {
+          "special_name": "现代通信技术（光网技术）",
+          "level": "专科",
+          "school_special_id": "1619801"
+        },
+        {
+          "special_name": "网络规划与优化技术",
+          "level": "专科",
+          "school_special_id": "1472474"
+        },
+        {
+          "special_name": "通信工程设计与监理",
+          "level": "专科",
+          "school_special_id": "68547"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1691702"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1691701"
+        },
+        {
+          "special_name": "智能互联网络技术",
+          "level": "专科",
+          "school_special_id": "1691714"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "68557"
+        },
+        {
+          "special_name": "移动互联应用技术",
+          "level": "专科",
+          "school_special_id": "68553"
+        },
+        {
+          "special_name": "移动互联应用技术（网络安全方向）",
+          "level": "专科",
+          "school_special_id": "68553"
+        },
+        {
+          "special_name": "移动应用开发",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "现代邮政学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1691698"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "68558"
+        },
+        {
+          "special_name": "电信服务与管理",
+          "level": "专科",
+          "school_special_id": "350755"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "68557"
+        },
+        {
+          "special_name": "邮政快递运营管理",
+          "level": "专科",
+          "school_special_id": "1679092"
+        }
+      ]
+    }
+  ]
+}

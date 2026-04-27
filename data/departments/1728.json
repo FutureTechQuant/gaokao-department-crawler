@@ -1,0 +1,142 @@
+{
+  "update_time": "2026-04-27 16:35:31",
+  "school_id": "1728",
+  "school_name": "广西体育高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1728.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "5d3f1e38b593bf95e235cd10b6e044ed",
+  "department_count": 5,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "体育师范学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "780359"
+        },
+        {
+          "special_name": "体育艺术表演",
+          "level": "专科",
+          "school_special_id": "2161543"
+        },
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "1278474"
+        }
+      ]
+    },
+    {
+      "department_name": "体育运动学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "1472715"
+        },
+        {
+          "special_name": "民族传统体育",
+          "level": "专科",
+          "school_special_id": "61517"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "61516"
+        },
+        {
+          "special_name": "运动防护",
+          "level": "专科",
+          "school_special_id": "130350"
+        }
+      ]
+    },
+    {
+      "department_name": "运动健康学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "61521"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "1278473"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "61523"
+        },
+        {
+          "special_name": "运动健康指导",
+          "level": "专科",
+          "school_special_id": "1472714"
+        },
+        {
+          "special_name": "食品营养与健康",
+          "level": "专科",
+          "school_special_id": "2095571"
+        }
+      ]
+    },
+    {
+      "department_name": "体育管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "1362749"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "61527"
+        },
+        {
+          "special_name": "新闻采编与制作",
+          "level": "专科",
+          "school_special_id": "61529"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "1799567"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "61524"
+        }
+      ]
+    },
+    {
+      "department_name": "体育建筑学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "工程监理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "工程造价",
+          "level": "专科",
+          "school_special_id": "61522"
+        },
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "61515"
+        }
+      ]
+    }
+  ]
+}

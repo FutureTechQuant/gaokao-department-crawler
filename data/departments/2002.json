@@ -1,0 +1,102 @@
+{
+  "update_time": "2026-04-27 16:38:46",
+  "school_id": "2002",
+  "school_name": "湖南体育职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2002.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:56",
+  "md5": "6c855bca3bfb4a1a41a8e96a90cc4893",
+  "department_count": 5,
+  "special_count": 12,
+  "data": [
+    {
+      "department_name": "体育教育与运动训练学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "798485"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "68426"
+        }
+      ]
+    },
+    {
+      "department_name": "体育休闲与艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "国际标准舞",
+          "level": "专科",
+          "school_special_id": "68423"
+        },
+        {
+          "special_name": "民族传统体育",
+          "level": "专科",
+          "school_special_id": "68425"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "68424"
+        },
+        {
+          "special_name": "高尔夫球运动与管理",
+          "level": "专科",
+          "school_special_id": "68429"
+        }
+      ]
+    },
+    {
+      "department_name": "体育健身与健康促进学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "68428"
+        },
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "1472473"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "68419"
+        }
+      ]
+    },
+    {
+      "department_name": "数字体育与体育产业学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "68427"
+        },
+        {
+          "special_name": "电子竞技运动与管理",
+          "level": "专科",
+          "school_special_id": "68420"
+        }
+      ]
+    },
+    {
+      "department_name": "军士教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "运动训练(定向军土生)",
+          "level": "专科",
+          "school_special_id": "68426"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "update_time": "2026-04-27 16:28:05",
+  "school_id": "911",
+  "school_name": "北京戏曲艺术职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/911.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:02",
+  "md5": "6b50ee427a6b09d3ae803b024d3ecdd2",
+  "department_count": 7,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "京剧系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "戏曲表演",
+          "level": "专科",
+          "school_special_id": "803657"
+        },
+        {
+          "special_name": "戏曲音乐",
+          "level": "专科",
+          "school_special_id": "1472855"
+        }
+      ]
+    },
+    {
+      "department_name": "地方戏曲系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "戏曲表演",
+          "level": "专科",
+          "school_special_id": "803657"
+        }
+      ]
+    },
+    {
+      "department_name": "曲艺系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "曲艺表演",
+          "level": "专科",
+          "school_special_id": "2160671"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "音乐表演",
+          "level": "专科",
+          "school_special_id": "2161813"
+        }
+      ]
+    },
+    {
+      "department_name": "舞蹈系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "专科",
+          "school_special_id": "2161814"
+        }
+      ]
+    },
+    {
+      "department_name": "戏剧影视表演系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "戏剧影视表演",
+          "level": "专科",
+          "school_special_id": "1030469"
+        }
+      ]
+    },
+    {
+      "department_name": "舞美系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "戏曲表演",
+          "level": "专科",
+          "school_special_id": "803657"
+        },
+        {
+          "special_name": "舞台艺术设计与制作",
+          "level": "专科",
+          "school_special_id": "2156324"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "update_time": "2026-04-27 16:48:55",
+  "school_id": "3237",
+  "school_name": "广东茂名健康职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3237.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:05",
+  "md5": "cdfb4f385a6ece1ab30ebd88216d0b6e",
+  "department_count": 5,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "88439"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1693243"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "88443"
+        },
+        {
+          "special_name": "中药材生产与加工",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1694025"
+        },
+        {
+          "special_name": "食品质量与安全",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "88444"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "卫生信息管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "健康管理与促进系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "健康管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学营养",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "88445"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "临床医学系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中医学",
+          "level": "专科",
+          "school_special_id": "1795096"
+        },
+        {
+          "special_name": "临床医学",
+          "level": "专科",
+          "school_special_id": "1230196"
+        },
+        {
+          "special_name": "针灸推拿",
+          "level": "专科",
+          "school_special_id": "1230197"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1866343"
+        }
+      ]
+    }
+  ]
+}

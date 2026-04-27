@@ -1,0 +1,311 @@
+{
+  "update_time": "2026-04-27 16:32:35",
+  "school_id": "1404",
+  "school_name": "海南经贸职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1404.json?a=www.gaokao.cn",
+  "time": "2025-06-25 20:59:45",
+  "md5": "19de53e8fb63bf64558e1c818bd10500",
+  "department_count": 9,
+  "special_count": 49,
+  "data": [
+    {
+      "department_name": "财务管理学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "国际金融",
+          "level": "专科",
+          "school_special_id": "1471901"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1471898"
+        },
+        {
+          "special_name": "大数据与会计(国际班)",
+          "level": "专科",
+          "school_special_id": "1471898"
+        },
+        {
+          "special_name": "大数据与审计(注册会计师)",
+          "level": "专科",
+          "school_special_id": "1866223"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1471897"
+        },
+        {
+          "special_name": "财富管理(公司金融与投资管理)",
+          "level": "专科",
+          "school_special_id": "1866222"
+        },
+        {
+          "special_name": "财税大数据应用(税务会计)",
+          "level": "专科",
+          "school_special_id": "1866221"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "1471895"
+        }
+      ]
+    },
+    {
+      "department_name": "国际贸易学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "关务与外贸服务",
+          "level": "专科",
+          "school_special_id": "1471902"
+        },
+        {
+          "special_name": "商务管理",
+          "level": "专科",
+          "school_special_id": "54274"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "54282"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1471903"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "54265"
+        },
+        {
+          "special_name": "连锁经营与管理",
+          "level": "专科",
+          "school_special_id": "1510982"
+        }
+      ]
+    },
+    {
+      "department_name": "信息技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1471907"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1471905"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "54257"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2156058"
+        }
+      ]
+    },
+    {
+      "department_name": "国际旅游学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "中西面点工艺",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "128686"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "54275"
+        },
+        {
+          "special_name": "烹饪工艺与营养",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "网络营销与直播电商",
+          "level": "专科",
+          "school_special_id": "1866225"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": 0
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "54259"
+        },
+        {
+          "special_name": "应用俄语",
+          "level": "专科",
+          "school_special_id": "54270"
+        },
+        {
+          "special_name": "应用日语",
+          "level": "专科",
+          "school_special_id": "54258"
+        },
+        {
+          "special_name": "应用韩语",
+          "level": "专科",
+          "school_special_id": "54266"
+        },
+        {
+          "special_name": "旅游英语",
+          "level": "专科",
+          "school_special_id": "1471909"
+        }
+      ]
+    },
+    {
+      "department_name": "人文艺术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "文化创意与策划",
+          "level": "专科",
+          "school_special_id": "2013323"
+        },
+        {
+          "special_name": "服装与服饰设计",
+          "level": "专科",
+          "school_special_id": "54284"
+        },
+        {
+          "special_name": "服装与服饰设计(时尚设计方向)",
+          "level": "专科",
+          "school_special_id": "54284"
+        },
+        {
+          "special_name": "环境艺术设计",
+          "level": "专科",
+          "school_special_id": "54285"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "54283"
+        },
+        {
+          "special_name": "融媒体技术与运营",
+          "level": "专科",
+          "school_special_id": "2156104"
+        }
+      ]
+    },
+    {
+      "department_name": "机电与汽车工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "350462"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "54262"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "汽车检测与维修技术(中德诺浩方向)",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "乌拉尔学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "54275"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "54262"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2156058"
+        }
+      ]
+    },
+    {
+      "department_name": "体育与健康学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "54287"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "2107821"
+        }
+      ]
+    }
+  ]
+}

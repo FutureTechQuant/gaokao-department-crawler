@@ -1,0 +1,89 @@
+{
+  "update_time": "2026-04-27 16:47:38",
+  "school_id": "3042",
+  "school_name": "北京警察学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3042.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:50",
+  "md5": "c81b392fd4c4ceb8e548c4a2d2f3058d",
+  "department_count": 7,
+  "special_count": 7,
+  "data": [
+    {
+      "department_name": "治安系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "治安学",
+          "level": "本科",
+          "school_special_id": "86448"
+        }
+      ]
+    },
+    {
+      "department_name": "侦查系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "侦查学",
+          "level": "本科",
+          "school_special_id": "86452"
+        }
+      ]
+    },
+    {
+      "department_name": "刑事科学技术系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "刑事科学技术",
+          "level": "本科",
+          "school_special_id": "86451"
+        }
+      ]
+    },
+    {
+      "department_name": "涉外警务系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "涉外警务",
+          "level": "本科",
+          "school_special_id": "86449"
+        }
+      ]
+    },
+    {
+      "department_name": "公安管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "公安管理学",
+          "level": "本科",
+          "school_special_id": "86444"
+        }
+      ]
+    },
+    {
+      "department_name": "道路交通管理系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "交通管理工程",
+          "level": "本科",
+          "school_special_id": "86450"
+        }
+      ]
+    },
+    {
+      "department_name": "网络安全保卫系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "网络安全与执法",
+          "level": "本科",
+          "school_special_id": "86443"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,266 @@
+{
+  "update_time": "2026-04-27 16:49:19",
+  "school_id": "3282",
+  "school_name": "闽江师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3282.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:03",
+  "md5": "5dab120b35748615d3a56a3ee22e22d1",
+  "department_count": 9,
+  "special_count": 40,
+  "data": [
+    {
+      "department_name": "小学教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "小学教育",
+          "level": "专科",
+          "school_special_id": "141867"
+        },
+        {
+          "special_name": "小学数学教育",
+          "level": "专科",
+          "school_special_id": "1755203"
+        },
+        {
+          "special_name": "小学语文教育",
+          "level": "专科",
+          "school_special_id": "1754845"
+        },
+        {
+          "special_name": "研学旅行管理与服务",
+          "level": "专科",
+          "school_special_id": "2158981"
+        }
+      ]
+    },
+    {
+      "department_name": "人文与管理学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "导游",
+          "level": "专科",
+          "school_special_id": "1730822"
+        },
+        {
+          "special_name": "心理健康教育",
+          "level": "专科",
+          "school_special_id": "1998807"
+        },
+        {
+          "special_name": "心理咨询",
+          "level": "专科",
+          "school_special_id": "1697094"
+        },
+        {
+          "special_name": "社会工作",
+          "level": "专科",
+          "school_special_id": "88906"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "专科",
+          "school_special_id": "88904"
+        }
+      ]
+    },
+    {
+      "department_name": "外语商贸学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "商务英语",
+          "level": "专科",
+          "school_special_id": "2156767"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "专科",
+          "school_special_id": "1712532"
+        },
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1679437"
+        },
+        {
+          "special_name": "应用外语(马来语、柬埔寨语)",
+          "level": "专科",
+          "school_special_id": "139870"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "专科",
+          "school_special_id": "1697090"
+        }
+      ]
+    },
+    {
+      "department_name": "数字信息工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1699094"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1755202"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1796013"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "139883"
+        },
+        {
+          "special_name": "现代教育技术",
+          "level": "专科",
+          "school_special_id": "1699096"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1860548"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "1679148"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1030793"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "美术教育",
+          "level": "专科",
+          "school_special_id": "564214"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "564215"
+        },
+        {
+          "special_name": "表演艺术",
+          "level": "专科",
+          "school_special_id": "1796009"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "139878"
+        }
+      ]
+    },
+    {
+      "department_name": "化学与生物技术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "分析检验技术",
+          "level": "专科",
+          "school_special_id": "1754844"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "2057506"
+        },
+        {
+          "special_name": "生物制药技术",
+          "level": "专科",
+          "school_special_id": "1030794"
+        },
+        {
+          "special_name": "食品药品监督管理",
+          "level": "专科",
+          "school_special_id": "1714313"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "139868"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1714309"
+        },
+        {
+          "special_name": "智能制造装备技术",
+          "level": "专科",
+          "school_special_id": "1978947"
+        },
+        {
+          "special_name": "汽车制造与试验技术",
+          "level": "专科",
+          "school_special_id": "1754843"
+        }
+      ]
+    },
+    {
+      "department_name": "医护学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1978949"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1714310"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1978950"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1714311"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1714312"
+        }
+      ]
+    }
+  ]
+}

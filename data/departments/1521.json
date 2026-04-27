@@ -1,0 +1,263 @@
+{
+  "update_time": "2026-04-27 16:33:31",
+  "school_id": "1521",
+  "school_name": "琼台师范学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1521.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "dcc3d886dc6418b20563cd93649b0177",
+  "department_count": 11,
+  "special_count": 37,
+  "data": [
+    {
+      "department_name": "马克思主义学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "思想政治教育（非师范）",
+          "level": "本科",
+          "school_special_id": "1471721"
+        }
+      ]
+    },
+    {
+      "department_name": "学前教育学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "56805"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "本科",
+          "school_special_id": "170360"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "56810"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "1375522"
+        }
+      ]
+    },
+    {
+      "department_name": "教师教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "小学教育（语文、数学方向）",
+          "level": "本科",
+          "school_special_id": "56790"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "2154548"
+        },
+        {
+          "special_name": "特殊教育",
+          "level": "本科",
+          "school_special_id": "170360"
+        }
+      ]
+    },
+    {
+      "department_name": "文学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "汉语国际教育(师范)",
+          "level": "本科",
+          "school_special_id": "1130793"
+        },
+        {
+          "special_name": "汉语言文学(师范)",
+          "level": "本科",
+          "school_special_id": "56788"
+        },
+        {
+          "special_name": "网络与新媒体(非师范)",
+          "level": "本科",
+          "school_special_id": "170363"
+        }
+      ]
+    },
+    {
+      "department_name": "外国语学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "56808"
+        },
+        {
+          "special_name": "应用俄语",
+          "level": "专科",
+          "school_special_id": "128085"
+        }
+      ]
+    },
+    {
+      "department_name": "理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "2012415"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "56783"
+        },
+        {
+          "special_name": "生物科学",
+          "level": "本科",
+          "school_special_id": "170362"
+        },
+        {
+          "special_name": "科学教育",
+          "level": "本科",
+          "school_special_id": "56806"
+        }
+      ]
+    },
+    {
+      "department_name": "信息科学技术学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "教育技术学",
+          "level": "本科",
+          "school_special_id": "170359"
+        },
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "170361"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "56807"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "128097"
+        },
+        {
+          "special_name": "现代教育技术",
+          "level": "专科",
+          "school_special_id": "56794"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "舞蹈表演",
+          "level": "本科",
+          "school_special_id": "2012571"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "56784"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "本科",
+          "school_special_id": "241503"
+        }
+      ]
+    },
+    {
+      "department_name": "美术学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "书法学（师范）",
+          "level": "本科",
+          "school_special_id": "241504"
+        },
+        {
+          "special_name": "工艺美术",
+          "level": "本科",
+          "school_special_id": "1130794"
+        },
+        {
+          "special_name": "美术学（师范）",
+          "level": "本科",
+          "school_special_id": "56777"
+        },
+        {
+          "special_name": "艺术设计学",
+          "level": "本科",
+          "school_special_id": "56782"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "1833120"
+        },
+        {
+          "special_name": "体育教育",
+          "level": "本科",
+          "school_special_id": "241506"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "56789"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "128079"
+        },
+        {
+          "special_name": "酒店管理",
+          "level": "本科",
+          "school_special_id": "894181"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "旅游管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

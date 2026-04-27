@@ -1,0 +1,60 @@
+{
+  "update_time": "2026-04-27 16:53:00",
+  "school_id": "3654",
+  "school_name": "图木舒克职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3654.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "aeacd6e8ecf61203427fd94a9de2fc30",
+  "department_count": 3,
+  "special_count": 6,
+  "data": [
+    {
+      "department_name": "纺织服装系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "服装设计与工艺",
+          "level": "专科",
+          "school_special_id": "2043681"
+        },
+        {
+          "special_name": "现代纺织技术",
+          "level": "专科",
+          "school_special_id": "2156880"
+        }
+      ]
+    },
+    {
+      "department_name": "机电与工程系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2043680"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "2156879"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "2156881"
+        }
+      ]
+    },
+    {
+      "department_name": "农学系",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "设施农业与装备",
+          "level": "专科",
+          "school_special_id": "2157218"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 16:41:38",
+  "school_id": "2252",
+  "school_name": "西北大学现代学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2252.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "a312ef198f81a39aec5753706459f27a",
+  "department_count": 4,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "电影学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "广播电视编导",
+          "level": "本科",
+          "school_special_id": "74986"
+        },
+        {
+          "special_name": "戏剧影视导演",
+          "level": "本科",
+          "school_special_id": "74974"
+        },
+        {
+          "special_name": "播音与主持艺术",
+          "level": "本科",
+          "school_special_id": "74975"
+        },
+        {
+          "special_name": "电影学",
+          "level": "本科",
+          "school_special_id": "1801625"
+        },
+        {
+          "special_name": "表演",
+          "level": "本科",
+          "school_special_id": "74985"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐舞蹈学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "舞蹈学",
+          "level": "本科",
+          "school_special_id": "74984"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "74987"
+        }
+      ]
+    },
+    {
+      "department_name": "文学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "汉语言文学",
+          "level": "本科",
+          "school_special_id": "74978"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "74970"
+        }
+      ]
+    },
+    {
+      "department_name": "商学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "数字经济",
+          "level": "本科",
+          "school_special_id": "2154720"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "74971"
+        }
+      ]
+    }
+  ]
+}

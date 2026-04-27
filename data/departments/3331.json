@@ -1,0 +1,130 @@
+{
+  "update_time": "2026-04-27 16:49:52",
+  "school_id": "3331",
+  "school_name": "天津滨海汽车工程职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3331.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:54",
+  "md5": "81ca135b0f1e004a0236c2d4ea00271e",
+  "department_count": 3,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "汽车工程学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1740930"
+        },
+        {
+          "special_name": "汽车技术服务与营销",
+          "level": "专科",
+          "school_special_id": "1591593"
+        },
+        {
+          "special_name": "汽车技术服务与营销(二手车鉴定与评估)",
+          "level": "专科",
+          "school_special_id": "1591593"
+        },
+        {
+          "special_name": "汽车技术服务与营销(汽车保险与理赔)",
+          "level": "专科",
+          "school_special_id": "1591593"
+        },
+        {
+          "special_name": "汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "1591596"
+        },
+        {
+          "special_name": "汽车电子技术",
+          "level": "专科",
+          "school_special_id": "1740929"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "1367968"
+        },
+        {
+          "special_name": "金融服务与管理(汽车金融)",
+          "level": "专科",
+          "school_special_id": "1784876"
+        }
+      ]
+    },
+    {
+      "department_name": "康复学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1363270"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1736401"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1378866"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "1591605"
+        },
+        {
+          "special_name": "言语听觉康复技术",
+          "level": "专科",
+          "school_special_id": "181907"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1860834"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2156864"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "1591600"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "1860833"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "2156866"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "1860835"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "1591599"
+        }
+      ]
+    }
+  ]
+}

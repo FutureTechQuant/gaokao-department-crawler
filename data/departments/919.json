@@ -1,0 +1,160 @@
+{
+  "update_time": "2026-04-27 16:28:10",
+  "school_id": "919",
+  "school_name": "山西中医药大学",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/919.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:49",
+  "md5": "9b7ffc1b3d30aa2f8f084de465706b03",
+  "department_count": 8,
+  "special_count": 20,
+  "data": [
+    {
+      "department_name": "傅山学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中医学（“5+3”一体化）",
+          "level": "本科",
+          "school_special_id": "37334"
+        }
+      ]
+    },
+    {
+      "department_name": "第一临床学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中医学",
+          "level": "本科",
+          "school_special_id": "37334"
+        }
+      ]
+    },
+    {
+      "department_name": "第二临床学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医养生学",
+          "level": "本科",
+          "school_special_id": "37333"
+        },
+        {
+          "special_name": "中医康复学",
+          "level": "本科",
+          "school_special_id": "1801754"
+        },
+        {
+          "special_name": "针灸推拿学",
+          "level": "本科",
+          "school_special_id": "37331"
+        }
+      ]
+    },
+    {
+      "department_name": "第三临床学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "37328"
+        }
+      ]
+    },
+    {
+      "department_name": "第四临床学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "37332"
+        }
+      ]
+    },
+    {
+      "department_name": "中药与食品工程学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "中药制药",
+          "level": "本科",
+          "school_special_id": "1500176"
+        },
+        {
+          "special_name": "中药学",
+          "level": "本科",
+          "school_special_id": "37326"
+        },
+        {
+          "special_name": "中药学（临床中药学方向）",
+          "level": "本科",
+          "school_special_id": "37326"
+        },
+        {
+          "special_name": "中药资源与开发",
+          "level": "本科",
+          "school_special_id": "171198"
+        },
+        {
+          "special_name": "制药工程",
+          "level": "本科",
+          "school_special_id": "37337"
+        },
+        {
+          "special_name": "生物制药",
+          "level": "本科",
+          "school_special_id": "37320"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "37324"
+        },
+        {
+          "special_name": "食品科学与工程",
+          "level": "本科",
+          "school_special_id": "37319"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "护理学",
+          "level": "本科",
+          "school_special_id": "37329"
+        }
+      ]
+    },
+    {
+      "department_name": "健康服务与管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "37321"
+        },
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "1129881"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药事管理",
+          "level": "本科",
+          "school_special_id": "2011790"
+        }
+      ]
+    }
+  ]
+}

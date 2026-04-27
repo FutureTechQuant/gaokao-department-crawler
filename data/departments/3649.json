@@ -1,0 +1,91 @@
+{
+  "update_time": "2026-04-27 16:52:56",
+  "school_id": "3649",
+  "school_name": "郴州思科职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3649.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "5427e4e83a6260e67a9f438f5e59c352",
+  "department_count": 4,
+  "special_count": 11,
+  "data": [
+    {
+      "department_name": "智能装备学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2150514"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "2159191"
+        }
+      ]
+    },
+    {
+      "department_name": "康养护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "2157112"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "2150516"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "2159189"
+        },
+        {
+          "special_name": "酿酒制造",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2159193"
+        },
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "2150512"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "2150513"
+        }
+      ]
+    },
+    {
+      "department_name": "轨道交通学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "2150515"
+        },
+        {
+          "special_name": "铁道交通运营管理",
+          "level": "专科",
+          "school_special_id": "2159192"
+        }
+      ]
+    }
+  ]
+}

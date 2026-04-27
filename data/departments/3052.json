@@ -1,0 +1,112 @@
+{
+  "update_time": "2026-04-27 16:47:42",
+  "school_id": "3052",
+  "school_name": "哈尔滨幼儿师范高等专科学校",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3052.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:01",
+  "md5": "6aa6d2fa3436fdfdd20faf7bbecf0600",
+  "department_count": 5,
+  "special_count": 14,
+  "data": [
+    {
+      "department_name": "学前教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1534669"
+        },
+        {
+          "special_name": "学前教育",
+          "level": "专科",
+          "school_special_id": "137751"
+        },
+        {
+          "special_name": "早期教育",
+          "level": "专科",
+          "school_special_id": "86509"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "书画艺术",
+          "level": "专科",
+          "school_special_id": "1791709"
+        },
+        {
+          "special_name": "美术教育(工艺美术方向)",
+          "level": "专科",
+          "school_special_id": "2163023"
+        },
+        {
+          "special_name": "舞蹈教育",
+          "level": "专科",
+          "school_special_id": "1791731"
+        },
+        {
+          "special_name": "音乐制作",
+          "level": "专科",
+          "school_special_id": "86508"
+        },
+        {
+          "special_name": "音乐教育",
+          "level": "专科",
+          "school_special_id": "86510"
+        }
+      ]
+    },
+    {
+      "department_name": "现代服务学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "小学英语教育",
+          "level": "专科",
+          "school_special_id": "1778554"
+        },
+        {
+          "special_name": "民航安全技术管理",
+          "level": "专科",
+          "school_special_id": "1846052"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "86507"
+        }
+      ]
+    },
+    {
+      "department_name": "体育学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育教育",
+          "level": "专科",
+          "school_special_id": "1791732"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "1846051"
+        }
+      ]
+    },
+    {
+      "department_name": "通识教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "传播与策划",
+          "level": "专科",
+          "school_special_id": "2156652"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "update_time": "2026-04-27 16:49:56",
+  "school_id": "3340",
+  "school_name": "南京审计大学金审学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3340.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:51",
+  "md5": "07de660e4d51af20f936c01a4e71b7ab",
+  "department_count": 8,
+  "special_count": 21,
+  "data": [
+    {
+      "department_name": "审计学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "审计学",
+          "level": "本科",
+          "school_special_id": "89244"
+        }
+      ]
+    },
+    {
+      "department_name": "会计学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "89245"
+        },
+        {
+          "special_name": "财务管理",
+          "level": "本科",
+          "school_special_id": "89246"
+        }
+      ]
+    },
+    {
+      "department_name": "国际教育学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "会计学(ACCA方向)",
+          "level": "本科",
+          "school_special_id": "89245"
+        },
+        {
+          "special_name": "审计学(CIMA方向)",
+          "level": "本科",
+          "school_special_id": "89244"
+        },
+        {
+          "special_name": "审计学(中澳项目)",
+          "level": "本科",
+          "school_special_id": "89244"
+        }
+      ]
+    },
+    {
+      "department_name": "金融与经济学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "保险学",
+          "level": "本科",
+          "school_special_id": "89248"
+        },
+        {
+          "special_name": "国际经济与贸易",
+          "level": "本科",
+          "school_special_id": "89249"
+        },
+        {
+          "special_name": "税收学",
+          "level": "本科",
+          "school_special_id": "89250"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "89247"
+        }
+      ]
+    },
+    {
+      "department_name": "管理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "工商管理",
+          "level": "本科",
+          "school_special_id": "89251"
+        },
+        {
+          "special_name": "物流管理",
+          "level": "本科",
+          "school_special_id": "118169"
+        },
+        {
+          "special_name": "行政管理",
+          "level": "本科",
+          "school_special_id": "89253"
+        },
+        {
+          "special_name": "资产评估",
+          "level": "本科",
+          "school_special_id": "118168"
+        }
+      ]
+    },
+    {
+      "department_name": "信息科学与工程学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "信息安全",
+          "level": "本科",
+          "school_special_id": "2153816"
+        },
+        {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "89260"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "118177"
+        }
+      ]
+    },
+    {
+      "department_name": "教师教育学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "学前教育",
+          "level": "本科",
+          "school_special_id": "89261"
+        }
+      ]
+    },
+    {
+      "department_name": "艺术设计学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "数字媒体艺术",
+          "level": "本科",
+          "school_special_id": "2162628"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "2161696"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "本科",
+          "school_special_id": "2162627"
+        }
+      ]
+    }
+  ]
+}

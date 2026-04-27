@@ -1,0 +1,111 @@
+{
+  "update_time": "2026-04-27 16:48:26",
+  "school_id": "3186",
+  "school_name": "四川护理职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3186.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "124927c217187be3b3b49e46960e32b4",
+  "department_count": 4,
+  "special_count": 15,
+  "data": [
+    {
+      "department_name": "护理系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "87936"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1799200"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "87935"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "1799201"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "87941"
+        },
+        {
+          "special_name": "药品营销与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "87937"
+        }
+      ]
+    },
+    {
+      "department_name": "医疗技术系",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "87939"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "87940"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "1473221"
+        },
+        {
+          "special_name": "智能医疗装备技术",
+          "level": "专科",
+          "school_special_id": "1473224"
+        },
+        {
+          "special_name": "眼视光技术",
+          "level": "专科",
+          "school_special_id": "2016134"
+        }
+      ]
+    },
+    {
+      "department_name": "康复技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "87938"
+        },
+        {
+          "special_name": "预防医学",
+          "level": "专科",
+          "school_special_id": "1473223"
+        }
+      ]
+    }
+  ]
+}

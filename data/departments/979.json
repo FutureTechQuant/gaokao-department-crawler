@@ -1,0 +1,80 @@
+{
+  "update_time": "2026-04-27 16:28:49",
+  "school_id": "979",
+  "school_name": "广州体育职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/979.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:00",
+  "md5": "de573b83fc8bed8eb8d8174b2d3cb8cf",
+  "department_count": 3,
+  "special_count": 10,
+  "data": [
+    {
+      "department_name": "体育运动系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "体能训练",
+          "level": "专科",
+          "school_special_id": "1472794"
+        },
+        {
+          "special_name": "健身指导与管理",
+          "level": "专科",
+          "school_special_id": "1021441"
+        },
+        {
+          "special_name": "社会体育",
+          "level": "专科",
+          "school_special_id": "43962"
+        },
+        {
+          "special_name": "运动训练",
+          "level": "专科",
+          "school_special_id": "1021436"
+        }
+      ]
+    },
+    {
+      "department_name": "体育产业系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "专科",
+          "school_special_id": "1799491"
+        },
+        {
+          "special_name": "体育运营与管理",
+          "level": "专科",
+          "school_special_id": "787342"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "专科",
+          "school_special_id": "134613"
+        },
+        {
+          "special_name": "高尔夫球运动与管理",
+          "level": "专科",
+          "school_special_id": "787341"
+        }
+      ]
+    },
+    {
+      "department_name": "体育保健与康复系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "体育保健与康复",
+          "level": "专科",
+          "school_special_id": "43963"
+        },
+        {
+          "special_name": "社区康复",
+          "level": "专科",
+          "school_special_id": "134615"
+        }
+      ]
+    }
+  ]
+}

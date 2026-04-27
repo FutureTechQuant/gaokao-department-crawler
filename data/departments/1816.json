@@ -1,0 +1,89 @@
+{
+  "update_time": "2026-04-27 16:36:34",
+  "school_id": "1816",
+  "school_name": "合肥通用职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1816.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:58",
+  "md5": "c1335ffeaf5459d56ec79b1d5f5ffcc8",
+  "department_count": 2,
+  "special_count": 13,
+  "data": [
+    {
+      "department_name": "电气与信息工程系",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1708855"
+        },
+        {
+          "special_name": "应用电子技术",
+          "level": "专科",
+          "school_special_id": "63299"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1708864"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "1035444"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "63300"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "63298"
+        }
+      ]
+    },
+    {
+      "department_name": "机械工程系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "制冷与空调技术",
+          "level": "专科",
+          "school_special_id": "63305"
+        },
+        {
+          "special_name": "安全技术与管理",
+          "level": "专科",
+          "school_special_id": "63301"
+        },
+        {
+          "special_name": "数控技术",
+          "level": "专科",
+          "school_special_id": "63304"
+        },
+        {
+          "special_name": "机械产品检测检验技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机械制造与自动化",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "63293"
+        },
+        {
+          "special_name": "模具设计与制造",
+          "level": "专科",
+          "school_special_id": "63302"
+        }
+      ]
+    }
+  ]
+}

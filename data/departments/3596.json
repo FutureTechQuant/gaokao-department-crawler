@@ -1,0 +1,122 @@
+{
+  "update_time": "2026-04-27 16:52:23",
+  "school_id": "3596",
+  "school_name": "自贡职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3596.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:12:06",
+  "md5": "9ebf59cfa15aeee7c7693f6752419991",
+  "department_count": 5,
+  "special_count": 16,
+  "data": [
+    {
+      "department_name": "航空学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "应急救援技术",
+          "level": "专科",
+          "school_special_id": "1802041"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1802042"
+        },
+        {
+          "special_name": "民航运输服务",
+          "level": "专科",
+          "school_special_id": "1802044"
+        },
+        {
+          "special_name": "飞机机电设备维修",
+          "level": "专科",
+          "school_special_id": "2072822"
+        }
+      ]
+    },
+    {
+      "department_name": "信息工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1802048"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "1802047"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "1802043"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "1802045"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "1802046"
+        }
+      ]
+    },
+    {
+      "department_name": "卫生康复学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "2072818"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": "1802049"
+        },
+        {
+          "special_name": "社区康复",
+          "level": "专科",
+          "school_special_id": "1802051"
+        }
+      ]
+    },
+    {
+      "department_name": "文旅学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "2072820"
+        },
+        {
+          "special_name": "艺术设计",
+          "level": "专科",
+          "school_special_id": "1802050"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑工程学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "建设工程管理",
+          "level": "专科",
+          "school_special_id": "2072819"
+        },
+        {
+          "special_name": "智能建造技术",
+          "level": "专科",
+          "school_special_id": "2072821"
+        }
+      ]
+    }
+  ]
+}

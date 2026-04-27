@@ -1,0 +1,75 @@
+{
+  "update_time": "2026-04-27 16:51:59",
+  "school_id": "3541",
+  "school_name": "梅河口康美职业技术学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3541.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:57",
+  "md5": "4daf7c9e28bae26a1980080f6f1711ef",
+  "department_count": 3,
+  "special_count": 9,
+  "data": [
+    {
+      "department_name": "护理康复系",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "1592457"
+        },
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "1592454"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "1376353"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "1376349"
+        }
+      ]
+    },
+    {
+      "department_name": "医学技术系",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "医学影像技术",
+          "level": "专科",
+          "school_special_id": "1376352"
+        },
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "1376351"
+        },
+        {
+          "special_name": "口腔医学技术",
+          "level": "专科",
+          "school_special_id": "1592460"
+        }
+      ]
+    },
+    {
+      "department_name": "药学系",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "1376350"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "1592455"
+        }
+      ]
+    }
+  ]
+}

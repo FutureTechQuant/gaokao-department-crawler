@@ -1,0 +1,198 @@
+{
+  "update_time": "2026-04-27 16:48:33",
+  "school_id": "3202",
+  "school_name": "香港中文大学（深圳）",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3202.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:46",
+  "md5": "3cc0ba11819fd5d39fe9add34fd07e76",
+  "department_count": 6,
+  "special_count": 30,
+  "data": [
+    {
+      "department_name": "经管学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "会计学",
+          "level": "本科",
+          "school_special_id": "168668"
+        },
+        {
+          "special_name": "国际商务",
+          "level": "本科",
+          "school_special_id": "2160549"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "168666"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "2160548"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "168667"
+        },
+        {
+          "special_name": "金融工程(与理工学院及数据科学学院联合创办)",
+          "level": "本科",
+          "school_special_id": "88020"
+        }
+      ]
+    },
+    {
+      "department_name": "理工学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "化学",
+          "level": "本科",
+          "school_special_id": "1797753"
+        },
+        {
+          "special_name": "数学及应用数学",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "新能源科学与工程",
+          "level": "本科",
+          "school_special_id": "88027"
+        },
+        {
+          "special_name": "材料科学与工程",
+          "level": "本科",
+          "school_special_id": "2160812"
+        },
+        {
+          "special_name": "物理学",
+          "level": "本科",
+          "school_special_id": "2160814"
+        },
+        {
+          "special_name": "电子与计算机工程",
+          "level": "本科",
+          "school_special_id": "2160813"
+        },
+        {
+          "special_name": "金融工程(与经管学院、数据科学学院联合创办)",
+          "level": "本科",
+          "school_special_id": "88020"
+        }
+      ]
+    },
+    {
+      "department_name": "人文社科学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "国际组织与全球治理",
+          "level": "本科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "城市管理",
+          "level": "本科",
+          "school_special_id": "2162137"
+        },
+        {
+          "special_name": "应用心理学",
+          "level": "本科",
+          "school_special_id": "170284"
+        },
+        {
+          "special_name": "翻译",
+          "level": "本科",
+          "school_special_id": "88028"
+        },
+        {
+          "special_name": "英语",
+          "level": "本科",
+          "school_special_id": "2160547"
+        }
+      ]
+    },
+    {
+      "department_name": "数据科学学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "1230236"
+        },
+        {
+          "special_name": "统计学",
+          "level": "本科",
+          "school_special_id": "88024"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "88025"
+        },
+        {
+          "special_name": "金融工程",
+          "level": "本科",
+          "school_special_id": "88020"
+        }
+      ]
+    },
+    {
+      "department_name": "医学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "临床医学",
+          "level": "本科",
+          "school_special_id": "2160818"
+        },
+        {
+          "special_name": "生物信息学",
+          "level": "本科",
+          "school_special_id": "88022"
+        },
+        {
+          "special_name": "生物医学工程",
+          "level": "本科",
+          "school_special_id": "88021"
+        },
+        {
+          "special_name": "生物科学",
+          "level": "本科",
+          "school_special_id": "1797752"
+        },
+        {
+          "special_name": "药学",
+          "level": "本科",
+          "school_special_id": "1797754"
+        }
+      ]
+    },
+    {
+      "department_name": "音乐学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "作曲与作曲技术理论",
+          "level": "本科",
+          "school_special_id": "2160817"
+        },
+        {
+          "special_name": "音乐学",
+          "level": "本科",
+          "school_special_id": "2160816"
+        },
+        {
+          "special_name": "音乐表演",
+          "level": "本科",
+          "school_special_id": "2160815"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "update_time": "2026-04-27 16:48:21",
+  "school_id": "3150",
+  "school_name": "中国人民大学（苏州校区）",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3150.json?a=www.gaokao.cn",
+  "time": "2025-06-11 17:11:44",
+  "md5": "bbcaf878c7fa70874d969730e6dee6bf",
+  "department_count": 1,
+  "special_count": 6,
+  "data": [
+    {
+      "department_name": "中法学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "人力资源管理",
+          "level": "本科",
+          "school_special_id": "1232269"
+        },
+        {
+          "special_name": "传播学",
+          "level": "本科",
+          "school_special_id": "1890573"
+        },
+        {
+          "special_name": "国民经济管理",
+          "level": "本科",
+          "school_special_id": "1037524"
+        },
+        {
+          "special_name": "数学与应用数学",
+          "level": "本科",
+          "school_special_id": "1417802"
+        },
+        {
+          "special_name": "法语",
+          "level": "本科",
+          "school_special_id": "1039482"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "1037523"
+        }
+      ]
+    }
+  ]
+}
