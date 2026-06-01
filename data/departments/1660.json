@@ -1,31 +1,77 @@
 {
-  "update_time": "2026-05-01 08:27:44",
+  "update_time": "2026-06-01 11:50:41",
   "school_id": "1660",
   "school_name": "山西管理职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1660.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:58",
-  "md5": "5ea815a4e64f4c94b253e5e758da1479",
+  "time": "2026-06-01 10:08:21",
+  "md5": "a1c9fb2ae07540c78e8eb07280e683aa",
   "department_count": 5,
-  "special_count": 20,
+  "special_count": 22,
   "data": [
     {
-      "department_name": "管理与服务系",
-      "special_num": 3,
+      "department_name": "计算机技术系",
+      "special_num": 4,
       "special": [
         {
-          "special_name": "人力资源管理",
+          "special_name": "数字媒体技术",
           "level": "专科",
-          "school_special_id": "59886"
+          "school_special_id": "1777830"
         },
         {
-          "special_name": "城市轨道交通运营管理",
+          "special_name": "虚拟现实技术应用",
           "level": "专科",
-          "school_special_id": "59882"
+          "school_special_id": "2168497"
         },
         {
-          "special_name": "旅游管理",
+          "special_name": "计算机应用技术",
           "level": "专科",
-          "school_special_id": "59887"
+          "school_special_id": "59878"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "59877"
+        }
+      ]
+    },
+    {
+      "department_name": "文化艺术系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "书画艺术（书画装裱技术方向）",
+          "level": "专科",
+          "school_special_id": "2171660"
+        },
+        {
+          "special_name": "动漫设计",
+          "level": "专科",
+          "school_special_id": "59895"
+        },
+        {
+          "special_name": "室内艺术设计",
+          "level": "专科",
+          "school_special_id": "2168495"
+        },
+        {
+          "special_name": "工业设计",
+          "level": "专科",
+          "school_special_id": "2156796"
+        },
+        {
+          "special_name": "摄影摄像技术",
+          "level": "专科",
+          "school_special_id": "59894"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "1029249"
+        },
+        {
+          "special_name": "视觉传达设计",
+          "level": "专科",
+          "school_special_id": "1786462"
         }
       ]
     },
@@ -51,50 +97,9 @@
       ]
     },
     {
-      "department_name": "计算机技术系",
-      "special_num": 6,
-      "special": [
-        {
-          "special_name": "人工智能技术应用",
-          "level": "专科",
-          "school_special_id": "2148518"
-        },
-        {
-          "special_name": "大数据技术",
-          "level": "专科",
-          "school_special_id": "1679461"
-        },
-        {
-          "special_name": "数字媒体技术",
-          "level": "专科",
-          "school_special_id": "1777830"
-        },
-        {
-          "special_name": "物联网应用技术",
-          "level": "专科",
-          "school_special_id": "59881"
-        },
-        {
-          "special_name": "计算机应用技术",
-          "level": "专科",
-          "school_special_id": "59878"
-        },
-        {
-          "special_name": "软件技术",
-          "level": "专科",
-          "school_special_id": "59877"
-        }
-      ]
-    },
-    {
       "department_name": "财贸系",
-      "special_num": 3,
+      "special_num": 4,
       "special": [
-        {
-          "special_name": "会计信息管理",
-          "level": "专科",
-          "school_special_id": "1777832"
-        },
         {
           "special_name": "大数据与会计",
           "level": "专科",
@@ -104,37 +109,42 @@
           "special_name": "大数据与财务管理",
           "level": "专科",
           "school_special_id": "1777831"
+        },
+        {
+          "special_name": "现代物流管理",
+          "level": "专科",
+          "school_special_id": "1777834"
+        },
+        {
+          "special_name": "电子商务",
+          "level": "专科",
+          "school_special_id": "59892"
         }
       ]
     },
     {
-      "department_name": "文化艺术系",
-      "special_num": 5,
+      "department_name": "管理与服务系",
+      "special_num": 4,
       "special": [
         {
-          "special_name": "动漫设计",
+          "special_name": "人力资源管理",
           "level": "专科",
-          "school_special_id": "59895"
+          "school_special_id": "59886"
         },
         {
-          "special_name": "摄影摄像技术",
+          "special_name": "城市轨道交通运营管理",
           "level": "专科",
-          "school_special_id": "59894"
+          "school_special_id": "59882"
         },
         {
-          "special_name": "无人机应用技术",
+          "special_name": "旅游管理",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "59887"
         },
         {
-          "special_name": "艺术设计",
+          "special_name": "研学旅行管理与服务",
           "level": "专科",
-          "school_special_id": "59897"
-        },
-        {
-          "special_name": "视觉传达设计(装潢艺术设计方向)",
-          "level": "专科",
-          "school_special_id": "1786462"
+          "school_special_id": "2168496"
         }
       ]
     }

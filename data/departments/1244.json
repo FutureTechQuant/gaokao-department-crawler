@@ -1,22 +1,53 @@
 {
-  "update_time": "2026-05-01 08:24:22",
+  "update_time": "2026-06-01 11:47:10",
   "school_id": "1244",
   "school_name": "辽宁对外经贸学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1244.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:52",
-  "md5": "02f5d4fa8261f1cf3a6ff29175153bd0",
-  "department_count": 5,
-  "special_count": 21,
+  "time": "2026-05-28 17:35:37",
+  "md5": "10e74174dc5c967d71f8c84c2a7abd33",
+  "department_count": 8,
+  "special_count": 30,
   "data": [
     {
       "department_name": "经济学院",
-      "special_num": 4,
+      "special_num": 6,
       "special": [
         {
           "special_name": "国际经济与贸易",
           "level": "本科",
           "school_special_id": "155448"
         },
+        {
+          "special_name": "数字经济",
+          "level": "本科",
+          "school_special_id": "2171522"
+        },
+        {
+          "special_name": "数字贸易",
+          "level": "本科",
+          "school_special_id": "2171523"
+        },
+        {
+          "special_name": "数字金融",
+          "level": "本科",
+          "school_special_id": "2171524"
+        },
+        {
+          "special_name": "跨境电子商务",
+          "level": "本科",
+          "school_special_id": "2171525"
+        },
+        {
+          "special_name": "金融学",
+          "level": "本科",
+          "school_special_id": "155447"
+        }
+      ]
+    },
+    {
+      "department_name": "电商与物流学院",
+      "special_num": 3,
+      "special": [
         {
           "special_name": "物流管理",
           "level": "本科",
@@ -28,35 +59,20 @@
           "school_special_id": "155452"
         },
         {
-          "special_name": "金融学",
+          "special_name": "知识产权",
           "level": "本科",
-          "school_special_id": "155447"
+          "school_special_id": "2171526"
         }
       ]
     },
     {
       "department_name": "外国语学院",
-      "special_num": 6,
+      "special_num": 3,
       "special": [
-        {
-          "special_name": "俄语",
-          "level": "本科",
-          "school_special_id": "155456"
-        },
         {
           "special_name": "商务英语",
           "level": "本科",
           "school_special_id": "155458"
-        },
-        {
-          "special_name": "日语",
-          "level": "本科",
-          "school_special_id": "155457"
-        },
-        {
-          "special_name": "朝鲜语",
-          "level": "本科",
-          "school_special_id": "1515340"
         },
         {
           "special_name": "英语",
@@ -67,6 +83,27 @@
           "special_name": "西班牙语",
           "level": "本科",
           "school_special_id": "1515337"
+        }
+      ]
+    },
+    {
+      "department_name": "东北亚学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "俄语",
+          "level": "本科",
+          "school_special_id": "155456"
+        },
+        {
+          "special_name": "日语",
+          "level": "本科",
+          "school_special_id": "155457"
+        },
+        {
+          "special_name": "朝鲜语",
+          "level": "本科",
+          "school_special_id": "1515340"
         }
       ]
     },
@@ -93,7 +130,7 @@
     },
     {
       "department_name": "管理学院",
-      "special_num": 6,
+      "special_num": 4,
       "special": [
         {
           "special_name": "人力资源管理",
@@ -101,14 +138,35 @@
           "school_special_id": "155451"
         },
         {
+          "special_name": "信息管理与信息系统",
+          "level": "本科",
+          "school_special_id": "155449"
+        },
+        {
+          "special_name": "大数据管理与应用",
+          "level": "本科",
+          "school_special_id": "2171527"
+        },
+        {
+          "special_name": "市场营销",
+          "level": "本科",
+          "school_special_id": "155450"
+        }
+      ]
+    },
+    {
+      "department_name": "文旅与康养学院",
+      "special_num": 5,
+      "special": [
+        {
           "special_name": "会展经济与管理",
           "level": "本科",
           "school_special_id": "155454"
         },
         {
-          "special_name": "信息管理与信息系统",
+          "special_name": "健康服务与管理",
           "level": "本科",
-          "school_special_id": "155449"
+          "school_special_id": "2171528"
         },
         {
           "special_name": "养老服务管理",
@@ -116,9 +174,9 @@
           "school_special_id": "1515049"
         },
         {
-          "special_name": "市场营销",
+          "special_name": "国际邮轮管理",
           "level": "本科",
-          "school_special_id": "155450"
+          "school_special_id": "2171529"
         },
         {
           "special_name": "旅游管理",
@@ -129,12 +187,17 @@
     },
     {
       "department_name": "艺术学院",
-      "special_num": 2,
+      "special_num": 3,
       "special": [
         {
           "special_name": "新媒体艺术",
           "level": "本科",
           "school_special_id": "2156291"
+        },
+        {
+          "special_name": "环境设计",
+          "level": "本科",
+          "school_special_id": "566194"
         },
         {
           "special_name": "视觉传达设计",

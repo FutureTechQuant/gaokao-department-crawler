@@ -1,0 +1,70 @@
+{
+  "update_time": "2026-06-01 12:10:10",
+  "school_id": "3751",
+  "school_name": "鹰潭卫生职业学院",
+  "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3751.json?a=www.gaokao.cn",
+  "time": "2026-05-15 16:31:02",
+  "md5": "c7de4174f1a9a7ddd12881d09551b94b",
+  "department_count": 3,
+  "special_count": 8,
+  "data": [
+    {
+      "department_name": "护理学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "2165030"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "2165029"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "康养学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "中医康复技术",
+          "level": "专科",
+          "school_special_id": "2165031"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "医技与药学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "医学检验技术",
+          "level": "专科",
+          "school_special_id": "2165032"
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "0"
+        }
+      ]
+    }
+  ]
+}

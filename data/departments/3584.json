@@ -1,17 +1,22 @@
 {
-  "update_time": "2026-05-01 08:44:18",
+  "update_time": "2026-06-01 12:08:23",
   "school_id": "3584",
   "school_name": "湖北孝感美珈职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3584.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:12:06",
-  "md5": "fc6b84b03f1e60dab2ef7b9fe5290699",
+  "time": "2026-05-19 16:29:42",
+  "md5": "7403726687a9681fddbe92d74a4a2a38",
   "department_count": 5,
-  "special_count": 14,
+  "special_count": 18,
   "data": [
     {
       "department_name": "信息技术学院",
-      "special_num": 5,
+      "special_num": 7,
       "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "2165047"
+        },
         {
           "special_name": "人工智能技术应用",
           "level": "专科",
@@ -21,6 +26,11 @@
           "special_name": "大数据技术",
           "level": "专科",
           "school_special_id": "1800200"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2171460"
         },
         {
           "special_name": "计算机应用技术",
@@ -40,39 +50,13 @@
       ]
     },
     {
-      "department_name": "医事科技学院",
-      "special_num": 2,
+      "department_name": "外国语学院",
+      "special_num": 1,
       "special": [
         {
-          "special_name": "中医康复技术",
+          "special_name": "商务英语",
           "level": "专科",
-          "school_special_id": "1800202"
-        },
-        {
-          "special_name": "护理",
-          "level": "专科",
-          "school_special_id": "1800201"
-        }
-      ]
-    },
-    {
-      "department_name": "智能制造学院",
-      "special_num": 3,
-      "special": [
-        {
-          "special_name": "工业机器人技术",
-          "level": "专科",
-          "school_special_id": "1676785"
-        },
-        {
-          "special_name": "机电一体化技术",
-          "level": "专科",
-          "school_special_id": "2154993"
-        },
-        {
-          "special_name": "电气自动化技术",
-          "level": "专科",
-          "school_special_id": "2012297"
+          "school_special_id": "1800206"
         }
       ]
     },
@@ -93,18 +77,54 @@
       ]
     },
     {
-      "department_name": "外国语学院",
-      "special_num": 2,
+      "department_name": "医事科技学院",
+      "special_num": 3,
       "special": [
         {
-          "special_name": "商务英语",
+          "special_name": "中医康复技术",
           "level": "专科",
-          "school_special_id": "1800206"
+          "school_special_id": "1800202"
         },
         {
-          "special_name": "商务英语(双语幼师方向)",
+          "special_name": "护理",
           "level": "专科",
-          "school_special_id": "1800206"
+          "school_special_id": "1800201"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2171461"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "工业机器人技术",
+          "level": "专科",
+          "school_special_id": "1676785"
+        },
+        {
+          "special_name": "新能源汽车技术",
+          "level": "专科",
+          "school_special_id": "2171459"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2171458"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "2154993"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "2012297"
         }
       ]
     }

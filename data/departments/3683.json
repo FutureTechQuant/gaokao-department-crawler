@@ -1,17 +1,37 @@
 {
-  "update_time": "2026-05-01 08:45:22",
+  "update_time": "2026-06-01 12:09:32",
   "school_id": "3683",
   "school_name": "长春数字科技职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3683.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:12:06",
-  "md5": "a2955387a4f8f800070db478dfc6b40c",
+  "time": "2026-05-06 16:58:27",
+  "md5": "5ee8a6e5ce2950af18bfe8aa675e2bec",
   "department_count": 4,
-  "special_count": 6,
+  "special_count": 19,
   "data": [
     {
-      "department_name": "信息技术学院",
-      "special_num": 3,
+      "department_name": "数智技术学院",
+      "special_num": 7,
       "special": [
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "2165252"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "2165251"
+        },
+        {
+          "special_name": "全媒体广告策划与营销",
+          "level": "专科",
+          "school_special_id": "2171176"
+        },
+        {
+          "special_name": "数字媒体艺术设计",
+          "level": "专科",
+          "school_special_id": "2171175"
+        },
         {
           "special_name": "计算机应用技术",
           "level": "专科",
@@ -31,34 +51,79 @@
     },
     {
       "department_name": "智能制造学院",
-      "special_num": 1,
+      "special_num": 5,
       "special": [
+        {
+          "special_name": "数字化设计与制造技术",
+          "level": "专科",
+          "school_special_id": "2165253"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2171177"
+        },
+        {
+          "special_name": "智能控制技术",
+          "level": "专科",
+          "school_special_id": "2171178"
+        },
         {
           "special_name": "智能机器人技术",
           "level": "专科",
           "school_special_id": "2154833"
-        }
-      ]
-    },
-    {
-      "department_name": "智能汽车学院",
-      "special_num": 1,
-      "special": [
+        },
         {
-          "special_name": "智能网联汽车技术",
+          "special_name": "电气自动化技术",
           "level": "专科",
-          "school_special_id": "2154834"
+          "school_special_id": "2165254"
         }
       ]
     },
     {
       "department_name": "智能交通学院",
-      "special_num": 1,
+      "special_num": 4,
       "special": [
         {
           "special_name": "城市轨道车辆应用技术",
           "level": "专科",
           "school_special_id": "2154835"
+        },
+        {
+          "special_name": "新能源汽车检测与维修技术",
+          "level": "专科",
+          "school_special_id": "2165255"
+        },
+        {
+          "special_name": "智能网联汽车技术",
+          "level": "专科",
+          "school_special_id": "2154834"
+        },
+        {
+          "special_name": "汽车造型与改装技术",
+          "level": "专科",
+          "school_special_id": "2171179"
+        }
+      ]
+    },
+    {
+      "department_name": "智慧服务学院",
+      "special_num": 3,
+      "special": [
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "2165256"
+        },
+        {
+          "special_name": "康复治疗技术",
+          "level": "专科",
+          "school_special_id": "2165257"
+        },
+        {
+          "special_name": "智慧旅游技术应用",
+          "level": "专科",
+          "school_special_id": "2171180"
         }
       ]
     }

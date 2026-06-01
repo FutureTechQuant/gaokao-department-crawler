@@ -1,31 +1,46 @@
 {
-  "update_time": "2026-05-01 08:23:36",
+  "update_time": "2026-06-01 11:46:20",
   "school_id": "1157",
   "school_name": "武昌理工学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1157.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:54",
-  "md5": "3606472efd1e3be2396e2d1b9a7cee21",
+  "time": "2026-05-28 17:35:37",
+  "md5": "d180725ac9117ccccddc7def5b1d88a5",
   "department_count": 8,
-  "special_count": 62,
+  "special_count": 58,
   "data": [
     {
       "department_name": "人工智能学院",
-      "special_num": 10,
+      "special_num": 14,
       "special": [
         {
-          "special_name": "数据科学与大数据技术",
+          "special_name": "人工智能",
           "level": "本科",
-          "school_special_id": "203122"
+          "school_special_id": "2171499"
         },
         {
-          "special_name": "智能科学与技术",
+          "special_name": "数据科学与大数据技术（中外合作办学）",
           "level": "本科",
-          "school_special_id": "155404"
+          "school_special_id": "2171500"
+        },
+        {
+          "special_name": "数据科学与大数据技术（华为精英班）",
+          "level": "本科",
+          "school_special_id": "2171497"
+        },
+        {
+          "special_name": "智能科学与技术（华为精英班）",
+          "level": "本科",
+          "school_special_id": "2171496"
         },
         {
           "special_name": "机器人工程",
           "level": "本科",
-          "school_special_id": "321359"
+          "school_special_id": "2171495"
+        },
+        {
+          "special_name": "机器人工程（越疆精英班）",
+          "level": "本科",
+          "school_special_id": "2171495"
         },
         {
           "special_name": "机械电子工程",
@@ -40,7 +55,12 @@
         {
           "special_name": "电气工程及其自动化",
           "level": "本科",
-          "school_special_id": "49364"
+          "school_special_id": "2171494"
+        },
+        {
+          "special_name": "电气工程及其自动化（卓越工程师班）",
+          "level": "本科",
+          "school_special_id": "2171494"
         },
         {
           "special_name": "计算机科学与技术",
@@ -48,9 +68,9 @@
           "school_special_id": "49318"
         },
         {
-          "special_name": "软件工程",
+          "special_name": "软件工程（华为精英班）",
           "level": "本科",
-          "school_special_id": "49356"
+          "school_special_id": "2171498"
         },
         {
           "special_name": "机电一体化技术",
@@ -65,48 +85,53 @@
       ]
     },
     {
-      "department_name": "智能建造学院",
-      "special_num": 8,
+      "department_name": "商学院",
+      "special_num": 9,
       "special": [
         {
-          "special_name": "土木工程",
+          "special_name": "会计学",
           "level": "本科",
-          "school_special_id": "49326"
+          "school_special_id": "49316"
         },
         {
-          "special_name": "工程造价",
+          "special_name": "工商管理（精英班）",
           "level": "本科",
-          "school_special_id": "49365"
+          "school_special_id": "203646"
         },
         {
-          "special_name": "建筑学",
+          "special_name": "市场营销（数智营销方向）",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171501"
         },
         {
-          "special_name": "智能建造",
+          "special_name": "投资学（科技金融方向）",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171503"
         },
         {
-          "special_name": "工程造价",
-          "level": "专科",
-          "school_special_id": "49346"
+          "special_name": "数字经济",
+          "level": "本科",
+          "school_special_id": "2171502"
         },
         {
-          "special_name": "建筑工程技术",
-          "level": "专科",
-          "school_special_id": "49344"
+          "special_name": "电子商务",
+          "level": "本科",
+          "school_special_id": "155394"
         },
         {
-          "special_name": "建筑装饰工程技术",
+          "special_name": "大数据与财务管理",
           "level": "专科",
-          "school_special_id": "49343"
+          "school_special_id": "1510814"
         },
         {
-          "special_name": "智慧城市管理技术",
+          "special_name": "旅游管理",
           "level": "专科",
-          "school_special_id": "1510816"
+          "school_special_id": "49347"
+        },
+        {
+          "special_name": "证券实务",
+          "level": "专科",
+          "school_special_id": "2157224"
         }
       ]
     },
@@ -115,19 +140,19 @@
       "special_num": 6,
       "special": [
         {
-          "special_name": "卫生检验与检疫",
+          "special_name": "医学检验技术",
           "level": "本科",
-          "school_special_id": "1801180"
+          "school_special_id": "2171506"
         },
         {
-          "special_name": "生物制药",
+          "special_name": "生物制药（基因工程制药方向）",
           "level": "本科",
-          "school_special_id": "2154334"
+          "school_special_id": "2171505"
         },
         {
-          "special_name": "生物工程",
+          "special_name": "生物工程（智能生物发酵方向）",
           "level": "本科",
-          "school_special_id": "49322"
+          "school_special_id": "2171504"
         },
         {
           "special_name": "药学",
@@ -147,13 +172,49 @@
       ]
     },
     {
+      "department_name": "空间信息工程学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "工程造价（大数据与智能造价方向）",
+          "level": "本科",
+          "school_special_id": "2171509"
+        },
+        {
+          "special_name": "无人驾驶航空器系统工程",
+          "level": "本科",
+          "school_special_id": "2171507"
+        },
+        {
+          "special_name": "智能建造（智慧监测与检测方向）",
+          "level": "本科",
+          "school_special_id": "2171508"
+        },
+        {
+          "special_name": "工程造价（低空经济与技术方向）",
+          "level": "专科",
+          "school_special_id": "2171512"
+        },
+        {
+          "special_name": "智慧城市管理技术（城市空间信息方向）",
+          "level": "专科",
+          "school_special_id": "2171511"
+        },
+        {
+          "special_name": "装配化装修技术（低空基建方向）",
+          "level": "专科",
+          "school_special_id": "2171510"
+        }
+      ]
+    },
+    {
       "department_name": "健康与护理学院",
       "special_num": 4,
       "special": [
         {
-          "special_name": "助产学",
+          "special_name": "口腔医学技术",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171513"
         },
         {
           "special_name": "康复治疗学",
@@ -173,95 +234,9 @@
       ]
     },
     {
-      "department_name": "商学院",
-      "special_num": 14,
-      "special": [
-        {
-          "special_name": "人力资源管理",
-          "level": "本科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "会计学",
-          "level": "本科",
-          "school_special_id": "49316"
-        },
-        {
-          "special_name": "国际经济与贸易",
-          "level": "本科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "工商管理",
-          "level": "本科",
-          "school_special_id": "49315"
-        },
-        {
-          "special_name": "市场营销",
-          "level": "本科",
-          "school_special_id": "49313"
-        },
-        {
-          "special_name": "应急管理",
-          "level": "本科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "投资学",
-          "level": "本科",
-          "school_special_id": "49363"
-        },
-        {
-          "special_name": "旅游管理",
-          "level": "本科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "物流管理",
-          "level": "本科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "电子商务",
-          "level": "本科",
-          "school_special_id": "155394"
-        },
-        {
-          "special_name": "大数据与财务管理",
-          "level": "专科",
-          "school_special_id": "1510814"
-        },
-        {
-          "special_name": "旅游管理",
-          "level": "专科",
-          "school_special_id": "49347"
-        },
-        {
-          "special_name": "证券与期货",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "酒店管理与数字化运营",
-          "level": "专科",
-          "school_special_id": "0"
-        }
-      ]
-    },
-    {
       "department_name": "文法学院",
-      "special_num": 6,
+      "special_num": 3,
       "special": [
-        {
-          "special_name": "学前教育",
-          "level": "本科",
-          "school_special_id": "1497679"
-        },
-        {
-          "special_name": "日语",
-          "level": "本科",
-          "school_special_id": "0"
-        },
         {
           "special_name": "汉语言文学",
           "level": "本科",
@@ -270,22 +245,17 @@
         {
           "special_name": "法学",
           "level": "本科",
-          "school_special_id": "49329"
+          "school_special_id": "2171514"
         },
         {
-          "special_name": "英语",
+          "special_name": "法学（法政双优班）",
           "level": "本科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "空中乘务",
-          "level": "专科",
-          "school_special_id": "155395"
+          "school_special_id": "2171514"
         }
       ]
     },
     {
-      "department_name": "艺术设计学院",
+      "department_name": "创意设计学院",
       "special_num": 8,
       "special": [
         {
@@ -294,24 +264,24 @@
           "school_special_id": "691716"
         },
         {
-          "special_name": "动画",
+          "special_name": "动画（数智动画与数字影像方向）",
           "level": "本科",
-          "school_special_id": "2161711"
+          "school_special_id": "2171516"
         },
         {
-          "special_name": "工艺美术",
+          "special_name": "工艺美术（数智时尚文创设计方向）",
           "level": "本科",
-          "school_special_id": "803691"
+          "school_special_id": "2171515"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "本科",
+          "school_special_id": "2171517"
         },
         {
           "special_name": "数字媒体艺术",
           "level": "本科",
           "school_special_id": "2012255"
-        },
-        {
-          "special_name": "环境设计",
-          "level": "本科",
-          "school_special_id": "691715"
         },
         {
           "special_name": "视觉传达设计",
@@ -324,7 +294,7 @@
           "school_special_id": "1791079"
         },
         {
-          "special_name": "数字媒体艺术设计（时尚文创设计、室内设计、特效制作3个方向）",
+          "special_name": "数字媒体艺术设计",
           "level": "专科",
           "school_special_id": "49351"
         }
@@ -332,22 +302,27 @@
     },
     {
       "department_name": "影视传媒学院",
-      "special_num": 6,
+      "special_num": 8,
       "special": [
-        {
-          "special_name": "广播电视编导",
-          "level": "本科",
-          "school_special_id": "1023063"
-        },
         {
           "special_name": "影视摄影与制作",
           "level": "本科",
           "school_special_id": "1023061"
         },
         {
+          "special_name": "戏剧影视导演",
+          "level": "本科",
+          "school_special_id": "2171518"
+        },
+        {
           "special_name": "播音与主持艺术",
           "level": "本科",
           "school_special_id": "945211"
+        },
+        {
+          "special_name": "网络与新媒体",
+          "level": "本科",
+          "school_special_id": "2171519"
         },
         {
           "special_name": "舞蹈学",
@@ -363,6 +338,11 @@
           "special_name": "音乐学",
           "level": "本科",
           "school_special_id": "691694"
+        },
+        {
+          "special_name": "空中乘务",
+          "level": "专科",
+          "school_special_id": "155395"
         }
       ]
     }

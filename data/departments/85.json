@@ -1,12 +1,12 @@
 {
-  "update_time": "2026-05-01 08:12:33",
+  "update_time": "2026-06-01 11:34:17",
   "school_id": "85",
   "school_name": "天津商业大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/85.json?a=www.gaokao.cn",
-  "time": "2025-12-08 11:12:08",
-  "md5": "b65cccd3ed9f69d2ef278fdca0e7b596",
+  "time": "2026-05-28 17:35:38",
+  "md5": "b4352269779cd000dfa595a2f94fb180",
   "department_count": 12,
-  "special_count": 53,
+  "special_count": 55,
   "data": [
     {
       "department_name": "管理学院",
@@ -66,7 +66,7 @@
         {
           "special_name": "国际经济与贸易",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "3442"
         },
         {
           "special_name": "经济学",
@@ -92,7 +92,7 @@
     },
     {
       "department_name": "机械工程学院",
-      "special_num": 6,
+      "special_num": 7,
       "special": [
         {
           "special_name": "包装工程",
@@ -115,9 +115,14 @@
           "school_special_id": "1034004"
         },
         {
-          "special_name": "机械设计制造及自动化",
+          "special_name": "机械设计制造及其自动化",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "3474"
+        },
+        {
+          "special_name": "碳中和科学与工程",
+          "level": "本科",
+          "school_special_id": "2171553"
         },
         {
           "special_name": "能源与动力工程",
@@ -128,7 +133,7 @@
     },
     {
       "department_name": "生物技术与食品科学学院",
-      "special_num": 6,
+      "special_num": 7,
       "special": [
         {
           "special_name": "制药工程",
@@ -139,6 +144,11 @@
           "special_name": "应用化学",
           "level": "本科",
           "school_special_id": "3459"
+        },
+        {
+          "special_name": "生物制药",
+          "level": "本科",
+          "school_special_id": "2171554"
         },
         {
           "special_name": "生物工程",
@@ -245,9 +255,9 @@
       "special_num": 1,
       "special": [
         {
-          "special_name": "财务管理(中澳合作)",
+          "special_name": "财务管理（中外合作办学）",
           "level": "本科",
-          "school_special_id": "3453"
+          "school_special_id": "181547"
         }
       ]
     },
@@ -341,7 +351,7 @@
         {
           "special_name": "财务管理",
           "level": "本科",
-          "school_special_id": "3453"
+          "school_special_id": "181547"
         }
       ]
     }

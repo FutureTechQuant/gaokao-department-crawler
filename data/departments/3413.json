@@ -1,93 +1,104 @@
 {
-  "update_time": "2026-05-01 08:42:51",
+  "update_time": "2026-06-01 12:06:43",
   "school_id": "3413",
   "school_name": "云南医药健康职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3413.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:12:05",
-  "md5": "9469921792b6bf496c9cec9f633b9b36",
-  "department_count": 5,
-  "special_count": 21,
+  "time": "2026-05-28 17:35:37",
+  "md5": "0ca499e434e9980bdb0e2e2d1a2a602c",
+  "department_count": 6,
+  "special_count": 23,
   "data": [
     {
       "department_name": "基础与药学院",
-      "special_num": 2,
+      "special_num": 3,
       "special": [
         {
           "special_name": "中药学",
           "level": "专科",
-          "school_special_id": "196723"
+          "school_special_id": "0"
         },
         {
           "special_name": "药学",
           "level": "专科",
-          "school_special_id": "168850"
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "药膳与食疗",
+          "level": "专科",
+          "school_special_id": "0"
         }
       ]
     },
     {
-      "department_name": "临床医学院",
+      "department_name": "临床学院",
       "special_num": 2,
       "special": [
         {
           "special_name": "临床医学",
           "level": "专科",
-          "school_special_id": "1034066"
+          "school_special_id": "0"
         },
         {
           "special_name": "健康管理",
           "level": "专科",
-          "school_special_id": "196728"
+          "school_special_id": "0"
         }
       ]
     },
     {
-      "department_name": "康复与护理学院",
-      "special_num": 9,
+      "department_name": "康复学院",
+      "special_num": 5,
       "special": [
         {
           "special_name": "中医养生保健",
           "level": "专科",
-          "school_special_id": "1034069"
+          "school_special_id": "0"
         },
         {
           "special_name": "中医康复技术",
           "level": "专科",
-          "school_special_id": "196726"
+          "school_special_id": "0"
         },
         {
           "special_name": "体育保健与康复",
           "level": "专科",
-          "school_special_id": "1468795"
-        },
-        {
-          "special_name": "助产",
-          "level": "专科",
-          "school_special_id": "168852"
-        },
-        {
-          "special_name": "医学美容技术",
-          "level": "专科",
-          "school_special_id": "196727"
-        },
-        {
-          "special_name": "婴幼儿托育服务与管理",
-          "level": "专科",
-          "school_special_id": "1468794"
+          "school_special_id": "0"
         },
         {
           "special_name": "康复治疗技术",
           "level": "专科",
-          "school_special_id": "196725"
-        },
-        {
-          "special_name": "护理",
-          "level": "专科",
-          "school_special_id": "168849"
+          "school_special_id": "0"
         },
         {
           "special_name": "针灸推拿",
           "level": "专科",
-          "school_special_id": "1034067"
+          "school_special_id": "0"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "医学美容技术",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "0"
         }
       ]
     },
@@ -98,48 +109,53 @@
         {
           "special_name": "口腔医学",
           "level": "专科",
-          "school_special_id": "196722"
+          "school_special_id": "0"
         },
         {
           "special_name": "口腔医学技术",
           "level": "专科",
-          "school_special_id": "196724"
+          "school_special_id": "0"
         }
       ]
     },
     {
       "department_name": "医技学院",
-      "special_num": 6,
+      "special_num": 7,
       "special": [
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "0"
+        },
         {
           "special_name": "医学影像技术",
           "level": "专科",
-          "school_special_id": "168853"
+          "school_special_id": "0"
         },
         {
           "special_name": "医学检验技术",
           "level": "专科",
-          "school_special_id": "168851"
+          "school_special_id": "0"
         },
         {
-          "special_name": "卫生检验与检疫技术",
+          "special_name": "宠物医疗技术",
           "level": "专科",
-          "school_special_id": "2155904"
+          "school_special_id": "0"
         },
         {
-          "special_name": "放射治疗技术",
+          "special_name": "智慧健康养老服务与管理",
           "level": "专科",
-          "school_special_id": "2155909"
+          "school_special_id": "0"
         },
         {
-          "special_name": "智能医疗装备设备",
+          "special_name": "智能医疗装备技术",
           "level": "专科",
           "school_special_id": "0"
         },
         {
           "special_name": "眼视光技术",
           "level": "专科",
-          "school_special_id": "1034068"
+          "school_special_id": "0"
         }
       ]
     }

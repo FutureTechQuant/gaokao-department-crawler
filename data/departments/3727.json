@@ -1,21 +1,31 @@
 {
-  "update_time": "2026-05-01 08:45:49",
+  "update_time": "2026-06-01 12:10:01",
   "school_id": "3727",
   "school_name": "信阳科技职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/3727.json?a=www.gaokao.cn",
-  "time": "2025-06-20 10:13:40",
-  "md5": "c8401ec7ac32ceaa72f55f579afc38a3",
+  "time": "2026-05-25 16:57:36",
+  "md5": "96ad6e7d4d737d2a59d229d2d3908b4d",
   "department_count": 4,
-  "special_count": 11,
+  "special_count": 15,
   "data": [
     {
-      "department_name": "智能制造",
-      "special_num": 4,
+      "department_name": "智能制造学院",
+      "special_num": 6,
       "special": [
+        {
+          "special_name": "具身智能机器人技术",
+          "level": "专科",
+          "school_special_id": "2171569"
+        },
         {
           "special_name": "工业互联网应用",
           "level": "专科",
           "school_special_id": "2158501"
+        },
+        {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2171570"
         },
         {
           "special_name": "智能机电技术",
@@ -35,13 +45,13 @@
       ]
     },
     {
-      "department_name": "人工智能",
+      "department_name": "人工智能学院",
       "special_num": 4,
       "special": [
         {
-          "special_name": "人工智能技术",
+          "special_name": "人工智能技术应用",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "2158504"
         },
         {
           "special_name": "信息安全技术应用",
@@ -61,25 +71,35 @@
       ]
     },
     {
-      "department_name": "数字创意与设计",
+      "department_name": "电子信息工程学院",
       "special_num": 2,
       "special": [
         {
-          "special_name": "数字媒体艺术设计",
+          "special_name": "嵌入式技术应用",
           "level": "专科",
-          "school_special_id": "2165522"
+          "school_special_id": "2171572"
         },
         {
-          "special_name": "环境艺术设计",
+          "special_name": "电子信息工程技术",
           "level": "专科",
-          "school_special_id": "2163174"
+          "school_special_id": "2171571"
         }
       ]
     },
     {
-      "department_name": "智慧电商",
-      "special_num": 1,
+      "department_name": "智慧电商学院",
+      "special_num": 3,
       "special": [
+        {
+          "special_name": "低空物流技术与运营",
+          "level": "专科",
+          "school_special_id": "2171574"
+        },
+        {
+          "special_name": "供应链运营",
+          "level": "专科",
+          "school_special_id": "2171573"
+        },
         {
           "special_name": "智能物流技术",
           "level": "专科",

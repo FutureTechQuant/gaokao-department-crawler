@@ -1,139 +1,21 @@
 {
-  "update_time": "2026-05-01 08:31:17",
+  "update_time": "2026-06-01 11:54:25",
   "school_id": "1982",
   "school_name": "湖北科技职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1982.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:12:02",
-  "md5": "d9b8a5a04c1a9b2c82884661bfbc3943",
+  "time": "2026-05-19 16:55:25",
+  "md5": "5ddfc856a582cee8f089a8d46c647648",
   "department_count": 6,
-  "special_count": 35,
+  "special_count": 36,
   "data": [
     {
-      "department_name": "机电工程学院",
-      "special_num": 9,
-      "special": [
-        {
-          "special_name": "工业机器人技术(东本、汇博订单班)",
-          "level": "专科",
-          "school_special_id": "67878"
-        },
-        {
-          "special_name": "数控技术",
-          "level": "专科",
-          "school_special_id": "67875"
-        },
-        {
-          "special_name": "新能源汽车技术(吉利订单班)",
-          "level": "专科",
-          "school_special_id": "67873"
-        },
-        {
-          "special_name": "机械设计与制造",
-          "level": "专科",
-          "school_special_id": "67874"
-        },
-        {
-          "special_name": "机电一体化技术(富士康、丘钛订单班)",
-          "level": "专科",
-          "school_special_id": "67877"
-        },
-        {
-          "special_name": "模具设计与制造(3D打印)",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "汽车检测与维修技术(东本，吉利订单班)",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "电气自动化技术(华工激光订单班)",
-          "level": "专科",
-          "school_special_id": "67879"
-        },
-        {
-          "special_name": "石油工程技术",
-          "level": "专科",
-          "school_special_id": "0"
-        }
-      ]
-    },
-    {
-      "department_name": "人工智能学院",
-      "special_num": 6,
-      "special": [
-        {
-          "special_name": "云计算技术应用",
-          "level": "专科",
-          "school_special_id": "1471159"
-        },
-        {
-          "special_name": "人工智能技术应用",
-          "level": "专科",
-          "school_special_id": "1471161"
-        },
-        {
-          "special_name": "信息安全技术应用",
-          "level": "专科",
-          "school_special_id": "1471160"
-        },
-        {
-          "special_name": "大数据技术",
-          "level": "专科",
-          "school_special_id": "1471158"
-        },
-        {
-          "special_name": "电子信息工程技术",
-          "level": "专科",
-          "school_special_id": "67844"
-        },
-        {
-          "special_name": "计算机应用技术",
-          "level": "专科",
-          "school_special_id": "67845"
-        }
-      ]
-    },
-    {
-      "department_name": "软件工程学院",
-      "special_num": 4,
-      "special": [
-        {
-          "special_name": "区块链技术应用",
-          "level": "专科",
-          "school_special_id": "1471162"
-        },
-        {
-          "special_name": "物联网应用技术",
-          "level": "专科",
-          "school_special_id": "67846"
-        },
-        {
-          "special_name": "移动应用开发",
-          "level": "专科",
-          "school_special_id": "67849"
-        },
-        {
-          "special_name": "软件技术",
-          "level": "专科",
-          "school_special_id": "67847"
-        }
-      ]
-    },
-    {
       "department_name": "工商管理学院",
-      "special_num": 6,
+      "special_num": 5,
       "special": [
-        {
-          "special_name": "人力资源管理",
-          "level": "专科",
-          "school_special_id": "67861"
-        },
         {
           "special_name": "国际邮轮乘务管理",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "67854"
         },
         {
           "special_name": "市场营销",
@@ -146,40 +28,60 @@
           "school_special_id": "67859"
         },
         {
-          "special_name": "现代物流管理",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
           "special_name": "电子商务",
           "level": "专科",
           "school_special_id": "67865"
+        },
+        {
+          "special_name": "酒店管理与数字化运营",
+          "level": "专科",
+          "school_special_id": "1471165"
         }
       ]
     },
     {
-      "department_name": "经济贸易学院",
-      "special_num": 4,
+      "department_name": "机电工程学院",
+      "special_num": 8,
       "special": [
         {
-          "special_name": "大数据与会计",
+          "special_name": "工业机器人技术",
           "level": "专科",
-          "school_special_id": "1471167"
+          "school_special_id": "67878"
         },
         {
-          "special_name": "大数据与财务管理",
+          "special_name": "数控技术",
           "level": "专科",
-          "school_special_id": "1471168"
+          "school_special_id": "67875"
         },
         {
-          "special_name": "金融服务与管理",
+          "special_name": "新能源汽车技术",
           "level": "专科",
-          "school_special_id": "2041401"
+          "school_special_id": "67873"
         },
         {
-          "special_name": "金融科技应用",
+          "special_name": "机械设计与制造",
           "level": "专科",
-          "school_special_id": "1471166"
+          "school_special_id": "2171453"
+        },
+        {
+          "special_name": "机械设计与制造（专本联合培养）",
+          "level": "专科",
+          "school_special_id": "2171453"
+        },
+        {
+          "special_name": "机电一体化技术",
+          "level": "专科",
+          "school_special_id": "67877"
+        },
+        {
+          "special_name": "电气自动化技术",
+          "level": "专科",
+          "school_special_id": "67879"
+        },
+        {
+          "special_name": "石油工程技术",
+          "level": "专科",
+          "school_special_id": "67853"
         }
       ]
     },
@@ -208,14 +110,117 @@
           "school_special_id": "67867"
         },
         {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2171462"
+        },
+        {
           "special_name": "艺术设计",
           "level": "专科",
           "school_special_id": "67869"
+        }
+      ]
+    },
+    {
+      "department_name": "软件工程学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "区块链技术应用",
+          "level": "专科",
+          "school_special_id": "1471162"
         },
         {
-          "special_name": "虚拟现实技术应用",
+          "special_name": "智能产品开发与应用",
           "level": "专科",
-          "school_special_id": "1471170"
+          "school_special_id": "2171457"
+        },
+        {
+          "special_name": "物联网应用技术",
+          "level": "专科",
+          "school_special_id": "67846"
+        },
+        {
+          "special_name": "软件技术",
+          "level": "专科",
+          "school_special_id": "2171456"
+        },
+        {
+          "special_name": "软件技术（专本联合培养）",
+          "level": "专科",
+          "school_special_id": "2171456"
+        }
+      ]
+    },
+    {
+      "department_name": "人工智能学院",
+      "special_num": 8,
+      "special": [
+        {
+          "special_name": "云计算技术应用",
+          "level": "专科",
+          "school_special_id": "1471159"
+        },
+        {
+          "special_name": "人工智能技术应用",
+          "level": "专科",
+          "school_special_id": "1471161"
+        },
+        {
+          "special_name": "信息安全技术应用",
+          "level": "专科",
+          "school_special_id": "1471160"
+        },
+        {
+          "special_name": "大数据技术",
+          "level": "专科",
+          "school_special_id": "2171455"
+        },
+        {
+          "special_name": "大数据技术（专本联合培养）",
+          "level": "专科",
+          "school_special_id": "2171455"
+        },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "67844"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "2171454"
+        },
+        {
+          "special_name": "计算机应用技术（中加班）",
+          "level": "专科",
+          "school_special_id": "2171454"
+        }
+      ]
+    },
+    {
+      "department_name": "经济贸易学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "大数据与会计",
+          "level": "专科",
+          "school_special_id": "1471167"
+        },
+        {
+          "special_name": "大数据与财务管理",
+          "level": "专科",
+          "school_special_id": "1471168"
+        },
+        {
+          "special_name": "金融服务与管理",
+          "level": "专科",
+          "school_special_id": "2041401"
+        },
+        {
+          "special_name": "金融科技应用",
+          "level": "专科",
+          "school_special_id": "1471166"
         }
       ]
     }

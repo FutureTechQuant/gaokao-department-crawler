@@ -1,72 +1,31 @@
 {
-  "update_time": "2026-05-01 08:19:49",
+  "update_time": "2026-06-01 11:42:07",
   "school_id": "763",
   "school_name": "哈尔滨信息工程学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/763.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:53",
-  "md5": "683f40eb7d1720ac6d5c0499a8d8a800",
+  "time": "2026-05-06 16:58:27",
+  "md5": "f9e8c482f8989ae2b679f58fa1ca203d",
   "department_count": 4,
-  "special_count": 16,
+  "special_count": 14,
   "data": [
     {
-      "department_name": "软件学院",
-      "special_num": 7,
-      "special": [
-        {
-          "special_name": "数据科学与大数据技术",
-          "level": "本科",
-          "school_special_id": "169443"
-        },
-        {
-          "special_name": "智能科学与技术",
-          "level": "本科",
-          "school_special_id": "1130060"
-        },
-        {
-          "special_name": "虚拟现实技术",
-          "level": "本科",
-          "school_special_id": "1467078"
-        },
-        {
-          "special_name": "计算机科学与技术",
-          "level": "本科",
-          "school_special_id": "36760"
-        },
-        {
-          "special_name": "软件工程",
-          "level": "本科",
-          "school_special_id": "36740"
-        },
-        {
-          "special_name": "计算机应用技术",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "软件技术",
-          "level": "专科",
-          "school_special_id": "0"
-        }
-      ]
-    },
-    {
-      "department_name": "电子工程学院",
+      "department_name": "艺术设计学院",
       "special_num": 3,
       "special": [
         {
-          "special_name": "人工智能",
+          "special_name": "数字媒体技术",
           "level": "本科",
-          "school_special_id": "1467077"
+          "school_special_id": "2163548"
         },
         {
-          "special_name": "电子信息工程",
+          "special_name": "环境设计",
           "level": "本科",
-          "school_special_id": "36742"
+          "school_special_id": "36768"
         },
         {
-          "special_name": "自动化",
+          "special_name": "视觉传达设计",
           "level": "本科",
-          "school_special_id": "36743"
+          "school_special_id": "36769"
         }
       ]
     },
@@ -97,18 +56,49 @@
       ]
     },
     {
-      "department_name": "艺术设计学院",
-      "special_num": 2,
+      "department_name": "电子工程学院",
+      "special_num": 3,
       "special": [
         {
-          "special_name": "环境设计",
+          "special_name": "人工智能",
           "level": "本科",
-          "school_special_id": "36768"
+          "school_special_id": "1467077"
         },
         {
-          "special_name": "视觉传达设计",
+          "special_name": "电子信息工程",
           "level": "本科",
-          "school_special_id": "36769"
+          "school_special_id": "36742"
+        },
+        {
+          "special_name": "自动化",
+          "level": "本科",
+          "school_special_id": "36743"
+        }
+      ]
+    },
+    {
+      "department_name": "软件学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "数据科学与大数据技术",
+          "level": "本科",
+          "school_special_id": "169443"
+        },
+        {
+          "special_name": "虚拟现实技术",
+          "level": "本科",
+          "school_special_id": "1467078"
+        },
+        {
+          "special_name": "计算机科学与技术",
+          "level": "本科",
+          "school_special_id": "36760"
+        },
+        {
+          "special_name": "软件工程",
+          "level": "本科",
+          "school_special_id": "36740"
         }
       ]
     }

@@ -1,12 +1,12 @@
 {
-  "update_time": "2026-05-01 08:12:42",
+  "update_time": "2026-06-01 11:34:26",
   "school_id": "98",
   "school_name": "华南师范大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/98.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:44",
-  "md5": "5beb3fa0f6cb5681e8696add35cae1e3",
-  "department_count": 35,
-  "special_count": 116,
+  "time": "2026-05-28 17:35:37",
+  "md5": "08d9e95ad5bcd5636678bb7d681255ae",
+  "department_count": 36,
+  "special_count": 118,
   "data": [
     {
       "department_name": "教育科学学院、特殊教育学院",
@@ -15,22 +15,22 @@
         {
           "special_name": "学前教育",
           "level": "本科",
-          "school_special_id": "168794"
+          "school_special_id": 0
         },
         {
           "special_name": "小学教育",
           "level": "本科",
-          "school_special_id": "349856"
+          "school_special_id": 0
         },
         {
           "special_name": "教育学",
           "level": "本科",
-          "school_special_id": "168795"
+          "school_special_id": 0
         },
         {
           "special_name": "特殊教育",
           "level": "本科",
-          "school_special_id": "168793"
+          "school_special_id": 0
         }
       ]
     },
@@ -57,7 +57,7 @@
         {
           "special_name": "思想政治教育",
           "level": "本科",
-          "school_special_id": "101088"
+          "school_special_id": 0
         },
         {
           "special_name": "马克思主义理论",
@@ -73,7 +73,7 @@
         {
           "special_name": "历史学",
           "level": "本科",
-          "school_special_id": "101089"
+          "school_special_id": 0
         }
       ]
     },
@@ -94,12 +94,12 @@
         {
           "special_name": "法语（中外联合培养）",
           "level": "本科",
-          "school_special_id": "4130"
+          "school_special_id": 0
         },
         {
           "special_name": "翻译",
           "level": "本科",
-          "school_special_id": "4097"
+          "school_special_id": 0
         },
         {
           "special_name": "英语",
@@ -141,12 +141,12 @@
         {
           "special_name": "美术学（师范）",
           "level": "本科",
-          "school_special_id": "2161866"
+          "school_special_id": 0
         },
         {
           "special_name": "视觉传达设计（停招）",
           "level": "本科",
-          "school_special_id": "4087"
+          "school_special_id": 0
         }
       ]
     },
@@ -162,7 +162,7 @@
         {
           "special_name": "教育技术学",
           "level": "本科",
-          "school_special_id": "4104"
+          "school_special_id": 0
         },
         {
           "special_name": "新闻学",
@@ -188,7 +188,7 @@
         {
           "special_name": "数学与应用数学(师范)",
           "level": "本科",
-          "school_special_id": "101136"
+          "school_special_id": 0
         },
         {
           "special_name": "金融数学",
@@ -214,7 +214,7 @@
         {
           "special_name": "生物科学(师范)",
           "level": "本科",
-          "school_special_id": "101119"
+          "school_special_id": 0
         }
       ]
     },
@@ -235,7 +235,7 @@
         {
           "special_name": "地理科学",
           "level": "本科",
-          "school_special_id": "101102"
+          "school_special_id": 0
         },
         {
           "special_name": "自然地理与资源环境",
@@ -297,7 +297,7 @@
         {
           "special_name": "心理学",
           "level": "本科",
-          "school_special_id": "101131"
+          "school_special_id": 0
         }
       ]
     },
@@ -313,7 +313,7 @@
         {
           "special_name": "汉语言文学(师范)",
           "level": "本科",
-          "school_special_id": "4085"
+          "school_special_id": 0
         },
         {
           "special_name": "编辑出版学(停招)",
@@ -359,12 +359,12 @@
         {
           "special_name": "电子商务",
           "level": "本科",
-          "school_special_id": "4114"
+          "school_special_id": 0
         },
         {
           "special_name": "电子商务(中外联合培养)",
           "level": "本科",
-          "school_special_id": "4114"
+          "school_special_id": 0
         },
         {
           "special_name": "经济学",
@@ -416,7 +416,7 @@
         {
           "special_name": "管理科学",
           "level": "本科",
-          "school_special_id": "4142"
+          "school_special_id": 0
         },
         {
           "special_name": "行政管理",
@@ -432,7 +432,7 @@
         {
           "special_name": "体育教育",
           "level": "本科",
-          "school_special_id": "2160567"
+          "school_special_id": 0
         },
         {
           "special_name": "社会体育指导与管理",
@@ -453,17 +453,17 @@
         {
           "special_name": "舞蹈学(师范)",
           "level": "本科",
-          "school_special_id": "2161867"
+          "school_special_id": 0
         },
         {
           "special_name": "音乐学(师范)",
           "level": "本科",
-          "school_special_id": "2161868"
+          "school_special_id": 0
         },
         {
           "special_name": "音乐表演",
           "level": "本科",
-          "school_special_id": "4108"
+          "school_special_id": 0
         }
       ]
     },
@@ -474,7 +474,7 @@
         {
           "special_name": "物理学(师范)",
           "level": "本科",
-          "school_special_id": "101117"
+          "school_special_id": 0
         }
       ]
     },
@@ -485,7 +485,7 @@
         {
           "special_name": "化学(师范)",
           "level": "本科",
-          "school_special_id": "101118"
+          "school_special_id": 0
         },
         {
           "special_name": "新能源材料与器件",
@@ -527,7 +527,7 @@
         {
           "special_name": "信息工程",
           "level": "本科",
-          "school_special_id": "4124"
+          "school_special_id": 0
         },
         {
           "special_name": "光电信息科学与工程",
@@ -537,7 +537,7 @@
         {
           "special_name": "科学教育",
           "level": "本科",
-          "school_special_id": "856136"
+          "school_special_id": 0
         }
       ]
     },
@@ -564,12 +564,12 @@
         {
           "special_name": "学前教育（师范）",
           "level": "本科",
-          "school_special_id": "168794"
+          "school_special_id": 0
         },
         {
           "special_name": "小学教育（师范）",
           "level": "本科",
-          "school_special_id": "349856"
+          "school_special_id": 0
         }
       ]
     },
@@ -595,7 +595,7 @@
         {
           "special_name": "物联网工程",
           "level": "本科",
-          "school_special_id": "1797343"
+          "school_special_id": 0
         }
       ]
     },
@@ -626,7 +626,7 @@
         {
           "special_name": "科学教育",
           "level": "本科",
-          "school_special_id": "856136"
+          "school_special_id": 0
         }
       ]
     },
@@ -642,7 +642,7 @@
         {
           "special_name": "工艺美术(未招)",
           "level": "本科",
-          "school_special_id": "2011948"
+          "school_special_id": 0
         },
         {
           "special_name": "服装与服饰设计",
@@ -658,7 +658,7 @@
         {
           "special_name": "数字经济",
           "level": "本科",
-          "school_special_id": "1801281"
+          "school_special_id": 0
         },
         {
           "special_name": "跨境电子商务",
@@ -679,12 +679,12 @@
         {
           "special_name": "大数据管理与应用",
           "level": "本科",
-          "school_special_id": "1801286"
+          "school_special_id": 0
         },
         {
           "special_name": "数字经济",
           "level": "本科",
-          "school_special_id": "1801281"
+          "school_special_id": 0
         },
         {
           "special_name": "文化产业管理(停招)",
@@ -694,7 +694,7 @@
         {
           "special_name": "法语",
           "level": "本科",
-          "school_special_id": "4130"
+          "school_special_id": 0
         },
         {
           "special_name": "网络与新媒体(停招)",
@@ -795,6 +795,22 @@
           "special_name": "软件工程(中外合作办学)",
           "level": "本科",
           "school_special_id": "4126"
+        }
+      ]
+    },
+    {
+      "department_name": "雷恩数智商学院",
+      "special_num": 2,
+      "special": [
+        {
+          "special_name": "大数据管理与应用（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "2170866"
+        },
+        {
+          "special_name": "数字经济（中外合作办学）",
+          "level": "本科",
+          "school_special_id": "2170867"
         }
       ]
     }

@@ -1,12 +1,12 @@
 {
-  "update_time": "2026-05-01 08:37:51",
+  "update_time": "2026-06-01 12:01:19",
   "school_id": "2619",
   "school_name": "岭南大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2619.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:51",
-  "md5": "9b1dd3d13ddb3f079825bd33440e3cb8",
+  "time": "2026-05-15 16:31:14",
+  "md5": "55cdeca6dfe110650d0db9815e0f3f9a",
   "department_count": 5,
-  "special_count": 19,
+  "special_count": 25,
   "data": [
     {
       "department_name": "文学院",
@@ -20,105 +20,124 @@
         {
           "special_name": "动画及数码艺术",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171325"
         },
         {
           "special_name": "历史",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171329"
         },
         {
           "special_name": "哲学",
           "level": "本科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "当代英语研究",
-          "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171330"
         },
         {
           "special_name": "文化研究",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171326"
         },
         {
           "special_name": "电影与视觉艺术",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171328"
         },
         {
-          "special_name": "翻译、跨文化研究及企业传讯",
+          "special_name": "翻译",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171331"
+        },
+        {
+          "special_name": "英语语言文学",
+          "level": "本科",
+          "school_special_id": "2171327"
         }
       ]
     },
     {
       "department_name": "商学院",
-      "special_num": 4,
+      "special_num": 6,
       "special": [
         {
-          "special_name": "工商管理(BBA)",
+          "special_name": "会计与企业管治",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171332"
         },
         {
-          "special_name": "工商管理(数码商业)(自资)",
+          "special_name": "商业分析与创新",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171333"
         },
         {
-          "special_name": "工商管理(风险与保险管理)",
+          "special_name": "市场学与社交媒体",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171336"
         },
         {
-          "special_name": "工商管理(风险与保险管理)(自资)",
+          "special_name": "管理与分析",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171335"
+        },
+        {
+          "special_name": "金融",
+          "level": "本科",
+          "school_special_id": "2171334"
+        },
+        {
+          "special_name": "风险及保险管理",
+          "level": "本科",
+          "school_special_id": "2171337"
         }
       ]
     },
     {
-      "department_name": "社会科学学院",
-      "special_num": 3,
+      "department_name": "社会科学院",
+      "special_num": 9,
       "special": [
         {
-          "special_name": "全球经济及银行业社会科学",
+          "special_name": "健康及社会服务管理",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171342"
         },
         {
-          "special_name": "商业心理学社会科学",
+          "special_name": "商业心理学（自资课程）",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171338"
         },
         {
-          "special_name": "社会科学",
+          "special_name": "心理学",
           "level": "本科",
-          "school_special_id": "0"
-        }
-      ]
-    },
-    {
-      "department_name": "跨学科研究学院",
-      "special_num": 3,
-      "special": [
-        {
-          "special_name": "公共及智慧管理",
-          "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171343"
         },
         {
-          "special_name": "环球可持续发展",
+          "special_name": "政府与国际事务学",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171341"
         },
         {
-          "special_name": "运动教练学及赛事管理",
+          "special_name": "环球经济与银行（自资课程）",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171340"
+        },
+        {
+          "special_name": "社会与公共政策研究",
+          "level": "本科",
+          "school_special_id": "2171344"
+        },
+        {
+          "special_name": "社会学",
+          "level": "本科",
+          "school_special_id": "2171346"
+        },
+        {
+          "special_name": "社会数据科学",
+          "level": "本科",
+          "school_special_id": "2171345"
+        },
+        {
+          "special_name": "经济学",
+          "level": "本科",
+          "school_special_id": "2171339"
         }
       ]
     },
@@ -129,7 +148,18 @@
         {
           "special_name": "数据科学",
           "level": "本科",
-          "school_special_id": "0"
+          "school_special_id": "2171347"
+        }
+      ]
+    },
+    {
+      "department_name": "伍絜宜跨学科学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "环球可持续发展",
+          "level": "本科",
+          "school_special_id": "2171348"
         }
       ]
     }

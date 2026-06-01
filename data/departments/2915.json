@@ -1,17 +1,22 @@
 {
-  "update_time": "2026-05-01 08:39:14",
+  "update_time": "2026-06-01 12:02:47",
   "school_id": "2915",
   "school_name": "重庆安全技术职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2915.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:12:03",
-  "md5": "caac2e41af95e68f533f7b682f4f278f",
+  "time": "2026-05-28 17:35:37",
+  "md5": "b001c74abde04de8181e2d441d48288f",
   "department_count": 5,
-  "special_count": 27,
+  "special_count": 32,
   "data": [
     {
-      "department_name": "安全监督管理学院",
+      "department_name": "应急管理学院",
       "special_num": 6,
       "special": [
+        {
+          "special_name": "化工安全技术",
+          "level": "专科",
+          "school_special_id": "2167459"
+        },
         {
           "special_name": "安全技术与管理",
           "level": "专科",
@@ -33,11 +38,6 @@
           "school_special_id": "2058475"
         },
         {
-          "special_name": "食品检验检测技术",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
           "special_name": "食品质量与安全",
           "level": "专科",
           "school_special_id": "85713"
@@ -45,13 +45,18 @@
       ]
     },
     {
-      "department_name": "网络与信息安全学院",
-      "special_num": 6,
+      "department_name": "人工智能学院",
+      "special_num": 7,
       "special": [
         {
           "special_name": "人工智能技术应用",
           "level": "专科",
           "school_special_id": "1533246"
+        },
+        {
+          "special_name": "低空安全与技术",
+          "level": "专科",
+          "school_special_id": "2171369"
         },
         {
           "special_name": "信息安全技术应用",
@@ -64,14 +69,14 @@
           "school_special_id": "1468655"
         },
         {
-          "special_name": "数字媒体技术",
-          "level": "专科",
-          "school_special_id": "2157977"
-        },
-        {
           "special_name": "物联网应用技术",
           "level": "专科",
           "school_special_id": "85710"
+        },
+        {
+          "special_name": "现代移动通信技术",
+          "level": "专科",
+          "school_special_id": "1535719"
         },
         {
           "special_name": "计算机网络技术",
@@ -81,9 +86,45 @@
       ]
     },
     {
-      "department_name": "智能制造与工业安全学院",
+      "department_name": "智慧建造与工程安全学院",
       "special_num": 5,
       "special": [
+        {
+          "special_name": "建筑工程技术",
+          "level": "专科",
+          "school_special_id": "85711"
+        },
+        {
+          "special_name": "建筑消防技术",
+          "level": "专科",
+          "school_special_id": "1533245"
+        },
+        {
+          "special_name": "智能建造技术",
+          "level": "专科",
+          "school_special_id": "2167460"
+        },
+        {
+          "special_name": "道路与桥梁工程技术",
+          "level": "专科",
+          "school_special_id": "2041193"
+        },
+        {
+          "special_name": "防灾减灾救灾技术",
+          "level": "专科",
+          "school_special_id": "2171370"
+        }
+      ]
+    },
+    {
+      "department_name": "智能制造与工业安全学院",
+      "special_num": 6,
+      "special": [
+        {
+          "special_name": "低空飞行器装备技术",
+          "level": "专科",
+          "school_special_id": "2171371"
+        },
         {
           "special_name": "工业机器人技术",
           "level": "专科",
@@ -95,14 +136,14 @@
           "school_special_id": "121328"
         },
         {
+          "special_name": "无人机应用技术",
+          "level": "专科",
+          "school_special_id": "2167461"
+        },
+        {
           "special_name": "机电一体化技术",
           "level": "专科",
           "school_special_id": "85714"
-        },
-        {
-          "special_name": "现代移动通信技术",
-          "level": "专科",
-          "school_special_id": "1535719"
         },
         {
           "special_name": "电气自动化技术",
@@ -112,8 +153,8 @@
       ]
     },
     {
-      "department_name": "工商管理学院",
-      "special_num": 6,
+      "department_name": "现代服务管理学院",
+      "special_num": 8,
       "special": [
         {
           "special_name": "会计信息管理",
@@ -121,9 +162,19 @@
           "school_special_id": "85707"
         },
         {
+          "special_name": "低空物流技术与运营",
+          "level": "专科",
+          "school_special_id": "2171372"
+        },
+        {
           "special_name": "婴幼儿托育服务与管理",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "1468652"
+        },
+        {
+          "special_name": "数字媒体技术",
+          "level": "专科",
+          "school_special_id": "2157977"
         },
         {
           "special_name": "旅游管理",
@@ -144,32 +195,6 @@
           "special_name": "网络营销与直播电商",
           "level": "专科",
           "school_special_id": "2041177"
-        }
-      ]
-    },
-    {
-      "department_name": "建筑与环境安全学院",
-      "special_num": 4,
-      "special": [
-        {
-          "special_name": "建筑动画技术",
-          "level": "专科",
-          "school_special_id": "1535720"
-        },
-        {
-          "special_name": "建筑工程技术",
-          "level": "专科",
-          "school_special_id": "85711"
-        },
-        {
-          "special_name": "建筑消防技术",
-          "level": "专科",
-          "school_special_id": "1533245"
-        },
-        {
-          "special_name": "道路与桥梁工程技术",
-          "level": "专科",
-          "school_special_id": "2041193"
         }
       ]
     }

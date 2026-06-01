@@ -1,12 +1,12 @@
 {
-  "update_time": "2026-05-01 08:13:36",
+  "update_time": "2026-06-01 11:35:23",
   "school_id": "178",
   "school_name": "重庆医科大学",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/178.json?a=www.gaokao.cn",
-  "time": "2026-03-20 10:19:01",
-  "md5": "215b8114ea585a75bf336ad8a8c59359",
-  "department_count": 14,
-  "special_count": 38,
+  "time": "2026-05-28 17:35:37",
+  "md5": "814a7c9b4b2cff5f9951819185fbfe8f",
+  "department_count": 16,
+  "special_count": 41,
   "data": [
     {
       "department_name": "基础医学院",
@@ -73,8 +73,13 @@
     },
     {
       "department_name": "公共卫生学院",
-      "special_num": 4,
+      "special_num": 5,
       "special": [
+        {
+          "special_name": "健康与医疗保障",
+          "level": "本科",
+          "school_special_id": "2161619"
+        },
         {
           "special_name": "公共事业管理",
           "level": "本科",
@@ -279,6 +284,28 @@
           "special_name": "临床医学（AI医学创新班）",
           "level": "本科",
           "school_special_id": "1469663"
+        }
+      ]
+    },
+    {
+      "department_name": "第四临床学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "中西医临床医学",
+          "level": "本科",
+          "school_special_id": "9316"
+        }
+      ]
+    },
+    {
+      "department_name": "生物医学工程学院",
+      "special_num": 1,
+      "special": [
+        {
+          "special_name": "生物医学工程",
+          "level": "本科",
+          "school_special_id": "9311"
         }
       ]
     }

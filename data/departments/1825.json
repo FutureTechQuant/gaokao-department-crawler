@@ -1,13 +1,54 @@
 {
-  "update_time": "2026-05-01 08:29:29",
+  "update_time": "2026-06-01 11:52:32",
   "school_id": "1825",
   "school_name": "池州职业技术学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/1825.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:12:01",
-  "md5": "94e1f86c5cc0132eb6846e27e937baaf",
+  "time": "2026-05-25 16:57:36",
+  "md5": "dd39cc0bedcbf34ecbf71576340ad772",
   "department_count": 7,
-  "special_count": 47,
+  "special_count": 42,
   "data": [
+    {
+      "department_name": "生物与健康系",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "中医养生保健",
+          "level": "专科",
+          "school_special_id": "1711111"
+        },
+        {
+          "special_name": "动物医学",
+          "level": "专科",
+          "school_special_id": "122819"
+        },
+        {
+          "special_name": "动物防疫与检疫",
+          "level": "专科",
+          "school_special_id": "63567"
+        },
+        {
+          "special_name": "宠物医疗技术",
+          "level": "专科",
+          "school_special_id": "2169174"
+        },
+        {
+          "special_name": "应用化工技术",
+          "level": "专科",
+          "school_special_id": "1038764"
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "63586"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "2169176"
+        }
+      ]
+    },
     {
       "department_name": "经济与管理系",
       "special_num": 5,
@@ -40,19 +81,40 @@
       ]
     },
     {
-      "department_name": "建筑与园林系",
-      "special_num": 13,
+      "department_name": "电子信息与传媒系",
+      "special_num": 5,
       "special": [
         {
-          "special_name": "产品艺术设计",
+          "special_name": "人工智能技术应用",
           "level": "专科",
-          "school_special_id": "122831"
+          "school_special_id": "1711097"
         },
         {
-          "special_name": "园林工程技术",
+          "special_name": "微电子技术",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "2149100"
         },
+        {
+          "special_name": "电子信息工程技术",
+          "level": "专科",
+          "school_special_id": "122822"
+        },
+        {
+          "special_name": "计算机应用技术",
+          "level": "专科",
+          "school_special_id": "63568"
+        },
+        {
+          "special_name": "计算机网络技术",
+          "level": "专科",
+          "school_special_id": "63582"
+        }
+      ]
+    },
+    {
+      "department_name": "建筑与园林系",
+      "special_num": 8,
+      "special": [
         {
           "special_name": "园林技术",
           "level": "专科",
@@ -64,32 +126,12 @@
           "school_special_id": "63578"
         },
         {
-          "special_name": "工程造价（市政园林）",
+          "special_name": "工程造价",
           "level": "专科",
           "school_special_id": "1038762"
-        },
-        {
-          "special_name": "工程造价（建筑工程）",
-          "level": "专科",
-          "school_special_id": "1038762"
-        },
-        {
-          "special_name": "市政工程技术",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "广告设计与制作",
-          "level": "专科",
-          "school_special_id": "63581"
         },
         {
           "special_name": "建筑工程技术",
-          "level": "专科",
-          "school_special_id": "63573"
-        },
-        {
-          "special_name": "建筑工程技术（装配化施工）",
           "level": "专科",
           "school_special_id": "63573"
         },
@@ -99,9 +141,14 @@
           "school_special_id": "63577"
         },
         {
-          "special_name": "建设工程管理",
+          "special_name": "森林生态旅游与康养",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "2169177"
+        },
+        {
+          "special_name": "装配式建筑工程技术",
+          "level": "专科",
+          "school_special_id": "2149101"
         },
         {
           "special_name": "风景园林设计",
@@ -111,50 +158,40 @@
       ]
     },
     {
-      "department_name": "电子信息与传媒系",
-      "special_num": 6,
+      "department_name": "旅游系",
+      "special_num": 5,
       "special": [
         {
-          "special_name": "人工智能技术应用",
+          "special_name": "旅游管理",
           "level": "专科",
-          "school_special_id": "1711097"
+          "school_special_id": "63579"
         },
         {
-          "special_name": "动漫制作技术",
+          "special_name": "民宿管理与运营",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "2169175"
         },
         {
-          "special_name": "微电子技术",
+          "special_name": "空中乘务",
           "level": "专科",
-          "school_special_id": "2149100"
+          "school_special_id": "1038765"
         },
         {
-          "special_name": "电子信息工程技术",
+          "special_name": "酒店管理与数字化运营",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "1778525"
         },
         {
-          "special_name": "计算机应用技术",
+          "special_name": "高速铁路客运服务",
           "level": "专科",
-          "school_special_id": "63568"
-        },
-        {
-          "special_name": "计算机网络技术",
-          "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "1711108"
         }
       ]
     },
     {
       "department_name": "机电与汽车系",
-      "special_num": 10,
+      "special_num": 9,
       "special": [
-        {
-          "special_name": "机械设计制造及其自动化",
-          "level": "本科",
-          "school_special_id": "0"
-        },
         {
           "special_name": "工业互联网应用",
           "level": "专科",
@@ -163,7 +200,7 @@
         {
           "special_name": "工业机器人技术",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "122828"
         },
         {
           "special_name": "数控技术",
@@ -173,12 +210,12 @@
         {
           "special_name": "新能源汽车技术",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "122827"
         },
         {
           "special_name": "智能网联汽车技术",
           "level": "专科",
-          "school_special_id": "0"
+          "school_special_id": "1472886"
         },
         {
           "special_name": "机械制造及自动化",
@@ -203,37 +240,6 @@
       ]
     },
     {
-      "department_name": "旅游系",
-      "special_num": 5,
-      "special": [
-        {
-          "special_name": "休闲体育",
-          "level": "专科",
-          "school_special_id": "1038766"
-        },
-        {
-          "special_name": "旅游管理",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "空中乘务",
-          "level": "专科",
-          "school_special_id": "1038765"
-        },
-        {
-          "special_name": "酒店管理与数字化运营",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "高速铁路客运服务",
-          "level": "专科",
-          "school_special_id": "1711108"
-        }
-      ]
-    },
-    {
       "department_name": "教育系",
       "special_num": 3,
       "special": [
@@ -251,37 +257,6 @@
           "special_name": "小学教育",
           "level": "专科",
           "school_special_id": "122826"
-        }
-      ]
-    },
-    {
-      "department_name": "生物与健康系",
-      "special_num": 5,
-      "special": [
-        {
-          "special_name": "中医养生保健",
-          "level": "专科",
-          "school_special_id": "1711111"
-        },
-        {
-          "special_name": "动物医学",
-          "level": "专科",
-          "school_special_id": "122819"
-        },
-        {
-          "special_name": "动物防疫与检疫",
-          "level": "专科",
-          "school_special_id": "63567"
-        },
-        {
-          "special_name": "宠物医疗技术",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "护理",
-          "level": "专科",
-          "school_special_id": "63586"
         }
       ]
     }

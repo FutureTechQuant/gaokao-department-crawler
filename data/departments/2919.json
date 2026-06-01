@@ -1,65 +1,13 @@
 {
-  "update_time": "2026-05-01 08:39:17",
+  "update_time": "2026-06-01 12:02:50",
   "school_id": "2919",
   "school_name": "四川卫生康复职业学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2919.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:12:00",
-  "md5": "ab4f7b570ccaf559870f804acac4bcb2",
+  "time": "2026-05-28 09:19:59",
+  "md5": "2e11a1a5278fa79893334991dda88730",
   "department_count": 5,
-  "special_count": 23,
+  "special_count": 25,
   "data": [
-    {
-      "department_name": "教育体育学院",
-      "special_num": 2,
-      "special": [
-        {
-          "special_name": "休闲体育",
-          "level": "专科",
-          "school_special_id": "1785401"
-        },
-        {
-          "special_name": "健身指导与管理",
-          "level": "专科",
-          "school_special_id": "1785404"
-        }
-      ]
-    },
-    {
-      "department_name": "护理学院",
-      "special_num": 6,
-      "special": [
-        {
-          "special_name": "助产",
-          "level": "专科",
-          "school_special_id": "132826"
-        },
-        {
-          "special_name": "医学美容技术",
-          "level": "专科",
-          "school_special_id": "132833"
-        },
-        {
-          "special_name": "婴幼儿托育服务与管理",
-          "level": "专科",
-          "school_special_id": "2159331"
-        },
-        {
-          "special_name": "护理",
-          "level": "专科",
-          "school_special_id": "132825"
-        },
-        {
-          "special_name": "现代家政服务与管理",
-          "level": "专科",
-          "school_special_id": "0"
-        },
-        {
-          "special_name": "老年保健与管理",
-          "level": "专科",
-          "school_special_id": "0"
-        }
-      ]
-    },
     {
       "department_name": "康复学院",
       "special_num": 6,
@@ -97,28 +45,64 @@
       ]
     },
     {
-      "department_name": "药品食品学院",
-      "special_num": 4,
+      "department_name": "教育体育学院",
+      "special_num": 3,
       "special": [
         {
-          "special_name": "中药学",
+          "special_name": "休闲体育",
           "level": "专科",
-          "school_special_id": "132830"
+          "school_special_id": "1785401"
         },
         {
-          "special_name": "药品生产技术",
+          "special_name": "体能训练",
           "level": "专科",
-          "school_special_id": "1458125"
+          "school_special_id": "2171648"
         },
         {
-          "special_name": "药品经营与管理",
+          "special_name": "健身指导与管理",
           "level": "专科",
-          "school_special_id": "85782"
+          "school_special_id": "1785404"
+        }
+      ]
+    },
+    {
+      "department_name": "护理学院",
+      "special_num": 7,
+      "special": [
+        {
+          "special_name": "助产",
+          "level": "专科",
+          "school_special_id": "132826"
         },
         {
-          "special_name": "药学",
+          "special_name": "医学美容技术",
           "level": "专科",
-          "school_special_id": "132829"
+          "school_special_id": "132833"
+        },
+        {
+          "special_name": "婴幼儿托育服务与管理",
+          "level": "专科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "护理",
+          "level": "专科",
+          "school_special_id": "132825"
+        },
+        {
+          "special_name": "智慧健康养老服务与管理",
+          "level": "专科",
+          "school_special_id": "2171647"
+        },
+        {
+          "special_name": "现代家政服务与管理",
+          "level": "专科",
+          "school_special_id": "0"
+        },
+        {
+          "special_name": "老年保健与管理",
+          "level": "专科",
+          "school_special_id": "0"
         }
       ]
     },
@@ -150,6 +134,32 @@
           "special_name": "眼视光技术",
           "level": "专科",
           "school_special_id": "172270"
+        }
+      ]
+    },
+    {
+      "department_name": "药品食品学院",
+      "special_num": 4,
+      "special": [
+        {
+          "special_name": "中药学",
+          "level": "专科",
+          "school_special_id": "132830"
+        },
+        {
+          "special_name": "药品生产技术",
+          "level": "专科",
+          "school_special_id": "1458125"
+        },
+        {
+          "special_name": "药品经营与管理",
+          "level": "专科",
+          "school_special_id": 0
+        },
+        {
+          "special_name": "药学",
+          "level": "专科",
+          "school_special_id": "132829"
         }
       ]
     }

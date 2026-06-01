@@ -1,48 +1,89 @@
 {
-  "update_time": "2026-05-01 08:37:39",
+  "update_time": "2026-06-01 12:01:06",
   "school_id": "2571",
   "school_name": "遵义医科大学医学与科技学院",
   "source_url": "https://static-data.gaokao.cn/www/2.0/school/department/2571.json?a=www.gaokao.cn",
-  "time": "2025-06-11 17:11:52",
-  "md5": "0493b3f665f7d5c40d007b370f7a84ac",
-  "department_count": 7,
+  "time": "2026-05-26 17:18:34",
+  "md5": "a7931c23949299590783510b9dc752de",
+  "department_count": 6,
   "special_count": 26,
   "data": [
     {
-      "department_name": "基础医学院",
+      "department_name": "智能信息工程学院",
       "special_num": 5,
       "special": [
         {
-          "special_name": "中药学",
+          "special_name": "人工智能",
           "level": "本科",
-          "school_special_id": "2154662"
+          "school_special_id": "2154660"
         },
         {
-          "special_name": "制药工程",
+          "special_name": "信息与计算科学",
           "level": "本科",
-          "school_special_id": "82791"
+          "school_special_id": "82794"
         },
         {
-          "special_name": "药学",
+          "special_name": "数据科学与大数据技术",
           "level": "本科",
-          "school_special_id": "82786"
+          "school_special_id": "2154661"
         },
         {
-          "special_name": "药物制剂",
+          "special_name": "新媒体技术",
           "level": "本科",
-          "school_special_id": "82789"
+          "school_special_id": "2164532"
         },
         {
-          "special_name": "食品卫生与营养学",
+          "special_name": "智能医学工程",
           "level": "本科",
-          "school_special_id": "1801565"
+          "school_special_id": "1801566"
         }
       ]
     },
     {
-      "department_name": "护理学院",
-      "special_num": 1,
+      "department_name": "运动健康学院",
+      "special_num": 3,
       "special": [
+        {
+          "special_name": "休闲体育",
+          "level": "本科",
+          "school_special_id": "1468629"
+        },
+        {
+          "special_name": "社会体育指导与管理",
+          "level": "本科",
+          "school_special_id": "171676"
+        },
+        {
+          "special_name": "运动康复",
+          "level": "本科",
+          "school_special_id": "171675"
+        }
+      ]
+    },
+    {
+      "department_name": "医养健康学院",
+      "special_num": 5,
+      "special": [
+        {
+          "special_name": "健康服务与管理",
+          "level": "本科",
+          "school_special_id": "1468627"
+        },
+        {
+          "special_name": "养老服务管理",
+          "level": "本科",
+          "school_special_id": "1468628"
+        },
+        {
+          "special_name": "康复治疗学",
+          "level": "本科",
+          "school_special_id": "1468626"
+        },
+        {
+          "special_name": "康复物理治疗",
+          "level": "本科",
+          "school_special_id": "2171602"
+        },
         {
           "special_name": "护理学",
           "level": "本科",
@@ -88,95 +129,48 @@
     },
     {
       "department_name": "公共管理学院",
-      "special_num": 3,
+      "special_num": 1,
       "special": [
-        {
-          "special_name": "公共事业管理",
-          "level": "本科",
-          "school_special_id": "82793"
-        },
         {
           "special_name": "播音与主持艺术",
           "level": "本科",
           "school_special_id": "2012583"
-        },
-        {
-          "special_name": "英语",
-          "level": "本科",
-          "school_special_id": "82790"
         }
       ]
     },
     {
-      "department_name": "运动健康学院",
-      "special_num": 3,
+      "department_name": "基础医学院",
+      "special_num": 6,
       "special": [
         {
-          "special_name": "休闲体育",
+          "special_name": "中药学",
           "level": "本科",
-          "school_special_id": "1468629"
+          "school_special_id": "2154662"
         },
         {
-          "special_name": "社会体育指导与管理",
+          "special_name": "制药工程",
           "level": "本科",
-          "school_special_id": "171676"
+          "school_special_id": "82791"
         },
         {
-          "special_name": "运动康复",
+          "special_name": "应用化学",
           "level": "本科",
-          "school_special_id": "171675"
-        }
-      ]
-    },
-    {
-      "department_name": "医养健康学院",
-      "special_num": 3,
-      "special": [
-        {
-          "special_name": "健康服务与管理",
-          "level": "本科",
-          "school_special_id": "1468627"
+          "school_special_id": "2164531"
         },
         {
-          "special_name": "养老服务管理",
+          "special_name": "药学",
           "level": "本科",
-          "school_special_id": "1468628"
+          "school_special_id": "82786"
         },
         {
-          "special_name": "康复治疗学",
+          "special_name": "药物制剂",
           "level": "本科",
-          "school_special_id": "1468626"
-        }
-      ]
-    },
-    {
-      "department_name": "智能信息工程学院",
-      "special_num": 5,
-      "special": [
-        {
-          "special_name": "人工智能",
-          "level": "本科",
-          "school_special_id": "2154660"
+          "school_special_id": "82789"
         },
         {
-          "special_name": "信息与计算科学",
+          "special_name": "食品卫生与营养学",
           "level": "本科",
-          "school_special_id": "82794"
-        },
-        {
-          "special_name": "医学信息工程",
-          "level": "本科",
-          "school_special_id": "171749"
-        },
-        {
-          "special_name": "数据科学与大数据技术",
-          "level": "本科",
-          "school_special_id": "2154661"
-        },
-        {
-          "special_name": "智能医学工程",
-          "level": "本科",
-          "school_special_id": "1801566"
+          "school_special_id": "1801565"
         }
       ]
     }
